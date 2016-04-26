@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
-<!-- Stylesheet to create reports from mods metadata -->
+<!-- Stylesheet to create reports from Peel mods metadata -->
 <!--
-    Includes adapted templates by Sven-S. Porst to get paths for all elements and attributes -  <porst@sub.uni-goettingen.de> https://gist.github.com/ssp/4511872
+    Includes adapted templates by Sven-S. Porst to get paths for all elements and attributes - https://gist.github.com/ssp/4511872
 -->
 <xsl:transform xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0" xmlns:mods="http://www.loc.gov/mods/v3">
     
@@ -13,35 +13,30 @@
         <xsl:call-template name="attributes"/>
     </xsl:template>
     
-    <xsl:template match="node()" name="elements">        
+    <xsl:template match="*" name="elements">        
         <xsl:for-each select="ancestor-or-self::*">
-            <xsl:value-of select="concat('/',name(.))"/>
+            <xsl:value-of select="concat('/',local-name(.))"/>
         </xsl:for-each>        
         <xsl:text>&#09;</xsl:text>
         <xsl:value-of select="text()[normalize-space()]"/>        
         <xsl:text>&#09;</xsl:text>
-        <xsl:call-template name="source"/>
-        <xsl:text>&#09;</xsl:text>
-        <xsl:call-template name="id"/>
-        <xsl:text>&#09;</xsl:text>
-        <xsl:call-template name="formorgenre"/>
-        <xsl:text>&#09;</xsl:text>
-        <xsl:call-template name="occurrence"/>
-        <xsl:text>&#09;</xsl:text>
-        <xsl:call-template name="modsversion"/>
-        <xsl:text>&#xa;</xsl:text>        
+        <xsl:call-template name="context"/>
         <xsl:apply-templates select="*|@*"/>
     </xsl:template>
     
     <xsl:template match="@*" name="attributes">
         <xsl:for-each select="ancestor::*">
-            <xsl:value-of select="concat('/',name(.))"/>
+            <xsl:value-of select="concat('/',local-name(.))"/>
         </xsl:for-each>
         <xsl:text>/@</xsl:text>
         <xsl:value-of select="local-name(.)"/>
         <xsl:text>&#09;</xsl:text>
         <xsl:value-of select="."/>
         <xsl:text>&#09;</xsl:text>
+        <xsl:call-template name="context"/>
+    </xsl:template>
+    
+    <xsl:template name="context">
         <xsl:call-template name="source"/>
         <xsl:text>&#09;</xsl:text>
         <xsl:call-template name="id"/>
@@ -52,6 +47,8 @@
         <xsl:text>&#09;</xsl:text>
         <xsl:call-template name="modsversion"/>
         <xsl:text>&#xa;</xsl:text>
+        <xsl:call-template name="url"/>
+        <xsl:text>&#09;</xsl:text>
     </xsl:template>
     
     <xsl:template name="source">
@@ -59,7 +56,24 @@
     </xsl:template>
     
     <xsl:template name="id">
-        <xsl:value-of select="ancestor-or-self::mods:mods//mods:recordIdentifier[not(@type='accession number')]"/>        
+        <xsl:value-of select="ancestor-or-self::mods:mods//mods:recordIdentifier[not(@type='accession number')]"/>
+    </xsl:template>
+    
+    <xsl:template name="url">
+        <xsl:variable name="id">
+            <xsl:value-of select="ancestor-or-self::mods:mods//mods:recordIdentifier[not(@type='accession number')]"/>
+        </xsl:variable>
+        <xsl:variable name="collection">
+            <xsl:value-of select="ancestor-or-self::mods:mods//mods:recordContentSource"/>
+        </xsl:variable>
+        <xsl:choose>
+            <xsl:when test="$collection[contains(.,'Royal')]">
+                <xsl:value-of select="concat('http://royal.library.ualberta.ca/royalcommissions/dspCitation.cfm?ID=',$id)"/>
+            </xsl:when>
+            <xsl:when test="$collection[contains(.,'Folklore')]">
+                <xsl:value-of select="concat('http://folklore.library.ualberta.ca/dspCitation.cfm?ID=',$id)"/>
+            </xsl:when>
+        </xsl:choose>
     </xsl:template>
     
     <!--<xsl:template name="accession">
@@ -67,11 +81,11 @@
     </xsl:template>-->
     
     <xsl:template name="formorgenre">
-        <xsl:value-of select="ancestor-or-self::mods:genre[last()] | descendant-or-self::mods:genre[1]"/>        
+        <xsl:value-of select="ancestor-or-self::mods:mods//mods:genre"/>        
     </xsl:template>
     
     <xsl:template name="modsversion">
-        <xsl:value-of select="/mods:collection/@version"/>
+        <xsl:value-of select="ancestor-or-self::mods:mods/@version"/>
     </xsl:template>
     
     <xsl:template name="occurrence">
@@ -79,9 +93,7 @@
             <xsl:value-of select="local-name(.)"/>
         </xsl:variable>
         <xsl:value-of select="count(preceding-sibling::*[last() and local-name()=$namesake])+1+count(following-sibling::*[last() and local-name()=$namesake])"/>
-    </xsl:template>    
-    
-    <!-- add total count? -->
+    </xsl:template>
     
     
 </xsl:transform>
