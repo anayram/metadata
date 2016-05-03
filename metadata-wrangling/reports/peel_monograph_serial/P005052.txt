@@ -1,0 +1,92 @@
+
+    /mods/titleInfo		http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+/mods/titleInfo/title	50,000 moissonneurs demandés	http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+/mods/titleInfo/subTitle	excursions pour Manitoba, Saskatchewan et Alberta	http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+
+    /mods/name		http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+/mods/name/@ID	author.1	http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+/mods/name/@href	MA004065	http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+/mods/name/@type	corporate	http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+/mods/name/namePart	Canadian Pacific Railway	http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+/mods/name/role		http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+/mods/name/role/roleTerm	author	http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+/mods/name/role/roleTerm/@type	text	http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+
+    /mods/typeOfResource	text	http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+
+    /mods/originInfo		http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+/mods/originInfo/place		http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+/mods/originInfo/place/placeTerm	Montreal	http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+/mods/originInfo/place/placeTerm/@type	text	http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+/mods/originInfo/publisher	Canadian Pacific Railway	http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+/mods/originInfo/dateIssued	1926	http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+
+    /mods/language		http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+/mods/language/languageTerm	French	http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+/mods/language/languageTerm/@type	text	http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+
+    /mods/physicalDescription		http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+/mods/physicalDescription/form	print	http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+/mods/physicalDescription/form/@authority	marcform	http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+/mods/physicalDescription/extent	8 p.; 15 cm.	http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+
+    /mods/note	For English version,  <i>see </i>Peel <xref>5051</xref>. In the days before the introduction of the labour-saving combines, the harvesters' excursion from Eastern Canada was an annual institution. 	http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+/mods/note/@type	public	http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+
+    /mods/subject		http://peel.library.ualberta.ca/bibliography/.html	print	8	3.0
+/mods/subject/@authority	Other	http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+/mods/subject/@lang	eng	http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+/mods/subject/@href	MS001387	http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+/mods/subject/topic	Farm labour	http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+
+    /mods/subject		http://peel.library.ualberta.ca/bibliography/.html	print	8	3.0
+/mods/subject/@authority	lcsh	http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+/mods/subject/@lang	eng	http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+/mods/subject/@href	MS001387	http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+/mods/subject/topic	Agricultural laborers	http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+
+    /mods/subject		http://peel.library.ualberta.ca/bibliography/.html	print	8	3.0
+/mods/subject/@authority	rvm	http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+/mods/subject/@lang	fre	http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+/mods/subject/@href	MS001387	http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+/mods/subject/topic	Travailleurs agricoles	http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+
+    /mods/subject		http://peel.library.ualberta.ca/bibliography/.html	print	8	3.0
+/mods/subject/@authority	lcsh	http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+/mods/subject/@lang	eng	http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+/mods/subject/@href	MS003554	http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+/mods/subject/geographic	Prairie Provinces--Description and travel	http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+
+    /mods/subject		http://peel.library.ualberta.ca/bibliography/.html	print	8	3.0
+/mods/subject/@authority	Other	http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+/mods/subject/@lang	eng	http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+/mods/subject/@href	MS003747	http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+/mods/subject/topic	Railroad land	http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+
+    /mods/subject		http://peel.library.ualberta.ca/bibliography/.html	print	8	3.0
+/mods/subject/@authority	lcsh	http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+/mods/subject/@lang	eng	http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+/mods/subject/@href	MS003747	http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+/mods/subject/topic	Railroad land grants	http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+
+    /mods/subject		http://peel.library.ualberta.ca/bibliography/.html	print	8	3.0
+/mods/subject/@authority	rvm	http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+/mods/subject/@lang	fre	http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+/mods/subject/@href	MS003747	http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+/mods/subject/topic	Concessions ferroviaires	http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+
+    /mods/subject		http://peel.library.ualberta.ca/bibliography/.html	print	8	3.0
+/mods/subject/@authority	peel:activity	http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+/mods/subject/temporal	1926	http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+
+    /mods/identifier	5052	http://peel.library.ualberta.ca/bibliography/.html	print	2	3.0
+/mods/identifier/@type	local:peel3	http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+
+    /mods/identifier	5046	http://peel.library.ualberta.ca/bibliography/.html	print	2	3.0
+/mods/identifier/@type	local:peel-procite-id	http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+
+    /mods/recordInfo		http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+/mods/recordInfo/recordContentSource	Peel's Prairie Portal	http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+/mods/recordInfo/recordIdentifier	P005052	http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700	http://peel.library.ualberta.ca/bibliography/.html	print	1	3.0
+

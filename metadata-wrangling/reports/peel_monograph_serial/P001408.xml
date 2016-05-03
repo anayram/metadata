@@ -1,0 +1,149 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@schemaLocation	http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	Constitution and canons of the diocese of Qu'Appelle, Assiniboia, N.W. Canada, as formulated at a meeting of the synod of the diocese, June 3rd, 1885		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/subTitle	Together with act of incorporation of diocese, order of proceedings at meetings and other regulations		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA000251		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	corporate		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Church of England. Diocese of Qu'Appelle		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.2		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA000209		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Anson, Adelbert John Robert		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	1840-1909.		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart/@type	date		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/description	1840-1909. Church of England clergyman; Bishop of Qu'Appelle, 1884-1892; returned to England (<i>Who was who</i>, 1897-1916).		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	Winnipeg		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	Manitoba Free Press		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1885		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	English		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	34, 7 p.; 20 cm.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	Contents: "Constitution, etc."; "An act to incorporate the synod of the diocese of Qu'Appelle, and for other purposes connected therewith: The Qu'Appelle Synod Act"; "A pastoral to all persons in communion with the Church of England in the diocese of Qu'Appelle"; "Adelbert, Bishop of Qu'Appelle." 		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	public		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			7	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	The Spiritual Life--Church of England		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			7	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002028		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Incorporation		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			7	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002028		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Sociétés--Constitution		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			7	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002825		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Meetings		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			7	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002825		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Réunions		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			7	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	Other		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003714		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Qu'Appelle Region (Sask.)--Churches		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			7	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1885		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	804		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel2		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	1408		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	1406		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel-procite-id		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P001408		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+    
+        Constitution and canons of the diocese of Qu'Appelle, Assiniboia, N.W. Canada, as formulated at a meeting of the synod of the diocese, June 3rd, 1885
+        Together with act of incorporation of diocese, order of proceedings at meetings and other regulations
+    
+    
+        Church of England. Diocese of Qu'Appelle
+        
+            author
+        
+    
+    
+        Anson, Adelbert John Robert
+        1840-1909.
+        
+            author
+        
+        1840-1909. Church of England clergyman; Bishop of Qu'Appelle, 1884-1892; returned to England (<i>Who was who</i>, 1897-1916).
+    
+    text
+    
+        
+            Winnipeg
+        
+        Manitoba Free Press
+        1885
+    
+    
+        English
+    
+    
+        print
+        34, 7 p.; 20 cm.
+    
+    Contents: "Constitution, etc."; "An act to incorporate the synod of the diocese of Qu'Appelle, and for other purposes connected therewith: The Qu'Appelle Synod Act"; "A pastoral to all persons in communion with the Church of England in the diocese of Qu'Appelle"; "Adelbert, Bishop of Qu'Appelle." 
+    
+        The Spiritual Life--Church of England
+    
+    
+        Incorporation
+    
+    
+        Sociétés--Constitution
+    
+    
+        Meetings
+    
+    
+        Réunions
+    
+    
+        Qu'Appelle Region (Sask.)--Churches
+    
+    
+        1885
+    
+    804
+    1408
+    1406
+    
+        Peel's Prairie Portal
+        P001408
+        2003-01-01T12:00:00-0700
+    
+		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

@@ -1,0 +1,156 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		rschramm	PC000990	postcards	1	3.2
+	/mods/@version	3.2	rschramm	PC000990	postcards	1	3.2
+	/mods/titleInfo		rschramm	PC000990	postcards	1	3.2
+	/mods/titleInfo/@lang	english	rschramm	PC000990	postcards	1	3.2
+	/mods/titleInfo/title	Hotel St. Charles, Winnipeg, Canada.	rschramm	PC000990	postcards	1	3.2
+	/mods/name		rschramm	PC000990	postcards	1	3.2
+	/mods/name/@type	corporate	rschramm	PC000990	postcards	1	3.2
+	/mods/name/namePart	Novelty Manufacturing & Art Printing Co.	rschramm	PC000990	postcards	1	3.2
+	/mods/name/role		rschramm	PC000990	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	rschramm	PC000990	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	rschramm	PC000990	postcards	1	3.2
+	/mods/typeOfResource	still image	rschramm	PC000990	postcards	1	3.2
+	/mods/genre	postcards	rschramm	PC000990	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	rschramm	PC000990	postcards	1	3.2
+	/mods/originInfo		rschramm	PC000990	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	rschramm	PC000990	postcards	1	3.2
+	/mods/originInfo/publisher	Novelty Manufacturing & Art printing Co., Montreal.	rschramm	PC000990	postcards	1	3.2
+	/mods/originInfo/dateIssued	1915	rschramm	PC000990	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	inferred	rschramm	PC000990	postcards	1	3.2
+	/mods/originInfo/place		rschramm	PC000990	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	Montreal	rschramm	PC000990	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	rschramm	PC000990	postcards	1	3.2
+	/mods/language		rschramm	PC000990	postcards	1	3.2
+	/mods/language/languageTerm	English	rschramm	PC000990	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	rschramm	PC000990	postcards	1	3.2
+	/mods/physicalDescription		rschramm	PC000990	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : sepia ; 9 x 14 cm.	rschramm	PC000990	postcards	1	3.2
+	/mods/note	20	rschramm	PC000990	postcards	10	3.2
+	/mods/note/@type	price	rschramm	PC000990	postcards	1	3.2
+	/mods/note	false	rschramm	PC000990	postcards	10	3.2
+	/mods/note/@type	notable	rschramm	PC000990	postcards	1	3.2
+	/mods/note	false	rschramm	PC000990	postcards	10	3.2
+	/mods/note/@type	imgprobs	rschramm	PC000990	postcards	1	3.2
+	/mods/note	Exterior of St. Charles Hotel and pedestrian passing by.	rschramm	PC000990	postcards	10	3.2
+	/mods/note/@type	public_description	rschramm	PC000990	postcards	1	3.2
+	/mods/note	Mrs. F.C. Jackson	rschramm	PC000990	postcards	10	3.2
+	/mods/note/@type	public_to	rschramm	PC000990	postcards	1	3.2
+	/mods/note	Fred	rschramm	PC000990	postcards	10	3.2
+	/mods/note/@type	public_from	rschramm	PC000990	postcards	1	3.2
+	/mods/note	286 Johnston St., Kingston, Ont.	rschramm	PC000990	postcards	10	3.2
+	/mods/note/@type	public_address	rschramm	PC000990	postcards	1	3.2
+	/mods/note	Arrived here Saturday. Will probably be here all week, Fred.	rschramm	PC000990	postcards	10	3.2
+	/mods/note/@type	public_message	rschramm	PC000990	postcards	1	3.2
+	/mods/note	Winnipeg. Man., 1915-04-19	rschramm	PC000990	postcards	10	3.2
+	/mods/note/@type	public_postmark_date	rschramm	PC000990	postcards	1	3.2
+	/mods/note	Duplicate: PC000989 - PC000990 are identical.	rschramm	PC000990	postcards	10	3.2
+	/mods/note/@type	private	rschramm	PC000990	postcards	1	3.2
+	/mods/subject		rschramm	PC000990	postcards	5	3.2
+	/mods/subject/geographic	Winnipeg, MB	rschramm	PC000990	postcards	1	3.2
+	/mods/subject		rschramm	PC000990	postcards	5	3.2
+	/mods/subject/hierarchicalGeographic		rschramm	PC000990	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	rschramm	PC000990	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Manitoba	rschramm	PC000990	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Winnipeg	rschramm	PC000990	postcards	1	3.2
+	/mods/subject		rschramm	PC000990	postcards	5	3.2
+	/mods/subject/genre	Postcards	rschramm	PC000990	postcards	1	3.2
+	/mods/subject		rschramm	PC000990	postcards	5	3.2
+	/mods/subject/topic	Hotels	rschramm	PC000990	postcards	1	3.2
+	/mods/subject		rschramm	PC000990	postcards	5	3.2
+	/mods/subject/name		rschramm	PC000990	postcards	1	3.2
+	/mods/subject/name/@type	corporate	rschramm	PC000990	postcards	1	3.2
+	/mods/subject/name/namePart	St. Charles Hotel (Winnipeg, Man.)	rschramm	PC000990	postcards	1	3.2
+	/mods/identifier	PC000990	rschramm	PC000990	postcards	1	3.2
+	/mods/identifier/@type	local	rschramm	PC000990	postcards	1	3.2
+	/mods/location		rschramm	PC000990	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 3	rschramm	PC000990	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC000990.html	rschramm	PC000990	postcards	3	3.2
+	/mods/location/url/@access	object in context	rschramm	PC000990	postcards	1	3.2
+	/mods/location/url/@usage	primary display	rschramm	PC000990	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/000/web/PC000990.jpg	rschramm	PC000990	postcards	3	3.2
+	/mods/location/url/@access	raw object	rschramm	PC000990	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='524' 	rschramm	PC000990	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/000/thumbs/PC000990.jpg	rschramm	PC000990	postcards	3	3.2
+	/mods/location/url/@access	preview	rschramm	PC000990	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='131'	rschramm	PC000990	postcards	1	3.2
+	/mods/recordInfo		rschramm	PC000990	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-20T16:05:12-0600	rschramm	PC000990	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC000990	rschramm	PC000990	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	rschramm	rschramm	PC000990	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2008-05-12T10:23:35-0600	rschramm	PC000990	postcards	1	3.2
+	/@mods	
+
+Hotel St. Charles, Winnipeg, Canada.
+
+
+Novelty Manufacturing & Art Printing Co.
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+Novelty Manufacturing & Art printing Co., Montreal.
+1915
+
+
+Montreal
+
+
+
+English
+
+
+1 postcard : sepia ; 9 x 14 cm.
+
+20
+false
+false
+Exterior of St. Charles Hotel and pedestrian passing by.
+Mrs. F.C. Jackson
+Fred
+286 Johnston St., Kingston, Ont.
+Arrived here Saturday. Will probably be here all week, Fred.
+Winnipeg. Man., 1915-04-19
+Duplicate: PC000989 - PC000990 are identical.
+
+Winnipeg, MB
+
+
+
+Canada
+Manitoba
+Winnipeg
+
+
+
+Postcards
+
+
+Hotels
+
+
+
+St. Charles Hotel (Winnipeg, Man.)
+
+
+PC000990
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 3
+http://peel.library.ualberta.ca/postcards/PC000990.html
+http://peel.library.ualberta.ca/pcimages/PC/000/web/PC000990.jpg
+http://peel.library.ualberta.ca/pcimages/PC/000/thumbs/PC000990.jpg
+
+
+
+
+2007-06-20T16:05:12-0600
+PC000990
+rschramm
+2008-05-12T10:23:35-0600
+
+	rschramm	PC000990	postcards	1	3.2
+	

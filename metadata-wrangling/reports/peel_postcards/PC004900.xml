@@ -1,0 +1,164 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		sfarnel	PC004900	postcards	1	3.2
+	/mods/@version	3.2	sfarnel	PC004900	postcards	1	3.2
+	/mods/titleInfo		sfarnel	PC004900	postcards	1	3.2
+	/mods/titleInfo/@lang	english	sfarnel	PC004900	postcards	1	3.2
+	/mods/titleInfo/title	Vermilion, Alta.	sfarnel	PC004900	postcards	1	3.2
+	/mods/name		sfarnel	PC004900	postcards	2	3.2
+	/mods/name/@type	corporate	sfarnel	PC004900	postcards	1	3.2
+	/mods/name/namePart	Brimacombe Bros.	sfarnel	PC004900	postcards	1	3.2
+	/mods/name/role		sfarnel	PC004900	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	sfarnel	PC004900	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	sfarnel	PC004900	postcards	1	3.2
+	/mods/name		sfarnel	PC004900	postcards	2	3.2
+	/mods/name/@type	personal	sfarnel	PC004900	postcards	1	3.2
+	/mods/name/namePart	Warwick Bro's & Rutter	sfarnel	PC004900	postcards	1	3.2
+	/mods/name/role		sfarnel	PC004900	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	sfarnel	PC004900	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	sfarnel	PC004900	postcards	1	3.2
+	/mods/typeOfResource	still image	sfarnel	PC004900	postcards	1	3.2
+	/mods/genre	postcards	sfarnel	PC004900	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	sfarnel	PC004900	postcards	1	3.2
+	/mods/originInfo		sfarnel	PC004900	postcards	1	3.2
+	/mods/originInfo/place		sfarnel	PC004900	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	Vermilion	sfarnel	PC004900	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	sfarnel	PC004900	postcards	1	3.2
+	/mods/originInfo/publisher	Brimacombe Bros., Vermilion, Alta.	sfarnel	PC004900	postcards	1	3.2
+	/mods/originInfo/dateIssued	ca. 1920	sfarnel	PC004900	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	approximate	sfarnel	PC004900	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	sfarnel	PC004900	postcards	1	3.2
+	/mods/language		sfarnel	PC004900	postcards	1	3.2
+	/mods/language/languageTerm	English	sfarnel	PC004900	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	sfarnel	PC004900	postcards	1	3.2
+	/mods/physicalDescription		sfarnel	PC004900	postcards	1	3.2
+	/mods/physicalDescription/form		sfarnel	PC004900	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : sepia ; 9 x 14 cm.	sfarnel	PC004900	postcards	1	3.2
+	/mods/note	25	sfarnel	PC004900	postcards	6	3.2
+	/mods/note/@type	price	sfarnel	PC004900	postcards	1	3.2
+	/mods/note	false	sfarnel	PC004900	postcards	6	3.2
+	/mods/note/@type	notable	sfarnel	PC004900	postcards	1	3.2
+	/mods/note	false	sfarnel	PC004900	postcards	6	3.2
+	/mods/note/@type	imgprobs	sfarnel	PC004900	postcards	1	3.2
+	/mods/note	[Printer's no.] 5220	sfarnel	PC004900	postcards	6	3.2
+	/mods/note/@type	public_on_back	sfarnel	PC004900	postcards	1	3.2
+	/mods/note	Church of Christ, Methodist Church, Anglican Church, Presbyterian Church.	sfarnel	PC004900	postcards	6	3.2
+	/mods/note/@type	public_on_front	sfarnel	PC004900	postcards	1	3.2
+	/mods/note	Composite photograph showing six churches in Vermilion.	sfarnel	PC004900	postcards	6	3.2
+	/mods/note/@type	public_description	sfarnel	PC004900	postcards	1	3.2
+	/mods/subject		sfarnel	PC004900	postcards	7	3.2
+	/mods/subject/geographic	Vermilion, AB	sfarnel	PC004900	postcards	1	3.2
+	/mods/subject		sfarnel	PC004900	postcards	7	3.2
+	/mods/subject/hierarchicalGeographic		sfarnel	PC004900	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	sfarnel	PC004900	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	sfarnel	PC004900	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Vermilion	sfarnel	PC004900	postcards	1	3.2
+	/mods/subject		sfarnel	PC004900	postcards	7	3.2
+	/mods/subject/topic	Composite photographs	sfarnel	PC004900	postcards	1	3.2
+	/mods/subject		sfarnel	PC004900	postcards	7	3.2
+	/mods/subject/topic	Anglican churches	sfarnel	PC004900	postcards	1	3.2
+	/mods/subject		sfarnel	PC004900	postcards	7	3.2
+	/mods/subject/topic	Presbyterian churches	sfarnel	PC004900	postcards	1	3.2
+	/mods/subject		sfarnel	PC004900	postcards	7	3.2
+	/mods/subject/topic	Baptist churches	sfarnel	PC004900	postcards	1	3.2
+	/mods/subject		sfarnel	PC004900	postcards	7	3.2
+	/mods/subject/topic	Methodist churches	sfarnel	PC004900	postcards	1	3.2
+	/mods/identifier	PC004900	sfarnel	PC004900	postcards	1	3.2
+	/mods/identifier/@type	local	sfarnel	PC004900	postcards	1	3.2
+	/mods/location		sfarnel	PC004900	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 5	sfarnel	PC004900	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC004900.html	sfarnel	PC004900	postcards	3	3.2
+	/mods/location/url/@access	object in context	sfarnel	PC004900	postcards	1	3.2
+	/mods/location/url/@usage	primary display	sfarnel	PC004900	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/004/web/PC004900.jpg	sfarnel	PC004900	postcards	3	3.2
+	/mods/location/url/@access	raw object	sfarnel	PC004900	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='503'	sfarnel	PC004900	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/004/thumbs/PC004900.jpg	sfarnel	PC004900	postcards	3	3.2
+	/mods/location/url/@access	preview	sfarnel	PC004900	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='126'	sfarnel	PC004900	postcards	1	3.2
+	/mods/recordInfo		sfarnel	PC004900	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	sfarnel	sfarnel	PC004900	postcards	2	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	sfarnel	PC004900	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC004900	sfarnel	PC004900	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2010-05-25T10:18:58-0600	sfarnel	PC004900	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	aharrigan	sfarnel	PC004900	postcards	2	3.2
+	/mods/recordInfo/recordContentSource/@authority	local:person	sfarnel	PC004900	postcards	1	3.2
+	/@mods	
+
+Vermilion, Alta.
+
+
+Brimacombe Bros.
+
+Publisher
+
+
+
+Warwick Bro's & Rutter
+
+Publisher
+
+
+still image
+postcards
+
+
+Vermilion
+
+Brimacombe Bros., Vermilion, Alta.
+ca. 1920
+monographic
+
+
+English
+
+
+
+1 postcard : sepia ; 9 x 14 cm.
+
+25
+false
+false
+[Printer's no.] 5220
+Church of Christ, Methodist Church, Anglican Church, Presbyterian Church.
+Composite photograph showing six churches in Vermilion.
+
+				Vermilion, AB
+			
+
+				
+Canada
+Alberta
+Vermilion
+
+			
+
+				Composite photographs
+			
+
+				Anglican churches
+			
+
+				Presbyterian churches
+			
+
+				Baptist churches
+			
+
+				Methodist churches
+			
+PC004900
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 5
+http://peel.library.ualberta.ca/postcards/PC004900.html
+http://peel.library.ualberta.ca/pcimages/PC/004/web/PC004900.jpg
+http://peel.library.ualberta.ca/pcimages/PC/004/thumbs/PC004900.jpg
+
+
+sfarnel
+2007-06-25T16:49:56-0600
+PC004900
+2010-05-25T10:18:58-0600
+aharrigan
+
+	sfarnel	PC004900	postcards	1	3.2
+	

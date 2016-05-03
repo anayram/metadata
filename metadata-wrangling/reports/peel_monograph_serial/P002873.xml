@@ -1,0 +1,193 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	school question		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/subTitle	supplement to the "Regina Standard"		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/nonSort	The 		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA001265		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	McInnis, John Kenneth		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	1854-1923.		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart/@type	date		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/description	1854-1923. Schoolteacher in Prince Edward Island and Manitoba; editor and proprietor of <i>Regina Standard</i>, 1891; mayor of Regina, 1899; president of Provincial Rights Association of Saskatchewan, 1906-1907; unsuccessful candidate in elections (Morgan, <i>Canadian men and women of the time</i>, 1912; Saskatchewan Archives, Regina Division, Biographical file).		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	[Regina]		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	[Regina Standard]		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1905		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued/@qualifier	inferred		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	English		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	24 p., port.; 22 cm.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Politics and Government--Saskatchewan		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Education--Saskatchewan		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	Other		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003863		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Regina, Saskatchewan--Newspapers		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	Other		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS004108		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Saskatchewan--Education		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Educational law and legislation		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Saskatchewan		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name/@type	corporate		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name/namePart	Catholic Church		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Education		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS004126		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Saskatchewan		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Politics and government		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Éducation		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Droit		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Législation		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name/@type	corporate		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name/namePart	Église catholique		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Éducation		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Saskatchewan		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Politique et gouvernement		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1905		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	1830		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel2		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	2873		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	2870		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel-procite-id		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	jhuck		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P002873		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordChangeDate	2014-04-02T10:38:50-0600		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+
+school question
+supplement to the "Regina Standard"
+The 
+
+
+McInnis, John Kenneth
+1854-1923.
+
+author
+
+1854-1923. Schoolteacher in Prince Edward Island and Manitoba; editor and proprietor of <i>Regina Standard</i>, 1891; mayor of Regina, 1899; president of Provincial Rights Association of Saskatchewan, 1906-1907; unsuccessful candidate in elections (Morgan, <i>Canadian men and women of the time</i>, 1912; Saskatchewan Archives, Regina Division, Biographical file).
+
+text
+
+
+[Regina]
+
+[Regina Standard]
+1905
+
+
+English
+
+
+print
+24 p., port.; 22 cm.
+
+
+				Politics and Government--Saskatchewan
+			
+
+				Education--Saskatchewan
+			
+
+				Regina, Saskatchewan--Newspapers
+			
+
+				Saskatchewan--Education
+			
+
+				Educational law and legislation
+			
+				Saskatchewan
+			
+
+				
+Catholic Church
+
+			
+				Education
+			
+
+				Saskatchewan
+			
+				Politics and government
+			
+
+				Éducation
+			
+				Droit
+			
+				Législation
+			
+
+				
+Église catholique
+
+			
+				Éducation
+			
+
+				Saskatchewan
+			
+				Politique et gouvernement
+			
+
+				1905
+			
+1830
+2873
+2870
+
+Peel's Prairie Portal
+jhuck
+2003-01-01T12:00:00-0700
+P002873
+2014-04-02T10:38:50-0600
+
+		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

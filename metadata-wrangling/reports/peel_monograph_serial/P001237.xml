@@ -1,0 +1,151 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@schemaLocation	http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	Noces d'argent de Monseigneur Vital-Justin Grandin, évêque de Saint-Albert, 1884		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA000150		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Grandin, Vital-Justin		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	1829-1902.		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart/@type	date		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/description	1829-1902. Catholic clergyman; member of O.M.I.; from France to the mission on Lake Athabasca, 1855; chosen as Bishop Taché's coadjutor to assist in administration of the large diocese of St Boniface, 1857; vicar of the Saskatchewan missions, 1867; appointed first bishop of the diocese of St Albert, 1871 (Morice, <i>Histoire de l'église catholique</i>).		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	[Le Mans, France]		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	[Typographie Edmond Monnoyer]		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1884		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued/@qualifier	inferred		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	French		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	68 p.; 24 cm.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	Consists largely of congratulatory messages to Bishop Grandin. 		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	public		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	The Spiritual Life--Roman Catholic Church		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	Other		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS001793		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name/namePart	Grandin, Vital-Justin, 1829-1902		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	Other		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003885		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Religious orders		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003885		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Monasticism and religious orders		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003885		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Monachisme et ordres religieux		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	CanThes		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003974		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name/namePart	Roman Catholic Church--Clergy		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	Other		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS004338		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	St. Albert, Alberta--Churches		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1884		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	522A		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	745		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel2		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	1237		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	1236		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel-procite-id		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P001237		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+    
+        Noces d'argent de Monseigneur Vital-Justin Grandin, évêque de Saint-Albert, 1884
+    
+    
+        Grandin, Vital-Justin
+        1829-1902.
+        
+            author
+        
+        1829-1902. Catholic clergyman; member of O.M.I.; from France to the mission on Lake Athabasca, 1855; chosen as Bishop Taché's coadjutor to assist in administration of the large diocese of St Boniface, 1857; vicar of the Saskatchewan missions, 1867; appointed first bishop of the diocese of St Albert, 1871 (Morice, <i>Histoire de l'église catholique</i>).
+    
+    text
+    
+        
+            [Le Mans, France]
+        
+        [Typographie Edmond Monnoyer]
+        1884
+    
+    
+        French
+    
+    
+        print
+        68 p.; 24 cm.
+    
+    Consists largely of congratulatory messages to Bishop Grandin. 
+    
+        The Spiritual Life--Roman Catholic Church
+    
+    
+        
+            Grandin, Vital-Justin, 1829-1902
+        
+    
+    
+        Religious orders
+    
+    
+        Monasticism and religious orders
+    
+    
+        Monachisme et ordres religieux
+    
+    
+        
+            Roman Catholic Church--Clergy
+        
+    
+    
+        St. Albert, Alberta--Churches
+    
+    
+        1884
+    
+    522A
+    745
+    1237
+    1236
+    
+        Peel's Prairie Portal
+        P001237
+        2003-01-01T12:00:00-0700
+    
+		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

@@ -1,0 +1,128 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@schemaLocation	http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	Katolik enamiad o nanagatawendamowinan		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA001134		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Baraga, Frederic		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	1797-1868.		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart/@type	date		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/description	1797-1868. Born in Slovenia; Catholic missionary among Chippewa in Wisconsin and Upper Peninsula, Michigan, 1831-1953; known as the "Snowshoe Priest"; bishop of Saint-Marie, 1857-1865 and Sault-Sainte-Marie and Marquette, Michigan, 1865-1868.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	Winnipeg		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	Canadian Publishers		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1939		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	Ojibway		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	French		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	[14], 712 p.; 15 cm.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	Originally published, Wawiiatanong (Detroit, Mich.): Jabez Fox o gi-masinakisan mandan masinaigan, 1850 (712p.). Meditations in Ojibway for Roman Catholics; includes some text in French. 		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	public		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Native languages--Devotional literature		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002131		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Indians of North America--Languages		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002131		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Langues indiennes d'Amérique--Amérique du Nord		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003883		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Religious literature		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003883		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Littérature religieuse		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1850		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	268		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	268		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel-procite-id		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P000268		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+    
+        Katolik enamiad o nanagatawendamowinan
+    
+    
+        Baraga, Frederic
+        1797-1868.
+        
+            author
+        
+        1797-1868. Born in Slovenia; Catholic missionary among Chippewa in Wisconsin and Upper Peninsula, Michigan, 1831-1953; known as the "Snowshoe Priest"; bishop of Saint-Marie, 1857-1865 and Sault-Sainte-Marie and Marquette, Michigan, 1865-1868.
+    
+    text
+    
+        
+            Winnipeg
+        
+        Canadian Publishers
+        1939
+    
+    
+        Ojibway
+    
+    
+        French
+    
+    
+        print
+        [14], 712 p.; 15 cm.
+    
+    Originally published, Wawiiatanong (Detroit, Mich.): Jabez Fox o gi-masinakisan mandan masinaigan, 1850 (712p.). Meditations in Ojibway for Roman Catholics; includes some text in French. 
+    
+        Native languages--Devotional literature
+    
+    
+        Indians of North America--Languages
+    
+    
+        Langues indiennes d'Amérique--Amérique du Nord
+    
+    
+        Religious literature
+    
+    
+        Littérature religieuse
+    
+    
+        1850
+    
+    268
+    268
+    
+        Peel's Prairie Portal
+        P000268
+        2003-01-01T12:00:00-0700
+    
+		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

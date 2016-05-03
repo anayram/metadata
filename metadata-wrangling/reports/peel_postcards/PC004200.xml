@@ -1,0 +1,175 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		fsalehi	PC004200	postcards	1	3.2
+	/mods/@version	3.2	fsalehi	PC004200	postcards	1	3.2
+	/mods/titleInfo		fsalehi	PC004200	postcards	1	3.2
+	/mods/titleInfo/@lang	english	fsalehi	PC004200	postcards	1	3.2
+	/mods/titleInfo/title	C. P. R. Bridge, Lethbridge, Alta., length 1 mile 97 feet 214 feet high.	fsalehi	PC004200	postcards	1	3.2
+	/mods/name		fsalehi	PC004200	postcards	2	3.2
+	/mods/name/@type	personal	fsalehi	PC004200	postcards	1	3.2
+	/mods/name/namePart	Cross	fsalehi	PC004200	postcards	2	3.2
+	/mods/name/namePart/@type	family	fsalehi	PC004200	postcards	1	3.2
+	/mods/name/namePart	A.E.	fsalehi	PC004200	postcards	2	3.2
+	/mods/name/namePart/@type	given	fsalehi	PC004200	postcards	1	3.2
+	/mods/name/role		fsalehi	PC004200	postcards	1	3.2
+	/mods/name/role/roleTerm	Photographer	fsalehi	PC004200	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC004200	postcards	1	3.2
+	/mods/name		fsalehi	PC004200	postcards	2	3.2
+	/mods/name/@type	corporate	fsalehi	PC004200	postcards	1	3.2
+	/mods/name/namePart	Gowen Sutton Co. Ltd.	fsalehi	PC004200	postcards	1	3.2
+	/mods/name/role		fsalehi	PC004200	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	fsalehi	PC004200	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC004200	postcards	1	3.2
+	/mods/typeOfResource	still image	fsalehi	PC004200	postcards	1	3.2
+	/mods/genre	postcards	fsalehi	PC004200	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	fsalehi	PC004200	postcards	1	3.2
+	/mods/originInfo		fsalehi	PC004200	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	fsalehi	PC004200	postcards	1	3.2
+	/mods/originInfo/publisher	Made in Vancouver by Gowen Sutton Co. Ltd., Vancouver, B.C	fsalehi	PC004200	postcards	1	3.2
+	/mods/originInfo/dateIssued	1940-1960	fsalehi	PC004200	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	inferred	fsalehi	PC004200	postcards	1	3.2
+	/mods/originInfo/place		fsalehi	PC004200	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	Vancouver	fsalehi	PC004200	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC004200	postcards	1	3.2
+	/mods/language		fsalehi	PC004200	postcards	1	3.2
+	/mods/language/languageTerm	English	fsalehi	PC004200	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	fsalehi	PC004200	postcards	1	3.2
+	/mods/physicalDescription		fsalehi	PC004200	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : col. ; 9 x 14 cm.	fsalehi	PC004200	postcards	1	3.2
+	/mods/note	30	fsalehi	PC004200	postcards	6	3.2
+	/mods/note/@type	price	fsalehi	PC004200	postcards	1	3.2
+	/mods/note	false	fsalehi	PC004200	postcards	6	3.2
+	/mods/note/@type	notable	fsalehi	PC004200	postcards	1	3.2
+	/mods/note	true	fsalehi	PC004200	postcards	6	3.2
+	/mods/note/@type	imgprobs	fsalehi	PC004200	postcards	1	3.2
+	/mods/note	[printer's no.] 31	fsalehi	PC004200	postcards	6	3.2
+	/mods/note/@type	public_on_front	fsalehi	PC004200	postcards	1	3.2
+	/mods/note	A. E. Cross	fsalehi	PC004200	postcards	6	3.2
+	/mods/note/@type	public_on_back	fsalehi	PC004200	postcards	1	3.2
+	/mods/note	The Lethbridge Viaduct, commonly known as the High Level Bridge, was constructed between 1907?1909 at Lethbridge, Alberta, Canada at a cost of $1,334,525.	fsalehi	PC004200	postcards	6	3.2
+	/mods/note/@type	public_description	fsalehi	PC004200	postcards	1	3.2
+	/mods/subject		fsalehi	PC004200	postcards	8	3.2
+	/mods/subject/geographic	Lethbridge, AB	fsalehi	PC004200	postcards	1	3.2
+	/mods/subject		fsalehi	PC004200	postcards	8	3.2
+	/mods/subject/hierarchicalGeographic		fsalehi	PC004200	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	fsalehi	PC004200	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	fsalehi	PC004200	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Lethbridge	fsalehi	PC004200	postcards	1	3.2
+	/mods/subject		fsalehi	PC004200	postcards	8	3.2
+	/mods/subject/genre	Postcards	fsalehi	PC004200	postcards	1	3.2
+	/mods/subject		fsalehi	PC004200	postcards	8	3.2
+	/mods/subject/topic	Railroad bridges	fsalehi	PC004200	postcards	1	3.2
+	/mods/subject		fsalehi	PC004200	postcards	8	3.2
+	/mods/subject/topic	Railroad cars	fsalehi	PC004200	postcards	1	3.2
+	/mods/subject		fsalehi	PC004200	postcards	8	3.2
+	/mods/subject/topic	Trestles	fsalehi	PC004200	postcards	1	3.2
+	/mods/subject		fsalehi	PC004200	postcards	8	3.2
+	/mods/subject/name		fsalehi	PC004200	postcards	1	3.2
+	/mods/subject/name/namePart	Lethbridge Viaduct (Lethbridge, Alta.)	fsalehi	PC004200	postcards	1	3.2
+	/mods/subject		fsalehi	PC004200	postcards	8	3.2
+	/mods/subject/name		fsalehi	PC004200	postcards	1	3.2
+	/mods/subject/name/namePart	High Level Bridge (Lethbridge, Alta.)	fsalehi	PC004200	postcards	1	3.2
+	/mods/identifier	PC004200	fsalehi	PC004200	postcards	1	3.2
+	/mods/identifier/@type	local	fsalehi	PC004200	postcards	1	3.2
+	/mods/location		fsalehi	PC004200	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 2	fsalehi	PC004200	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC004200.html	fsalehi	PC004200	postcards	3	3.2
+	/mods/location/url/@access	object in context	fsalehi	PC004200	postcards	1	3.2
+	/mods/location/url/@usage	primary display	fsalehi	PC004200	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/004/web/PC004200.jpg	fsalehi	PC004200	postcards	3	3.2
+	/mods/location/url/@access	raw object	fsalehi	PC004200	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='498' 	fsalehi	PC004200	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/004/thumbs/PC004200.jpg	fsalehi	PC004200	postcards	3	3.2
+	/mods/location/url/@access	preview	fsalehi	PC004200	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='125'	fsalehi	PC004200	postcards	1	3.2
+	/mods/recordInfo		fsalehi	PC004200	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	fsalehi	PC004200	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC004200	fsalehi	PC004200	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	fsalehi	fsalehi	PC004200	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2009-12-16T09:54:25-0700	fsalehi	PC004200	postcards	1	3.2
+	/@mods	
+
+C. P. R. Bridge, Lethbridge, Alta., length 1 mile 97 feet 214 feet high.
+
+
+Cross
+A.E.
+
+Photographer
+
+
+
+Gowen Sutton Co. Ltd.
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+Made in Vancouver by Gowen Sutton Co. Ltd., Vancouver, B.C
+1940-1960
+
+
+Vancouver
+
+
+
+English
+
+
+1 postcard : col. ; 9 x 14 cm.
+
+30
+false
+true
+[printer's no.] 31
+A. E. Cross
+The Lethbridge Viaduct, commonly known as the High Level Bridge, was constructed between 1907?1909 at Lethbridge, Alberta, Canada at a cost of $1,334,525.
+
+Lethbridge, AB
+
+
+
+Canada
+Alberta
+Lethbridge
+
+
+
+Postcards
+
+
+Railroad bridges
+
+
+Railroad cars
+
+
+Trestles
+
+
+
+Lethbridge Viaduct (Lethbridge, Alta.)
+
+
+
+
+High Level Bridge (Lethbridge, Alta.)
+
+
+PC004200
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 2
+http://peel.library.ualberta.ca/postcards/PC004200.html
+http://peel.library.ualberta.ca/pcimages/PC/004/web/PC004200.jpg
+http://peel.library.ualberta.ca/pcimages/PC/004/thumbs/PC004200.jpg
+
+
+2007-06-25T16:49:56-0600
+PC004200
+fsalehi
+2009-12-16T09:54:25-0700
+
+	fsalehi	PC004200	postcards	1	3.2
+	

@@ -1,0 +1,111 @@
+Path	Content	URL	Form or Genre	Occurrence	MODS version
+
+/mods/titleInfo		http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	1	3.3
+/mods/titleInfo/title	Plan showing preliminary location of the Red Deer irrigation canal	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	1	3.3
+/mods/titleInfo/subTitle	Tps 31 to 34, Rgs 2 to 5, W 5th M	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	1	3.3
+
+/mods/name		http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	1	3.3
+/mods/name/@type	corporate	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	1	3.3
+/mods/name/namePart	Canadian Irrigation Surveys	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	1	3.3
+
+/mods/typeOfResource	cartographic	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	1	3.3
+
+/mods/genre	map	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	2	3.3
+/mods/genre/@authority	marcgt	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	1	3.3
+
+/mods/genre	Digital maps	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	2	3.3
+/mods/genre/@authority	lcgft	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	1	3.3
+
+/mods/originInfo		http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	1	3.3
+/mods/originInfo/place		http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	1	3.3
+/mods/originInfo/place/placeTerm	Ottawa?	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	1	3.3
+/mods/originInfo/place/placeTerm/@type	text	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	1	3.3
+/mods/originInfo/publisher	Canadian Irrigation Surveys	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	1	3.3
+/mods/originInfo/dateIssued	1897	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	1	3.3
+
+/mods/language		http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	1	3.3
+/mods/language/languageTerm	English	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	1	3.3
+/mods/language/languageTerm/@type	text	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	1	3.3
+
+/mods/physicalDescription		http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	1	3.3
+/mods/physicalDescription/form		http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	1	3.3
+/mods/physicalDescription/extent	1 map : 1 col. ; 51 x 51.2 cm. on sheet 64.2 x 60.2 cm.	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	1	3.3
+
+/mods/note	Lithographed at the Surveyor General's Office, Ottawa. Signed by J. L. Dennis D.L.S., Chief Inspector.	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	9	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	1	3.3
+
+/mods/note	"Note: Lands to be irrigated in immediate vicinity of Canal are cross hatched in blue = 13,000 acres. Main portion of water supplied by Canal to be used for irrigation of some 33,000 acres in Rosebud river district being carried there through channel of that stream."	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	9	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	1	3.3
+
+/mods/note	Index map of larger area of irrigable lands is included.	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	9	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	1	3.3
+
+/mods/note	Spans Tps. 31-34 and Rs. 2-5 W. 5th (?) M.	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	9	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	1	3.3
+
+/mods/note	peelmaps	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	9	3.3
+/mods/note/@type	local:oaiset	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	1	3.3
+
+/mods/note	1	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	9	3.3
+/mods/note/@type	local:sheetcount	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	1	3.3
+
+/mods/note	64.2 x 60.2 cm.	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	9	3.3
+/mods/note/@type	local:sheetsize	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	1	3.3
+
+/mods/note	64.2	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	9	3.3
+/mods/note/@type	local:sheetlength	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	1	3.3
+
+/mods/note	60.2	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	9	3.3
+/mods/note/@type	local:sheetwidth	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	4	3.3
+/mods/subject/@authority	lcsh	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	1	3.3
+/mods/subject/@lang	eng	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	1	3.3
+/mods/subject/topic	Irrigation canals and flumes	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	1	3.3
+/mods/subject/geographic	Alberta	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	2	3.3
+/mods/subject/geographic	Red Deer River	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	2	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	4	3.3
+/mods/subject/@authority	lcsh	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	1	3.3
+/mods/subject/@lang	eng	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	1	3.3
+/mods/subject/geographic	Red Deer River (Alta. and Sask.)	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	4	3.3
+/mods/subject/temporal	1897	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	4	3.3
+/mods/subject/cartographics		http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	1	3.3
+/mods/subject/cartographics/coordinates	w11436xx/n05154xx w11411xx/n05154xx w11411xx/n05138xx w11436xx/n05138xx	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	1	3.3
+/mods/subject/cartographics/scale	1:75,000	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	1	3.3
+
+/mods/classification	Alberta J-50	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	1	3.3
+
+/mods/identifier	872	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	5	3.3
+/mods/identifier/@type	local:mapsproject	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	1	3.3
+
+/mods/identifier	AAA-0934	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	5	3.3
+/mods/identifier/@type	local:mapsdb	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	1	3.3
+
+/mods/identifier	872.xml	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	5	3.3
+/mods/identifier/@type	local:mapsproject_filename	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	1	3.3
+
+/mods/identifier	M000753	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	5	3.3
+/mods/identifier/@type	local:peel3	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	1	3.3
+
+/mods/identifier	N019465	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	5	3.3
+/mods/identifier/@type	local:old_peel_new	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	1	3.3
+
+/mods/location		http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	1	3.3
+/mods/location/physicalLocation	UA Cameron Staff Access-Maps	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	1	3.3
+/mods/location/url	http://peel.library.ualberta.ca/maps/M/00/07/M000753/M000753.tif	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	1	3.3
+/mods/location/url/@access	raw object	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	1	3.3
+/mods/location/url/@note	width='7323' height='7625'	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	1	3.3
+
+/mods/recordInfo		http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	1	3.3
+/mods/recordInfo/recordContentSource	mapsproject	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	2	3.3
+/mods/recordInfo/recordContentSource/@authority	local:project	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	1	3.3
+/mods/recordInfo/recordContentSource	jhuck	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	2	3.3
+/mods/recordInfo/recordContentSource/@authority	local:person	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	1	3.3
+/mods/recordInfo/recordIdentifier	M000753	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	1	3.3
+/mods/recordInfo/recordChangeDate	2014-01-20T18:44:40-0700	http://peel.library.ualberta.ca/maps/M000753.html	map Digital maps 	1	3.3
+

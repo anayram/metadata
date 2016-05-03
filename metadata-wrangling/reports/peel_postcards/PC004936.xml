@@ -1,0 +1,136 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		bstearns	PC004936	postcards	1	3.2
+	/mods/@version	3.2	bstearns	PC004936	postcards	1	3.2
+	/mods/titleInfo		bstearns	PC004936	postcards	1	3.2
+	/mods/titleInfo/@lang	english	bstearns	PC004936	postcards	1	3.2
+	/mods/titleInfo/title	[Field of grains]	bstearns	PC004936	postcards	1	3.2
+	/mods/name		bstearns	PC004936	postcards	1	3.2
+	/mods/name/@type	personal	bstearns	PC004936	postcards	1	3.2
+	/mods/name/namePart	Morton	bstearns	PC004936	postcards	2	3.2
+	/mods/name/namePart/@type	family	bstearns	PC004936	postcards	1	3.2
+	/mods/name/namePart	W.J.	bstearns	PC004936	postcards	2	3.2
+	/mods/name/namePart/@type	given	bstearns	PC004936	postcards	1	3.2
+	/mods/name/role		bstearns	PC004936	postcards	1	3.2
+	/mods/name/role/roleTerm	Photographer	bstearns	PC004936	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	bstearns	PC004936	postcards	1	3.2
+	/mods/typeOfResource	still image	bstearns	PC004936	postcards	1	3.2
+	/mods/genre	postcards	bstearns	PC004936	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	bstearns	PC004936	postcards	1	3.2
+	/mods/originInfo		bstearns	PC004936	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	bstearns	PC004936	postcards	1	3.2
+	/mods/originInfo/publisher	W.J. Morton, Vulcan, Alta.	bstearns	PC004936	postcards	1	3.2
+	/mods/originInfo/dateIssued	after 1910	bstearns	PC004936	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	approximate	bstearns	PC004936	postcards	1	3.2
+	/mods/originInfo/place		bstearns	PC004936	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	Vulcan	bstearns	PC004936	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	bstearns	PC004936	postcards	1	3.2
+	/mods/language		bstearns	PC004936	postcards	1	3.2
+	/mods/language/languageTerm	English	bstearns	PC004936	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	bstearns	PC004936	postcards	1	3.2
+	/mods/physicalDescription		bstearns	PC004936	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : b&w ; 9 x 14 cm.	bstearns	PC004936	postcards	1	3.2
+	/mods/note	10	bstearns	PC004936	postcards	4	3.2
+	/mods/note/@type	price	bstearns	PC004936	postcards	1	3.2
+	/mods/note	false	bstearns	PC004936	postcards	4	3.2
+	/mods/note/@type	notable	bstearns	PC004936	postcards	1	3.2
+	/mods/note	false	bstearns	PC004936	postcards	4	3.2
+	/mods/note/@type	imgprobs	bstearns	PC004936	postcards	1	3.2
+	/mods/note	A field of stooks.	bstearns	PC004936	postcards	4	3.2
+	/mods/note/@type	public_description	bstearns	PC004936	postcards	1	3.2
+	/mods/subject		bstearns	PC004936	postcards	5	3.2
+	/mods/subject/geographic	Vulcan, AB	bstearns	PC004936	postcards	1	3.2
+	/mods/subject		bstearns	PC004936	postcards	5	3.2
+	/mods/subject/hierarchicalGeographic		bstearns	PC004936	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	bstearns	PC004936	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	bstearns	PC004936	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Vulcan	bstearns	PC004936	postcards	1	3.2
+	/mods/subject		bstearns	PC004936	postcards	5	3.2
+	/mods/subject/genre	Postcards	bstearns	PC004936	postcards	1	3.2
+	/mods/subject		bstearns	PC004936	postcards	5	3.2
+	/mods/subject/topic	Wheat	bstearns	PC004936	postcards	1	3.2
+	/mods/subject		bstearns	PC004936	postcards	5	3.2
+	/mods/subject/topic	Harvesting	bstearns	PC004936	postcards	1	3.2
+	/mods/identifier	PC004936	bstearns	PC004936	postcards	1	3.2
+	/mods/identifier/@type	local	bstearns	PC004936	postcards	1	3.2
+	/mods/location		bstearns	PC004936	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 5	bstearns	PC004936	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC004936.html	bstearns	PC004936	postcards	3	3.2
+	/mods/location/url/@access	object in context	bstearns	PC004936	postcards	1	3.2
+	/mods/location/url/@usage	primary display	bstearns	PC004936	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/004/web/PC004936.jpg	bstearns	PC004936	postcards	3	3.2
+	/mods/location/url/@access	raw object	bstearns	PC004936	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='511' 	bstearns	PC004936	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/004/thumbs/PC004936.jpg	bstearns	PC004936	postcards	3	3.2
+	/mods/location/url/@access	preview	bstearns	PC004936	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='128'	bstearns	PC004936	postcards	1	3.2
+	/mods/recordInfo		bstearns	PC004936	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	bstearns	PC004936	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC004936	bstearns	PC004936	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	bstearns	bstearns	PC004936	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2009-10-30T13:17:45-0700	bstearns	PC004936	postcards	1	3.2
+	/@mods	
+
+[Field of grains]
+
+
+Morton
+W.J.
+
+Photographer
+
+
+still image
+postcards
+
+monographic
+W.J. Morton, Vulcan, Alta.
+after 1910
+
+
+Vulcan
+
+
+
+English
+
+
+1 postcard : b&w ; 9 x 14 cm.
+
+10
+false
+false
+A field of stooks.
+
+Vulcan, AB
+
+
+
+Canada
+Alberta
+Vulcan
+
+
+
+Postcards
+
+
+Wheat
+
+
+Harvesting
+
+PC004936
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 5
+http://peel.library.ualberta.ca/postcards/PC004936.html
+http://peel.library.ualberta.ca/pcimages/PC/004/web/PC004936.jpg
+http://peel.library.ualberta.ca/pcimages/PC/004/thumbs/PC004936.jpg
+
+
+2007-06-25T16:49:56-0600
+PC004936
+bstearns
+2009-10-30T13:17:45-0700
+
+	bstearns	PC004936	postcards	1	3.2
+	

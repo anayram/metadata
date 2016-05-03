@@ -1,0 +1,167 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		sfarnel	PC013116	postcards	1	3.3
+	/mods/@version	3.3	sfarnel	PC013116	postcards	1	3.3
+	/mods/titleInfo		sfarnel	PC013116	postcards	1	3.3
+	/mods/titleInfo/@lang	english	sfarnel	PC013116	postcards	1	3.3
+	/mods/titleInfo/title	Looking west on 11th Avenue towards Scarth Street, Regina, Sask.	sfarnel	PC013116	postcards	1	3.3
+	/mods/name		sfarnel	PC013116	postcards	1	3.3
+	/mods/name/@type	corporate	sfarnel	PC013116	postcards	1	3.3
+	/mods/name/namePart	The Valentine & Sons Publishing Co., Ltd.	sfarnel	PC013116	postcards	1	3.3
+	/mods/name/role		sfarnel	PC013116	postcards	1	3.3
+	/mods/name/role/roleTerm	Publisher	sfarnel	PC013116	postcards	1	3.3
+	/mods/name/role/roleTerm/@type	text	sfarnel	PC013116	postcards	1	3.3
+	/mods/typeOfResource	still image	sfarnel	PC013116	postcards	1	3.3
+	/mods/genre	postcards	sfarnel	PC013116	postcards	1	3.3
+	/mods/genre/@authority	gmgpc	sfarnel	PC013116	postcards	1	3.3
+	/mods/originInfo		sfarnel	PC013116	postcards	1	3.3
+	/mods/originInfo/place		sfarnel	PC013116	postcards	3	3.3
+	/mods/originInfo/place/placeTerm	Montreal	sfarnel	PC013116	postcards	1	3.3
+	/mods/originInfo/place/placeTerm/@type	text	sfarnel	PC013116	postcards	1	3.3
+	/mods/originInfo/place		sfarnel	PC013116	postcards	3	3.3
+	/mods/originInfo/place/placeTerm	Toronto	sfarnel	PC013116	postcards	1	3.3
+	/mods/originInfo/place/placeTerm/@type	text	sfarnel	PC013116	postcards	1	3.3
+	/mods/originInfo/place		sfarnel	PC013116	postcards	3	3.3
+	/mods/originInfo/place/placeTerm	Winnipeg	sfarnel	PC013116	postcards	1	3.3
+	/mods/originInfo/place/placeTerm/@type	text	sfarnel	PC013116	postcards	1	3.3
+	/mods/originInfo/publisher	The Valentine & Sons Publishing Co., Ltd. Montreal, Toronto and Winnipeg	sfarnel	PC013116	postcards	1	3.3
+	/mods/originInfo/dateIssued	ca. 1911	sfarnel	PC013116	postcards	1	3.3
+	/mods/originInfo/dateIssued/@qualifier	approximate	sfarnel	PC013116	postcards	1	3.3
+	/mods/originInfo/issuance	monographic	sfarnel	PC013116	postcards	1	3.3
+	/mods/language		sfarnel	PC013116	postcards	1	3.3
+	/mods/language/languageTerm	English	sfarnel	PC013116	postcards	1	3.3
+	/mods/language/languageTerm/@type	text	sfarnel	PC013116	postcards	1	3.3
+	/mods/physicalDescription		sfarnel	PC013116	postcards	1	3.3
+	/mods/physicalDescription/form		sfarnel	PC013116	postcards	1	3.3
+	/mods/physicalDescription/extent	1 postcard : col. ; 9 x 14 cm.	sfarnel	PC013116	postcards	1	3.3
+	/mods/note	7	sfarnel	PC013116	postcards	7	3.3
+	/mods/note/@type	price	sfarnel	PC013116	postcards	1	3.3
+	/mods/note	false	sfarnel	PC013116	postcards	7	3.3
+	/mods/note/@type	notable	sfarnel	PC013116	postcards	1	3.3
+	/mods/note	false	sfarnel	PC013116	postcards	7	3.3
+	/mods/note/@type	imgprobs	sfarnel	PC013116	postcards	1	3.3
+	/mods/note	Printed in U.S.A.	sfarnel	PC013116	postcards	7	3.3
+	/mods/note/@type	public_on_back	sfarnel	PC013116	postcards	1	3.3
+	/mods/note	[printer's no.] 110,113 (J.V.)	sfarnel	PC013116	postcards	7	3.3
+	/mods/note/@type	public_on_front	sfarnel	PC013116	postcards	1	3.3
+	/mods/note	Corner of 11th Avenue and Scarth Street with Post Office (later Old City Hall) on left, Imperial Bank of Canada on left foreground. A streetcar is visible in the road.	sfarnel	PC013116	postcards	7	3.3
+	/mods/note/@type	public_description	sfarnel	PC013116	postcards	1	3.3
+	/mods/note	Duplicate image of PC002689 - PC013102	sfarnel	PC013116	postcards	7	3.3
+	/mods/note/@type	private	sfarnel	PC013116	postcards	1	3.3
+	/mods/subject		sfarnel	PC013116	postcards	7	3.3
+	/mods/subject/geographic	Regina, MB	sfarnel	PC013116	postcards	1	3.3
+	/mods/subject		sfarnel	PC013116	postcards	7	3.3
+	/mods/subject/hierarchicalGeographic		sfarnel	PC013116	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/country	Canada	sfarnel	PC013116	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/province	Saskatchewan	sfarnel	PC013116	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/city	Regina	sfarnel	PC013116	postcards	1	3.3
+	/mods/subject		sfarnel	PC013116	postcards	7	3.3
+	/mods/subject/topic	Business districts	sfarnel	PC013116	postcards	1	3.3
+	/mods/subject		sfarnel	PC013116	postcards	7	3.3
+	/mods/subject/topic	Street railroads	sfarnel	PC013116	postcards	1	3.3
+	/mods/subject		sfarnel	PC013116	postcards	7	3.3
+	/mods/subject/topic	Post offices	sfarnel	PC013116	postcards	1	3.3
+	/mods/subject		sfarnel	PC013116	postcards	7	3.3
+	/mods/subject/topic	Pedestrians	sfarnel	PC013116	postcards	1	3.3
+	/mods/subject		sfarnel	PC013116	postcards	7	3.3
+	/mods/subject/topic	City & town life	sfarnel	PC013116	postcards	1	3.3
+	/mods/identifier	PC013116	sfarnel	PC013116	postcards	1	3.3
+	/mods/identifier/@type	local	sfarnel	PC013116	postcards	1	3.3
+	/mods/location		sfarnel	PC013116	postcards	1	3.3
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 4 (set 2)	sfarnel	PC013116	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC013116.html	sfarnel	PC013116	postcards	3	3.3
+	/mods/location/url/@access	object in context	sfarnel	PC013116	postcards	1	3.3
+	/mods/location/url/@usage	primary display	sfarnel	PC013116	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/013/web/PC013116.jpg	sfarnel	PC013116	postcards	3	3.3
+	/mods/location/url/@access	raw object	sfarnel	PC013116	postcards	1	3.3
+	/mods/location/url/@note	width='1098' height='712'	sfarnel	PC013116	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/013/thumbs/PC013116.jpg	sfarnel	PC013116	postcards	3	3.3
+	/mods/location/url/@access	preview	sfarnel	PC013116	postcards	1	3.3
+	/mods/location/url/@note	width='200' height='130'	sfarnel	PC013116	postcards	1	3.3
+	/mods/recordInfo		sfarnel	PC013116	postcards	1	3.3
+	/mods/recordInfo/recordContentSource	sfarnel	sfarnel	PC013116	postcards	2	3.3
+	/mods/recordInfo/recordCreationDate	2009-01-23T14:03:00-0700	sfarnel	PC013116	postcards	1	3.3
+	/mods/recordInfo/recordIdentifier	PC013116	sfarnel	PC013116	postcards	1	3.3
+	/mods/recordInfo/recordChangeDate	2010-05-21T08:34:11-0600	sfarnel	PC013116	postcards	1	3.3
+	/mods/recordInfo/recordContentSource	aharrigan	sfarnel	PC013116	postcards	2	3.3
+	/mods/recordInfo/recordContentSource/@authority	local:person	sfarnel	PC013116	postcards	1	3.3
+	/@mods	
+
+Looking west on 11th Avenue towards Scarth Street, Regina, Sask.
+
+
+The Valentine & Sons Publishing Co., Ltd.
+
+Publisher
+
+
+still image
+postcards
+
+
+Montreal
+
+
+Toronto
+
+
+Winnipeg
+
+The Valentine & Sons Publishing Co., Ltd. Montreal, Toronto and Winnipeg
+ca. 1911
+monographic
+
+
+English
+
+
+
+1 postcard : col. ; 9 x 14 cm.
+
+7
+false
+false
+Printed in U.S.A.
+[printer's no.] 110,113 (J.V.)
+Corner of 11th Avenue and Scarth Street with Post Office (later Old City Hall) on left, Imperial Bank of Canada on left foreground. A streetcar is visible in the road.
+Duplicate image of PC002689 - PC013102
+
+				Regina, MB
+			
+
+				
+Canada
+Saskatchewan
+Regina
+
+			
+
+				Business districts
+			
+
+				Street railroads
+			
+
+				Post offices
+			
+
+				Pedestrians
+			
+
+				City & town life
+			
+PC013116
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 4 (set 2)
+http://peel.library.ualberta.ca/postcards/PC013116.html
+http://peel.library.ualberta.ca/pcimages/PC/013/web/PC013116.jpg
+http://peel.library.ualberta.ca/pcimages/PC/013/thumbs/PC013116.jpg
+
+
+sfarnel
+2009-01-23T14:03:00-0700
+PC013116
+2010-05-21T08:34:11-0600
+aharrigan
+
+	sfarnel	PC013116	postcards	1	3.3
+	

@@ -1,0 +1,158 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@schemaLocation	http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	Memorial booklet, published on the occasion of the opening of new domicile, December 13th, 1936		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA003596		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	corporate		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Towarzystwo Sw. Jana Kantego, Winnipeg		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	Winnipeg		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	Polish P		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1936		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	Polish		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	45 p., illus., ports.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	On cover: "Dedication program." Pagination includes advertising. Pages 43-45 left blank for autographs. Despite the title, the text is in Polish. 		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	public		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	The People--Poles		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	History, Local--Manitoba--Winnipeg		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000014		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Advertising		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000014		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Publicité		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000816		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Anniversaries		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000816		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Anniversaires		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003492		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Poles--Canada		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003492		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Polonais--Canada		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	Other		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS004833		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Winnipeg, Manitoba--Commerce		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	Other		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS004838		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Winnipeg, Manitoba--Ethnic groups		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1936		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	3549		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel2		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	6057		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	6051		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel-procite-id		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P006057		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+    
+        Memorial booklet, published on the occasion of the opening of new domicile, December 13th, 1936
+    
+    
+        Towarzystwo Sw. Jana Kantego, Winnipeg
+        
+            author
+        
+    
+    text
+    
+        
+            Winnipeg
+        
+        Polish P
+        1936
+    
+    
+        Polish
+    
+    
+        print
+        45 p., illus., ports.
+    
+    On cover: "Dedication program." Pagination includes advertising. Pages 43-45 left blank for autographs. Despite the title, the text is in Polish. 
+    
+        The People--Poles
+    
+    
+        History, Local--Manitoba--Winnipeg
+    
+    
+        Advertising
+    
+    
+        Publicité
+    
+    
+        Anniversaries
+    
+    
+        Anniversaires
+    
+    
+        Poles--Canada
+    
+    
+        Polonais--Canada
+    
+    
+        Winnipeg, Manitoba--Commerce
+    
+    
+        Winnipeg, Manitoba--Ethnic groups
+    
+    
+        1936
+    
+    3549
+    6057
+    6051
+    
+        Peel's Prairie Portal
+        P006057
+        2003-01-01T12:00:00-0700
+    
+		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

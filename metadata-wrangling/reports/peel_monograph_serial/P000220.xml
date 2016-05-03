@@ -1,0 +1,107 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	On the probable number of the native Indian population of British America		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/subTitle	From the proceedings of the Canadian Institute		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA000815		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Lefroy, John Henry (Sir)		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	1817-1890.		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart/@type	date		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/description	1817-1890. English military officer and scientist; conducted magnetic survey of Canada, from Lachine to Fort Simpson, 1843-1844, which established his reputation as a geographer; in charge of magnetic observatory in Toronto, 1844-1853; elected Fellow of the Royal Society, 1848, and Fellow of Royal Geographical Society, 1853; returned to England (<i>Dictionary of National Biography</i>).		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	Toronto		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	Printed by Hugh Scobie		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1853		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued/@qualifier	questionable		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	English		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	19 p., tables.; 20 cm.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	Lefroy began his research on his own magnetic surveying expedition by talking to traders and missionaries, then gathered other numbers from published and unpublished sources. While he cast his net over all of British America, some of the text and tables include numbers for Natives of the Canadian prairies.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	public		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002176		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Indians of North America--Statistics		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002176		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Indiens d'Am�rique--Am�rique du Nord--Statistiques		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1844		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	220		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	220		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel-procite-id		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P000220		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordChangeDate	2012-07-18T11:51:00-0600		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	acarruth		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+
+On the probable number of the native Indian population of British America
+From the proceedings of the Canadian Institute
+
+
+Lefroy, John Henry (Sir)
+1817-1890.
+
+author
+
+1817-1890. English military officer and scientist; conducted magnetic survey of Canada, from Lachine to Fort Simpson, 1843-1844, which established his reputation as a geographer; in charge of magnetic observatory in Toronto, 1844-1853; elected Fellow of the Royal Society, 1848, and Fellow of Royal Geographical Society, 1853; returned to England (<i>Dictionary of National Biography</i>).
+
+text
+
+
+Toronto
+
+Printed by Hugh Scobie
+1853
+
+
+English
+
+
+print
+19 p., tables.; 20 cm.
+
+Lefroy began his research on his own magnetic surveying expedition by talking to traders and missionaries, then gathered other numbers from published and unpublished sources. While he cast his net over all of British America, some of the text and tables include numbers for Natives of the Canadian prairies.
+
+				Indians of North America--Statistics
+			
+
+				Indiens d'Am�rique--Am�rique du Nord--Statistiques
+			
+
+				1844
+			
+220
+220
+
+Peel's Prairie Portal
+2003-01-01T12:00:00-0700
+P000220
+2012-07-18T11:51:00-0600
+acarruth
+
+		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

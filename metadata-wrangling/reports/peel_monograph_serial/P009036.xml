@@ -1,0 +1,175 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	My forty-five years on the campus		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/@type	alternative		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	My 45 years on the campus		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Lister, Reginald Charles		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	1891-1960.		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart/@type	date		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Gowan, Elsie Park		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	editor		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	corporate		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	University of Alberta		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	abc		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@authority	marccountry		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	code		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	[Edmonton]		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	University of Alberta		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	[1958]		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued/@qualifier	inferred		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1958		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued/@encoding	marc		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/issuance	monographic		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	eng		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@authority	iso639-2b		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	code		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	English		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	75 p.: ports.; 23 cm.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	by Reg Lister.		8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	statement of responsibility		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	Edited for publication by Elsie Park Gowan.		8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	Cover title. Foreword by Walter H. Johns. Autobiography of a superintendent of residences at the University of Alberta.		8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	public		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	uahistory		8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	oaiset		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	sponsored		8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	local:oaiset		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	sponsored.boardofgovernors		8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	local:oaiset		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	Mr. Zach Fentiman, Member of the Board, 2010		8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	local:dedicationinfo		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	boardofgovernors		8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	local:sponsorcode		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographicCode	n-cn-ab		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographicCode/@authority	marcgac		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name/@type	corporate		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name/namePart	University of Alberta		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1958		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/classification	LE3.A619 L5 1968		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/classification/@authority	lcc		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@type	host		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/titleInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/titleInfo/title	University of Alberta Board of Governors Collection		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/note	University of Alberta Board of Governors		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/note/@type	local:sponsor		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	9036		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	8231		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel_new		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	1337891		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:neos		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	sfarnel		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P009036		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordChangeDate	2010-06-17T13:08:59-0600		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+
+My forty-five years on the campus
+
+
+My 45 years on the campus
+
+
+Lister, Reginald Charles
+1891-1960.
+
+
+Gowan, Elsie Park
+
+editor
+
+
+
+University of Alberta
+
+text
+
+
+abc
+
+
+[Edmonton]
+
+University of Alberta
+[1958]
+1958
+monographic
+
+
+eng
+English
+
+
+print
+75 p.: ports.; 23 cm.
+
+by Reg Lister.
+Edited for publication by Elsie Park Gowan.
+Cover title. Foreword by Walter H. Johns. Autobiography of a superintendent of residences at the University of Alberta.
+uahistory
+sponsored
+sponsored.boardofgovernors
+Mr. Zach Fentiman, Member of the Board, 2010
+boardofgovernors
+
+				n-cn-ab
+			
+
+				
+University of Alberta
+
+			
+
+				1958
+			
+LE3.A619 L5 1968
+
+
+University of Alberta Board of Governors Collection
+
+University of Alberta Board of Governors
+
+9036
+8231
+1337891
+
+Peel's Prairie Portal
+sfarnel
+2003-01-01T12:00:00-0700
+P009036
+2010-06-17T13:08:59-0600
+
+		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

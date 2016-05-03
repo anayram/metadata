@@ -1,0 +1,1250 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		tkitagawa	PC006360	postcards	1	3.2
+	/mods/@version	3.2	tkitagawa	PC006360	postcards	1	3.2
+	/mods/titleInfo		tkitagawa	PC006360	postcards	1	3.2
+	/mods/titleInfo/@lang	english	tkitagawa	PC006360	postcards	1	3.2
+	/mods/titleInfo/title	Souvenir Edmonton, Alta, Canada	tkitagawa	PC006360	postcards	1	3.2
+	/mods/name		tkitagawa	PC006360	postcards	1	3.2
+	/mods/name/@type	corporate	tkitagawa	PC006360	postcards	1	3.2
+	/mods/name/namePart	Novelty Mfg & Art  Co., Ltd.	tkitagawa	PC006360	postcards	1	3.2
+	/mods/name/role		tkitagawa	PC006360	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	tkitagawa	PC006360	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	tkitagawa	PC006360	postcards	1	3.2
+	/mods/typeOfResource	still image	tkitagawa	PC006360	postcards	1	3.2
+	/mods/genre	postcards	tkitagawa	PC006360	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	tkitagawa	PC006360	postcards	1	3.2
+	/mods/originInfo		tkitagawa	PC006360	postcards	1	3.2
+	/mods/originInfo/place		tkitagawa	PC006360	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	Montreal	tkitagawa	PC006360	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	tkitagawa	PC006360	postcards	1	3.2
+	/mods/originInfo/publisher	Novelty Mfg. & Art Co. Ltd., Montreal	tkitagawa	PC006360	postcards	1	3.2
+	/mods/originInfo/dateIssued	1913-1940	tkitagawa	PC006360	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	approximate	tkitagawa	PC006360	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	tkitagawa	PC006360	postcards	1	3.2
+	/mods/language		tkitagawa	PC006360	postcards	1	3.2
+	/mods/language/languageTerm	English	tkitagawa	PC006360	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	tkitagawa	PC006360	postcards	1	3.2
+	/mods/physicalDescription		tkitagawa	PC006360	postcards	1	3.2
+	/mods/physicalDescription/form		tkitagawa	PC006360	postcards	1	3.2
+	/mods/note	60	tkitagawa	PC006360	postcards	5	3.2
+	/mods/note/@type	price	tkitagawa	PC006360	postcards	1	3.2
+	/mods/note	false	tkitagawa	PC006360	postcards	5	3.2
+	/mods/note/@type	notable	tkitagawa	PC006360	postcards	1	3.2
+	/mods/note	true	tkitagawa	PC006360	postcards	5	3.2
+	/mods/note/@type	imgprobs	tkitagawa	PC006360	postcards	1	3.2
+	/mods/note	An accordion-style booklet of postcards of various Edmonton landmarks.	tkitagawa	PC006360	postcards	5	3.2
+	/mods/note/@type	public_description	tkitagawa	PC006360	postcards	1	3.2
+	/mods/note	[Printer's no.] S. 2803	tkitagawa	PC006360	postcards	5	3.2
+	/mods/note/@type	public_on_back	tkitagawa	PC006360	postcards	1	3.2
+	/mods/subject		tkitagawa	PC006360	postcards	19	3.2
+	/mods/subject/geographic	Edmonton, AB	tkitagawa	PC006360	postcards	1	3.2
+	/mods/subject		tkitagawa	PC006360	postcards	19	3.2
+	/mods/subject/hierarchicalGeographic		tkitagawa	PC006360	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	tkitagawa	PC006360	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	tkitagawa	PC006360	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Edmonton	tkitagawa	PC006360	postcards	1	3.2
+	/mods/subject		tkitagawa	PC006360	postcards	19	3.2
+	/mods/subject		tkitagawa	PC006360	postcards	19	3.2
+	/mods/subject/topic	Cityscapes	tkitagawa	PC006360	postcards	1	3.2
+	/mods/subject		tkitagawa	PC006360	postcards	19	3.2
+	/mods/subject/topic	Railroad stations	tkitagawa	PC006360	postcards	1	3.2
+	/mods/subject		tkitagawa	PC006360	postcards	19	3.2
+	/mods/subject/topic	Bridges	tkitagawa	PC006360	postcards	1	3.2
+	/mods/subject		tkitagawa	PC006360	postcards	19	3.2
+	/mods/subject/topic	Capitols	tkitagawa	PC006360	postcards	1	3.2
+	/mods/subject		tkitagawa	PC006360	postcards	19	3.2
+	/mods/subject/topic	Hotels	tkitagawa	PC006360	postcards	1	3.2
+	/mods/subject		tkitagawa	PC006360	postcards	19	3.2
+	/mods/subject/topic	Universities & colleges	tkitagawa	PC006360	postcards	1	3.2
+	/mods/subject		tkitagawa	PC006360	postcards	19	3.2
+	/mods/subject/topic	Hospitals	tkitagawa	PC006360	postcards	1	3.2
+	/mods/subject		tkitagawa	PC006360	postcards	19	3.2
+	/mods/subject/topic	Public libraries	tkitagawa	PC006360	postcards	1	3.2
+	/mods/subject		tkitagawa	PC006360	postcards	19	3.2
+	/mods/subject/name		tkitagawa	PC006360	postcards	1	3.2
+	/mods/subject/name/@type	corporate	tkitagawa	PC006360	postcards	1	3.2
+	/mods/subject/name/namePart	Canadian National Railway Station (Edmonton, Alta.)	tkitagawa	PC006360	postcards	1	3.2
+	/mods/subject		tkitagawa	PC006360	postcards	19	3.2
+	/mods/subject/name		tkitagawa	PC006360	postcards	1	3.2
+	/mods/subject/name/@type	corporate	tkitagawa	PC006360	postcards	1	3.2
+	/mods/subject/name/namePart	High Level Bridge (Edmonton, Alta.)	tkitagawa	PC006360	postcards	1	3.2
+	/mods/subject		tkitagawa	PC006360	postcards	19	3.2
+	/mods/subject/name		tkitagawa	PC006360	postcards	1	3.2
+	/mods/subject/name/@type	corporate	tkitagawa	PC006360	postcards	1	3.2
+	/mods/subject/name/namePart	Legislative Building (Edmonton, Alta.)	tkitagawa	PC006360	postcards	1	3.2
+	/mods/subject		tkitagawa	PC006360	postcards	19	3.2
+	/mods/subject/name		tkitagawa	PC006360	postcards	1	3.2
+	/mods/subject/name/@type	corporate	tkitagawa	PC006360	postcards	1	3.2
+	/mods/subject/name/namePart	Hotel MacDonald (Edmonton, Alta.)	tkitagawa	PC006360	postcards	1	3.2
+	/mods/subject		tkitagawa	PC006360	postcards	19	3.2
+	/mods/subject/name		tkitagawa	PC006360	postcards	1	3.2
+	/mods/subject/name/@type	corporate	tkitagawa	PC006360	postcards	1	3.2
+	/mods/subject/name/namePart	St. Joseph's College (Edmonton, Alta.)	tkitagawa	PC006360	postcards	1	3.2
+	/mods/subject		tkitagawa	PC006360	postcards	19	3.2
+	/mods/subject/name		tkitagawa	PC006360	postcards	1	3.2
+	/mods/subject/name/@type	corporate	tkitagawa	PC006360	postcards	1	3.2
+	/mods/subject/name/namePart	University of Alberta. Medical Building	tkitagawa	PC006360	postcards	1	3.2
+	/mods/subject		tkitagawa	PC006360	postcards	19	3.2
+	/mods/subject/name		tkitagawa	PC006360	postcards	1	3.2
+	/mods/subject/name/@type	corporate	tkitagawa	PC006360	postcards	1	3.2
+	/mods/subject/name/namePart	Royal Alexandra Hospitals (Edmonton, Alta.)	tkitagawa	PC006360	postcards	1	3.2
+	/mods/subject		tkitagawa	PC006360	postcards	19	3.2
+	/mods/subject/name		tkitagawa	PC006360	postcards	1	3.2
+	/mods/subject/name/@type	corporate	tkitagawa	PC006360	postcards	1	3.2
+	/mods/subject/name/namePart	Edmonton Public Library. Central Library	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem		tkitagawa	PC006360	postcards	11	3.2
+	/mods/relatedItem/@ID	1	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/@type	constituent	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/titleInfo		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/titleInfo/title	Bird's Eye View of Edmonton, Alta.	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name/@type	personal	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name/namePart	Novelty Mfg. & Art Co., Ltd.	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name/role		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name/role/roleTerm	Publisher	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name/role/roleTerm/@type	text	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/place		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/place/placeTerm	Montreal	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/place/placeTerm/@type	text	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/publisher	Novelty Mfg & Art  Co., Ltd. Montreal	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/dateIssued	1913-1940	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/dateIssued/@qualifier	inferred	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/physicalDescription		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/physicalDescription/form		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/physicalDescription/extent	1 postcard booklet	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/note	[printer's no.] 2803/1	tkitagawa	PC006360	postcards	2	3.2
+	/mods/relatedItem/note/@type	public_on_back	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/note	An overhead view of residential and commercial districts of Edmonton.	tkitagawa	PC006360	postcards	2	3.2
+	/mods/relatedItem/note/@type	public_description	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC006360	postcards	4	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/country	Canada	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/province	Alberta	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/city	Edmonton	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC006360	postcards	4	3.2
+	/mods/relatedItem/subject/topic	Cityscapes	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC006360	postcards	4	3.2
+	/mods/relatedItem/subject/topic	Cities & towns	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC006360	postcards	4	3.2
+	/mods/relatedItem/subject/topic	Viewbooks	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location/physicalLocation		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/006/web/PC006360.1.jpg	tkitagawa	PC006360	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	raw object	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='800' height='456'	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/006/thumbs/PC006360.1.jpg	tkitagawa	PC006360	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	preview	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='200' height='114'	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem		tkitagawa	PC006360	postcards	11	3.2
+	/mods/relatedItem/@ID	10	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/@type	constituent	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/titleInfo		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/titleInfo/title	Public Library, Edmonton, Alta.	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name/@type	personal	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name/namePart	Novelty Mfg & Art  Co., Ltd.	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name/role		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name/role/roleTerm	Publisher	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name/role/roleTerm/@type	text	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/place		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/place/placeTerm	Montreal	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/place/placeTerm/@type	text	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/publisher	Novelty Mfg & Art  Co., Ltd. Montreal	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/physicalDescription		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/physicalDescription/form		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/physicalDescription/extent	1 postcard booklet	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/note	[printer's no.] 2803-10	tkitagawa	PC006360	postcards	2	3.2
+	/mods/relatedItem/note/@type	public_on_back	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/note	A view of what was possibly the first public library built in Edmonton.	tkitagawa	PC006360	postcards	2	3.2
+	/mods/relatedItem/note/@type	public_description	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC006360	postcards	4	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/country	Canada	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/province	Alberta	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/city	Edmonton	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC006360	postcards	4	3.2
+	/mods/relatedItem/subject/topic	Public libraries	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC006360	postcards	4	3.2
+	/mods/relatedItem/subject/topic	Viewbooks	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC006360	postcards	4	3.2
+	/mods/relatedItem/subject/name		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject/name/@type	personal	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject/name/namePart	Edmonton Public Library (Edmonton, Alta.)	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location/physicalLocation		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/006/web/PC006360.10.jpg	tkitagawa	PC006360	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	raw object	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='800' height='469'	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/006/thumbs/PC006360.10.jpg	tkitagawa	PC006360	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	preview	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='200' height='117'	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem		tkitagawa	PC006360	postcards	11	3.2
+	/mods/relatedItem/@ID	2	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/@type	constituent	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/titleInfo		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/titleInfo/title	Canadian National Railways Station, Edmonton, Alta.	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name/@type	personal	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name/namePart	Novelty Mfg. & Art Co., Ltd	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name/role		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name/role/roleTerm	Publisher	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name/role/roleTerm/@type	text	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/place		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/place/placeTerm	Montreal	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/place/placeTerm/@type	text	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/publisher	Novelty Mfg. & Art Co., Ltd.  Montreal	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/dateIssued	1913-1940	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/dateIssued/@qualifier	inferred	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/physicalDescription		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/physicalDescription/form		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/physicalDescription/extent	1 postcard booklet	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/note	[printer's no.] 2803/2	tkitagawa	PC006360	postcards	2	3.2
+	/mods/relatedItem/note/@type	public_on_back	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/note	Men entering and exiting the C.N.R. train station.	tkitagawa	PC006360	postcards	2	3.2
+	/mods/relatedItem/note/@type	public_description	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC006360	postcards	5	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/country	Canada	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/province	Alberta	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/city	Edmonton	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC006360	postcards	5	3.2
+	/mods/relatedItem/subject/topic	Railroad stations	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC006360	postcards	5	3.2
+	/mods/relatedItem/subject/topic	Automobiles	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC006360	postcards	5	3.2
+	/mods/relatedItem/subject/topic	Viewbooks	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC006360	postcards	5	3.2
+	/mods/relatedItem/subject/name		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject/name/@type	personal	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject/name/namePart	Canadian Railways Station (Edmonton, Alta.)	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location/physicalLocation		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/006/web/PC006360.2.jpg	tkitagawa	PC006360	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	raw object	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='800' height='442'	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/006/thumbs/PC006360.2.jpg	tkitagawa	PC006360	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	preview	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='200' height='111'	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem		tkitagawa	PC006360	postcards	11	3.2
+	/mods/relatedItem/@ID	3	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/@type	constituent	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/titleInfo		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/titleInfo/title	High Level Bridge, Edmonton, Alta.	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name/@type	personal	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name/namePart	Novelty Mfg. & Art Co., Ltd.	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name/role		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name/role/roleTerm	Publisher	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name/role/roleTerm/@type	text	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/place		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/place/placeTerm	Montreal	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/place/placeTerm/@type	text	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/publisher	Novelty Mfg. & Art Co., Ltd.  Montreal	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/dateIssued	1913-1940	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/dateIssued/@qualifier	inferred	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/physicalDescription		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/physicalDescription/form		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/physicalDescription/extent	1 postcard booklet	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/note	[printer's no.] 2803/3	tkitagawa	PC006360	postcards	2	3.2
+	/mods/relatedItem/note/@type	public_on_back	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/note	A view of the High Level Bridge with a streetcar passing overhead.	tkitagawa	PC006360	postcards	2	3.2
+	/mods/relatedItem/note/@type	public_description	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC006360	postcards	5	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/country	Canada	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/province	Alberta	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/city	Edmonton	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC006360	postcards	5	3.2
+	/mods/relatedItem/subject/topic	Bridges	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC006360	postcards	5	3.2
+	/mods/relatedItem/subject/topic	Street railroads	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC006360	postcards	5	3.2
+	/mods/relatedItem/subject/topic	Viewbooks	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC006360	postcards	5	3.2
+	/mods/relatedItem/subject/name		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject/name/@type	personal	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject/name/namePart	High Level Bridge (Edmonton, Alta.)	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location/physicalLocation		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/006/web/PC006360.3.jpg	tkitagawa	PC006360	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	raw object	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='800' height='470'	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/006/thumbs/PC006360.3.jpg	tkitagawa	PC006360	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	preview	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='200' height='118'	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem		tkitagawa	PC006360	postcards	11	3.2
+	/mods/relatedItem/@ID	4	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/@type	constituent	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/titleInfo		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/titleInfo/title	Parliament Buildings, Edmonton, Alta.	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name/@type	personal	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name/namePart	Novelty Mfg. & Art Co., Ltd.	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name/role		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name/role/roleTerm	Publisher	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name/role/roleTerm/@type	text	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/place		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/place/placeTerm	Montreal	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/place/placeTerm/@type	text	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/publisher	Novelty Mfg. & Art Co., Ltd.  Montreal	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/dateIssued	1913-1940	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/dateIssued/@qualifier	inferred	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/physicalDescription		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/physicalDescription/form		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/physicalDescription/extent	1 postcard booklet	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/note	[printer's no.] 2803/4	tkitagawa	PC006360	postcards	2	3.2
+	/mods/relatedItem/note/@type	public_on_back	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/note	A view of the Alberta Legislature with a garden park in the foreground.	tkitagawa	PC006360	postcards	2	3.2
+	/mods/relatedItem/note/@type	public_description	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC006360	postcards	5	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/country	Canada	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/province	Alberta	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/city	Edmonton	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC006360	postcards	5	3.2
+	/mods/relatedItem/subject/topic	Capitols	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC006360	postcards	5	3.2
+	/mods/relatedItem/subject/topic	Government facilities	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC006360	postcards	5	3.2
+	/mods/relatedItem/subject/topic	Viewbooks	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC006360	postcards	5	3.2
+	/mods/relatedItem/subject/name		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject/name/@type	personal	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject/name/namePart	Legislative Building (Edmonton, Alta.)	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location/physicalLocation		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/006/web/PC006360.4.jpg	tkitagawa	PC006360	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	raw object	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='800' height='483'	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/006/thumbs/PC006360.4.jpg	tkitagawa	PC006360	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	preview	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='200' height='121'	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem		tkitagawa	PC006360	postcards	11	3.2
+	/mods/relatedItem/@ID	5	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/@type	constituent	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/titleInfo		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/titleInfo/title	Mac Donald Hotel, Can. Natl. Rys. Edmonton, Alta.	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name/@type	personal	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name/namePart	Novelty Mfg & Art  Co., Ltd.	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name/role		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name/role/roleTerm	Publisher	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name/role/roleTerm/@type	text	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/place		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/place/placeTerm	Montreal	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/place/placeTerm/@type	text	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/publisher	Novelty Mfg. & Art Co. Ltd., Montreal	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/dateIssued	1915-1940	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/dateIssued/@qualifier	inferred	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/physicalDescription		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/physicalDescription/form		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/physicalDescription/extent	1 postcard booklet	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/note	[printer's no.] 2803/5	tkitagawa	PC006360	postcards	2	3.2
+	/mods/relatedItem/note/@type	public_on_back	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/note	A view of the Hotel MacDonald from the south side of the North Saskatchewan River. The hotel was built between 1912 and 1915 by the Grand Trunk Pacific Railway, and since then it has been successively owned by the Canadian National Railways, Canadian Pacific Hotels, and Fairmont Hotels and Resorts.	tkitagawa	PC006360	postcards	2	3.2
+	/mods/relatedItem/note/@type	public_description	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC006360	postcards	4	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/country	Canada	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/province	Alberta	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/city	Edmonton	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC006360	postcards	4	3.2
+	/mods/relatedItem/subject/topic	Hotels	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC006360	postcards	4	3.2
+	/mods/relatedItem/subject/topic	Viewbooks	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC006360	postcards	4	3.2
+	/mods/relatedItem/subject/name		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject/name/@type	personal	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject/name/namePart	Hotel MacDonald (Edmonton, Alta.)	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location/physicalLocation		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/006/web/PC006360.5.jpg	tkitagawa	PC006360	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	raw object	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='442' height='800'	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/006/thumbs/PC006360.5.jpg	tkitagawa	PC006360	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	preview	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='111' height='200'	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem		tkitagawa	PC006360	postcards	11	3.2
+	/mods/relatedItem/@ID	6	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/@type	constituent	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/titleInfo		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/titleInfo/title	Mac Donald Hotel, Can. Natl. Rys. Edmonton, Alta.	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name/@type	personal	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name/namePart	Novelty Mfg & Art  Co., Ltd.	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name/role		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name/role/roleTerm	Publisher	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name/role/roleTerm/@type	text	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/place		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/place/placeTerm	Montreal	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/place/placeTerm/@type	text	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/publisher	Novelty Mfg. & Art Co. Ltd., Montreal	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/dateIssued	1915-1940	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/dateIssued/@qualifier	inferred	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/physicalDescription		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/physicalDescription/form		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/physicalDescription/extent	1 postcard booklet	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/note	[printer's no.] 2803/6	tkitagawa	PC006360	postcards	2	3.2
+	/mods/relatedItem/note/@type	public_on_back	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/note	A closer look at the Hotel MacDonald with the landscaping visible in the foreground.	tkitagawa	PC006360	postcards	2	3.2
+	/mods/relatedItem/note/@type	public_description	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC006360	postcards	4	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/country	Canada	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/province	Alberta	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/city	Edmonton	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC006360	postcards	4	3.2
+	/mods/relatedItem/subject/topic	Hotels	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC006360	postcards	4	3.2
+	/mods/relatedItem/subject/topic	Viewbooks	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC006360	postcards	4	3.2
+	/mods/relatedItem/subject/name		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject/name/@type	personal	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject/name/namePart	Hotel MacDonald (Edmonton, Alta.)	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location/physicalLocation		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/006/web/PC006360.6.jpg	tkitagawa	PC006360	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	raw object	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='800' height='440'	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/006/thumbs/PC006360.6.jpg	tkitagawa	PC006360	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	preview	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='200' height='110'	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem		tkitagawa	PC006360	postcards	11	3.2
+	/mods/relatedItem/@ID	7	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/@type	constituent	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/titleInfo		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/titleInfo/title	St. Joseph's College, University of Alberta  Edmonton, Alta.	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name/@type	personal	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name/namePart	Novelty Mfg & Art  Co., Ltd.	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name/role		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name/role/roleTerm	Publisher	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name/role/roleTerm/@type	text	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/place		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/place/placeTerm	Montreal	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/place/placeTerm/@type	text	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/publisher	Novelty Mfg. & Art Co. Ltd., Montreal	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/dateIssued	1926-1940	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/dateIssued/@qualifier	inferred	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/physicalDescription		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/physicalDescription/form		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/physicalDescription/extent	1 postcard booklet	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/note	[printer's no.] 2803/7	tkitagawa	PC006360	postcards	2	3.2
+	/mods/relatedItem/note/@type	public_on_back	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/note	A view of St. Joseph's College which was founded in 1926 as as an affiliated college of the University of Alberta.	tkitagawa	PC006360	postcards	2	3.2
+	/mods/relatedItem/note/@type	public_description	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC006360	postcards	4	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/country	Canada	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/province	Alberta	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/city	Edmonton	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC006360	postcards	4	3.2
+	/mods/relatedItem/subject/topic	Universities & colleges	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC006360	postcards	4	3.2
+	/mods/relatedItem/subject/topic	Viewbooks	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC006360	postcards	4	3.2
+	/mods/relatedItem/subject/name		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject/name/@type	personal	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject/name/namePart	St. Joseph's College (Edmonton, Alta.)	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location/physicalLocation		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/006/web/PC006360.7.jpg	tkitagawa	PC006360	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	raw object	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='800' height='452'	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/006/thumbs/PC006360.7.jpg	tkitagawa	PC006360	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	preview	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='200' height='113'	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem		tkitagawa	PC006360	postcards	11	3.2
+	/mods/relatedItem/@ID	8	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/@type	constituent	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/titleInfo		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/titleInfo/title	Medical Building, University of Alberta Edmonton, Alta.	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name/@type	personal	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name/namePart	Novelty Mfg. & Art Co. Ltd.	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name/role		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name/role/roleTerm	Publisher	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name/role/roleTerm/@type	text	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/place		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/place/placeTerm	Montreal	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/place/placeTerm/@type	text	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/publisher	Novelty Mfg. & Art Co. Ltd., Montreal	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/dateIssued	1913-1940	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/dateIssued/@qualifier	inferred	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/physicalDescription		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/physicalDescription/form		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/physicalDescription/extent	1 postcard booklet	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/note	[printer's no.] 2803/8	tkitagawa	PC006360	postcards	2	3.2
+	/mods/relatedItem/note/@type	public_on_back	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/note	This building housed the medical school which opened on the University of Alberta campus in 1913.	tkitagawa	PC006360	postcards	2	3.2
+	/mods/relatedItem/note/@type	public_description	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC006360	postcards	4	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/country	Canada	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/province	Alberta	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/city	Edmonton	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC006360	postcards	4	3.2
+	/mods/relatedItem/subject/topic	Universities & colleges	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC006360	postcards	4	3.2
+	/mods/relatedItem/subject/topic	Medical education	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC006360	postcards	4	3.2
+	/mods/relatedItem/subject/topic	Viewbooks	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location/physicalLocation		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/006/web/PC006360.8.jpg	tkitagawa	PC006360	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	raw object	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='800' height='423'	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/006/thumbs/PC006360.8.jpg	tkitagawa	PC006360	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	preview	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='200' height='106'	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem		tkitagawa	PC006360	postcards	11	3.2
+	/mods/relatedItem/@ID	9	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/@type	constituent	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/titleInfo		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/titleInfo/title	Royal Alexandra Hospital, Edmonton, Alta.	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name/@type	personal	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name/namePart	Novelty Mfg. & Art Co. Ltd.	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name/role		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name/role/roleTerm	Publisher	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name/role/roleTerm/@type	text	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/place		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/place/placeTerm	Montreal	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/place/placeTerm/@type	text	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/publisher	Novelty Mfg. & Art Co. Ltd., Montreal	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/dateIssued	1911-1940	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/physicalDescription		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/physicalDescription/form		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/physicalDescription/extent	1 postcard booklet	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/note	[printer's no.] 2803/9	tkitagawa	PC006360	postcards	2	3.2
+	/mods/relatedItem/note/@type	public_on_back	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/note	A view of the Royal Alexandra Hospital which opened in 1911.	tkitagawa	PC006360	postcards	2	3.2
+	/mods/relatedItem/note/@type	public_description	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC006360	postcards	5	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/country	Canada	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/province	Alberta	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/city	Edmonton	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC006360	postcards	5	3.2
+	/mods/relatedItem/subject/topic	Hospitals	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC006360	postcards	5	3.2
+	/mods/relatedItem/subject/topic	Automobiles	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC006360	postcards	5	3.2
+	/mods/relatedItem/subject/topic	Viewbooks	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC006360	postcards	5	3.2
+	/mods/relatedItem/subject/name		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject/name/@type	personal	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject/name/namePart	Royal Alexandra Hospital (Edmonton, Alta.)	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location/physicalLocation		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/006/web/PC006360.9.jpg	tkitagawa	PC006360	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	raw object	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='800' height='470'	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/006/thumbs/PC006360.9.jpg	tkitagawa	PC006360	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	preview	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='200' height='118'	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem		tkitagawa	PC006360	postcards	11	3.2
+	/mods/relatedItem/@ID	0	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/@type	constituent	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/titleInfo		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/titleInfo/title	Souvenir  Edmonton, Alta. Canada	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name/@type	personal	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name/namePart	Novelty Mfg. & Art Co. Ltd.	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name/role		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name/role/roleTerm	Publisher	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/name/role/roleTerm/@type	text	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/place		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/place/placeTerm	Montreal	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/place/placeTerm/@type	text	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/publisher	Novelty Mfg. & Art Co. Ltd., Montreal	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/dateIssued	1913-1940	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/originInfo/dateIssued/@qualifier	inferred	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/physicalDescription		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/physicalDescription/form		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/physicalDescription/extent	1 postcard booklet	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/note	[printer's no.] S.2803	tkitagawa	PC006360	postcards	2	3.2
+	/mods/relatedItem/note/@type	public_on_back	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/note	The cover of a booklet of fold-out postcards showing various Edmonton landmarks.	tkitagawa	PC006360	postcards	2	3.2
+	/mods/relatedItem/note/@type	public_description	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC006360	postcards	3	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/country	Canada	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/province	Alberta	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/city	Edmonton	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC006360	postcards	3	3.2
+	/mods/relatedItem/subject/topic	Cities & towns	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC006360	postcards	3	3.2
+	/mods/relatedItem/subject/topic	Viewbooks	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location/physicalLocation		tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/006/web/PC006360.jpg	tkitagawa	PC006360	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	raw object	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='800' height='543'	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/006/thumbs/PC006360.jpg	tkitagawa	PC006360	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	preview	tkitagawa	PC006360	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='200' height='114'	tkitagawa	PC006360	postcards	1	3.2
+	/mods/identifier	PC006360	tkitagawa	PC006360	postcards	1	3.2
+	/mods/identifier/@type	local	tkitagawa	PC006360	postcards	1	3.2
+	/mods/location		tkitagawa	PC006360	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 8	tkitagawa	PC006360	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC006360.html	tkitagawa	PC006360	postcards	1	3.2
+	/mods/location/url/@access	object in context	tkitagawa	PC006360	postcards	1	3.2
+	/mods/location/url/@usage	primary display	tkitagawa	PC006360	postcards	1	3.2
+	/mods/recordInfo		tkitagawa	PC006360	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	tkitagawa	tkitagawa	PC006360	postcards	2	3.2
+	/mods/recordInfo/recordContentSource	tkitagawa	tkitagawa	PC006360	postcards	2	3.2
+	/mods/recordInfo/recordContentSource/@authority	local:person	tkitagawa	PC006360	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	tkitagawa	PC006360	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC006360	tkitagawa	PC006360	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2010-05-06T13:15:18-0600	tkitagawa	PC006360	postcards	1	3.2
+	/@mods	
+
+Souvenir Edmonton, Alta, Canada
+
+
+Novelty Mfg & Art  Co., Ltd.
+
+Publisher
+
+
+still image
+postcards
+
+
+Montreal
+
+Novelty Mfg. & Art Co. Ltd., Montreal
+1913-1940
+monographic
+
+
+English
+
+
+
+
+60
+false
+true
+An accordion-style booklet of postcards of various Edmonton landmarks.
+[Printer's no.] S. 2803
+
+				Edmonton, AB
+			
+
+				
+Canada
+Alberta
+Edmonton
+
+			
+
+
+				Cityscapes
+			
+
+				Railroad stations
+			
+
+				Bridges
+			
+
+				Capitols
+			
+
+				Hotels
+			
+
+				Universities & colleges
+			
+
+				Hospitals
+			
+
+				Public libraries
+			
+
+				
+Canadian National Railway Station (Edmonton, Alta.)
+
+			
+
+				
+High Level Bridge (Edmonton, Alta.)
+
+			
+
+				
+Legislative Building (Edmonton, Alta.)
+
+			
+
+				
+Hotel MacDonald (Edmonton, Alta.)
+
+			
+
+				
+St. Joseph's College (Edmonton, Alta.)
+
+			
+
+				
+University of Alberta. Medical Building
+
+			
+
+				
+Royal Alexandra Hospitals (Edmonton, Alta.)
+
+			
+
+				
+Edmonton Public Library. Central Library
+
+			
+
+
+Bird's Eye View of Edmonton, Alta.
+
+
+Novelty Mfg. & Art Co., Ltd.
+
+Publisher
+
+
+
+
+Montreal
+
+Novelty Mfg & Art  Co., Ltd. Montreal
+1913-1940
+
+
+
+1 postcard booklet
+
+[printer's no.] 2803/1
+An overhead view of residential and commercial districts of Edmonton.
+
+				
+Canada
+Alberta
+Edmonton
+
+			
+
+				Cityscapes
+			
+
+				Cities & towns
+			
+
+				Viewbooks
+			
+
+
+http://peel.library.ualberta.ca/pcimages/PC/006/web/PC006360.1.jpg
+http://peel.library.ualberta.ca/pcimages/PC/006/thumbs/PC006360.1.jpg
+
+
+
+
+Public Library, Edmonton, Alta.
+
+
+Novelty Mfg & Art  Co., Ltd.
+
+Publisher
+
+
+
+
+Montreal
+
+Novelty Mfg & Art  Co., Ltd. Montreal
+
+
+
+1 postcard booklet
+
+[printer's no.] 2803-10
+A view of what was possibly the first public library built in Edmonton.
+
+				
+Canada
+Alberta
+Edmonton
+
+			
+
+				Public libraries
+			
+
+				Viewbooks
+			
+
+				
+Edmonton Public Library (Edmonton, Alta.)
+
+			
+
+
+http://peel.library.ualberta.ca/pcimages/PC/006/web/PC006360.10.jpg
+http://peel.library.ualberta.ca/pcimages/PC/006/thumbs/PC006360.10.jpg
+
+
+
+
+Canadian National Railways Station, Edmonton, Alta.
+
+
+Novelty Mfg. & Art Co., Ltd
+
+Publisher
+
+
+
+
+Montreal
+
+Novelty Mfg. & Art Co., Ltd.  Montreal
+1913-1940
+
+
+
+1 postcard booklet
+
+[printer's no.] 2803/2
+Men entering and exiting the C.N.R. train station.
+
+				
+Canada
+Alberta
+Edmonton
+
+			
+
+				Railroad stations
+			
+
+				Automobiles
+			
+
+				Viewbooks
+			
+
+				
+Canadian Railways Station (Edmonton, Alta.)
+
+			
+
+
+http://peel.library.ualberta.ca/pcimages/PC/006/web/PC006360.2.jpg
+http://peel.library.ualberta.ca/pcimages/PC/006/thumbs/PC006360.2.jpg
+
+
+
+
+High Level Bridge, Edmonton, Alta.
+
+
+Novelty Mfg. & Art Co., Ltd.
+
+Publisher
+
+
+
+
+Montreal
+
+Novelty Mfg. & Art Co., Ltd.  Montreal
+1913-1940
+
+
+
+1 postcard booklet
+
+[printer's no.] 2803/3
+A view of the High Level Bridge with a streetcar passing overhead.
+
+				
+Canada
+Alberta
+Edmonton
+
+			
+
+				Bridges
+			
+
+				Street railroads
+			
+
+				Viewbooks
+			
+
+				
+High Level Bridge (Edmonton, Alta.)
+
+			
+
+
+http://peel.library.ualberta.ca/pcimages/PC/006/web/PC006360.3.jpg
+http://peel.library.ualberta.ca/pcimages/PC/006/thumbs/PC006360.3.jpg
+
+
+
+
+Parliament Buildings, Edmonton, Alta.
+
+
+Novelty Mfg. & Art Co., Ltd.
+
+Publisher
+
+
+
+
+Montreal
+
+Novelty Mfg. & Art Co., Ltd.  Montreal
+1913-1940
+
+
+
+1 postcard booklet
+
+[printer's no.] 2803/4
+A view of the Alberta Legislature with a garden park in the foreground.
+
+				
+Canada
+Alberta
+Edmonton
+
+			
+
+				Capitols
+			
+
+				Government facilities
+			
+
+				Viewbooks
+			
+
+				
+Legislative Building (Edmonton, Alta.)
+
+			
+
+
+http://peel.library.ualberta.ca/pcimages/PC/006/web/PC006360.4.jpg
+http://peel.library.ualberta.ca/pcimages/PC/006/thumbs/PC006360.4.jpg
+
+
+
+
+Mac Donald Hotel, Can. Natl. Rys. Edmonton, Alta.
+
+
+Novelty Mfg & Art  Co., Ltd.
+
+Publisher
+
+
+
+
+Montreal
+
+Novelty Mfg. & Art Co. Ltd., Montreal
+1915-1940
+
+
+
+1 postcard booklet
+
+[printer's no.] 2803/5
+A view of the Hotel MacDonald from the south side of the North Saskatchewan River. The hotel was built between 1912 and 1915 by the Grand Trunk Pacific Railway, and since then it has been successively owned by the Canadian National Railways, Canadian Pacific Hotels, and Fairmont Hotels and Resorts.
+
+				
+Canada
+Alberta
+Edmonton
+
+			
+
+				Hotels
+			
+
+				Viewbooks
+			
+
+				
+Hotel MacDonald (Edmonton, Alta.)
+
+			
+
+
+http://peel.library.ualberta.ca/pcimages/PC/006/web/PC006360.5.jpg
+http://peel.library.ualberta.ca/pcimages/PC/006/thumbs/PC006360.5.jpg
+
+
+
+
+Mac Donald Hotel, Can. Natl. Rys. Edmonton, Alta.
+
+
+Novelty Mfg & Art  Co., Ltd.
+
+Publisher
+
+
+
+
+Montreal
+
+Novelty Mfg. & Art Co. Ltd., Montreal
+1915-1940
+
+
+
+1 postcard booklet
+
+[printer's no.] 2803/6
+A closer look at the Hotel MacDonald with the landscaping visible in the foreground.
+
+				
+Canada
+Alberta
+Edmonton
+
+			
+
+				Hotels
+			
+
+				Viewbooks
+			
+
+				
+Hotel MacDonald (Edmonton, Alta.)
+
+			
+
+
+http://peel.library.ualberta.ca/pcimages/PC/006/web/PC006360.6.jpg
+http://peel.library.ualberta.ca/pcimages/PC/006/thumbs/PC006360.6.jpg
+
+
+
+
+St. Joseph's College, University of Alberta  Edmonton, Alta.
+
+
+Novelty Mfg & Art  Co., Ltd.
+
+Publisher
+
+
+
+
+Montreal
+
+Novelty Mfg. & Art Co. Ltd., Montreal
+1926-1940
+
+
+
+1 postcard booklet
+
+[printer's no.] 2803/7
+A view of St. Joseph's College which was founded in 1926 as as an affiliated college of the University of Alberta.
+
+				
+Canada
+Alberta
+Edmonton
+
+			
+
+				Universities & colleges
+			
+
+				Viewbooks
+			
+
+				
+St. Joseph's College (Edmonton, Alta.)
+
+			
+
+
+http://peel.library.ualberta.ca/pcimages/PC/006/web/PC006360.7.jpg
+http://peel.library.ualberta.ca/pcimages/PC/006/thumbs/PC006360.7.jpg
+
+
+
+
+Medical Building, University of Alberta Edmonton, Alta.
+
+
+Novelty Mfg. & Art Co. Ltd.
+
+Publisher
+
+
+
+
+Montreal
+
+Novelty Mfg. & Art Co. Ltd., Montreal
+1913-1940
+
+
+
+1 postcard booklet
+
+[printer's no.] 2803/8
+This building housed the medical school which opened on the University of Alberta campus in 1913.
+
+				
+Canada
+Alberta
+Edmonton
+
+			
+
+				Universities & colleges
+			
+
+				Medical education
+			
+
+				Viewbooks
+			
+
+
+http://peel.library.ualberta.ca/pcimages/PC/006/web/PC006360.8.jpg
+http://peel.library.ualberta.ca/pcimages/PC/006/thumbs/PC006360.8.jpg
+
+
+
+
+Royal Alexandra Hospital, Edmonton, Alta.
+
+
+Novelty Mfg. & Art Co. Ltd.
+
+Publisher
+
+
+
+
+Montreal
+
+Novelty Mfg. & Art Co. Ltd., Montreal
+1911-1940
+
+
+
+1 postcard booklet
+
+[printer's no.] 2803/9
+A view of the Royal Alexandra Hospital which opened in 1911.
+
+				
+Canada
+Alberta
+Edmonton
+
+			
+
+				Hospitals
+			
+
+				Automobiles
+			
+
+				Viewbooks
+			
+
+				
+Royal Alexandra Hospital (Edmonton, Alta.)
+
+			
+
+
+http://peel.library.ualberta.ca/pcimages/PC/006/web/PC006360.9.jpg
+http://peel.library.ualberta.ca/pcimages/PC/006/thumbs/PC006360.9.jpg
+
+
+
+
+Souvenir  Edmonton, Alta. Canada
+
+
+Novelty Mfg. & Art Co. Ltd.
+
+Publisher
+
+
+
+
+Montreal
+
+Novelty Mfg. & Art Co. Ltd., Montreal
+1913-1940
+
+
+
+1 postcard booklet
+
+[printer's no.] S.2803
+The cover of a booklet of fold-out postcards showing various Edmonton landmarks.
+
+				
+Canada
+Alberta
+Edmonton
+
+			
+
+				Cities & towns
+			
+
+				Viewbooks
+			
+
+
+http://peel.library.ualberta.ca/pcimages/PC/006/web/PC006360.jpg
+http://peel.library.ualberta.ca/pcimages/PC/006/thumbs/PC006360.jpg
+
+
+PC006360
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 8
+http://peel.library.ualberta.ca/postcards/PC006360.html
+
+
+tkitagawa
+tkitagawa
+2007-06-25T16:49:56-0600
+PC006360
+2010-05-06T13:15:18-0600
+
+	tkitagawa	PC006360	postcards	1	3.2
+	

@@ -1,0 +1,99 @@
+Path	Content	URL	Form or Genre	Occurrence	MODS version
+
+    /mods/titleInfo			Photograph Negative	1	3.3
+/mods/titleInfo/title	[Woman and four boys standing in a field]		Photograph Negative	1	3.3
+
+    /mods/name			Photograph Negative	3	3.3
+/mods/name/@type	corporate		Photograph Negative	1	3.3
+/mods/name/namePart	University of Lethbridge		Photograph Negative	1	3.3
+/mods/name/role			Photograph Negative	1	3.3
+/mods/name/role/roleTerm	digitizing institution		Photograph Negative	1	3.3
+/mods/name/role/roleTerm/@type	text		Photograph Negative	1	3.3
+
+    /mods/name			Photograph Negative	3	3.3
+/mods/name/@type	personal		Photograph Negative	1	3.3
+/mods/name/namePart	Thomas B. Magee, 1862-1930		Photograph Negative	1	3.3
+/mods/name/role			Photograph Negative	1	3.3
+/mods/name/role/roleTerm	photographer		Photograph Negative	1	3.3
+/mods/name/role/roleTerm/@type	text		Photograph Negative	1	3.3
+
+    /mods/name			Photograph Negative	3	3.3
+/mods/name/@type	personal		Photograph Negative	1	3.3
+/mods/name/namePart	Henry L. Magee, 1896-1966		Photograph Negative	1	3.3
+/mods/name/role			Photograph Negative	1	3.3
+/mods/name/role/roleTerm	photographer		Photograph Negative	1	3.3
+/mods/name/role/roleTerm/@type	text		Photograph Negative	1	3.3
+
+    /mods/originInfo			Photograph Negative	1	3.3
+/mods/originInfo/publisher			Photograph Negative	1	3.3
+/mods/originInfo/dateCaptured	2007-08-20		Photograph Negative	1	3.3
+/mods/originInfo/dateCreated	1910		Photograph Negative	2	3.3
+/mods/originInfo/dateCreated/@point	start		Photograph Negative	1	3.3
+/mods/originInfo/dateCreated	1945		Photograph Negative	2	3.3
+/mods/originInfo/dateCreated/@point	end		Photograph Negative	1	3.3
+
+    /mods/language			Photograph Negative	1	3.3
+/mods/language/languageTerm			Photograph Negative	1	3.3
+/mods/language/languageTerm/@authority	iso639-2b		Photograph Negative	1	3.3
+/mods/language/languageTerm/@type	code		Photograph Negative	1	3.3
+
+    /mods/note	A woman and four boys standing in a field, with a fence and
+      road off to the side.		Photograph Negative	4	3.3
+/mods/note/@type	public_description		Photograph Negative	1	3.3
+
+    /mods/subject			Photograph Negative	5	3.3
+/mods/subject/geographic	Montana		Photograph Negative	1	3.3
+
+    /mods/subject			Photograph Negative	5	3.3
+/mods/subject/topic	Photography Negatives		Photograph Negative	1	3.3
+
+    /mods/subject			Photograph Negative	5	3.3
+/mods/subject/topic	Children		Photograph Negative	1	3.3
+
+    /mods/subject			Photograph Negative	5	3.3
+/mods/subject/topic	Women		Photograph Negative	1	3.3
+
+    /mods/subject			Photograph Negative	5	3.3
+/mods/subject/topic	Roads		Photograph Negative	1	3.3
+
+    /mods/typeOfResource	still image		Photograph Negative	1	3.3
+
+    /mods/genre	Photograph Negative		Photograph Negative	1	3.3
+
+    /mods/physicalDescription			Photograph Negative	1	3.3
+/mods/physicalDescription/extent	91mm x 61mm		Photograph Negative	1	3.3
+
+    /mods/identifier	MGNGBG0365.tif		Photograph Negative	1	3.3
+
+    /mods/recordInfo			Photograph Negative	1	3.3
+/mods/recordInfo/recordContentSource	University of Lethbridge Library		Photograph Negative	1	3.3
+/mods/recordInfo/recordIdentifier	MGNGBG0365		Photograph Negative	1	3.3
+
+    /mods/relatedItem			Photograph Negative	1	3.3
+/mods/relatedItem/@type	original		Photograph Negative	1	3.3
+/mods/relatedItem/titleInfo			Photograph Negative	1	3.3
+/mods/relatedItem/titleInfo/title	Magee Collection, University of Alberta Special Collections		Photograph Negative	1	3.3
+
+    /mods/note	magee		Photograph Negative	4	3.3
+/mods/note/@type	local:oaiset		Photograph Negative	1	3.3
+
+  /mods/note	images		Photograph Negative	4	3.3
+/mods/note/@type	local:oaiset		Photograph Negative	1	3.3
+
+  /mods/note	Title supplied by University of Alberta Libraries.		Photograph Negative	4	3.3
+/mods/note/@type	public		Photograph Negative	1	3.3
+
+/mods/location			Photograph Negative	1	3.3
+/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Magee Photo Collection, Bagged Negatives		Photograph Negative	1	3.3
+/mods/location/url	http://peel.library.ualberta.ca/magee/MGNGBG0365.html		Photograph Negative	3	3.3
+/mods/location/url/@usage	primary display		Photograph Negative	1	3.3
+/mods/location/url/@access	object in context		Photograph Negative	1	3.3
+/mods/location/url	http://peel.library.ualberta.ca/peelimages/MG/web/MGNGBG0365.jpg		Photograph Negative	3	3.3
+/mods/location/url/@note	width='600' height='401' 		Photograph Negative	1	3.3
+/mods/location/url/@access	raw object		Photograph Negative	1	3.3
+/mods/location/url	http://peel.library.ualberta.ca/peelimages/MG/thumbs/MGNGBG0365.jpg		Photograph Negative	3	3.3
+/mods/location/url/@note	width='200' height='134'		Photograph Negative	1	3.3
+/mods/location/url/@access	preview		Photograph Negative	1	3.3
+
+    
+  

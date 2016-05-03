@@ -1,0 +1,129 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.2
+	/mods/@version	3.2		1	3.2
+	/mods/titleInfo			1	3.2
+	/mods/titleInfo/title	Hotel Act of 1915		1	3.2
+	/mods/titleInfo/subTitle	An explanation of the purposes and provisions of the Act		1	3.2
+	/mods/titleInfo/nonSort	The 		1	3.2
+	/mods/name			1	3.2
+	/mods/name/@type	corporate		1	3.2
+	/mods/name/@href	MA002201		1	3.2
+	/mods/name/namePart	Saskatchewan.		2	3.2
+	/mods/name/namePart	Office of the Director of Public Accommodation.		2	3.2
+	/mods/typeOfResource	text		1	3.2
+	/mods/originInfo			1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	snc		1	3.2
+	/mods/originInfo/place/placeTerm/@authority	marccountry		1	3.2
+	/mods/originInfo/place/placeTerm/@type	code		1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	Regina		1	3.2
+	/mods/originInfo/place/placeTerm/@type	text		1	3.2
+	/mods/originInfo/publisher	Office of the Director of Public Accommodation		1	3.2
+	/mods/originInfo/dateIssued	1915		1	3.2
+	/mods/originInfo/issuance	monographic		1	3.2
+	/mods/language			1	3.2
+	/mods/language/languageTerm	eng		1	3.2
+	/mods/language/languageTerm/@authority	iso639-2b		1	3.2
+	/mods/language/languageTerm/@type	code		1	3.2
+	/mods/physicalDescription			1	3.2
+	/mods/physicalDescription/form	print		1	3.2
+	/mods/physicalDescription/form/@authority	marcform		1	3.2
+	/mods/physicalDescription/extent	21 p. ; 26 cm.		1	3.2
+	/mods/note	issued by the Director of Public Accommodation.		6	3.2
+	/mods/note/@type	statement of responsibility		1	3.2
+	/mods/note	Title from cover.		6	3.2
+	/mods/note	"July 10, 1915."		6	3.2
+	/mods/note	http://chelsea.library.ualberta.ca:8081/peel_master/select/?q=%28authorAuthority%3A%22Saskatchewan%22%29+OR+%28subjectAuthority%3A%22Hotels--Law+and+legislation--Saskatchewan%22%29&fl=id+authorAuthority+authorDates+subjectAuthority+authorityAuthority&rows=100		6	3.2
+	/mods/note/@type	solr		1	3.2
+	/mods/note	DOA: 1915 Spatial: Saskatchewan		6	3.2
+	/mods/note/@type	local		1	3.2
+	/mods/note	Cover title.		6	3.2
+	/mods/note/@type	public		1	3.2
+	/mods/subject			1	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/topic	Hotels		2	3.2
+	/mods/subject/topic	Law and legislation		2	3.2
+	/mods/subject/geographic	Saskatchewan		1	3.2
+	/mods/relatedItem			1	3.2
+	/mods/relatedItem/@type	constituent		1	3.2
+	/mods/relatedItem/titleInfo			1	3.2
+	/mods/relatedItem/titleInfo/title	Hotel Act		1	3.2
+	/mods/relatedItem/name			1	3.2
+	/mods/relatedItem/name/@type	personal		1	3.2
+	/mods/relatedItem/name/namePart	Saskatchewan.		1	3.2
+	/mods/identifier	3979591		3	3.2
+	/mods/identifier/@type	local:neos		1	3.2
+	/mods/identifier	N008831		3	3.2
+	/mods/identifier/@type	local:peel_new		1	3.2
+	/mods/identifier	9459		3	3.2
+	/mods/identifier/@type	local:peel3		1	3.2
+	/mods/recordInfo			1	3.2
+	/mods/recordInfo/recordContentSource	fsalehi		2	3.2
+	/mods/recordInfo/recordContentSource	RC		2	3.2
+	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.2
+	/mods/recordInfo/recordCreationDate	2007-09-07T12:00:00-0700		1	3.2
+	/mods/recordInfo/recordIdentifier	P009459		1	3.2
+	/mods/recordInfo/recordChangeDate	2010-07-02T15:32:16-0600		1	3.2
+	/@mods	
+
+Hotel Act of 1915
+An explanation of the purposes and provisions of the Act
+The 
+
+
+Saskatchewan.
+Office of the Director of Public Accommodation.
+
+text
+
+
+snc
+
+
+Regina
+
+Office of the Director of Public Accommodation
+1915
+monographic
+
+
+eng
+
+
+print
+21 p. ; 26 cm.
+
+issued by the Director of Public Accommodation.
+Title from cover.
+"July 10, 1915."
+http://chelsea.library.ualberta.ca:8081/peel_master/select/?q=%28authorAuthority%3A%22Saskatchewan%22%29+OR+%28subjectAuthority%3A%22Hotels--Law+and+legislation--Saskatchewan%22%29&fl=id+authorAuthority+authorDates+subjectAuthority+authorityAuthority&rows=100
+DOA: 1915 Spatial: Saskatchewan
+Cover title.
+
+				Hotels
+			
+				Law and legislation
+			
+				Saskatchewan
+			
+
+
+Hotel Act
+
+
+Saskatchewan.
+
+
+3979591
+N008831
+9459
+
+fsalehi
+RC
+2007-09-07T12:00:00-0700
+P009459
+2010-07-02T15:32:16-0600
+
+		1	3.2
+	

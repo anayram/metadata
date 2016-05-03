@@ -1,0 +1,118 @@
+Path	Content	URL	Form or Genre	Occurrence	MODS version
+
+/mods/titleInfo		http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+/mods/titleInfo/title	grain growers' guide	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+/mods/titleInfo/nonSort	The 	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+
+/mods/name		http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	3	3.2
+/mods/name/namePart	United Farmers of Manitoba	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+
+/mods/name		http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	3	3.2
+/mods/name/namePart	Saskatchewan Grain Growers' Association	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+
+/mods/name		http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	3	3.2
+/mods/name/namePart	United Farmers of Alberta	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+
+/mods/typeOfResource	text	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+
+/mods/genre	newspaper	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+/mods/genre/@authority	marcgt	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+
+/mods/originInfo		http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+/mods/originInfo/place		http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	2	3.2
+/mods/originInfo/place/placeTerm	mbc	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@authority	marccountry	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@type	code	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+/mods/originInfo/place		http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	2	3.2
+/mods/originInfo/place/placeTerm	Winnipeg	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@type	text	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+/mods/originInfo/publisher	Published by the Organized Farmers.	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+/mods/originInfo/dateIssued	1908	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	3	3.2
+/mods/originInfo/dateIssued/@encoding	marc	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+/mods/originInfo/dateIssued/@point	start	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+/mods/originInfo/dateIssued	1928	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	3	3.2
+/mods/originInfo/dateIssued/@encoding	marc	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+/mods/originInfo/dateIssued/@point	end	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+/mods/originInfo/dateIssued	1908-1928	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	3	3.2
+/mods/originInfo/issuance	continuing	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+/mods/originInfo/frequency	Weekly	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+
+/mods/language		http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+/mods/language/languageTerm	eng	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+/mods/language/languageTerm/@authority	iso639-2b	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+/mods/language/languageTerm/@type	code	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+
+/mods/physicalDescription		http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+/mods/physicalDescription/form	print	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+/mods/physicalDescription/form/@authority	marcform	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+/mods/physicalDescription/extent	v. : ill. ; 36 cm.	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+
+/mods/note	Also available online.	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	6	3.2
+/mods/note/@type	additional physical form	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+
+/mods/note	Official organ of the United Farmers of Manitoba, the Saskatchewan Grain Growers' Association and the United Farmers of Alberta.	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	6	3.2
+
+/mods/note	DOA: Spatial:	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	6	3.2
+/mods/note/@type	local	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+
+/mods/note	<i>Grain Growers' Guide</i> (1908-1928) is described as "the most important publication of the early farm movement." (<i>The Encyclopedia of Saskatchewan</i>). It was first published by the Grain Growers Grain Company (G.G.G.C.) under the editorial leadership of E.A. Partridge, one of the founders of the farming cooperative. From vol. 21, no. 7 (2 April 1928) to vol. 29, no. 5 (May 1936), issued under the title <i>Country Guide</i>, which continues to be published in Winnipeg by the United Grain Growers.	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	6	3.2
+/mods/note/@type	public	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+
+    /mods/note	In [1936], merges with <i>The Nor'west farmer</i> to form <i>The country guide and Nor-west farmer</i>. These publications - <i>The Nor'west farmer</i>, Winnipeg: Nor'west Farmer, 1882-1936 and <i>The country guide and Nor-west farmer</i>, Winnipeg: [s.n.], 1936-1942 - are described separately in the bibliography. 	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	6	3.2
+/mods/note/@type	public	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+
+/mods/note	newspapers	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	6	3.2
+/mods/note/@type	local:oaiset	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+
+/mods/subject		http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	3	3.2
+/mods/subject/geographicCode	n-cnp--	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+/mods/subject/geographicCode/@authority	marcgac	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+
+/mods/subject		http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	3	3.2
+/mods/subject/@authority	lcsh	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+/mods/subject/topic	Agriculture	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+/mods/subject/geographic	Prairie Provinces	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+
+    /mods/subject		http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	3	3.2
+/mods/subject/hierarchicalGeographic		http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/country	Canada	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/region	Western Canada	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+
+/mods/identifier	0383-7157	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	6	3.2
+/mods/identifier/@type	issn	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+
+/mods/identifier	cn 76302256	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	6	3.2
+/mods/identifier/@type	lccn	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+
+/mods/identifier	http://peel.library.ualberta.ca/newspapers/GGG/	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	6	3.2
+/mods/identifier/@type	uri	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+
+/mods/identifier	4318418	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	6	3.2
+/mods/identifier/@type	local:neos	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+
+/mods/identifier	GGG	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	6	3.2
+/mods/identifier/@type	local:newspaper	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+
+    /mods/identifier	N017966	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	6	3.2
+/mods/identifier/@type	local:peel_new	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+
+    /mods/location		http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+/mods/location/physicalLocation	CaAEU	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+/mods/location/physicalLocation/@authority	marcorg	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+/mods/location/holdingSimple		http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation		http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/form	electronic	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/form/@authority	marcform	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/electronicLocator	http://peel.library.ualberta.ca/newspapers/GGG/	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/enumerationAndChronology	v.2(1909)-v.12(1919)	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/enumerationAndChronology/@unitType	1	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+
+    /mods/recordInfo		http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+/mods/recordInfo/recordContentSource	CaOONL	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	2	3.2
+/mods/recordInfo/recordContentSource/@authority	marcorg	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+/mods/recordInfo/recordContentSource	RC	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	2	3.2
+/mods/recordInfo/recordContentSource/@authority	local:person	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+/mods/recordInfo/recordCreationDate	2009-03-26T14:27:52-0700	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+/mods/recordInfo/recordIdentifier	QGGG	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+/mods/recordInfo/recordChangeDate	2009-04-01T19:36:13-0700	http://peel.library.ualberta.ca/newspapers/GGG.html	newspaper	1	3.2
+

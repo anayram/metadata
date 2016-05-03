@@ -1,0 +1,117 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@schemaLocation	http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	Discours de Sir Charles Tupper sur les résolutions du chemin de fer du Pacifique canadien, 5 février 1884		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA004924		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Tupper, Charles (Sir)		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	1821-1915.		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart/@type	date		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/description	1821-1915. Born Nova Scotia; educated Nova Scotia and Edinburgh; physician; politician in Nova Scotia and Ottawa; one of "Fathers of Confederation"; Minister of Railways and Canals for Canada, 1879-1884; Prime Minister briefly; retired from public life, 1900; created C.B. (1867), K.C.M.G. (1879), G.C.M.G. (1886), and baronet of the United Kingdom (1888) (Wallace, <i>Dictionary of Canadian biography</i>).		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	[Ottawa]		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	[s.n.]		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1884		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued/@qualifier	inferred		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	French		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	68 p.; 22 cm.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	For English version  <i>see </i>Peel <xref>1300</xref>. 		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	public		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			5	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	Other		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000719		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Canada--Transportation		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			5	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003750		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Railroads		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			5	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003750		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Railroads		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			5	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003750		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Chemins de fer		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			5	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1884		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	1299		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	1297		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel-procite-id		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P001299		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+    
+        Discours de Sir Charles Tupper sur les résolutions du chemin de fer du Pacifique canadien, 5 février 1884
+    
+    
+        Tupper, Charles (Sir)
+        1821-1915.
+        
+            author
+        
+        1821-1915. Born Nova Scotia; educated Nova Scotia and Edinburgh; physician; politician in Nova Scotia and Ottawa; one of "Fathers of Confederation"; Minister of Railways and Canals for Canada, 1879-1884; Prime Minister briefly; retired from public life, 1900; created C.B. (1867), K.C.M.G. (1879), G.C.M.G. (1886), and baronet of the United Kingdom (1888) (Wallace, <i>Dictionary of Canadian biography</i>).
+    
+    text
+    
+        
+            [Ottawa]
+        
+        [s.n.]
+        1884
+    
+    
+        French
+    
+    
+        print
+        68 p.; 22 cm.
+    
+    For English version  <i>see </i>Peel <xref>1300</xref>. 
+    
+        Canada--Transportation
+    
+    
+        Railroads
+    
+    
+        Railroads
+    
+    
+        Chemins de fer
+    
+    
+        1884
+    
+    1299
+    1297
+    
+        Peel's Prairie Portal
+        P001299
+        2003-01-01T12:00:00-0700
+    
+		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

@@ -1,0 +1,120 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@schemaLocation	http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	Fertility and prosperity		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA000625		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	corporate		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Edmonton. Board of Trade		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	Edmonton		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	Board of Trade		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1905		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	English		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	40 p., illus.; 15 cm.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	History, Local--Alberta--Edmonton		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	Other		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS001240		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Edmonton, Alberta--Commerce		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	CanThes		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS001241		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Edmonton, Alberta--Description and travel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS001395		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Farms		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS001395		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Exploitations agricoles		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1905		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	1210A		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	1816		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel2		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	2846		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	2843		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel-procite-id		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P002846		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+    
+        Fertility and prosperity
+    
+    
+        Edmonton. Board of Trade
+        
+            author
+        
+    
+    text
+    
+        
+            Edmonton
+        
+        Board of Trade
+        1905
+    
+    
+        English
+    
+    
+        print
+        40 p., illus.; 15 cm.
+    
+    
+        History, Local--Alberta--Edmonton
+    
+    
+        Edmonton, Alberta--Commerce
+    
+    
+        Edmonton, Alberta--Description and travel
+    
+    
+        Farms
+    
+    
+        Exploitations agricoles
+    
+    
+        1905
+    
+    1210A
+    1816
+    2846
+    2843
+    
+        Peel's Prairie Portal
+        P002846
+        2003-01-01T12:00:00-0700
+    
+		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

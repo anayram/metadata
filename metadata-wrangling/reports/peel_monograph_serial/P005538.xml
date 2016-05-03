@@ -1,0 +1,160 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	Grasshopper control in Canada east of the Rocky Mountains		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA001305		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Criddle, Norman		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	1875-1933.		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart/@type	date		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/description	1875-1933. Noted naturalist and artist from the Brandon, Manitoba area.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	Ottawa		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	Department of Agriculture		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1931		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	English		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	[2], 3-18, [2] p., illus.; 25 cm.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	"March, 1931." Also published, <i>The control of grasshoppers in Canada, east of the Rocky Mountains </i>, Ottawa: Department of Agriculture, 1932 (pamphlet no. 146).		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	public		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	The 1932 edition also issued in French as <i>Guerre aux Sauterelles!: comment combattre les criquets (sauterelles) que l'on trouve au Canada, à l'est des Montagnes Rocheuses</i>, Ottawa: Ministère fédéral de l'agriculture, 1932.		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	public		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	main		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	local:frbr		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	The Wheat Economy--Agriculture		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	Other		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002235		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Insects--Injurious and beneficial		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002235		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Beneficial insects		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002235		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Insect pests		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002235		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Insectes utiles		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002235		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Insectes nuisibles		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003554		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Prairie Provinces--Description and travel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1931		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem			2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@ID	t2		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@displayLabel	1932 ed.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@type	otherVersion		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@href	N020380		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem			2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@ID	t3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@displayLabel	French ed.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@type	otherVersion		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@href	N020381		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	5538		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	5532		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel-procite-id		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	RC		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P005538		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordChangeDate	2011-05-21T09:49:52-0600		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+
+Grasshopper control in Canada east of the Rocky Mountains
+
+
+Criddle, Norman
+1875-1933.
+
+author
+
+1875-1933. Noted naturalist and artist from the Brandon, Manitoba area.
+
+text
+
+
+Ottawa
+
+Department of Agriculture
+1931
+
+
+English
+
+
+print
+[2], 3-18, [2] p., illus.; 25 cm.
+
+"March, 1931." Also published, <i>The control of grasshoppers in Canada, east of the Rocky Mountains </i>, Ottawa: Department of Agriculture, 1932 (pamphlet no. 146).
+The 1932 edition also issued in French as <i>Guerre aux Sauterelles!: comment combattre les criquets (sauterelles) que l'on trouve au Canada, à l'est des Montagnes Rocheuses</i>, Ottawa: Ministère fédéral de l'agriculture, 1932.
+main
+
+				The Wheat Economy--Agriculture
+			
+
+				Insects--Injurious and beneficial
+			
+
+				Beneficial insects
+			
+
+				Insect pests
+			
+
+				Insectes utiles
+			
+
+				Insectes nuisibles
+			
+
+				Prairie Provinces--Description and travel
+			
+
+				1931
+			
+
+
+5538
+5532
+
+Peel's Prairie Portal
+RC
+2003-01-01T12:00:00-0700
+P005538
+2011-05-21T09:49:52-0600
+
+		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

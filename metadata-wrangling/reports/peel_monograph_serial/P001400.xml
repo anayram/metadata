@@ -1,0 +1,152 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@schemaLocation	http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	Discours de l'honorable M. Chapleau sur les résolutions du chemin de fer Canadien du Pacifique, Chambre des Commumes [sic], 16 juin 1885		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA000237		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Chapleau, Joseph-Adolphe (Sir)		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	1840-1898.		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart/@type	date		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/description	1840-1898. Born and educated in Quebec; prime minister of Quebec, 1879-1882; secretary of state for Canada, 1882-1892; lieutenant-governor of Quebec, 1892-1898; created K.C.M.G., 1896 (Wallace, <i>Dictionary of Canadian biography</i>).		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	Ottawa		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	Impr. MacLean, Roger & Co.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1885		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	French		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	68 p.; 22 cm.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	For English version  <i>see </i>Peel <xref>1405</xref>. 		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	public		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			9	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Communications--Canadian Pacific Railway		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			9	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	Other		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000707		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Canada--Parliament		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			9	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	Other		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000719		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Canada--Transportation		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			9	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003750		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Railroads		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			9	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003750		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Railroads		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			9	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003750		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Chemins de fer		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			9	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS004321		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Speeches, addresses, etc.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			9	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS004321		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Discours		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			9	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1885		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	591		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	801		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel2		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	1400		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	1398		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel-procite-id		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P001400		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+    
+        Discours de l'honorable M. Chapleau sur les résolutions du chemin de fer Canadien du Pacifique, Chambre des Commumes [sic], 16 juin 1885
+    
+    
+        Chapleau, Joseph-Adolphe (Sir)
+        1840-1898.
+        
+            author
+        
+        1840-1898. Born and educated in Quebec; prime minister of Quebec, 1879-1882; secretary of state for Canada, 1882-1892; lieutenant-governor of Quebec, 1892-1898; created K.C.M.G., 1896 (Wallace, <i>Dictionary of Canadian biography</i>).
+    
+    text
+    
+        
+            Ottawa
+        
+        Impr. MacLean, Roger & Co.
+        1885
+    
+    
+        French
+    
+    
+        print
+        68 p.; 22 cm.
+    
+    For English version  <i>see </i>Peel <xref>1405</xref>. 
+    
+        Communications--Canadian Pacific Railway
+    
+    
+        Canada--Parliament
+    
+    
+        Canada--Transportation
+    
+    
+        Railroads
+    
+    
+        Railroads
+    
+    
+        Chemins de fer
+    
+    
+        Speeches, addresses, etc.
+    
+    
+        Discours
+    
+    
+        1885
+    
+    591
+    801
+    1400
+    1398
+    
+        Peel's Prairie Portal
+        P001400
+        2003-01-01T12:00:00-0700
+    
+		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

@@ -1,0 +1,113 @@
+Path	Content	URL	Form or Genre	Occurrence	MODS version
+
+/mods/titleInfo		http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	1	3.3
+/mods/titleInfo/title	Irrigation canals in southern Alberta	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/name		http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	1	3.3
+/mods/name/@type	corporate	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	1	3.3
+/mods/name/namePart	Commission of Conservation	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/typeOfResource	cartographic	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/genre	map	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	3	3.3
+/mods/genre/@authority	marcgt	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/genre	Digital maps	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	3	3.3
+/mods/genre/@authority	lcgft	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/genre	Thematic maps	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	3	3.3
+/mods/genre/@authority	lcgft	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/originInfo		http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	1	3.3
+/mods/originInfo/place		http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	1	3.3
+/mods/originInfo/place/placeTerm	Ottawa	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	1	3.3
+/mods/originInfo/place/placeTerm/@type	text	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	1	3.3
+/mods/originInfo/publisher	Commission of Conservation	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	1	3.3
+/mods/originInfo/dateIssued	191u	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	1	3.3
+/mods/originInfo/dateIssued/@qualifier	approximate	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/language		http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	1	3.3
+/mods/language/languageTerm	English	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	1	3.3
+/mods/language/languageTerm/@type	text	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/physicalDescription		http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	1	3.3
+/mods/physicalDescription/form		http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	1	3.3
+/mods/physicalDescription/extent	1 map : 2 col. ; 26.7 x 29.9 cm. on sheet 32.7 x 38.1 cm.	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/note	Marks irrigation canals in red (there are two sets: the C.P.R. Irrigation Block and Alberta Railway and Irrigation Co's System), and railways.	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	7	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/note	Title of pamphlet on verso is "Irrigation Canals in Southern Alberta." Probably from the mid-1910s.	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	7	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/note	peelmaps	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	7	3.3
+/mods/note/@type	local:oaiset	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/note	1	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	7	3.3
+/mods/note/@type	local:sheetcount	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/note	32.7 x 38.1 cm.	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	7	3.3
+/mods/note/@type	local:sheetsize	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/note	32.7	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	7	3.3
+/mods/note/@type	local:sheetlength	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/note	38.1	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	7	3.3
+/mods/note/@type	local:sheetwidth	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	5	3.3
+/mods/subject/@authority	lcsh	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	1	3.3
+/mods/subject/@lang	eng	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	1	3.3
+/mods/subject/topic	Irrigation canals and flumes	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	1	3.3
+/mods/subject/geographic	Alberta	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	5	3.3
+/mods/subject/@authority	lcsh	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	1	3.3
+/mods/subject/@lang	eng	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	1	3.3
+/mods/subject/topic	Railroads	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	1	3.3
+/mods/subject/geographic	Alberta	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	5	3.3
+/mods/subject/@authority	lcsh	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	1	3.3
+/mods/subject/@lang	eng	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	1	3.3
+/mods/subject/geographic	Alberta	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	5	3.3
+/mods/subject/temporal	1911	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	5	3.3
+/mods/subject/cartographics		http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	1	3.3
+/mods/subject/cartographics/coordinates	w11445xx/n05124xx w11015xx/n05131xx w11022xx/n04856xx w11439xx/n04856xx	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	1	3.3
+/mods/subject/cartographics/scale	1:1,077,120	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/classification	Alberta J-19	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/identifier	842	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	5	3.3
+/mods/identifier/@type	local:mapsproject	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/identifier	AAA-0904	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	5	3.3
+/mods/identifier/@type	local:mapsdb	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/identifier	842.xml	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	5	3.3
+/mods/identifier/@type	local:mapsproject_filename	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/identifier	M000749	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	5	3.3
+/mods/identifier/@type	local:peel3	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/identifier	N019461	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	5	3.3
+/mods/identifier/@type	local:old_peel_new	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/location		http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	1	3.3
+/mods/location/physicalLocation	UA Cameron Staff Access-Maps	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	1	3.3
+/mods/location/url	http://peel.library.ualberta.ca/maps/M/00/07/M000749/M000749.tif	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	1	3.3
+/mods/location/url/@access	raw object	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	1	3.3
+/mods/location/url/@note	width='4724' height='3954'	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/recordInfo		http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	1	3.3
+/mods/recordInfo/recordContentSource	mapsproject	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	2	3.3
+/mods/recordInfo/recordContentSource/@authority	local:project	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	1	3.3
+/mods/recordInfo/recordContentSource	jhuck	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	2	3.3
+/mods/recordInfo/recordContentSource/@authority	local:person	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	1	3.3
+/mods/recordInfo/recordIdentifier	M000749	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	1	3.3
+/mods/recordInfo/recordChangeDate	2014-01-20T18:26:34-0700	http://peel.library.ualberta.ca/maps/M000749.html	map Digital maps Thematic maps 	1	3.3
+

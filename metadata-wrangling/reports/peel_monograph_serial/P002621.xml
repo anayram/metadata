@@ -1,0 +1,128 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@schemaLocation	http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	Esterház, Magyar colonia, Éjszak-nyugati Tartományok Kanada		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/subTitle	levelek a telepesektöl s fényképfelvételek, melyeket a helyszínen vettek fel 1902, július havában		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA001103		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Esterhazy, Paul Oscar		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	1831-1912.		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart/@type	date		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/description	1831-1912. Claim has been made that he was Canadian land agent John Rapp (<i>Maclean's</i>, February 16, 1957, p.62); for the view that he was a Hungarian nobleman instrumental in founding the Hungarian colony of Esterhazy, Saskatchewan, <i>see</i> Kovacs, <i>Esterhazy and early Hungarian immigration to Canada</i>.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	Ottawa		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	Kormányzósági nyomda		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1902		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	Hungarian		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	84 p., group ports., fold. plan.; 23 cm.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	For the original edition  <i>see </i>Peel <xref>2622</xref>. 		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	public		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	The People--Hungarians		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	History, Local--Saskatchewan--Esterhazy		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	Other		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS001318		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Esterhazy, Saskatchewan--Description and travel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS001972		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Hungarians--Canada		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS001972		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Hongrois--Canada		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1902		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	1148		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	1681		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel2		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	2621		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	2618		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel-procite-id		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P002621		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+    
+        Esterház, Magyar colonia, Éjszak-nyugati Tartományok Kanada
+        levelek a telepesektöl s fényképfelvételek, melyeket a helyszínen vettek fel 1902, július havában
+    
+    
+        Esterhazy, Paul Oscar
+        1831-1912.
+        
+            author
+        
+        1831-1912. Claim has been made that he was Canadian land agent John Rapp (<i>Maclean's</i>, February 16, 1957, p.62); for the view that he was a Hungarian nobleman instrumental in founding the Hungarian colony of Esterhazy, Saskatchewan, <i>see</i> Kovacs, <i>Esterhazy and early Hungarian immigration to Canada</i>.
+    
+    text
+    
+        
+            Ottawa
+        
+        Kormányzósági nyomda
+        1902
+    
+    
+        Hungarian
+    
+    
+        print
+        84 p., group ports., fold. plan.; 23 cm.
+    
+    For the original edition  <i>see </i>Peel <xref>2622</xref>. 
+    
+        The People--Hungarians
+    
+    
+        History, Local--Saskatchewan--Esterhazy
+    
+    
+        Esterhazy, Saskatchewan--Description and travel
+    
+    
+        Hungarians--Canada
+    
+    
+        Hongrois--Canada
+    
+    
+        1902
+    
+    1148
+    1681
+    2621
+    2618
+    
+        Peel's Prairie Portal
+        P002621
+        2003-01-01T12:00:00-0700
+    
+		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

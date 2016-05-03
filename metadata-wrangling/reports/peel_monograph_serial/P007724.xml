@@ -1,0 +1,210 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@schemaLocation	http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	Deuxième lettre du R. P. Fourmond au T. R. P. Supérieur Général	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/subTitle	Saint-Antoine, 11 mai 1885	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name		periodical	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MANaN	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Fourmond, Vital	periodical	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	1828-1892	periodical	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart/@type	date	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name		periodical	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.2	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MANaN	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	corporate	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Oblates of Mary Immaculate	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	French	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	22 cm.	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject		periodical	11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	Other	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000367	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Batoche, Saskatchewan	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject		periodical	11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002027	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Imprisonment	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject		periodical	11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002027	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Emprisonnement	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject		periodical	11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002974	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Missionaries--Saskatchewan	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject		periodical	11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002974	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Missionnaires--Saskatchewan	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject		periodical	11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003910	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Riel Rebellion, 1885	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject		periodical	11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003910	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Riel, Rébellion de, 1885	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject		periodical	11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	Other	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS004688	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Vicariate of Saint Albert	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject		periodical	11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:geographic	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Batoche, Saskatchewan	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject		periodical	11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:geographic	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Vicariate of Saint Albert	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject		periodical	11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1885	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem		periodical	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@type	host	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/genre	periodical	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/genre/@authority	marcgt	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/titleInfo		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/titleInfo/title	Missions de la Congrégation des missionnaires oblats de Marie Immaculée	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/originInfo		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/originInfo/issuance	continuing	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/originInfo/publisher	A. Hennuyer	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/originInfo/place		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/originInfo/place/placeTerm	Paris	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/detail		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/detail/number	91	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/detail/caption	no	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/extent		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/extent/@unit	page	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/extent/start	314	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/extent/end	316	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/date	1885-09	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/date/@point	start	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem		periodical	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@type	series	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/identifier	missions	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/identifier/@type	local:oai-set	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	712	periodical	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel_new	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	7724	periodical	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal	periodical	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P007724	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2004-12-22T09:47:43-0700	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	LEM	periodical	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource/@authority	local:person	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+    
+        Deuxième lettre du R. P. Fourmond au T. R. P. Supérieur Général
+        Saint-Antoine, 11 mai 1885
+    
+    
+        Fourmond, Vital
+        1828-1892
+        
+            author
+        
+    
+    
+        Oblates of Mary Immaculate
+        
+            author
+        
+    
+    
+        French
+    
+    
+        22 cm.
+    
+    
+        Batoche, Saskatchewan
+    
+    
+        Imprisonment
+    
+    
+        Emprisonnement
+    
+    
+        Missionaries--Saskatchewan
+    
+    
+        Missionnaires--Saskatchewan
+    
+    
+        Riel Rebellion, 1885
+    
+    
+        Riel, Rébellion de, 1885
+    
+    
+        Vicariate of Saint Albert
+    
+    
+        Batoche, Saskatchewan
+    
+    
+        Vicariate of Saint Albert
+    
+    
+        1885
+    
+    
+        periodical
+        
+            Missions de la Congrégation des missionnaires oblats de Marie Immaculée
+        
+        
+            continuing
+            A. Hennuyer
+            
+                Paris
+            
+        
+        
+            
+                91
+                no
+            
+            
+                314
+                316
+            
+            1885-09
+        
+    
+    
+        missions
+    
+    712
+    7724
+    
+        Peel's Prairie Portal
+        P007724
+        2004-12-22T09:47:43-0700
+        LEM
+    
+	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

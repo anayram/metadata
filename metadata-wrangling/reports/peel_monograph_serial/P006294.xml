@@ -1,0 +1,154 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@schemaLocation	http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/nonSort	Das 		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	Deutschtum in Westkanada		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA003473		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Lehmann, Heinz		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	1907-1985.		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart/@type	date		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/description	1907-1985. Instructor in the Hochschule für Politik in Berlin, Germany; visited Western Canada in 1934 to study German settlements.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	Berlin, Germany		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	Junker und Dünnhaupt Verlag		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1939		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	German		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	414 p., illus., fold. maps.; 24 cm.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	A thorough study of the settlement of Germans in the West, and of their cultural and economic situation. This is volume 2 of his  <i>Zur Geschichte des Deutschtums in Kanada </i>. Volume 1:  <i>Das Deutschtum im Ostkanada </i>. Translated, edited, and introduced by Gerhard P. Bassler, with other material, in  <i>The German Canadians, 1750-1937: Immigration, settlement & culture </i>, St John's, Newfoundland: Jesperson Press, 1986. 		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	public		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			9	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	The People--Germans		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			9	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS001697		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Germans--Canada--Economic conditions		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			9	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS001697		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Allemands--Canada--Conditions économiques		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			9	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS001700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Germans--Canada--Social life and customs		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			9	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS001700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Allemands--Canada--Mœurs et coutumes		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			9	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002464		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Land settlement		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			9	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002464		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Colonisation intérieure		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			9	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	Other		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003558		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Prairie Provinces--Ethnic groups		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			9	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1939		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	2328		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	3686		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel2		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	6294		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	6288		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel-procite-id		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P006294		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+    
+        Das 
+        Deutschtum in Westkanada
+    
+    
+        Lehmann, Heinz
+        1907-1985.
+        
+            author
+        
+        1907-1985. Instructor in the Hochschule für Politik in Berlin, Germany; visited Western Canada in 1934 to study German settlements.
+    
+    text
+    
+        
+            Berlin, Germany
+        
+        Junker und Dünnhaupt Verlag
+        1939
+    
+    
+        German
+    
+    
+        print
+        414 p., illus., fold. maps.; 24 cm.
+    
+    A thorough study of the settlement of Germans in the West, and of their cultural and economic situation. This is volume 2 of his  <i>Zur Geschichte des Deutschtums in Kanada </i>. Volume 1:  <i>Das Deutschtum im Ostkanada </i>. Translated, edited, and introduced by Gerhard P. Bassler, with other material, in  <i>The German Canadians, 1750-1937: Immigration, settlement & culture </i>, St John's, Newfoundland: Jesperson Press, 1986. 
+    
+        The People--Germans
+    
+    
+        Germans--Canada--Economic conditions
+    
+    
+        Allemands--Canada--Conditions économiques
+    
+    
+        Germans--Canada--Social life and customs
+    
+    
+        Allemands--Canada--Mœurs et coutumes
+    
+    
+        Land settlement
+    
+    
+        Colonisation intérieure
+    
+    
+        Prairie Provinces--Ethnic groups
+    
+    
+        1939
+    
+    2328
+    3686
+    6294
+    6288
+    
+        Peel's Prairie Portal
+        P006294
+        2003-01-01T12:00:00-0700
+    
+		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

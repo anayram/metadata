@@ -1,0 +1,98 @@
+Path	Content	URL	Form or Genre	Occurrence	MODS version
+
+/mods/titleInfo		http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	1	3.3
+/mods/titleInfo/title	Route of the expedition from York Factory to Cumberland House and the summer & winter tracks from thence to Isle a La Crosse in 1819 & 1820	http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	1	3.3
+
+/mods/name		http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	1	3.3
+/mods/name/@type	corporate	http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	1	3.3
+/mods/name/namePart	John Murray	http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	1	3.3
+
+/mods/typeOfResource	cartographic	http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	1	3.3
+
+/mods/genre	map	http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	3	3.3
+/mods/genre/@authority	marcgt	http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	1	3.3
+
+/mods/genre	Digital maps	http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	3	3.3
+/mods/genre/@authority	lcgft	http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	1	3.3
+
+/mods/genre	Early maps	http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	3	3.3
+/mods/genre/@authority	lcgft	http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	1	3.3
+
+/mods/originInfo		http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	1	3.3
+/mods/originInfo/place		http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	1	3.3
+/mods/originInfo/place/placeTerm	London	http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	1	3.3
+/mods/originInfo/place/placeTerm/@type	text	http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	1	3.3
+/mods/originInfo/publisher	John Murray	http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	1	3.3
+/mods/originInfo/dateIssued	1823	http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	1	3.3
+
+/mods/language		http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	1	3.3
+/mods/language/languageTerm	English	http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	1	3.3
+/mods/language/languageTerm/@type	text	http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	1	3.3
+
+/mods/physicalDescription		http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	1	3.3
+/mods/physicalDescription/form		http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	1	3.3
+/mods/physicalDescription/extent	1 map ; 24 x 56.2 cm. on sheet 26.8 x 58.2 cm.	http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	1	3.3
+
+/mods/note	Dates of journey marked on different points down the river.	http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	6	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	1	3.3
+
+/mods/note	peelmaps	http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	6	3.3
+/mods/note/@type	local:oaiset	http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	1	3.3
+
+/mods/note	1	http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	6	3.3
+/mods/note/@type	local:sheetcount	http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	1	3.3
+
+/mods/note	26.8 x 58.2 cm.	http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	6	3.3
+/mods/note/@type	local:sheetsize	http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	1	3.3
+
+/mods/note	26.8	http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	6	3.3
+/mods/note/@type	local:sheetlength	http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	1	3.3
+
+/mods/note	58.2	http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	6	3.3
+/mods/note/@type	local:sheetwidth	http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	3	3.3
+/mods/subject/@authority	lcsh	http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	1	3.3
+/mods/subject/@lang	eng	http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	1	3.3
+/mods/subject/geographic	Prairie Provinces	http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	1	3.3
+/mods/subject/topic	Travel and description	http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	3	3.3
+/mods/subject/temporal	1819	http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	3	3.3
+/mods/subject/cartographics		http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	1	3.3
+/mods/subject/cartographics/coordinates	w10840xx/n05645xx w09220xx/n05655xx w09250xx/n05305xx w10730xx/n05245xx	http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	1	3.3
+/mods/subject/cartographics/scale	1:1,800,000.	http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	1	3.3
+
+/mods/classification	Western Canada C-48	http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	1	3.3
+
+/mods/identifier	2821	http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	5	3.3
+/mods/identifier/@type	local:mapsproject	http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	1	3.3
+
+/mods/identifier	AAA-2909	http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	5	3.3
+/mods/identifier/@type	local:mapsdb	http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	1	3.3
+
+/mods/identifier	2821a.xml	http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	5	3.3
+/mods/identifier/@type	local:mapsproject_filename	http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	1	3.3
+
+/mods/identifier	M000268	http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	5	3.3
+/mods/identifier/@type	local:peel3	http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	1	3.3
+
+/mods/identifier	N018895	http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	5	3.3
+/mods/identifier/@type	local:old_peel_new	http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	1	3.3
+
+/mods/location		http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	1	3.3
+/mods/location/physicalLocation	UA Cameron Staff Access-Maps	http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	1	3.3
+/mods/location/url	http://peel.library.ualberta.ca/maps/M/00/02/M000268/M000268.tif	http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	1	3.3
+/mods/location/url/@access	raw object	http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	1	3.3
+/mods/location/url/@note	width='7065' height='3343'	http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	1	3.3
+
+/mods/recordInfo		http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	1	3.3
+/mods/recordInfo/recordContentSource	mapsproject	http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	2	3.3
+/mods/recordInfo/recordContentSource/@authority	local:project	http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	1	3.3
+/mods/recordInfo/recordContentSource	jhuck	http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	2	3.3
+/mods/recordInfo/recordContentSource/@authority	local:person	http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	1	3.3
+/mods/recordInfo/recordIdentifier	M000268	http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	1	3.3
+/mods/recordInfo/recordChangeDate	2014-01-22T11:51:42-0700	http://peel.library.ualberta.ca/maps/M000268.html	map Digital maps Early maps 	1	3.3
+

@@ -1,0 +1,136 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	history of the University of Alberta, 1908-1958		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/nonSort	The 		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Macdonald, John		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	1887-.		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart/@type	date		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	corporate		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	University of Alberta		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	onc		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@authority	marccountry		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	code		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	Toronto		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	W.J. Gage		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1958		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/issuance	monographic		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	eng		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@authority	iso639-2b		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	code		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	English		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	ix, 102 p. : ill., ports. ; 23 cm.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	John Macdonald.		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	statement of responsibility		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	uahistory		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	oaiset		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	DOA: 1908 Spatial: Edmonton (Alta.)		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	local		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	Co-published by the University of Alberta, Edmonton. Foreword by Andrew Stewart.		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	public		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographicCode	n-cn---		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographicCode/@authority	marcgac		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name/@type	corporate		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name/namePart	University of Alberta		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	History		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1958		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/classification	LE 3 A62 M1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/classification/@authority	lcc		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	9031		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	8226		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel_new		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	272199		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:neos		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	RC		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P009031		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordChangeDate	2010-03-27T21:11:11-0600		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+
+history of the University of Alberta, 1908-1958
+The 
+
+
+Macdonald, John
+1887-.
+
+
+University of Alberta
+
+text
+
+
+onc
+
+
+Toronto
+
+W.J. Gage
+1958
+monographic
+
+
+eng
+English
+
+
+print
+ix, 102 p. : ill., ports. ; 23 cm.
+
+John Macdonald.
+uahistory
+DOA: 1908 Spatial: Edmonton (Alta.)
+Co-published by the University of Alberta, Edmonton. Foreword by Andrew Stewart.
+
+				n-cn---
+			
+
+				
+University of Alberta
+
+			
+				History
+			
+
+				1958
+			
+LE 3 A62 M1
+9031
+8226
+272199
+
+Peel's Prairie Portal
+RC
+2003-01-01T12:00:00-0700
+P009031
+2010-03-27T21:11:11-0600
+
+		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

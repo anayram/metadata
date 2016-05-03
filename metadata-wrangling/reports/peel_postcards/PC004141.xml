@@ -1,0 +1,157 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		fsalehi	PC004141	postcards	1	3.2
+	/mods/@version	3.2	fsalehi	PC004141	postcards	1	3.2
+	/mods/titleInfo		fsalehi	PC004141	postcards	1	3.2
+	/mods/titleInfo/@lang	english	fsalehi	PC004141	postcards	1	3.2
+	/mods/titleInfo/title	Galt Gardens, Lethbridge, Alta.	fsalehi	PC004141	postcards	1	3.2
+	/mods/name		fsalehi	PC004141	postcards	1	3.2
+	/mods/name/@type	personal	fsalehi	PC004141	postcards	1	3.2
+	/mods/name/namePart	Cross	fsalehi	PC004141	postcards	2	3.2
+	/mods/name/namePart/@type	family	fsalehi	PC004141	postcards	1	3.2
+	/mods/name/namePart	A.E.	fsalehi	PC004141	postcards	2	3.2
+	/mods/name/namePart/@type	given	fsalehi	PC004141	postcards	1	3.2
+	/mods/name/role		fsalehi	PC004141	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	fsalehi	PC004141	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC004141	postcards	1	3.2
+	/mods/typeOfResource	still image	fsalehi	PC004141	postcards	1	3.2
+	/mods/genre	postcards	fsalehi	PC004141	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	fsalehi	PC004141	postcards	1	3.2
+	/mods/originInfo		fsalehi	PC004141	postcards	1	3.2
+	/mods/originInfo/place		fsalehi	PC004141	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	[Lethbridge]	fsalehi	PC004141	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC004141	postcards	1	3.2
+	/mods/originInfo/publisher	A. E. Cross	fsalehi	PC004141	postcards	1	3.2
+	/mods/originInfo/dateIssued	1933	fsalehi	PC004141	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	inferred	fsalehi	PC004141	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	fsalehi	PC004141	postcards	1	3.2
+	/mods/language		fsalehi	PC004141	postcards	1	3.2
+	/mods/language/languageTerm	English	fsalehi	PC004141	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	fsalehi	PC004141	postcards	1	3.2
+	/mods/physicalDescription		fsalehi	PC004141	postcards	1	3.2
+	/mods/physicalDescription/form		fsalehi	PC004141	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : b&w ; 9 x 14 cm.	fsalehi	PC004141	postcards	1	3.2
+	/mods/note	25	fsalehi	PC004141	postcards	5	3.2
+	/mods/note/@type	price	fsalehi	PC004141	postcards	1	3.2
+	/mods/note	false	fsalehi	PC004141	postcards	5	3.2
+	/mods/note/@type	notable	fsalehi	PC004141	postcards	1	3.2
+	/mods/note	false	fsalehi	PC004141	postcards	5	3.2
+	/mods/note/@type	imgprobs	fsalehi	PC004141	postcards	1	3.2
+	/mods/note	[printer's no.] 27	fsalehi	PC004141	postcards	5	3.2
+	/mods/note/@type	public_on_front	fsalehi	PC004141	postcards	1	3.2
+	/mods/note	Bird's eye view of Galt Gardens in Lethbridge, Alberta. Several large buildings are visible across the park.	fsalehi	PC004141	postcards	5	3.2
+	/mods/note/@type	public_description	fsalehi	PC004141	postcards	1	3.2
+	/mods/subject		fsalehi	PC004141	postcards	7	3.2
+	/mods/subject/geographic	Lethbridge, AB	fsalehi	PC004141	postcards	1	3.2
+	/mods/subject		fsalehi	PC004141	postcards	7	3.2
+	/mods/subject/hierarchicalGeographic		fsalehi	PC004141	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	fsalehi	PC004141	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	fsalehi	PC004141	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Lethbridge	fsalehi	PC004141	postcards	1	3.2
+	/mods/subject		fsalehi	PC004141	postcards	7	3.2
+	/mods/subject/topic	Parks	fsalehi	PC004141	postcards	1	3.2
+	/mods/subject		fsalehi	PC004141	postcards	7	3.2
+	/mods/subject/topic	Trees	fsalehi	PC004141	postcards	1	3.2
+	/mods/subject		fsalehi	PC004141	postcards	7	3.2
+	/mods/subject/topic	Cityscapes	fsalehi	PC004141	postcards	1	3.2
+	/mods/subject		fsalehi	PC004141	postcards	7	3.2
+	/mods/subject/topic	Bandstands	fsalehi	PC004141	postcards	1	3.2
+	/mods/subject		fsalehi	PC004141	postcards	7	3.2
+	/mods/subject/name		fsalehi	PC004141	postcards	1	3.2
+	/mods/subject/name/@type	personal	fsalehi	PC004141	postcards	1	3.2
+	/mods/subject/name/namePart	Galt Gardens (Lethbridge, Alta.)	fsalehi	PC004141	postcards	1	3.2
+	/mods/identifier	PC004141	fsalehi	PC004141	postcards	1	3.2
+	/mods/identifier/@type	local	fsalehi	PC004141	postcards	1	3.2
+	/mods/location		fsalehi	PC004141	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 2	fsalehi	PC004141	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC004141.html	fsalehi	PC004141	postcards	3	3.2
+	/mods/location/url/@access	object in context	fsalehi	PC004141	postcards	1	3.2
+	/mods/location/url/@usage	primary display	fsalehi	PC004141	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/004/web/PC004141.jpg	fsalehi	PC004141	postcards	3	3.2
+	/mods/location/url/@access	raw object	fsalehi	PC004141	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='509'	fsalehi	PC004141	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/004/thumbs/PC004141.jpg	fsalehi	PC004141	postcards	3	3.2
+	/mods/location/url/@access	preview	fsalehi	PC004141	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='127'	fsalehi	PC004141	postcards	1	3.2
+	/mods/recordInfo		fsalehi	PC004141	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	fsalehi	fsalehi	PC004141	postcards	2	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	fsalehi	PC004141	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC004141	fsalehi	PC004141	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2010-05-21T10:13:41-0600	fsalehi	PC004141	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	aharrigan	fsalehi	PC004141	postcards	2	3.2
+	/mods/recordInfo/recordContentSource/@authority	local:person	fsalehi	PC004141	postcards	1	3.2
+	/@mods	
+
+Galt Gardens, Lethbridge, Alta.
+
+
+Cross
+A.E.
+
+Publisher
+
+
+still image
+postcards
+
+
+[Lethbridge]
+
+A. E. Cross
+1933
+monographic
+
+
+English
+
+
+
+1 postcard : b&w ; 9 x 14 cm.
+
+25
+false
+false
+[printer's no.] 27
+Bird's eye view of Galt Gardens in Lethbridge, Alberta. Several large buildings are visible across the park.
+
+				Lethbridge, AB
+			
+
+				
+Canada
+Alberta
+Lethbridge
+
+			
+
+				Parks
+			
+
+				Trees
+			
+
+				Cityscapes
+			
+
+				Bandstands
+			
+
+				
+Galt Gardens (Lethbridge, Alta.)
+
+			
+PC004141
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 2
+http://peel.library.ualberta.ca/postcards/PC004141.html
+http://peel.library.ualberta.ca/pcimages/PC/004/web/PC004141.jpg
+http://peel.library.ualberta.ca/pcimages/PC/004/thumbs/PC004141.jpg
+
+
+fsalehi
+2007-06-25T16:49:56-0600
+PC004141
+2010-05-21T10:13:41-0600
+aharrigan
+
+	fsalehi	PC004141	postcards	1	3.2
+	

@@ -1,0 +1,133 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@schemaLocation	http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	Royal Northwest Mounted Police, Canada		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA001590		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Brinkworth, George Walter		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	d.1959.		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart/@type	date		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/description	d.1959. Born in England; farmed and mined coal at Estevan, Saskatchewan; joined NWMP, 1898, and served mostly at Regina as head teamster until 1924; chauffeur for the lieutenant-governors of Saskatchewan, 1924-1941; died in Victoria (Letter from RCMP historian).		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	Regina		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	The Author		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1910		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	English		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	[17] leaves, chiefly illus.; 14 x 24 cm.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	On cover: "Souvenir of the Royal Northwest Mounted Police, Canada." Coat of arms on title-page. 		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	public		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			7	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Maintiens Le Droit: Royal Canadian Mounted Police		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			7	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003457		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Picture books		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			7	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003457		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Picture books		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			7	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003457		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Livres d'images		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			7	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS004318		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Souvenirs (Keepsakes)		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			7	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS004318		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Souvenirs (Objets)		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			7	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1910		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	2103		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel2		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	3378		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	3374		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel-procite-id		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P003378		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+    
+        Royal Northwest Mounted Police, Canada
+    
+    
+        Brinkworth, George Walter
+        d.1959.
+        
+            author
+        
+        d.1959. Born in England; farmed and mined coal at Estevan, Saskatchewan; joined NWMP, 1898, and served mostly at Regina as head teamster until 1924; chauffeur for the lieutenant-governors of Saskatchewan, 1924-1941; died in Victoria (Letter from RCMP historian).
+    
+    text
+    
+        
+            Regina
+        
+        The Author
+        1910
+    
+    
+        English
+    
+    
+        print
+        [17] leaves, chiefly illus.; 14 x 24 cm.
+    
+    On cover: "Souvenir of the Royal Northwest Mounted Police, Canada." Coat of arms on title-page. 
+    
+        Maintiens Le Droit: Royal Canadian Mounted Police
+    
+    
+        Picture books
+    
+    
+        Picture books
+    
+    
+        Livres d'images
+    
+    
+        Souvenirs (Keepsakes)
+    
+    
+        Souvenirs (Objets)
+    
+    
+        1910
+    
+    2103
+    3378
+    3374
+    
+        Peel's Prairie Portal
+        P003378
+        2003-01-01T12:00:00-0700
+    
+		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

@@ -1,0 +1,162 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		sfarnel	PC010285	postcards	1	3.2
+	/mods/@version	3.2	sfarnel	PC010285	postcards	1	3.2
+	/mods/titleInfo		sfarnel	PC010285	postcards	1	3.2
+	/mods/titleInfo/@lang	english	sfarnel	PC010285	postcards	1	3.2
+	/mods/titleInfo/title	Eighth Avenue from Post Office, Calgary, Alta.	sfarnel	PC010285	postcards	1	3.2
+	/mods/name		sfarnel	PC010285	postcards	1	3.2
+	/mods/name/@type	personal	sfarnel	PC010285	postcards	1	3.2
+	/mods/name/namePart	MacFarlane	sfarnel	PC010285	postcards	2	3.2
+	/mods/name/namePart/@type	family	sfarnel	PC010285	postcards	1	3.2
+	/mods/name/namePart	W.G.	sfarnel	PC010285	postcards	2	3.2
+	/mods/name/namePart/@type	given	sfarnel	PC010285	postcards	1	3.2
+	/mods/name/role		sfarnel	PC010285	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	sfarnel	PC010285	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	sfarnel	PC010285	postcards	1	3.2
+	/mods/typeOfResource	still image	sfarnel	PC010285	postcards	1	3.2
+	/mods/genre	postcards	sfarnel	PC010285	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	sfarnel	PC010285	postcards	1	3.2
+	/mods/originInfo		sfarnel	PC010285	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	sfarnel	PC010285	postcards	1	3.2
+	/mods/originInfo/publisher	W.G. MacFarlane, Publisher, Toronto and Buffalo	sfarnel	PC010285	postcards	1	3.2
+	/mods/originInfo/dateIssued	1908	sfarnel	PC010285	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	approximate	sfarnel	PC010285	postcards	1	3.2
+	/mods/originInfo/place		sfarnel	PC010285	postcards	2	3.2
+	/mods/originInfo/place/placeTerm	Toronto	sfarnel	PC010285	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	sfarnel	PC010285	postcards	1	3.2
+	/mods/originInfo/place		sfarnel	PC010285	postcards	2	3.2
+	/mods/originInfo/place/placeTerm	Buffalo	sfarnel	PC010285	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	sfarnel	PC010285	postcards	1	3.2
+	/mods/language		sfarnel	PC010285	postcards	1	3.2
+	/mods/language/languageTerm	English	sfarnel	PC010285	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	sfarnel	PC010285	postcards	1	3.2
+	/mods/physicalDescription		sfarnel	PC010285	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : col. ; 9 x 14 cm.	sfarnel	PC010285	postcards	1	3.2
+	/mods/note	2	sfarnel	PC010285	postcards	7	3.2
+	/mods/note/@type	price	sfarnel	PC010285	postcards	1	3.2
+	/mods/note	false	sfarnel	PC010285	postcards	7	3.2
+	/mods/note/@type	notable	sfarnel	PC010285	postcards	1	3.2
+	/mods/note	true	sfarnel	PC010285	postcards	7	3.2
+	/mods/note/@type	imgprobs	sfarnel	PC010285	postcards	1	3.2
+	/mods/note	1908-09-22	sfarnel	PC010285	postcards	7	3.2
+	/mods/note/@type	public_postmark_date	sfarnel	PC010285	postcards	1	3.2
+	/mods/note	[printer's no.] L.0435	sfarnel	PC010285	postcards	7	3.2
+	/mods/note/@type	public_on_back	sfarnel	PC010285	postcards	1	3.2
+	/mods/note	Printed in Germany	sfarnel	PC010285	postcards	7	3.2
+	/mods/note/@type	public_on_back	sfarnel	PC010285	postcards	1	3.2
+	/mods/note	A hand-tinted photograph view of 8th Avenue, Calgary, Alberta. Various shops are depicted, including the A.W. Ward Grocery and the F.F. Higgs Calgary Furniture Store.	sfarnel	PC010285	postcards	7	3.2
+	/mods/note/@type	public_description	sfarnel	PC010285	postcards	1	3.2
+	/mods/subject		sfarnel	PC010285	postcards	7	3.2
+	/mods/subject/geographic	Calgary, AB	sfarnel	PC010285	postcards	1	3.2
+	/mods/subject		sfarnel	PC010285	postcards	7	3.2
+	/mods/subject/hierarchicalGeographic		sfarnel	PC010285	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	sfarnel	PC010285	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	sfarnel	PC010285	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Calgary	sfarnel	PC010285	postcards	1	3.2
+	/mods/subject		sfarnel	PC010285	postcards	7	3.2
+	/mods/subject/genre	Postcards	sfarnel	PC010285	postcards	1	3.2
+	/mods/subject		sfarnel	PC010285	postcards	7	3.2
+	/mods/subject/topic	Commercial streets	sfarnel	PC010285	postcards	1	3.2
+	/mods/subject		sfarnel	PC010285	postcards	7	3.2
+	/mods/subject/topic	Storefronts	sfarnel	PC010285	postcards	1	3.2
+	/mods/subject		sfarnel	PC010285	postcards	7	3.2
+	/mods/subject/topic	Carts & wagons	sfarnel	PC010285	postcards	1	3.2
+	/mods/subject		sfarnel	PC010285	postcards	7	3.2
+	/mods/subject/topic	Pedestrians	sfarnel	PC010285	postcards	1	3.2
+	/mods/identifier	PC010285	sfarnel	PC010285	postcards	1	3.2
+	/mods/identifier/@type	local	sfarnel	PC010285	postcards	1	3.2
+	/mods/location		sfarnel	PC010285	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 1	sfarnel	PC010285	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC010285.html	sfarnel	PC010285	postcards	3	3.2
+	/mods/location/url/@access	object in context	sfarnel	PC010285	postcards	1	3.2
+	/mods/location/url/@usage	primary display	sfarnel	PC010285	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/010/web/PC010285.jpg	sfarnel	PC010285	postcards	3	3.2
+	/mods/location/url/@access	raw object	sfarnel	PC010285	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='526' 	sfarnel	PC010285	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/010/thumbs/PC010285.jpg	sfarnel	PC010285	postcards	3	3.2
+	/mods/location/url/@access	preview	sfarnel	PC010285	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='132'	sfarnel	PC010285	postcards	1	3.2
+	/mods/recordInfo		sfarnel	PC010285	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2009-01-19T16:18:42-0700	sfarnel	PC010285	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC010285	sfarnel	PC010285	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	sfarnel	sfarnel	PC010285	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2009-12-06T18:33:35-0700	sfarnel	PC010285	postcards	1	3.2
+	/@mods	
+
+Eighth Avenue from Post Office, Calgary, Alta.
+
+
+MacFarlane
+W.G.
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+W.G. MacFarlane, Publisher, Toronto and Buffalo
+1908
+
+
+
+Toronto
+
+
+Buffalo
+
+
+
+English
+
+
+1 postcard : col. ; 9 x 14 cm.
+
+2
+false
+true
+1908-09-22
+[printer's no.] L.0435
+Printed in Germany
+A hand-tinted photograph view of 8th Avenue, Calgary, Alberta. Various shops are depicted, including the A.W. Ward Grocery and the F.F. Higgs Calgary Furniture Store.
+
+Calgary, AB
+
+
+
+Canada
+Alberta
+Calgary
+
+
+
+Postcards
+
+
+Commercial streets
+
+
+Storefronts
+
+
+Carts & wagons
+
+
+Pedestrians
+
+PC010285
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 1
+http://peel.library.ualberta.ca/postcards/PC010285.html
+http://peel.library.ualberta.ca/pcimages/PC/010/web/PC010285.jpg
+http://peel.library.ualberta.ca/pcimages/PC/010/thumbs/PC010285.jpg
+
+
+2009-01-19T16:18:42-0700
+PC010285
+sfarnel
+2009-12-06T18:33:35-0700
+
+	sfarnel	PC010285	postcards	1	3.2
+	

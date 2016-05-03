@@ -1,0 +1,141 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.2
+	/mods/@version	3.2		1	3.2
+	/mods/titleInfo			1	3.2
+	/mods/titleInfo/title	To teach this art		1	3.2
+	/mods/titleInfo/subTitle	The history of the schools of nursing at the University of Alberta, 1924-1974		1	3.2
+	/mods/name			1	3.2
+	/mods/name/@type	personal		1	3.2
+	/mods/name/namePart	Wilson, Betty		1	3.2
+	/mods/typeOfResource	text		1	3.2
+	/mods/originInfo			1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	abc		1	3.2
+	/mods/originInfo/place/placeTerm/@authority	marccountry		1	3.2
+	/mods/originInfo/place/placeTerm/@type	code		1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	Edmonton		1	3.2
+	/mods/originInfo/place/placeTerm/@type	text		1	3.2
+	/mods/originInfo/publisher	Hallamshire Publishers		1	3.2
+	/mods/originInfo/dateIssued	c1977		2	3.2
+	/mods/originInfo/dateIssued	1977		2	3.2
+	/mods/originInfo/dateIssued/@encoding	marc		1	3.2
+	/mods/originInfo/issuance	monographic		1	3.2
+	/mods/language			1	3.2
+	/mods/language/languageTerm	eng		1	3.2
+	/mods/language/languageTerm/@authority	iso639-2b		1	3.2
+	/mods/language/languageTerm/@type	code		1	3.2
+	/mods/physicalDescription			1	3.2
+	/mods/physicalDescription/form	print		1	3.2
+	/mods/physicalDescription/form/@authority	marcform		1	3.2
+	/mods/physicalDescription/extent	xiii, 191 p. : ill., ports. ; 23 cm.		1	3.2
+	/mods/note	Includes index.		4	3.2
+	/mods/note	uahistory		4	3.2
+	/mods/note/@type	local:oaiset		1	3.2
+	/mods/note	DOA: 1924 Spatial: Edmonton (Alta.)		4	3.2
+	/mods/note/@type	local		1	3.2
+	/mods/note	Foreword by the Nurses’ Alumnae Committee. Introduction by Ruth E. McClure.		4	3.2
+	/mods/note/@type	public		1	3.2
+	/mods/subject			4	3.2
+	/mods/subject/geographicCode	n-cn-ab		1	3.2
+	/mods/subject/geographicCode/@authority	marcgac		1	3.2
+	/mods/subject			4	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/name			1	3.2
+	/mods/subject/name/@type	personal		1	3.2
+	/mods/subject/name/namePart	University of Alberta.		2	3.2
+	/mods/subject/name/namePart	School of Nursing		2	3.2
+	/mods/subject			4	3.2
+	/mods/subject/@authority	mesh		1	3.2
+	/mods/subject/topic	Schools, Nursing		2	3.2
+	/mods/subject/topic	history		2	3.2
+	/mods/subject/geographic	Alberta		1	3.2
+	/mods/subject			4	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/topic	Nursing schools		2	3.2
+	/mods/subject/geographic	Alberta		1	3.2
+	/mods/subject/topic	History		2	3.2
+	/mods/classification	RT 81 C22 A3 W74 1977		2	3.2
+	/mods/classification/@authority	lcc		1	3.2
+	/mods/classification	WY11DC2 .W55 1977		2	3.2
+	/mods/classification/@authority	nlm		1	3.2
+	/mods/identifier	088841000X		3	3.2
+	/mods/identifier/@type	isbn		1	3.2
+	/mods/identifier	363353		3	3.2
+	/mods/identifier/@type	local:neos		1	3.2
+	/mods/identifier	9038		3	3.2
+	/mods/identifier/@type	local:peel3		1	3.2
+	/mods/recordInfo			1	3.2
+	/mods/recordInfo/recordContentSource	RC		1	3.2
+	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.2
+	/mods/recordInfo/recordCreationDate	2008-09-10T15:05:11-0600		1	3.2
+	/mods/recordInfo/recordIdentifier	P009038		1	3.2
+	/mods/recordInfo/recordChangeDate	2010-03-14T20:28:49-0600		1	3.2
+	/@mods	
+
+To teach this art
+The history of the schools of nursing at the University of Alberta, 1924-1974
+
+
+Wilson, Betty
+
+text
+
+
+abc
+
+
+Edmonton
+
+Hallamshire Publishers
+c1977
+1977
+monographic
+
+
+eng
+
+
+print
+xiii, 191 p. : ill., ports. ; 23 cm.
+
+Includes index.
+uahistory
+DOA: 1924 Spatial: Edmonton (Alta.)
+Foreword by the Nurses’ Alumnae Committee. Introduction by Ruth E. McClure.
+
+				n-cn-ab
+			
+
+				
+University of Alberta.
+School of Nursing
+
+			
+
+				Schools, Nursing
+			
+				history
+			
+				Alberta
+			
+
+				Nursing schools
+			
+				Alberta
+			
+				History
+			
+RT 81 C22 A3 W74 1977
+WY11DC2 .W55 1977
+088841000X
+363353
+9038
+
+RC
+2008-09-10T15:05:11-0600
+P009038
+2010-03-14T20:28:49-0600
+
+		1	3.2
+	

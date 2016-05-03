@@ -1,0 +1,132 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@schemaLocation	http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/nonSort	The 		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	red house by the Rockies		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/subTitle	A tale of Riel's rebellion		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA000343		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Mercier, Anne		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	fl.1876-1909.		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart/@type	date		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/description	fl.1876-1909. English writer; also known as Mrs Jerome Mercier.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.2		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA000344		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Watt, Violet		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/description	English writer.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	London		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	Society for Promoting Christian Knowledge		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1896		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	English		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	[2], 1 leaf, [7]-126, 16 p., front.; 18.5 cm.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	Last 16 pages: "Publications of the Society for Promoting Christian Knowledge." Also published, Toronto: Musson Book Co., [1896?] (126p.).London: Society for Promoting Christian Knowledge, [1897] (126p.); New York: E. & J.B. Young, [1897] (126p.). Has been described as an almost sympathetic account of Riel. 		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	public		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Literary Works--Fiction		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS001416		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Fiction		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS001416		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Roman		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1885		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	1026		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	1461		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel2		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	1498		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	1496		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel-procite-id		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P001498		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+    
+        The 
+        red house by the Rockies
+        A tale of Riel's rebellion
+    
+    
+        Mercier, Anne
+        fl.1876-1909.
+        
+            author
+        
+        fl.1876-1909. English writer; also known as Mrs Jerome Mercier.
+    
+    
+        Watt, Violet
+        
+            author
+        
+        English writer.
+    
+    text
+    
+        
+            London
+        
+        Society for Promoting Christian Knowledge
+        1896
+    
+    
+        English
+    
+    
+        print
+        [2], 1 leaf, [7]-126, 16 p., front.; 18.5 cm.
+    
+    Last 16 pages: "Publications of the Society for Promoting Christian Knowledge." Also published, Toronto: Musson Book Co., [1896?] (126p.).London: Society for Promoting Christian Knowledge, [1897] (126p.); New York: E. & J.B. Young, [1897] (126p.). Has been described as an almost sympathetic account of Riel. 
+    
+        Literary Works--Fiction
+    
+    
+        Fiction
+    
+    
+        Roman
+    
+    
+        1885
+    
+    1026
+    1461
+    1498
+    1496
+    
+        Peel's Prairie Portal
+        P001498
+        2003-01-01T12:00:00-0700
+    
+		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

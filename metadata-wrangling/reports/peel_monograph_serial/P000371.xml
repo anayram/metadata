@@ -1,0 +1,220 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@schemaLocation	http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	Report from a Select Committee of the House of Representatives, on the overland emigration route from Minnesota to British Oregon		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/subTitle	With an appendix		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA001796		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	corporate		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Minnesota. Legislature		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.2		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA001797		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Wheelock, Joseph Albert		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	1831-1906.		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart/@type	date		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/description	1831-1906. Born Bridgetown, Nova Scotia; journalist in St Paul, Minnesota, 1860-1906; made expedition to explore an overland route to British Columbia, 1859 (Minnesota Historical Society).		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA001798		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Ramsey, A.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	St Paul, Minn.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	Earle S. Goodrich, state printer		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1858		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	English		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	100 p.; 24 cm.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	At head of title: "Legislature of Minnesota." Signed: "J.R. Wakefield, S.R. Johnson, E. Pierce, J.G. Randall, James C. Frost--Committee." The object was to open a route to the new gold fields on the Fraser River. The report takes up only pages 3-6; the remainder is various and eight appendices: I. "Proceedings of public meetings held at St. Paul, July 1, 7, 10, and 17, 1858"; II. "Particulars of the gold discovery of Frazer and Thompson rivers, and of emigration thither"; III. "Geographical description of Minnesota north of latitude forty-six" by J.W. Taylor; IV. "Routes through Minnesota to the navigable waters of the Red River of the North"; V. "Climatology of Minnesota" by D.C. Sheppard; VI. "Climatology of the Saskatchewan district and of British Oregon"; VII. "Memoir of the Selkirk settlement upon the Red River of the North, with notices of the manners and life of the settlers" by J.A. Wheelock; VIII. "A visit to the Red River settlements" by A. Ramsey; and IX. "Proceedings of a public meeting held at Saint Anthony, July 12, 1858." 		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	public		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			14	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Explorers, Surveyors and Travellers--Overland Journeys to the Pacific		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			14	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Red River Settlement		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			14	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	Other		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000210		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	American immigrants		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			14	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000210		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Immigrants--United States		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			14	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000210		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Immigrants--États-Unis		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			14	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS001729		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Prospecting		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			14	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS001729		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Prospection		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			14	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS001729		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Gold mines and mining		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			14	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS001729		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Or--Mines et extraction		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			14	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	Other		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003599		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Prairie Provinces--Transportation		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			14	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003821		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Red River Settlement--History		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			14	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS004534		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Trade routes		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			14	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS004534		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Routes commerciales		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			14	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1858		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	166		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	201		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel2		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	371		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	371		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel-procite-id		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P000371		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+    
+        Report from a Select Committee of the House of Representatives, on the overland emigration route from Minnesota to British Oregon
+        With an appendix
+    
+    
+        Minnesota. Legislature
+        
+            author
+        
+    
+    
+        Wheelock, Joseph Albert
+        1831-1906.
+        
+            author
+        
+        1831-1906. Born Bridgetown, Nova Scotia; journalist in St Paul, Minnesota, 1860-1906; made expedition to explore an overland route to British Columbia, 1859 (Minnesota Historical Society).
+    
+    
+        Ramsey, A.
+        
+            author
+        
+    
+    text
+    
+        
+            St Paul, Minn.
+        
+        Earle S. Goodrich, state printer
+        1858
+    
+    
+        English
+    
+    
+        print
+        100 p.; 24 cm.
+    
+    At head of title: "Legislature of Minnesota." Signed: "J.R. Wakefield, S.R. Johnson, E. Pierce, J.G. Randall, James C. Frost--Committee." The object was to open a route to the new gold fields on the Fraser River. The report takes up only pages 3-6; the remainder is various and eight appendices: I. "Proceedings of public meetings held at St. Paul, July 1, 7, 10, and 17, 1858"; II. "Particulars of the gold discovery of Frazer and Thompson rivers, and of emigration thither"; III. "Geographical description of Minnesota north of latitude forty-six" by J.W. Taylor; IV. "Routes through Minnesota to the navigable waters of the Red River of the North"; V. "Climatology of Minnesota" by D.C. Sheppard; VI. "Climatology of the Saskatchewan district and of British Oregon"; VII. "Memoir of the Selkirk settlement upon the Red River of the North, with notices of the manners and life of the settlers" by J.A. Wheelock; VIII. "A visit to the Red River settlements" by A. Ramsey; and IX. "Proceedings of a public meeting held at Saint Anthony, July 12, 1858." 
+    
+        Explorers, Surveyors and Travellers--Overland Journeys to the Pacific
+    
+    
+        Red River Settlement
+    
+    
+        American immigrants
+    
+    
+        Immigrants--United States
+    
+    
+        Immigrants--États-Unis
+    
+    
+        Prospecting
+    
+    
+        Prospection
+    
+    
+        Gold mines and mining
+    
+    
+        Or--Mines et extraction
+    
+    
+        Prairie Provinces--Transportation
+    
+    
+        Red River Settlement--History
+    
+    
+        Trade routes
+    
+    
+        Routes commerciales
+    
+    
+        1858
+    
+    166
+    201
+    371
+    371
+    
+        Peel's Prairie Portal
+        P000371
+        2003-01-01T12:00:00-0700
+    
+		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

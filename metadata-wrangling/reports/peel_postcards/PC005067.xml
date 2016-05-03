@@ -1,0 +1,151 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		fsalehi	PC005067	postcards	1	3.2
+	/mods/@version	3.2	fsalehi	PC005067	postcards	1	3.2
+	/mods/titleInfo		fsalehi	PC005067	postcards	1	3.2
+	/mods/titleInfo/@lang	english	fsalehi	PC005067	postcards	1	3.2
+	/mods/titleInfo/title	Braking near Wainwright	fsalehi	PC005067	postcards	1	3.2
+	/mods/name		fsalehi	PC005067	postcards	1	3.2
+	/mods/name/@type	personal	fsalehi	PC005067	postcards	1	3.2
+	/mods/name/namePart	Gano	fsalehi	PC005067	postcards	2	3.2
+	/mods/name/namePart/@type	family	fsalehi	PC005067	postcards	1	3.2
+	/mods/name/namePart	J.H.	fsalehi	PC005067	postcards	2	3.2
+	/mods/name/namePart/@type	given	fsalehi	PC005067	postcards	1	3.2
+	/mods/name/role		fsalehi	PC005067	postcards	1	3.2
+	/mods/name/role/roleTerm	Photographer	fsalehi	PC005067	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC005067	postcards	1	3.2
+	/mods/typeOfResource	still image	fsalehi	PC005067	postcards	1	3.2
+	/mods/genre	postcards	fsalehi	PC005067	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	fsalehi	PC005067	postcards	1	3.2
+	/mods/originInfo		fsalehi	PC005067	postcards	1	3.2
+	/mods/originInfo/place		fsalehi	PC005067	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	[Wainwright]	fsalehi	PC005067	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC005067	postcards	1	3.2
+	/mods/originInfo/publisher	J.H. Gano	fsalehi	PC005067	postcards	1	3.2
+	/mods/originInfo/dateIssued	before 1920	fsalehi	PC005067	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	inferred	fsalehi	PC005067	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	fsalehi	PC005067	postcards	1	3.2
+	/mods/language		fsalehi	PC005067	postcards	1	3.2
+	/mods/language/languageTerm	English	fsalehi	PC005067	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	fsalehi	PC005067	postcards	1	3.2
+	/mods/physicalDescription		fsalehi	PC005067	postcards	1	3.2
+	/mods/physicalDescription/form		fsalehi	PC005067	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : b&w ; 9 x 14 cm.	fsalehi	PC005067	postcards	1	3.2
+	/mods/note	150	fsalehi	PC005067	postcards	6	3.2
+	/mods/note/@type	price	fsalehi	PC005067	postcards	1	3.2
+	/mods/note	false	fsalehi	PC005067	postcards	6	3.2
+	/mods/note/@type	notable	fsalehi	PC005067	postcards	1	3.2
+	/mods/note	false	fsalehi	PC005067	postcards	6	3.2
+	/mods/note/@type	imgprobs	fsalehi	PC005067	postcards	1	3.2
+	/mods/note	[Printer's no.] No.29	fsalehi	PC005067	postcards	6	3.2
+	/mods/note/@type	public_on_front	fsalehi	PC005067	postcards	1	3.2
+	/mods/note	Breaking prairie with oxen.	fsalehi	PC005067	postcards	6	3.2
+	/mods/note/@type	public_description	fsalehi	PC005067	postcards	1	3.2
+	/mods/note	lastbestwest	fsalehi	PC005067	postcards	6	3.2
+	/mods/note/@type	local:oaiset	fsalehi	PC005067	postcards	1	3.2
+	/mods/subject		fsalehi	PC005067	postcards	6	3.2
+	/mods/subject/geographic	Wainwright, AB	fsalehi	PC005067	postcards	1	3.2
+	/mods/subject		fsalehi	PC005067	postcards	6	3.2
+	/mods/subject/hierarchicalGeographic		fsalehi	PC005067	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	fsalehi	PC005067	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	fsalehi	PC005067	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Wainwright	fsalehi	PC005067	postcards	1	3.2
+	/mods/subject		fsalehi	PC005067	postcards	6	3.2
+	/mods/subject/topic	Cows	fsalehi	PC005067	postcards	1	3.2
+	/mods/subject		fsalehi	PC005067	postcards	6	3.2
+	/mods/subject/topic	Agricultural machinery & implements	fsalehi	PC005067	postcards	1	3.2
+	/mods/subject		fsalehi	PC005067	postcards	6	3.2
+	/mods/subject/topic	Plowing	fsalehi	PC005067	postcards	1	3.2
+	/mods/subject		fsalehi	PC005067	postcards	6	3.2
+	/mods/subject/topic	Farming	fsalehi	PC005067	postcards	1	3.2
+	/mods/identifier	PC005067	fsalehi	PC005067	postcards	1	3.2
+	/mods/identifier/@type	local	fsalehi	PC005067	postcards	1	3.2
+	/mods/location		fsalehi	PC005067	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 5	fsalehi	PC005067	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC005067.html	fsalehi	PC005067	postcards	3	3.2
+	/mods/location/url/@access	object in context	fsalehi	PC005067	postcards	1	3.2
+	/mods/location/url/@usage	primary display	fsalehi	PC005067	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/005/web/PC005067.jpg	fsalehi	PC005067	postcards	3	3.2
+	/mods/location/url/@access	raw object	fsalehi	PC005067	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='510'	fsalehi	PC005067	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/005/thumbs/PC005067.jpg	fsalehi	PC005067	postcards	3	3.2
+	/mods/location/url/@access	preview	fsalehi	PC005067	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='128'	fsalehi	PC005067	postcards	1	3.2
+	/mods/recordInfo		fsalehi	PC005067	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	fsalehi	fsalehi	PC005067	postcards	2	3.2
+	/mods/recordInfo/recordContentSource	sfarnel	fsalehi	PC005067	postcards	2	3.2
+	/mods/recordInfo/recordContentSource/@authority	local:person	fsalehi	PC005067	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	fsalehi	PC005067	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC005067	fsalehi	PC005067	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2011-02-08T08:06:58-0700	fsalehi	PC005067	postcards	1	3.2
+	/@mods	
+
+Braking near Wainwright
+
+
+Gano
+J.H.
+
+Photographer
+
+
+still image
+postcards
+
+
+[Wainwright]
+
+J.H. Gano
+before 1920
+monographic
+
+
+English
+
+
+
+1 postcard : b&w ; 9 x 14 cm.
+
+150
+false
+false
+[Printer's no.] No.29
+Breaking prairie with oxen.
+lastbestwest
+
+				Wainwright, AB
+			
+
+				
+Canada
+Alberta
+Wainwright
+
+			
+
+				Cows
+			
+
+				Agricultural machinery & implements
+			
+
+				Plowing
+			
+
+				Farming
+			
+PC005067
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 5
+http://peel.library.ualberta.ca/postcards/PC005067.html
+http://peel.library.ualberta.ca/pcimages/PC/005/web/PC005067.jpg
+http://peel.library.ualberta.ca/pcimages/PC/005/thumbs/PC005067.jpg
+
+
+fsalehi
+sfarnel
+2007-06-25T16:49:56-0600
+PC005067
+2011-02-08T08:06:58-0700
+
+	fsalehi	PC005067	postcards	1	3.2
+	

@@ -1,0 +1,110 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	Géographie du Canada et atlas de l'ouest canadien		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/subTitle	faisant connaître pour l'usage des écoles et pour l'information des colons, leurs ressources et leurs progrès: avec cartes pour Ontario, Québec, et les provinces maritimes; le Manitoba, la Colombie britannique, l'Assiniboine, l'Alberta et la Saskatchewan: avec cartes générales et nombreux diagrammes		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	corporate		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA004330		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Canada. Department of the Interior		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	Ottawa		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	Department of the Interior		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1904		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued/@qualifier	questionable		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	French		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	64 p., illus., col. maps.; 28 cm.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	For English version, <i>see </i>Peel <xref>2750</xref>.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	public		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	Other		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003563		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Prairie Provinces--Geography		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS004480		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Textbooks		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS004480		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Manuels		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1904		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	2749		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	2746		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel-procite-id		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P002749		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordChangeDate	2010-12-06T13:30:39-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	RC		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+
+Géographie du Canada et atlas de l'ouest canadien
+faisant connaître pour l'usage des écoles et pour l'information des colons, leurs ressources et leurs progrès: avec cartes pour Ontario, Québec, et les provinces maritimes; le Manitoba, la Colombie britannique, l'Assiniboine, l'Alberta et la Saskatchewan: avec cartes générales et nombreux diagrammes
+
+
+Canada. Department of the Interior
+
+author
+
+
+text
+
+
+Ottawa
+
+Department of the Interior
+1904
+
+
+French
+
+
+print
+64 p., illus., col. maps.; 28 cm.
+
+For English version, <i>see </i>Peel <xref>2750</xref>.
+
+				Prairie Provinces--Geography
+			
+
+				Textbooks
+			
+
+				Manuels
+			
+
+				1904
+			
+2749
+2746
+
+Peel's Prairie Portal
+2003-01-01T12:00:00-0700
+P002749
+2010-12-06T13:30:39-0700
+RC
+
+		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

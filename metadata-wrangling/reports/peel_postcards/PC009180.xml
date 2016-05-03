@@ -1,0 +1,158 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		fsalehi	PC009180	postcards	1	3.2
+	/mods/@version	3.2	fsalehi	PC009180	postcards	1	3.2
+	/mods/titleInfo		fsalehi	PC009180	postcards	1	3.2
+	/mods/titleInfo/@lang	english	fsalehi	PC009180	postcards	1	3.2
+	/mods/titleInfo/title	Mt. Cleveland, Waterton Lakes Park, Alberta	fsalehi	PC009180	postcards	1	3.2
+	/mods/name		fsalehi	PC009180	postcards	1	3.2
+	/mods/name/@type	corporate	fsalehi	PC009180	postcards	1	3.2
+	/mods/name/namePart	The Camera Products Co.	fsalehi	PC009180	postcards	1	3.2
+	/mods/name/role		fsalehi	PC009180	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	fsalehi	PC009180	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC009180	postcards	1	3.2
+	/mods/typeOfResource	still image	fsalehi	PC009180	postcards	1	3.2
+	/mods/genre	postcards	fsalehi	PC009180	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	fsalehi	PC009180	postcards	1	3.2
+	/mods/originInfo		fsalehi	PC009180	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	fsalehi	PC009180	postcards	1	3.2
+	/mods/originInfo/publisher	Published by The Camera Products Co., 1731 Dunbar Street, Vancouver, B.C.	fsalehi	PC009180	postcards	1	3.2
+	/mods/originInfo/dateIssued	after 1930	fsalehi	PC009180	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	inferred	fsalehi	PC009180	postcards	1	3.2
+	/mods/originInfo/place		fsalehi	PC009180	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	Vancouver	fsalehi	PC009180	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC009180	postcards	1	3.2
+	/mods/language		fsalehi	PC009180	postcards	1	3.2
+	/mods/language/languageTerm	English	fsalehi	PC009180	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	fsalehi	PC009180	postcards	1	3.2
+	/mods/physicalDescription		fsalehi	PC009180	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : col. ; 9 x 14 cm.	fsalehi	PC009180	postcards	1	3.2
+	/mods/note	6	fsalehi	PC009180	postcards	6	3.2
+	/mods/note/@type	price	fsalehi	PC009180	postcards	1	3.2
+	/mods/note	false	fsalehi	PC009180	postcards	6	3.2
+	/mods/note/@type	notable	fsalehi	PC009180	postcards	1	3.2
+	/mods/note	true	fsalehi	PC009180	postcards	6	3.2
+	/mods/note/@type	imgprobs	fsalehi	PC009180	postcards	1	3.2
+	/mods/note	This is a Real Photograph. Hand Coloured.	fsalehi	PC009180	postcards	6	3.2
+	/mods/note/@type	public_on_back	fsalehi	PC009180	postcards	1	3.2
+	/mods/note	Made in England	fsalehi	PC009180	postcards	6	3.2
+	/mods/note/@type	public_on_back	fsalehi	PC009180	postcards	1	3.2
+	/mods/note	Hand-coloured photograph view of a large lake with hills and mountains in the background.	fsalehi	PC009180	postcards	6	3.2
+	/mods/note/@type	public_description	fsalehi	PC009180	postcards	1	3.2
+	/mods/subject		fsalehi	PC009180	postcards	8	3.2
+	/mods/subject/geographic	Waterton Park, AB	fsalehi	PC009180	postcards	1	3.2
+	/mods/subject		fsalehi	PC009180	postcards	8	3.2
+	/mods/subject/hierarchicalGeographic		fsalehi	PC009180	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	fsalehi	PC009180	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	fsalehi	PC009180	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city		fsalehi	PC009180	postcards	1	3.2
+	/mods/subject		fsalehi	PC009180	postcards	8	3.2
+	/mods/subject/genre	Postcards	fsalehi	PC009180	postcards	1	3.2
+	/mods/subject		fsalehi	PC009180	postcards	8	3.2
+	/mods/subject/topic	Lakes & ponds	fsalehi	PC009180	postcards	1	3.2
+	/mods/subject		fsalehi	PC009180	postcards	8	3.2
+	/mods/subject/topic	Mountains	fsalehi	PC009180	postcards	1	3.2
+	/mods/subject		fsalehi	PC009180	postcards	8	3.2
+	/mods/subject/topic	Boats	fsalehi	PC009180	postcards	1	3.2
+	/mods/subject		fsalehi	PC009180	postcards	8	3.2
+	/mods/subject/topic	Trees	fsalehi	PC009180	postcards	1	3.2
+	/mods/subject		fsalehi	PC009180	postcards	8	3.2
+	/mods/subject/name		fsalehi	PC009180	postcards	1	3.2
+	/mods/subject/name/namePart	Waterton Lakes National Park (Alta.)	fsalehi	PC009180	postcards	1	3.2
+	/mods/identifier	PC009180	fsalehi	PC009180	postcards	1	3.2
+	/mods/identifier/@type	local	fsalehi	PC009180	postcards	1	3.2
+	/mods/location		fsalehi	PC009180	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 13	fsalehi	PC009180	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC009180.html	fsalehi	PC009180	postcards	3	3.2
+	/mods/location/url/@access	object in context	fsalehi	PC009180	postcards	1	3.2
+	/mods/location/url/@usage	primary display	fsalehi	PC009180	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/009/web/PC009180.jpg	fsalehi	PC009180	postcards	3	3.2
+	/mods/location/url/@access	raw object	fsalehi	PC009180	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='512' 	fsalehi	PC009180	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/009/thumbs/PC009180.jpg	fsalehi	PC009180	postcards	3	3.2
+	/mods/location/url/@access	preview	fsalehi	PC009180	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='128'	fsalehi	PC009180	postcards	1	3.2
+	/mods/recordInfo		fsalehi	PC009180	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	fsalehi	PC009180	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC009180	fsalehi	PC009180	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	fsalehi	fsalehi	PC009180	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2009-04-30T11:31:51-0600	fsalehi	PC009180	postcards	1	3.2
+	/@mods	
+
+Mt. Cleveland, Waterton Lakes Park, Alberta
+
+
+The Camera Products Co.
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+Published by The Camera Products Co., 1731 Dunbar Street, Vancouver, B.C.
+after 1930
+
+
+Vancouver
+
+
+
+English
+
+
+1 postcard : col. ; 9 x 14 cm.
+
+6
+false
+true
+This is a Real Photograph. Hand Coloured.
+Made in England
+Hand-coloured photograph view of a large lake with hills and mountains in the background.
+
+Waterton Park, AB
+
+
+
+Canada
+Alberta
+
+
+
+
+Postcards
+
+
+Lakes & ponds
+
+
+Mountains
+
+
+Boats
+
+
+Trees
+
+
+
+Waterton Lakes National Park (Alta.)
+
+
+PC009180
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 13
+http://peel.library.ualberta.ca/postcards/PC009180.html
+http://peel.library.ualberta.ca/pcimages/PC/009/web/PC009180.jpg
+http://peel.library.ualberta.ca/pcimages/PC/009/thumbs/PC009180.jpg
+
+
+
+
+2007-06-25T16:49:56-0600
+PC009180
+fsalehi
+2009-04-30T11:31:51-0600
+
+	fsalehi	PC009180	postcards	1	3.2
+	

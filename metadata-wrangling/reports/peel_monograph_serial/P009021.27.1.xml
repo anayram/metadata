@@ -1,0 +1,411 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods		journal issue	1	
+	/mods/titleInfo		journal issue	1	
+	/mods/titleInfo/title	Alberta History	journal issue	1	
+	/mods/originInfo		journal issue	2	
+	/mods/originInfo/issuance	continuing	journal issue	1	
+	/mods/identifier	0316-1552	journal issue	2	
+	/mods/identifier/@type	issn	journal issue	1	
+	/mods/part		journal issue	1	
+	/mods/part/detail		journal issue	2	
+	/mods/part/detail/@type	volume	journal issue	1	
+	/mods/part/detail/number	27	journal issue	1	
+	/mods/part/detail		journal issue	2	
+	/mods/part/detail/@type	issue	journal issue	1	
+	/mods/part/detail/number	1	journal issue	1	
+	/mods/part/detail/caption	no.	journal issue	1	
+	/mods/part/date	1979	journal issue	1	
+	/mods/note	Winter	journal issue	1	
+	/mods/note/@type	season	journal issue	1	
+	/mods/language		journal issue	1	
+	/mods/language/languageTerm	English	journal issue	1	
+	/mods/language/languageTerm/@type	text	journal issue	1	
+	/mods/genre	journal issue	journal issue	1	
+	/mods/originInfo		journal issue	2	
+	/mods/originInfo/dateIssued	1979	journal issue	1	
+	/mods/relatedItem		journal issue	7	
+	/mods/relatedItem/@type	constituent	journal issue	1	
+	/mods/relatedItem/titleInfo		journal issue	1	
+	/mods/relatedItem/titleInfo/title	Four Faces of Calgary	journal issue	1	
+	/mods/relatedItem/name		journal issue	1	
+	/mods/relatedItem/name/@type	personal	journal issue	1	
+	/mods/relatedItem/name/namePart	Foran, Max	journal issue	1	
+	/mods/relatedItem/name/role		journal issue	1	
+	/mods/relatedItem/name/role/roleTerm	author	journal issue	1	
+	/mods/relatedItem/name/role/roleTerm/@type	text	journal issue	1	
+	/mods/relatedItem/language		journal issue	1	
+	/mods/relatedItem/language/languageTerm	English	journal issue	1	
+	/mods/relatedItem/language/languageTerm/@type	text	journal issue	1	
+	/mods/relatedItem/genre	journal article	journal issue	1	
+	/mods/relatedItem/originInfo		journal issue	1	
+	/mods/relatedItem/originInfo/dateIssued	1979	journal issue	1	
+	/mods/relatedItem/part		journal issue	1	
+	/mods/relatedItem/part/extent		journal issue	1	
+	/mods/relatedItem/part/extent/@unit	page	journal issue	1	
+	/mods/relatedItem/part/extent/start	1	journal issue	1	
+	/mods/relatedItem/part/extent/end	9	journal issue	1	
+	/mods/relatedItem/recordInfo		journal issue	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9021.27.1.1-9	journal issue	1	
+	/mods/relatedItem/note	clear	journal issue	1	
+	/mods/relatedItem/note/@type	copyright	journal issue	1	
+	/mods/relatedItem		journal issue	7	
+	/mods/relatedItem/@type	constituent	journal issue	1	
+	/mods/relatedItem/titleInfo		journal issue	1	
+	/mods/relatedItem/titleInfo/title	Buffalo Bone Industry in Canada (I)	journal issue	1	
+	/mods/relatedItem/name		journal issue	1	
+	/mods/relatedItem/name/@type	personal	journal issue	1	
+	/mods/relatedItem/name/namePart	Barnett, LeRoy	journal issue	1	
+	/mods/relatedItem/name/role		journal issue	1	
+	/mods/relatedItem/name/role/roleTerm	author	journal issue	1	
+	/mods/relatedItem/name/role/roleTerm/@type	text	journal issue	1	
+	/mods/relatedItem/language		journal issue	1	
+	/mods/relatedItem/language/languageTerm	English	journal issue	1	
+	/mods/relatedItem/language/languageTerm/@type	text	journal issue	1	
+	/mods/relatedItem/genre	journal article	journal issue	1	
+	/mods/relatedItem/originInfo		journal issue	1	
+	/mods/relatedItem/originInfo/dateIssued	1979	journal issue	1	
+	/mods/relatedItem/part		journal issue	1	
+	/mods/relatedItem/part/extent		journal issue	1	
+	/mods/relatedItem/part/extent/@unit	page	journal issue	1	
+	/mods/relatedItem/part/extent/start	10	journal issue	1	
+	/mods/relatedItem/part/extent/end	16	journal issue	1	
+	/mods/relatedItem/recordInfo		journal issue	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9021.27.1.10-16	journal issue	1	
+	/mods/relatedItem/note	clear	journal issue	1	
+	/mods/relatedItem/note/@type	copyright	journal issue	1	
+	/mods/relatedItem		journal issue	7	
+	/mods/relatedItem/@type	constituent	journal issue	1	
+	/mods/relatedItem/titleInfo		journal issue	1	
+	/mods/relatedItem/titleInfo/title	Ella Hartt, Pioneer Photographer	journal issue	1	
+	/mods/relatedItem/language		journal issue	1	
+	/mods/relatedItem/language/languageTerm	English	journal issue	1	
+	/mods/relatedItem/language/languageTerm/@type	text	journal issue	1	
+	/mods/relatedItem/genre	journal article	journal issue	1	
+	/mods/relatedItem/originInfo		journal issue	1	
+	/mods/relatedItem/originInfo/dateIssued	1979	journal issue	1	
+	/mods/relatedItem/part		journal issue	1	
+	/mods/relatedItem/part/extent		journal issue	1	
+	/mods/relatedItem/part/extent/@unit	page	journal issue	1	
+	/mods/relatedItem/part/extent/start	17	journal issue	1	
+	/mods/relatedItem/part/extent/end	24	journal issue	1	
+	/mods/relatedItem/recordInfo		journal issue	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9021.27.1.17-24	journal issue	1	
+	/mods/relatedItem/note	clear	journal issue	1	
+	/mods/relatedItem/note/@type	copyright	journal issue	1	
+	/mods/relatedItem		journal issue	7	
+	/mods/relatedItem/@type	constituent	journal issue	1	
+	/mods/relatedItem/titleInfo		journal issue	1	
+	/mods/relatedItem/titleInfo/title	Labouring on the Railroad	journal issue	1	
+	/mods/relatedItem/name		journal issue	1	
+	/mods/relatedItem/name/@type	personal	journal issue	1	
+	/mods/relatedItem/name/namePart	Woywitka, Anne B.	journal issue	1	
+	/mods/relatedItem/name/role		journal issue	1	
+	/mods/relatedItem/name/role/roleTerm	author	journal issue	1	
+	/mods/relatedItem/name/role/roleTerm/@type	text	journal issue	1	
+	/mods/relatedItem/language		journal issue	1	
+	/mods/relatedItem/language/languageTerm	English	journal issue	1	
+	/mods/relatedItem/language/languageTerm/@type	text	journal issue	1	
+	/mods/relatedItem/genre	journal article	journal issue	1	
+	/mods/relatedItem/originInfo		journal issue	1	
+	/mods/relatedItem/originInfo/dateIssued	1979	journal issue	1	
+	/mods/relatedItem/part		journal issue	1	
+	/mods/relatedItem/part/extent		journal issue	1	
+	/mods/relatedItem/part/extent/@unit	page	journal issue	1	
+	/mods/relatedItem/part/extent/start	25	journal issue	1	
+	/mods/relatedItem/part/extent/end	33	journal issue	1	
+	/mods/relatedItem/recordInfo		journal issue	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9021.27.1.25-33	journal issue	1	
+	/mods/relatedItem/note	clear	journal issue	1	
+	/mods/relatedItem/note/@type	copyright	journal issue	1	
+	/mods/relatedItem		journal issue	7	
+	/mods/relatedItem/@type	constituent	journal issue	1	
+	/mods/relatedItem/titleInfo		journal issue	1	
+	/mods/relatedItem/titleInfo/title	The Colonel	journal issue	1	
+	/mods/relatedItem/name		journal issue	1	
+	/mods/relatedItem/name/@type	personal	journal issue	1	
+	/mods/relatedItem/name/namePart	Lawrence, V.H.	journal issue	1	
+	/mods/relatedItem/name/role		journal issue	1	
+	/mods/relatedItem/name/role/roleTerm	author	journal issue	1	
+	/mods/relatedItem/name/role/roleTerm/@type	text	journal issue	1	
+	/mods/relatedItem/language		journal issue	1	
+	/mods/relatedItem/language/languageTerm	English	journal issue	1	
+	/mods/relatedItem/language/languageTerm/@type	text	journal issue	1	
+	/mods/relatedItem/genre	journal article	journal issue	1	
+	/mods/relatedItem/originInfo		journal issue	1	
+	/mods/relatedItem/originInfo/dateIssued	1979	journal issue	1	
+	/mods/relatedItem/part		journal issue	1	
+	/mods/relatedItem/part/extent		journal issue	1	
+	/mods/relatedItem/part/extent/@unit	page	journal issue	1	
+	/mods/relatedItem/part/extent/start	34	journal issue	1	
+	/mods/relatedItem/part/extent/end	35	journal issue	1	
+	/mods/relatedItem/recordInfo		journal issue	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9021.27.1.34-35	journal issue	1	
+	/mods/relatedItem/note	blocked	journal issue	1	
+	/mods/relatedItem/note/@type	copyright	journal issue	1	
+	/mods/relatedItem		journal issue	7	
+	/mods/relatedItem/@type	constituent	journal issue	1	
+	/mods/relatedItem/titleInfo		journal issue	1	
+	/mods/relatedItem/titleInfo/title	Western Bookshelf	journal issue	1	
+	/mods/relatedItem/language		journal issue	1	
+	/mods/relatedItem/language/languageTerm	English	journal issue	1	
+	/mods/relatedItem/language/languageTerm/@type	text	journal issue	1	
+	/mods/relatedItem/genre	journal article	journal issue	1	
+	/mods/relatedItem/originInfo		journal issue	1	
+	/mods/relatedItem/originInfo/dateIssued	1979	journal issue	1	
+	/mods/relatedItem/part		journal issue	1	
+	/mods/relatedItem/part/extent		journal issue	1	
+	/mods/relatedItem/part/extent/@unit	page	journal issue	1	
+	/mods/relatedItem/part/extent/start	36	journal issue	1	
+	/mods/relatedItem/part/extent/end	39	journal issue	1	
+	/mods/relatedItem/recordInfo		journal issue	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9021.27.1.36-39	journal issue	1	
+	/mods/relatedItem/note	clear	journal issue	1	
+	/mods/relatedItem/note/@type	copyright	journal issue	1	
+	/mods/relatedItem		journal issue	7	
+	/mods/relatedItem/@type	constituent	journal issue	1	
+	/mods/relatedItem/titleInfo		journal issue	1	
+	/mods/relatedItem/titleInfo/title	Notes and Comments	journal issue	1	
+	/mods/relatedItem/language		journal issue	1	
+	/mods/relatedItem/language/languageTerm	English	journal issue	1	
+	/mods/relatedItem/language/languageTerm/@type	text	journal issue	1	
+	/mods/relatedItem/genre	journal article	journal issue	1	
+	/mods/relatedItem/originInfo		journal issue	1	
+	/mods/relatedItem/originInfo/dateIssued	1979	journal issue	1	
+	/mods/relatedItem/part		journal issue	1	
+	/mods/relatedItem/part/extent		journal issue	1	
+	/mods/relatedItem/part/extent/@unit	page	journal issue	1	
+	/mods/relatedItem/part/extent/start	40	journal issue	1	
+	/mods/relatedItem/part/extent/end	40	journal issue	1	
+	/mods/relatedItem/recordInfo		journal issue	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9021.27.1.40	journal issue	1	
+	/mods/relatedItem/note	clear	journal issue	1	
+	/mods/relatedItem/note/@type	copyright	journal issue	1	
+	/mods/identifier	9021.27.1	journal issue	2	
+	/mods/identifier/@type	local:peel3	journal issue	1	
+	/mods/recordInfo		journal issue	1	
+	/mods/recordInfo/recordIdentifier	P009021.27.1	journal issue	1	
+	/@mods	
+		
+			Alberta History
+		
+		
+			continuing
+		
+		0316-1552
+		
+			
+				27
+			
+			
+				1
+				no.
+			
+			1979
+		
+		Winter
+		
+			English
+		
+		journal issue
+		
+			1979
+		
+		
+			
+				Four Faces of Calgary
+			
+			
+				Foran, Max
+				
+					author
+				
+			
+			
+				English
+			
+			journal article
+			
+				1979
+			
+			
+				
+					1
+					9
+				
+			
+			
+				
+				9021.27.1.1-9
+				
+			
+			clear
+		
+		
+			
+				Buffalo Bone Industry in Canada (I)
+			
+			
+				Barnett, LeRoy
+				
+					author
+				
+			
+			
+				English
+			
+			journal article
+			
+				1979
+			
+			
+				
+					10
+					16
+				
+			
+			
+				
+				9021.27.1.10-16
+				
+			
+			clear
+		
+		
+			
+				Ella Hartt, Pioneer Photographer
+			
+			
+				English
+			
+			journal article
+			
+				1979
+			
+			
+				
+					17
+					24
+				
+			
+			
+				
+				9021.27.1.17-24
+				
+			
+			clear
+		
+		
+			
+				Labouring on the Railroad
+			
+			
+				Woywitka, Anne B.
+				
+					author
+				
+			
+			
+				English
+			
+			journal article
+			
+				1979
+			
+			
+				
+					25
+					33
+				
+			
+			
+				
+				9021.27.1.25-33
+				
+			
+			clear
+		
+		
+			
+				The Colonel
+			
+			
+				Lawrence, V.H.
+				
+					author
+				
+			
+			
+				English
+			
+			journal article
+			
+				1979
+			
+			
+				
+					34
+					35
+				
+			
+			
+				
+				9021.27.1.34-35
+				
+			
+			blocked
+		
+		
+			
+				Western Bookshelf
+			
+			
+				English
+			
+			journal article
+			
+				1979
+			
+			
+				
+					36
+					39
+				
+			
+			
+				
+				9021.27.1.36-39
+				
+			
+			clear
+		
+		
+			
+				Notes and Comments
+			
+			
+				English
+			
+			journal article
+			
+				1979
+			
+			
+				
+					40
+					40
+				
+			
+			
+				
+				9021.27.1.40
+				
+			
+			clear
+		
+		9021.27.1
+
+			P009021.27.1
+			
+		
+		journal issue	1	
+	

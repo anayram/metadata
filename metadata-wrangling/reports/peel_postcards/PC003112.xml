@@ -1,0 +1,138 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		bstearns	PC003112	postcards	1	3.2
+	/mods/@version	3.2	bstearns	PC003112	postcards	1	3.2
+	/mods/titleInfo		bstearns	PC003112	postcards	1	3.2
+	/mods/titleInfo/@lang	english	bstearns	PC003112	postcards	1	3.2
+	/mods/titleInfo/title	[Brooks, Alberta.]	bstearns	PC003112	postcards	1	3.2
+	/mods/name		bstearns	PC003112	postcards	1	3.2
+	/mods/name/@type	corporate	bstearns	PC003112	postcards	1	3.2
+	/mods/name/namePart	Pauline Studio	bstearns	PC003112	postcards	1	3.2
+	/mods/name/role		bstearns	PC003112	postcards	1	3.2
+	/mods/name/role/roleTerm	Photographer	bstearns	PC003112	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	bstearns	PC003112	postcards	1	3.2
+	/mods/typeOfResource	still image	bstearns	PC003112	postcards	1	3.2
+	/mods/genre	postcards	bstearns	PC003112	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	bstearns	PC003112	postcards	1	3.2
+	/mods/originInfo		bstearns	PC003112	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	bstearns	PC003112	postcards	1	3.2
+	/mods/originInfo/publisher	Pauline Studio Photographer, Brooks, Alberta	bstearns	PC003112	postcards	1	3.2
+	/mods/originInfo/dateIssued	19-	bstearns	PC003112	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	inferred	bstearns	PC003112	postcards	1	3.2
+	/mods/originInfo/place		bstearns	PC003112	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	Brooks	bstearns	PC003112	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	bstearns	PC003112	postcards	1	3.2
+	/mods/language		bstearns	PC003112	postcards	1	3.2
+	/mods/language/languageTerm	English	bstearns	PC003112	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	bstearns	PC003112	postcards	1	3.2
+	/mods/physicalDescription		bstearns	PC003112	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : sepia ; 9 x 14 cm.	bstearns	PC003112	postcards	1	3.2
+	/mods/note	30	bstearns	PC003112	postcards	5	3.2
+	/mods/note/@type	price	bstearns	PC003112	postcards	1	3.2
+	/mods/note	false	bstearns	PC003112	postcards	5	3.2
+	/mods/note/@type	notable	bstearns	PC003112	postcards	1	3.2
+	/mods/note	true	bstearns	PC003112	postcards	5	3.2
+	/mods/note/@type	imgprobs	bstearns	PC003112	postcards	1	3.2
+	/mods/note	Aerial view of Horticultural Research Station, Brooks, Alberta.	bstearns	PC003112	postcards	5	3.2
+	/mods/note/@type	public_description	bstearns	PC003112	postcards	1	3.2
+	/mods/note	Glossy print postcard.	bstearns	PC003112	postcards	5	3.2
+	/mods/note/@type	public_other	bstearns	PC003112	postcards	1	3.2
+	/mods/subject		bstearns	PC003112	postcards	5	3.2
+	/mods/subject/geographic	Brooks, AB	bstearns	PC003112	postcards	1	3.2
+	/mods/subject		bstearns	PC003112	postcards	5	3.2
+	/mods/subject/hierarchicalGeographic		bstearns	PC003112	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	bstearns	PC003112	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	bstearns	PC003112	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Brooks	bstearns	PC003112	postcards	1	3.2
+	/mods/subject		bstearns	PC003112	postcards	5	3.2
+	/mods/subject/genre	Postcards	bstearns	PC003112	postcards	1	3.2
+	/mods/subject		bstearns	PC003112	postcards	5	3.2
+	/mods/subject/topic	Aerial views	bstearns	PC003112	postcards	1	3.2
+	/mods/subject		bstearns	PC003112	postcards	5	3.2
+	/mods/subject/name		bstearns	PC003112	postcards	1	3.2
+	/mods/subject/name/namePart	Alberta Horticultural Research Station (Brooks, Alta.)	bstearns	PC003112	postcards	1	3.2
+	/mods/identifier	PC003112	bstearns	PC003112	postcards	1	3.2
+	/mods/identifier/@type	local	bstearns	PC003112	postcards	1	3.2
+	/mods/location		bstearns	PC003112	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 1	bstearns	PC003112	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC003112.html	bstearns	PC003112	postcards	3	3.2
+	/mods/location/url/@access	object in context	bstearns	PC003112	postcards	1	3.2
+	/mods/location/url/@usage	primary display	bstearns	PC003112	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/003/web/PC003112.jpg	bstearns	PC003112	postcards	3	3.2
+	/mods/location/url/@access	raw object	bstearns	PC003112	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='506' 	bstearns	PC003112	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/003/thumbs/PC003112.jpg	bstearns	PC003112	postcards	3	3.2
+	/mods/location/url/@access	preview	bstearns	PC003112	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='127'	bstearns	PC003112	postcards	1	3.2
+	/mods/recordInfo		bstearns	PC003112	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	bstearns	PC003112	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC003112	bstearns	PC003112	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	bstearns	bstearns	PC003112	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2009-11-30T12:47:14-0700	bstearns	PC003112	postcards	1	3.2
+	/@mods	
+
+[Brooks, Alberta.]
+
+
+Pauline Studio
+
+Photographer
+
+
+still image
+postcards
+
+monographic
+Pauline Studio Photographer, Brooks, Alberta
+19-
+
+
+Brooks
+
+
+
+English
+
+
+1 postcard : sepia ; 9 x 14 cm.
+
+30
+false
+true
+Aerial view of Horticultural Research Station, Brooks, Alberta.
+Glossy print postcard.
+
+Brooks, AB
+
+
+
+Canada
+Alberta
+Brooks
+
+
+
+Postcards
+
+
+Aerial views
+
+
+
+Alberta Horticultural Research Station (Brooks, Alta.)
+
+
+PC003112
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 1
+http://peel.library.ualberta.ca/postcards/PC003112.html
+http://peel.library.ualberta.ca/pcimages/PC/003/web/PC003112.jpg
+http://peel.library.ualberta.ca/pcimages/PC/003/thumbs/PC003112.jpg
+
+
+2007-06-25T16:49:56-0600
+PC003112
+bstearns
+2009-11-30T12:47:14-0700
+
+	bstearns	PC003112	postcards	1	3.2
+	

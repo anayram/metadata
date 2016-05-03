@@ -1,0 +1,282 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods		journal issue	1	
+	/mods/titleInfo		journal issue	1	
+	/mods/titleInfo/title	Alberta History	journal issue	1	
+	/mods/originInfo		journal issue	2	
+	/mods/originInfo/issuance	continuing	journal issue	1	
+	/mods/identifier	0316-1552	journal issue	2	
+	/mods/identifier/@type	issn	journal issue	1	
+	/mods/part		journal issue	1	
+	/mods/part/detail		journal issue	2	
+	/mods/part/detail/@type	volume	journal issue	1	
+	/mods/part/detail/number	42	journal issue	1	
+	/mods/part/detail		journal issue	2	
+	/mods/part/detail/@type	issue	journal issue	1	
+	/mods/part/detail/number	3	journal issue	1	
+	/mods/part/detail/caption	no.	journal issue	1	
+	/mods/part/date	1994	journal issue	1	
+	/mods/note	Summer	journal issue	1	
+	/mods/note/@type	season	journal issue	1	
+	/mods/language		journal issue	1	
+	/mods/language/languageTerm	English	journal issue	1	
+	/mods/language/languageTerm/@type	text	journal issue	1	
+	/mods/genre	journal issue	journal issue	1	
+	/mods/originInfo		journal issue	2	
+	/mods/originInfo/dateIssued	1994	journal issue	1	
+	/mods/relatedItem		journal issue	4	
+	/mods/relatedItem/@type	constituent	journal issue	1	
+	/mods/relatedItem/titleInfo		journal issue	1	
+	/mods/relatedItem/titleInfo/title	Learning the Gen Trade	journal issue	1	
+	/mods/relatedItem/name		journal issue	1	
+	/mods/relatedItem/name/@type	personal	journal issue	1	
+	/mods/relatedItem/name/namePart	Chalmers, John W.	journal issue	1	
+	/mods/relatedItem/name/role		journal issue	1	
+	/mods/relatedItem/name/role/roleTerm	author	journal issue	1	
+	/mods/relatedItem/name/role/roleTerm/@type	text	journal issue	1	
+	/mods/relatedItem/language		journal issue	1	
+	/mods/relatedItem/language/languageTerm	English	journal issue	1	
+	/mods/relatedItem/language/languageTerm/@type	text	journal issue	1	
+	/mods/relatedItem/genre	journal article	journal issue	1	
+	/mods/relatedItem/originInfo		journal issue	1	
+	/mods/relatedItem/originInfo/dateIssued	1994	journal issue	1	
+	/mods/relatedItem/part		journal issue	1	
+	/mods/relatedItem/part/extent		journal issue	1	
+	/mods/relatedItem/part/extent/@unit	page	journal issue	1	
+	/mods/relatedItem/part/extent/start	2	journal issue	1	
+	/mods/relatedItem/part/extent/end	10	journal issue	1	
+	/mods/relatedItem/recordInfo		journal issue	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9021.42.3.2-10	journal issue	1	
+	/mods/relatedItem/note	clear	journal issue	1	
+	/mods/relatedItem/note/@type	copyright	journal issue	1	
+	/mods/relatedItem		journal issue	4	
+	/mods/relatedItem/@type	constituent	journal issue	1	
+	/mods/relatedItem/titleInfo		journal issue	1	
+	/mods/relatedItem/titleInfo/title	A Woman's View of Pioneer Life	journal issue	1	
+	/mods/relatedItem/name		journal issue	1	
+	/mods/relatedItem/name/@type	personal	journal issue	1	
+	/mods/relatedItem/name/namePart	McNellis, Anna	journal issue	1	
+	/mods/relatedItem/name/role		journal issue	1	
+	/mods/relatedItem/name/role/roleTerm	author	journal issue	1	
+	/mods/relatedItem/name/role/roleTerm/@type	text	journal issue	1	
+	/mods/relatedItem/language		journal issue	1	
+	/mods/relatedItem/language/languageTerm	English	journal issue	1	
+	/mods/relatedItem/language/languageTerm/@type	text	journal issue	1	
+	/mods/relatedItem/genre	journal article	journal issue	1	
+	/mods/relatedItem/originInfo		journal issue	1	
+	/mods/relatedItem/originInfo/dateIssued	1994	journal issue	1	
+	/mods/relatedItem/part		journal issue	1	
+	/mods/relatedItem/part/extent		journal issue	1	
+	/mods/relatedItem/part/extent/@unit	page	journal issue	1	
+	/mods/relatedItem/part/extent/start	11	journal issue	1	
+	/mods/relatedItem/part/extent/end	14	journal issue	1	
+	/mods/relatedItem/recordInfo		journal issue	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9021.42.3.11-14	journal issue	1	
+	/mods/relatedItem/note	blocked	journal issue	1	
+	/mods/relatedItem/note/@type	copyright	journal issue	1	
+	/mods/relatedItem		journal issue	4	
+	/mods/relatedItem/@type	constituent	journal issue	1	
+	/mods/relatedItem/titleInfo		journal issue	1	
+	/mods/relatedItem/titleInfo/title	The Development of Strathcona	journal issue	1	
+	/mods/relatedItem/name		journal issue	1	
+	/mods/relatedItem/name/@type	personal	journal issue	1	
+	/mods/relatedItem/name/namePart	Gilpin, John	journal issue	1	
+	/mods/relatedItem/name/role		journal issue	1	
+	/mods/relatedItem/name/role/roleTerm	author	journal issue	1	
+	/mods/relatedItem/name/role/roleTerm/@type	text	journal issue	1	
+	/mods/relatedItem/language		journal issue	1	
+	/mods/relatedItem/language/languageTerm	English	journal issue	1	
+	/mods/relatedItem/language/languageTerm/@type	text	journal issue	1	
+	/mods/relatedItem/genre	journal article	journal issue	1	
+	/mods/relatedItem/originInfo		journal issue	1	
+	/mods/relatedItem/originInfo/dateIssued	1994	journal issue	1	
+	/mods/relatedItem/part		journal issue	1	
+	/mods/relatedItem/part/extent		journal issue	1	
+	/mods/relatedItem/part/extent/@unit	page	journal issue	1	
+	/mods/relatedItem/part/extent/start	15	journal issue	1	
+	/mods/relatedItem/part/extent/end	22	journal issue	1	
+	/mods/relatedItem/recordInfo		journal issue	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9021.42.3.15-22	journal issue	1	
+	/mods/relatedItem/note	clear	journal issue	1	
+	/mods/relatedItem/note/@type	copyright	journal issue	1	
+	/mods/relatedItem		journal issue	4	
+	/mods/relatedItem/@type	constituent	journal issue	1	
+	/mods/relatedItem/titleInfo		journal issue	1	
+	/mods/relatedItem/titleInfo/title	Surveying Grande Cache	journal issue	1	
+	/mods/relatedItem/name		journal issue	1	
+	/mods/relatedItem/name/@type	personal	journal issue	1	
+	/mods/relatedItem/name/namePart	Atkins, C. B.	journal issue	1	
+	/mods/relatedItem/name/role		journal issue	1	
+	/mods/relatedItem/name/role/roleTerm	author	journal issue	1	
+	/mods/relatedItem/name/role/roleTerm/@type	text	journal issue	1	
+	/mods/relatedItem/language		journal issue	1	
+	/mods/relatedItem/language/languageTerm	English	journal issue	1	
+	/mods/relatedItem/language/languageTerm/@type	text	journal issue	1	
+	/mods/relatedItem/genre	journal article	journal issue	1	
+	/mods/relatedItem/originInfo		journal issue	1	
+	/mods/relatedItem/originInfo/dateIssued	1994	journal issue	1	
+	/mods/relatedItem/part		journal issue	1	
+	/mods/relatedItem/part/extent		journal issue	1	
+	/mods/relatedItem/part/extent/@unit	page	journal issue	1	
+	/mods/relatedItem/part/extent/start	23	journal issue	1	
+	/mods/relatedItem/part/extent/end	26	journal issue	1	
+	/mods/relatedItem/recordInfo		journal issue	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9021.42.3.23-26	journal issue	1	
+	/mods/relatedItem/note	blocked	journal issue	1	
+	/mods/relatedItem/note/@type	copyright	journal issue	1	
+	/mods/identifier	9021.42.3	journal issue	2	
+	/mods/identifier/@type	local:peel3	journal issue	1	
+	/mods/recordInfo		journal issue	1	
+	/mods/recordInfo/recordIdentifier	P009021.42.3	journal issue	1	
+	/@mods	
+		
+			Alberta History
+		
+		
+			continuing
+		
+		0316-1552
+		
+			
+				42
+			
+			
+				3
+				no.
+			
+			1994
+		
+		Summer
+		
+			English
+		
+		journal issue
+		
+			1994
+		
+		
+			
+				Learning the Gen Trade
+			
+			
+				Chalmers, John W.
+				
+					author
+				
+			
+			
+				English
+			
+			journal article
+			
+				1994
+			
+			
+				
+					2
+					10
+				
+			
+			
+				
+				9021.42.3.2-10
+				
+			
+			clear
+		
+		
+			
+				A Woman's View of Pioneer Life
+			
+			
+				McNellis, Anna
+				
+					author
+				
+			
+			
+				English
+			
+			journal article
+			
+				1994
+			
+			
+				
+					11
+					14
+				
+			
+			
+				
+				9021.42.3.11-14
+				
+			
+			blocked
+		
+		
+			
+				The Development of Strathcona
+			
+			
+				Gilpin, John
+				
+					author
+				
+			
+			
+				English
+			
+			journal article
+			
+				1994
+			
+			
+				
+					15
+					22
+				
+			
+			
+				
+				9021.42.3.15-22
+				
+			
+			clear
+		
+		
+			
+				Surveying Grande Cache
+			
+			
+				Atkins, C. B.
+				
+					author
+				
+			
+			
+				English
+			
+			journal article
+			
+				1994
+			
+			
+				
+					23
+					26
+				
+			
+			
+				
+				9021.42.3.23-26
+				
+			
+			blocked
+		
+		9021.42.3
+
+			P009021.42.3
+			
+		
+		journal issue	1	
+	

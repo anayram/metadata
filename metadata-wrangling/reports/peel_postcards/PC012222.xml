@@ -1,0 +1,152 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		fsalehi	PC012222	postcards	1	3.3
+	/mods/@version	3.3	fsalehi	PC012222	postcards	1	3.3
+	/mods/titleInfo		fsalehi	PC012222	postcards	1	3.3
+	/mods/titleInfo/@lang	english	fsalehi	PC012222	postcards	1	3.3
+	/mods/titleInfo/title	Administration building, Jasper National Park	fsalehi	PC012222	postcards	1	3.3
+	/mods/name		fsalehi	PC012222	postcards	1	3.3
+	/mods/name/@type	personal	fsalehi	PC012222	postcards	1	3.3
+	/mods/name/namePart	Slark	fsalehi	PC012222	postcards	2	3.3
+	/mods/name/namePart/@type	family	fsalehi	PC012222	postcards	1	3.3
+	/mods/name/namePart	F.H.	fsalehi	PC012222	postcards	2	3.3
+	/mods/name/namePart/@type	given	fsalehi	PC012222	postcards	1	3.3
+	/mods/name/role		fsalehi	PC012222	postcards	1	3.3
+	/mods/name/role/roleTerm	Photographer	fsalehi	PC012222	postcards	1	3.3
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC012222	postcards	1	3.3
+	/mods/typeOfResource	still image	fsalehi	PC012222	postcards	1	3.3
+	/mods/genre	postcards	fsalehi	PC012222	postcards	1	3.3
+	/mods/genre/@authority	gmgpc	fsalehi	PC012222	postcards	1	3.3
+	/mods/originInfo		fsalehi	PC012222	postcards	1	3.3
+	/mods/originInfo/place		fsalehi	PC012222	postcards	1	3.3
+	/mods/originInfo/place/placeTerm	Jasper	fsalehi	PC012222	postcards	1	3.3
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC012222	postcards	1	3.3
+	/mods/originInfo/publisher	Photographed & Copyrighted by F.H. Slark, Jasper Alta.	fsalehi	PC012222	postcards	1	3.3
+	/mods/originInfo/dateIssued	ca. 193-	fsalehi	PC012222	postcards	1	3.3
+	/mods/originInfo/dateIssued/@qualifier	inferred	fsalehi	PC012222	postcards	1	3.3
+	/mods/originInfo/issuance	monographic	fsalehi	PC012222	postcards	1	3.3
+	/mods/language		fsalehi	PC012222	postcards	1	3.3
+	/mods/language/languageTerm	English	fsalehi	PC012222	postcards	1	3.3
+	/mods/language/languageTerm/@type	text	fsalehi	PC012222	postcards	1	3.3
+	/mods/physicalDescription		fsalehi	PC012222	postcards	1	3.3
+	/mods/physicalDescription/form		fsalehi	PC012222	postcards	1	3.3
+	/mods/physicalDescription/extent	1 postcard : b&w ; 9 x 14 cm.	fsalehi	PC012222	postcards	1	3.3
+	/mods/note	25	fsalehi	PC012222	postcards	5	3.3
+	/mods/note/@type	price	fsalehi	PC012222	postcards	1	3.3
+	/mods/note	false	fsalehi	PC012222	postcards	5	3.3
+	/mods/note/@type	notable	fsalehi	PC012222	postcards	1	3.3
+	/mods/note	false	fsalehi	PC012222	postcards	5	3.3
+	/mods/note/@type	imgprobs	fsalehi	PC012222	postcards	1	3.3
+	/mods/note	Made in Canada	fsalehi	PC012222	postcards	5	3.3
+	/mods/note/@type	public_on_back	fsalehi	PC012222	postcards	1	3.3
+	/mods/note	Parks Administration Building, Jasper National Park, Alberta, Canada.	fsalehi	PC012222	postcards	5	3.3
+	/mods/note/@type	public_description	fsalehi	PC012222	postcards	1	3.3
+	/mods/subject		fsalehi	PC012222	postcards	6	3.3
+	/mods/subject/geographic	Jasper, MB	fsalehi	PC012222	postcards	1	3.3
+	/mods/subject		fsalehi	PC012222	postcards	6	3.3
+	/mods/subject/hierarchicalGeographic		fsalehi	PC012222	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/country	Canada	fsalehi	PC012222	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/province	Alberta	fsalehi	PC012222	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/city	Jasper	fsalehi	PC012222	postcards	1	3.3
+	/mods/subject		fsalehi	PC012222	postcards	6	3.3
+	/mods/subject/topic	Office buildings	fsalehi	PC012222	postcards	1	3.3
+	/mods/subject		fsalehi	PC012222	postcards	6	3.3
+	/mods/subject/topic	Automobiles	fsalehi	PC012222	postcards	1	3.3
+	/mods/subject		fsalehi	PC012222	postcards	6	3.3
+	/mods/subject/topic	Visitors' centers	fsalehi	PC012222	postcards	1	3.3
+	/mods/subject		fsalehi	PC012222	postcards	6	3.3
+	/mods/subject/name		fsalehi	PC012222	postcards	1	3.3
+	/mods/subject/name/@type	personal	fsalehi	PC012222	postcards	1	3.3
+	/mods/subject/name/namePart	Jasper National Park (Alta.)	fsalehi	PC012222	postcards	1	3.3
+	/mods/identifier	PC012222	fsalehi	PC012222	postcards	1	3.3
+	/mods/identifier/@type	local	fsalehi	PC012222	postcards	1	3.3
+	/mods/location		fsalehi	PC012222	postcards	1	3.3
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 4 (set 2)	fsalehi	PC012222	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC012222.html	fsalehi	PC012222	postcards	3	3.3
+	/mods/location/url/@access	object in context	fsalehi	PC012222	postcards	1	3.3
+	/mods/location/url/@usage	primary display	fsalehi	PC012222	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/012/web/PC012222.jpg	fsalehi	PC012222	postcards	3	3.3
+	/mods/location/url/@access	raw object	fsalehi	PC012222	postcards	1	3.3
+	/mods/location/url/@note	width='800' height='500'	fsalehi	PC012222	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/012/thumbs/PC012222.jpg	fsalehi	PC012222	postcards	3	3.3
+	/mods/location/url/@access	preview	fsalehi	PC012222	postcards	1	3.3
+	/mods/location/url/@note	width='200' height='125'	fsalehi	PC012222	postcards	1	3.3
+	/mods/recordInfo		fsalehi	PC012222	postcards	1	3.3
+	/mods/recordInfo/recordContentSource	fsalehi	fsalehi	PC012222	postcards	2	3.3
+	/mods/recordInfo/recordCreationDate	2009-01-23T14:03:00-0700	fsalehi	PC012222	postcards	1	3.3
+	/mods/recordInfo/recordIdentifier	PC012222	fsalehi	PC012222	postcards	1	3.3
+	/mods/recordInfo/recordChangeDate	2010-05-20T10:58:26-0600	fsalehi	PC012222	postcards	1	3.3
+	/mods/recordInfo/recordContentSource	aharrigan	fsalehi	PC012222	postcards	2	3.3
+	/mods/recordInfo/recordContentSource/@authority	local:person	fsalehi	PC012222	postcards	1	3.3
+	/@mods	
+
+Administration building, Jasper National Park
+
+
+Slark
+F.H.
+
+Photographer
+
+
+still image
+postcards
+
+
+Jasper
+
+Photographed & Copyrighted by F.H. Slark, Jasper Alta.
+ca. 193-
+monographic
+
+
+English
+
+
+
+1 postcard : b&w ; 9 x 14 cm.
+
+25
+false
+false
+Made in Canada
+Parks Administration Building, Jasper National Park, Alberta, Canada.
+
+				Jasper, MB
+			
+
+				
+Canada
+Alberta
+Jasper
+
+			
+
+				Office buildings
+			
+
+				Automobiles
+			
+
+				Visitors' centers
+			
+
+				
+Jasper National Park (Alta.)
+
+			
+PC012222
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 4 (set 2)
+http://peel.library.ualberta.ca/postcards/PC012222.html
+http://peel.library.ualberta.ca/pcimages/PC/012/web/PC012222.jpg
+http://peel.library.ualberta.ca/pcimages/PC/012/thumbs/PC012222.jpg
+
+
+fsalehi
+2009-01-23T14:03:00-0700
+PC012222
+2010-05-20T10:58:26-0600
+aharrigan
+
+	fsalehi	PC012222	postcards	1	3.3
+	

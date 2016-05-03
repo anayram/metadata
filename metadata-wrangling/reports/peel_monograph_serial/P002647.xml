@@ -1,0 +1,144 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	Report of the proceedings of the annual meeting of the Territorial Grain Growers' Association held at Indian Head, Assa., on Thursday and Friday, December 4th and 5th		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	corporate		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA001086		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Territorial Grain Growers' Association		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	Regina		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	[West Co.]		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1902		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued/@qualifier	questionable		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	English		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	[32] p.; 23 cm.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	Supplement to <i>The West</i>, Regina. Also published, <i>Proceedings of the third annual meeting held at Regina Wednesday and Thursday, December 16-17, 1903</i>, Regina: Territorial Grain Growers' Association, 1903.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	public		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Co-operation--Agricultural Societies		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000030		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Agriculture--Societies, etc.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000030		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Agriculture--Associations		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS001769		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Grain trade		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS001769		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Céréales--Commerce		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002825		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Meetings		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002825		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Réunions		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1902		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	1154		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	1692		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel2		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	2647		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	2644		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel-procite-id		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P002647		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordChangeDate	2012-04-04T07:43:29-0600		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	RC		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+
+Report of the proceedings of the annual meeting of the Territorial Grain Growers' Association held at Indian Head, Assa., on Thursday and Friday, December 4th and 5th
+
+
+Territorial Grain Growers' Association
+
+author
+
+
+text
+
+
+Regina
+
+[West Co.]
+1902
+
+
+English
+
+
+print
+[32] p.; 23 cm.
+
+Supplement to <i>The West</i>, Regina. Also published, <i>Proceedings of the third annual meeting held at Regina Wednesday and Thursday, December 16-17, 1903</i>, Regina: Territorial Grain Growers' Association, 1903.
+
+				Co-operation--Agricultural Societies
+			
+
+				Agriculture--Societies, etc.
+			
+
+				Agriculture--Associations
+			
+
+				Grain trade
+			
+
+				Céréales--Commerce
+			
+
+				Meetings
+			
+
+				Réunions
+			
+
+				1902
+			
+1154
+1692
+2647
+2644
+
+Peel's Prairie Portal
+2003-01-01T12:00:00-0700
+P002647
+2012-04-04T07:43:29-0600
+RC
+
+		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

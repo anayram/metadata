@@ -1,0 +1,99 @@
+Path	Content	URL	Form or Genre	Occurrence	MODS version
+
+    /mods/titleInfo			Photograph negative	1	3.3
+/mods/titleInfo/title	Mary Rides At The Door		Photograph negative	1	3.3
+
+    /mods/name			Photograph negative	3	3.3
+/mods/name/@type	corporate		Photograph negative	1	3.3
+/mods/name/namePart	University of Lethbridge		Photograph negative	1	3.3
+/mods/name/role			Photograph negative	1	3.3
+/mods/name/role/roleTerm	digitizing institution		Photograph negative	1	3.3
+/mods/name/role/roleTerm/@type	text		Photograph negative	1	3.3
+
+    /mods/name			Photograph negative	3	3.3
+/mods/name/@type	personal		Photograph negative	1	3.3
+/mods/name/namePart	Thomas B. Magee, 1862-1930		Photograph negative	1	3.3
+/mods/name/role			Photograph negative	1	3.3
+/mods/name/role/roleTerm	photographer		Photograph negative	1	3.3
+/mods/name/role/roleTerm/@type	text		Photograph negative	1	3.3
+
+    /mods/name			Photograph negative	3	3.3
+/mods/name/@type	personal		Photograph negative	1	3.3
+/mods/name/namePart	Henry L. Magee, 1896-1966		Photograph negative	1	3.3
+/mods/name/role			Photograph negative	1	3.3
+/mods/name/role/roleTerm	photographer		Photograph negative	1	3.3
+/mods/name/role/roleTerm/@type	text		Photograph negative	1	3.3
+
+    /mods/originInfo			Photograph negative	1	3.3
+/mods/originInfo/publisher			Photograph negative	1	3.3
+/mods/originInfo/dateCaptured	2007-07-25		Photograph negative	1	3.3
+/mods/originInfo/dateCreated	1910		Photograph negative	2	3.3
+/mods/originInfo/dateCreated/@point	start		Photograph negative	1	3.3
+/mods/originInfo/dateCreated	1945		Photograph negative	2	3.3
+/mods/originInfo/dateCreated/@point	end		Photograph negative	1	3.3
+
+    /mods/language			Photograph negative	1	3.3
+/mods/language/languageTerm			Photograph negative	1	3.3
+/mods/language/languageTerm/@authority	iso639-2b		Photograph negative	1	3.3
+/mods/language/languageTerm/@type	code		Photograph negative	1	3.3
+
+    /mods/note	A Blackfeet woman wearing a flowered blouse, a checkered
+      skirt, a hat and a beaded necklace, sitting in a wheelchair.		Photograph negative	3	3.3
+/mods/note/@type	public_description		Photograph negative	1	3.3
+
+    /mods/subject			Photograph negative	6	3.3
+/mods/subject/geographic	Montana		Photograph negative	1	3.3
+
+    /mods/subject			Photograph negative	6	3.3
+/mods/subject/topic	Photography Negatives		Photograph negative	1	3.3
+
+    /mods/subject			Photograph negative	6	3.3
+/mods/subject/topic	Blackfeet (USA)		Photograph negative	1	3.3
+
+    /mods/subject			Photograph negative	6	3.3
+/mods/subject/topic	Blackfeet (USA) - Personalities		Photograph negative	1	3.3
+
+    /mods/subject			Photograph negative	6	3.3
+/mods/subject/topic	Siksika		Photograph negative	1	3.3
+
+    /mods/subject			Photograph negative	6	3.3
+/mods/subject/topic	Blackfeet (USA) - Women		Photograph negative	1	3.3
+
+    /mods/typeOfResource	still image		Photograph negative	1	3.3
+
+    /mods/genre	Photograph negative		Photograph negative	1	3.3
+
+    /mods/physicalDescription			Photograph negative	1	3.3
+/mods/physicalDescription/extent	61mm x 61mm		Photograph negative	1	3.3
+
+    /mods/identifier	MGNGEN0243.tif		Photograph negative	1	3.3
+
+    /mods/recordInfo			Photograph negative	1	3.3
+/mods/recordInfo/recordContentSource	University of Lethbridge Library		Photograph negative	1	3.3
+/mods/recordInfo/recordIdentifier	MGNGEN0243		Photograph negative	1	3.3
+
+    /mods/relatedItem			Photograph negative	1	3.3
+/mods/relatedItem/@type	original		Photograph negative	1	3.3
+/mods/relatedItem/titleInfo			Photograph negative	1	3.3
+/mods/relatedItem/titleInfo/title	Magee Collection, University of Alberta Special Collections		Photograph negative	1	3.3
+
+    /mods/note	magee		Photograph negative	3	3.3
+/mods/note/@type	local:oaiset		Photograph negative	1	3.3
+
+/mods/note	images		Photograph negative	3	3.3
+/mods/note/@type	local:oaiset		Photograph negative	1	3.3
+
+/mods/location			Photograph negative	1	3.3
+/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Magee Photo Collection, Envelope 156, box of small negatives		Photograph negative	1	3.3
+/mods/location/url	http://peel.library.ualberta.ca/magee/MGNGEN0243.html		Photograph negative	3	3.3
+/mods/location/url/@usage	primary display		Photograph negative	1	3.3
+/mods/location/url/@access	object in context		Photograph negative	1	3.3
+/mods/location/url	http://peel.library.ualberta.ca/peelimages/MG/web/MGNGEN0243.jpg		Photograph negative	3	3.3
+/mods/location/url/@note	width='598' height='600' 		Photograph negative	1	3.3
+/mods/location/url/@access	raw object		Photograph negative	1	3.3
+/mods/location/url	http://peel.library.ualberta.ca/peelimages/MG/thumbs/MGNGEN0243.jpg		Photograph negative	3	3.3
+/mods/location/url/@note	width='199' height='200'		Photograph negative	1	3.3
+/mods/location/url/@access	preview		Photograph negative	1	3.3
+
+    
+  

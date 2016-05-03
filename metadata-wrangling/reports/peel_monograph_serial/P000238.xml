@@ -1,0 +1,147 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@schemaLocation	http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	Oregon missions and travels over the Rocky Mountains, in 1845-46		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA000944		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Smet, Pierre-Jean de		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	1801-1873.		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart/@type	date		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/description	1801-1873. Jesuit missionary in Oregon; spent part of the winter of 1845-1846 in Edmonton.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	New York		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	Edward Dunigan		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1847		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	English		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	[2], 1 leaf, [xi]-xii, 13-408, [4] p., col. plates, map.; 18 cm.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	Vocabulary and translations of the Lord's Prayer at end. Smet visited what is now Alberta. Reprinted with new foreword, Fairfield, Wash.: Ye Galleon Press, 1978 (xix, xii, 426p.). Also published in  <i>Travels in the great western prairies, the Anahuac and Rocky Mountains, and in the Oregon Territory </i>, edited by Reuben Gold Thwaites, Cleveland: A.H. Clark Co., 1906 ([103]-424p.). For French and Dutch versions  <i>see </i>Peel <xref>237</xref>. 		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	public		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	The Spiritual Life--Roman Catholic Church		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000093		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Alberta--Description and travel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	Other		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003885		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Religious orders		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003885		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Monasticism and religious orders		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003885		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Monachisme et ordres religieux		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	Other		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003963		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Rocky Mountains--Canadian Rockies		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	Other		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003984		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name/namePart	Roman Catholic Church--Missions		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1846		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	100		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	116		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel2		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	238		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	238		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel-procite-id		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P000238		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+    
+        Oregon missions and travels over the Rocky Mountains, in 1845-46
+    
+    
+        Smet, Pierre-Jean de
+        1801-1873.
+        
+            author
+        
+        1801-1873. Jesuit missionary in Oregon; spent part of the winter of 1845-1846 in Edmonton.
+    
+    text
+    
+        
+            New York
+        
+        Edward Dunigan
+        1847
+    
+    
+        English
+    
+    
+        print
+        [2], 1 leaf, [xi]-xii, 13-408, [4] p., col. plates, map.; 18 cm.
+    
+    Vocabulary and translations of the Lord's Prayer at end. Smet visited what is now Alberta. Reprinted with new foreword, Fairfield, Wash.: Ye Galleon Press, 1978 (xix, xii, 426p.). Also published in  <i>Travels in the great western prairies, the Anahuac and Rocky Mountains, and in the Oregon Territory </i>, edited by Reuben Gold Thwaites, Cleveland: A.H. Clark Co., 1906 ([103]-424p.). For French and Dutch versions  <i>see </i>Peel <xref>237</xref>. 
+    
+        The Spiritual Life--Roman Catholic Church
+    
+    
+        Alberta--Description and travel
+    
+    
+        Religious orders
+    
+    
+        Monasticism and religious orders
+    
+    
+        Monachisme et ordres religieux
+    
+    
+        Rocky Mountains--Canadian Rockies
+    
+    
+        
+            Roman Catholic Church--Missions
+        
+    
+    
+        1846
+    
+    100
+    116
+    238
+    238
+    
+        Peel's Prairie Portal
+        P000238
+        2003-01-01T12:00:00-0700
+    
+		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

@@ -1,0 +1,124 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@schemaLocation	http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	Dancing societies of the Sarsi Indians		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA001914		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Goddard, Pliny Earle		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	1869-1928.		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart/@type	date		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/description	1869-1928. American anthropologist.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	New York		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	Trustees of the American Museum of Natural History		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1914		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	English		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	[1], 1 leaf, pp.461-474 .; 25 cm.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	Reprinted in Clark Wissler, editor,  <i>Societies of the Plains Indians </i>, New York: AMS Press, 1975. 		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	public		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	Other		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002092		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Indians of North America--Dances		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002092		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Indian dance--North America		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002092		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Danses indiennes d'Amérique--Amérique du Nord		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002171		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Indians of North America--Social life and customs		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002171		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Indiens d'Amérique--Amérique du Nord--Mœurs et coutumes		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1914		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	4024		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	4019		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel-procite-id		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P004024		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+    
+        Dancing societies of the Sarsi Indians
+    
+    
+        Goddard, Pliny Earle
+        1869-1928.
+        
+            author
+        
+        1869-1928. American anthropologist.
+    
+    text
+    
+        
+            New York
+        
+        Trustees of the American Museum of Natural History
+        1914
+    
+    
+        English
+    
+    
+        print
+        [1], 1 leaf, pp.461-474 .; 25 cm.
+    
+    Reprinted in Clark Wissler, editor,  <i>Societies of the Plains Indians </i>, New York: AMS Press, 1975. 
+    
+        Indians of North America--Dances
+    
+    
+        Indian dance--North America
+    
+    
+        Danses indiennes d'Amérique--Amérique du Nord
+    
+    
+        Indians of North America--Social life and customs
+    
+    
+        Indiens d'Amérique--Amérique du Nord--Mœurs et coutumes
+    
+    
+        1914
+    
+    4024
+    4019
+    
+        Peel's Prairie Portal
+        P004024
+        2003-01-01T12:00:00-0700
+    
+		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

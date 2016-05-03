@@ -1,0 +1,146 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@schemaLocation	http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	Geological notes to accompany map of Sheep River gas and oil field, Alberta		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA000481		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Dowling, Donaldson Bogart		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	1858-1925.		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart/@type	date		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/description	1858-1925. Civil engineer hired by Geological Survey of Canada, 1885; surveyed and explored for minerals extensively in West; member of Logan Club.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.2		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA004851		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	corporate		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Geological Survey of Canada		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	Ottawa		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	Government Printing Bureau		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1914		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	English		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	26, iv p., illus., fold. map.; 25 cm.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	For French version  <i>see </i>Peel <xref>4013</xref>. 		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	public		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			7	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	Other		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000116		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Alberta--Geology		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			7	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS001666		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Natural gas reserves		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			7	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS001666		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Gaz naturel--Réserves		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			7	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	Other		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003445		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Petroleum supply		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			7	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003445		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Petroleum reserves		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			7	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003445		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Pétrole--Réserves		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			7	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1914		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	4012		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	4007		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel-procite-id		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P004012		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+    
+        Geological notes to accompany map of Sheep River gas and oil field, Alberta
+    
+    
+        Dowling, Donaldson Bogart
+        1858-1925.
+        
+            author
+        
+        1858-1925. Civil engineer hired by Geological Survey of Canada, 1885; surveyed and explored for minerals extensively in West; member of Logan Club.
+    
+    
+        Geological Survey of Canada
+        
+            author
+        
+    
+    text
+    
+        
+            Ottawa
+        
+        Government Printing Bureau
+        1914
+    
+    
+        English
+    
+    
+        print
+        26, iv p., illus., fold. map.; 25 cm.
+    
+    For French version  <i>see </i>Peel <xref>4013</xref>. 
+    
+        Alberta--Geology
+    
+    
+        Natural gas reserves
+    
+    
+        Gaz naturel--Réserves
+    
+    
+        Petroleum supply
+    
+    
+        Petroleum reserves
+    
+    
+        Pétrole--Réserves
+    
+    
+        1914
+    
+    4012
+    4007
+    
+        Peel's Prairie Portal
+        P004012
+        2003-01-01T12:00:00-0700
+    
+		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

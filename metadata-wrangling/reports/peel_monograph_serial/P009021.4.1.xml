@@ -1,0 +1,471 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods		journal issue	1	
+	/mods/titleInfo		journal issue	1	
+	/mods/titleInfo/title	Alberta Historical Review	journal issue	1	
+	/mods/originInfo		journal issue	2	
+	/mods/originInfo/issuance	continuing	journal issue	1	
+	/mods/identifier	0316-1552	journal issue	2	
+	/mods/identifier/@type	issn	journal issue	1	
+	/mods/part		journal issue	1	
+	/mods/part/detail		journal issue	2	
+	/mods/part/detail/@type	volume	journal issue	1	
+	/mods/part/detail/number	4	journal issue	1	
+	/mods/part/detail		journal issue	2	
+	/mods/part/detail/@type	issue	journal issue	1	
+	/mods/part/detail/number	1	journal issue	1	
+	/mods/part/detail/caption	no.	journal issue	1	
+	/mods/part/date	1956	journal issue	1	
+	/mods/note	Winter	journal issue	1	
+	/mods/note/@type	season	journal issue	1	
+	/mods/language		journal issue	1	
+	/mods/language/languageTerm	English	journal issue	1	
+	/mods/language/languageTerm/@type	text	journal issue	1	
+	/mods/genre	journal issue	journal issue	1	
+	/mods/originInfo		journal issue	2	
+	/mods/originInfo/dateIssued	1956	journal issue	1	
+	/mods/relatedItem		journal issue	7	
+	/mods/relatedItem/@type	constituent	journal issue	1	
+	/mods/relatedItem/titleInfo		journal issue	1	
+	/mods/relatedItem/titleInfo/title	Edmonton Courts and Lawyers in Territorial Time	journal issue	1	
+	/mods/relatedItem/name		journal issue	1	
+	/mods/relatedItem/name/@type	personal	journal issue	1	
+	/mods/relatedItem/name/namePart	Jamieson, Frederick C.	journal issue	1	
+	/mods/relatedItem/name/role		journal issue	1	
+	/mods/relatedItem/name/role/roleTerm	author	journal issue	1	
+	/mods/relatedItem/name/role/roleTerm/@type	text	journal issue	1	
+	/mods/relatedItem/language		journal issue	1	
+	/mods/relatedItem/language/languageTerm	English	journal issue	1	
+	/mods/relatedItem/language/languageTerm/@type	text	journal issue	1	
+	/mods/relatedItem/genre	journal article	journal issue	1	
+	/mods/relatedItem/originInfo		journal issue	1	
+	/mods/relatedItem/originInfo/dateIssued	1956	journal issue	1	
+	/mods/relatedItem/part		journal issue	1	
+	/mods/relatedItem/part/extent		journal issue	1	
+	/mods/relatedItem/part/extent/@unit	page	journal issue	1	
+	/mods/relatedItem/part/extent/start	3	journal issue	1	
+	/mods/relatedItem/part/extent/end	9	journal issue	1	
+	/mods/relatedItem/recordInfo		journal issue	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9021.4.1.3-9	journal issue	1	
+	/mods/relatedItem/note	blocked	journal issue	1	
+	/mods/relatedItem/note/@type	copyright	journal issue	1	
+	/mods/relatedItem		journal issue	7	
+	/mods/relatedItem/@type	constituent	journal issue	1	
+	/mods/relatedItem/titleInfo		journal issue	1	
+	/mods/relatedItem/titleInfo/title	Donald Graham's Narrative of 1872-73	journal issue	1	
+	/mods/relatedItem/name		journal issue	2	
+	/mods/relatedItem/name/@type	personal	journal issue	1	
+	/mods/relatedItem/name/namePart	Graham, Donald	journal issue	1	
+	/mods/relatedItem/name/role		journal issue	1	
+	/mods/relatedItem/name/role/roleTerm	author	journal issue	1	
+	/mods/relatedItem/name/role/roleTerm/@type	text	journal issue	1	
+	/mods/relatedItem/name		journal issue	2	
+	/mods/relatedItem/name/@type	personal	journal issue	1	
+	/mods/relatedItem/name/namePart	Dempsey, Hugh A.	journal issue	1	
+	/mods/relatedItem/name/role		journal issue	1	
+	/mods/relatedItem/name/role/roleTerm	editor	journal issue	1	
+	/mods/relatedItem/name/role/roleTerm/@type	text	journal issue	1	
+	/mods/relatedItem/language		journal issue	1	
+	/mods/relatedItem/language/languageTerm	English	journal issue	1	
+	/mods/relatedItem/language/languageTerm/@type	text	journal issue	1	
+	/mods/relatedItem/genre	journal article	journal issue	1	
+	/mods/relatedItem/originInfo		journal issue	1	
+	/mods/relatedItem/originInfo/dateIssued	1956	journal issue	1	
+	/mods/relatedItem/part		journal issue	1	
+	/mods/relatedItem/part/extent		journal issue	1	
+	/mods/relatedItem/part/extent/@unit	page	journal issue	1	
+	/mods/relatedItem/part/extent/start	10	journal issue	1	
+	/mods/relatedItem/part/extent/end	19	journal issue	1	
+	/mods/relatedItem/recordInfo		journal issue	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9021.4.1.10-19	journal issue	1	
+	/mods/relatedItem/note	blocked	journal issue	1	
+	/mods/relatedItem/note/@type	copyright	journal issue	1	
+	/mods/relatedItem		journal issue	7	
+	/mods/relatedItem/@type	constituent	journal issue	1	
+	/mods/relatedItem/titleInfo		journal issue	1	
+	/mods/relatedItem/titleInfo/title	Sheridan Lawrence: A Tribute	journal issue	1	
+	/mods/relatedItem/name		journal issue	1	
+	/mods/relatedItem/name/@type	personal	journal issue	1	
+	/mods/relatedItem/name/namePart	Griesbach, William A.	journal issue	1	
+	/mods/relatedItem/name/role		journal issue	1	
+	/mods/relatedItem/name/role/roleTerm	author	journal issue	1	
+	/mods/relatedItem/name/role/roleTerm/@type	text	journal issue	1	
+	/mods/relatedItem/language		journal issue	1	
+	/mods/relatedItem/language/languageTerm	English	journal issue	1	
+	/mods/relatedItem/language/languageTerm/@type	text	journal issue	1	
+	/mods/relatedItem/genre	journal article	journal issue	1	
+	/mods/relatedItem/originInfo		journal issue	1	
+	/mods/relatedItem/originInfo/dateIssued	1956	journal issue	1	
+	/mods/relatedItem/part		journal issue	1	
+	/mods/relatedItem/part/extent		journal issue	1	
+	/mods/relatedItem/part/extent/@unit	page	journal issue	1	
+	/mods/relatedItem/part/extent/start	20	journal issue	1	
+	/mods/relatedItem/part/extent/end	22	journal issue	1	
+	/mods/relatedItem/recordInfo		journal issue	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9021.4.1.20-22	journal issue	1	
+	/mods/relatedItem/note	blocked	journal issue	1	
+	/mods/relatedItem/note/@type	copyright	journal issue	1	
+	/mods/relatedItem		journal issue	7	
+	/mods/relatedItem/@type	constituent	journal issue	1	
+	/mods/relatedItem/titleInfo		journal issue	1	
+	/mods/relatedItem/titleInfo/title	An Account of the Frog Lake Massacre	journal issue	1	
+	/mods/relatedItem/name		journal issue	3	
+	/mods/relatedItem/name/@type	personal	journal issue	1	
+	/mods/relatedItem/name/namePart	(Mesunekwepan), George Stanley	journal issue	1	
+	/mods/relatedItem/name/role		journal issue	1	
+	/mods/relatedItem/name/role/roleTerm	author	journal issue	1	
+	/mods/relatedItem/name/role/roleTerm/@type	text	journal issue	1	
+	/mods/relatedItem/name		journal issue	3	
+	/mods/relatedItem/name/@type	personal	journal issue	1	
+	/mods/relatedItem/name/namePart	Peterson, A.E.	journal issue	1	
+	/mods/relatedItem/name/role		journal issue	1	
+	/mods/relatedItem/name/role/roleTerm	author	journal issue	1	
+	/mods/relatedItem/name/role/roleTerm/@type	text	journal issue	1	
+	/mods/relatedItem/name		journal issue	3	
+	/mods/relatedItem/name/@type	personal	journal issue	1	
+	/mods/relatedItem/name/namePart	Fidler, George	journal issue	1	
+	/mods/relatedItem/name/role		journal issue	1	
+	/mods/relatedItem/name/role/roleTerm	translator	journal issue	1	
+	/mods/relatedItem/name/role/roleTerm/@type	text	journal issue	1	
+	/mods/relatedItem/language		journal issue	1	
+	/mods/relatedItem/language/languageTerm	English	journal issue	1	
+	/mods/relatedItem/language/languageTerm/@type	text	journal issue	1	
+	/mods/relatedItem/genre	journal article	journal issue	1	
+	/mods/relatedItem/originInfo		journal issue	1	
+	/mods/relatedItem/originInfo/dateIssued	1956	journal issue	1	
+	/mods/relatedItem/part		journal issue	1	
+	/mods/relatedItem/part/extent		journal issue	1	
+	/mods/relatedItem/part/extent/@unit	page	journal issue	1	
+	/mods/relatedItem/part/extent/start	23	journal issue	1	
+	/mods/relatedItem/part/extent/end	27	journal issue	1	
+	/mods/relatedItem/recordInfo		journal issue	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9021.4.1.23-27	journal issue	1	
+	/mods/relatedItem/note	blocked	journal issue	1	
+	/mods/relatedItem/note/@type	copyright	journal issue	1	
+	/mods/relatedItem		journal issue	7	
+	/mods/relatedItem/@type	constituent	journal issue	1	
+	/mods/relatedItem/titleInfo		journal issue	1	
+	/mods/relatedItem/titleInfo/title	Eye Openers	journal issue	1	
+	/mods/relatedItem/name		journal issue	1	
+	/mods/relatedItem/name/@type	personal	journal issue	1	
+	/mods/relatedItem/name/namePart	Edwards, Robert C. "Bob"	journal issue	1	
+	/mods/relatedItem/name/role		journal issue	1	
+	/mods/relatedItem/name/role/roleTerm	author	journal issue	1	
+	/mods/relatedItem/name/role/roleTerm/@type	text	journal issue	1	
+	/mods/relatedItem/language		journal issue	1	
+	/mods/relatedItem/language/languageTerm	English	journal issue	1	
+	/mods/relatedItem/language/languageTerm/@type	text	journal issue	1	
+	/mods/relatedItem/genre	journal article	journal issue	1	
+	/mods/relatedItem/originInfo		journal issue	1	
+	/mods/relatedItem/originInfo/dateIssued	1956	journal issue	1	
+	/mods/relatedItem/part		journal issue	1	
+	/mods/relatedItem/part/extent		journal issue	1	
+	/mods/relatedItem/part/extent/@unit	page	journal issue	1	
+	/mods/relatedItem/part/extent/start	28	journal issue	1	
+	/mods/relatedItem/part/extent/end	29	journal issue	1	
+	/mods/relatedItem/recordInfo		journal issue	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9021.4.1.28-29	journal issue	1	
+	/mods/relatedItem/note	blocked	journal issue	1	
+	/mods/relatedItem/note/@type	copyright	journal issue	1	
+	/mods/relatedItem		journal issue	7	
+	/mods/relatedItem/@type	constituent	journal issue	1	
+	/mods/relatedItem/titleInfo		journal issue	1	
+	/mods/relatedItem/titleInfo/title	Letters from "Old Glad"	journal issue	1	
+	/mods/relatedItem/name		journal issue	1	
+	/mods/relatedItem/name/@type	personal	journal issue	1	
+	/mods/relatedItem/name/namePart	Gladstone, William S. "Old Glad"	journal issue	1	
+	/mods/relatedItem/name/role		journal issue	1	
+	/mods/relatedItem/name/role/roleTerm	author	journal issue	1	
+	/mods/relatedItem/name/role/roleTerm/@type	text	journal issue	1	
+	/mods/relatedItem/language		journal issue	1	
+	/mods/relatedItem/language/languageTerm	English	journal issue	1	
+	/mods/relatedItem/language/languageTerm/@type	text	journal issue	1	
+	/mods/relatedItem/genre	journal article	journal issue	1	
+	/mods/relatedItem/originInfo		journal issue	1	
+	/mods/relatedItem/originInfo/dateIssued	1956	journal issue	1	
+	/mods/relatedItem/part		journal issue	1	
+	/mods/relatedItem/part/extent		journal issue	1	
+	/mods/relatedItem/part/extent/@unit	page	journal issue	1	
+	/mods/relatedItem/part/extent/start	30	journal issue	1	
+	/mods/relatedItem/part/extent/end	31	journal issue	1	
+	/mods/relatedItem/recordInfo		journal issue	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9021.4.1.30-31	journal issue	1	
+	/mods/relatedItem/note	blocked	journal issue	1	
+	/mods/relatedItem/note/@type	copyright	journal issue	1	
+	/mods/relatedItem		journal issue	7	
+	/mods/relatedItem/@type	constituent	journal issue	1	
+	/mods/relatedItem/titleInfo		journal issue	1	
+	/mods/relatedItem/titleInfo/title	Notes and Comments	journal issue	1	
+	/mods/relatedItem/language		journal issue	1	
+	/mods/relatedItem/language/languageTerm	English	journal issue	1	
+	/mods/relatedItem/language/languageTerm/@type	text	journal issue	1	
+	/mods/relatedItem/genre	journal article	journal issue	1	
+	/mods/relatedItem/originInfo		journal issue	1	
+	/mods/relatedItem/originInfo/dateIssued	1956	journal issue	1	
+	/mods/relatedItem/part		journal issue	1	
+	/mods/relatedItem/part/extent		journal issue	1	
+	/mods/relatedItem/part/extent/@unit	page	journal issue	1	
+	/mods/relatedItem/part/extent/start	32	journal issue	1	
+	/mods/relatedItem/part/extent/end	32	journal issue	1	
+	/mods/relatedItem/recordInfo		journal issue	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9021.4.1.32	journal issue	1	
+	/mods/relatedItem/note	clear	journal issue	1	
+	/mods/relatedItem/note/@type	copyright	journal issue	1	
+	/mods/identifier	9021.4.1	journal issue	2	
+	/mods/identifier/@type	local:peel3	journal issue	1	
+	/mods/recordInfo		journal issue	1	
+	/mods/recordInfo/recordIdentifier	P009021.4.1	journal issue	1	
+	/@mods	
+		
+			Alberta Historical Review
+		
+		
+			continuing
+		
+		0316-1552
+		
+			
+				4
+			
+			
+				1
+				no.
+			
+			1956
+		
+		Winter
+		
+			English
+		
+		journal issue
+		
+			1956
+		
+		
+			
+				Edmonton Courts and Lawyers in Territorial Time
+			
+			
+				Jamieson, Frederick C.
+				
+					author
+				
+			
+			
+				English
+			
+			journal article
+			
+				1956
+			
+			
+				
+					3
+					9
+				
+			
+			
+				
+				9021.4.1.3-9
+				
+			
+			blocked
+		
+		
+			
+				Donald Graham's Narrative of 1872-73
+			
+			
+				Graham, Donald
+				
+					author
+				
+			
+			
+				Dempsey, Hugh A.
+				
+					editor
+				
+			
+			
+				English
+			
+			journal article
+			
+				1956
+			
+			
+				
+					10
+					19
+				
+			
+			
+				
+				9021.4.1.10-19
+				
+			
+			blocked
+		
+		
+			
+				Sheridan Lawrence: A Tribute
+			
+			
+				Griesbach, William A.
+				
+					author
+				
+			
+			
+				English
+			
+			journal article
+			
+				1956
+			
+			
+				
+					20
+					22
+				
+			
+			
+				
+				9021.4.1.20-22
+				
+			
+			blocked
+		
+		
+			
+				An Account of the Frog Lake Massacre
+			
+			
+				(Mesunekwepan), George Stanley
+				
+					author
+				
+			
+			
+				Peterson, A.E.
+				
+					author
+				
+			
+			
+				Fidler, George
+				
+					translator
+				
+			
+			
+				English
+			
+			journal article
+			
+				1956
+			
+			
+				
+					23
+					27
+				
+			
+			
+				
+				9021.4.1.23-27
+				
+			
+			blocked
+		
+		
+			
+				Eye Openers
+			
+			
+				Edwards, Robert C. "Bob"
+				
+					author
+				
+			
+			
+				English
+			
+			journal article
+			
+				1956
+			
+			
+				
+					28
+					29
+				
+			
+			
+				
+				9021.4.1.28-29
+				
+			
+			blocked
+		
+		
+			
+				Letters from "Old Glad"
+			
+			
+				Gladstone, William S. "Old Glad"
+				
+					author
+				
+			
+			
+				English
+			
+			journal article
+			
+				1956
+			
+			
+				
+					30
+					31
+				
+			
+			
+				
+				9021.4.1.30-31
+				
+			
+			blocked
+		
+		
+			
+				Notes and Comments
+			
+			
+				English
+			
+			journal article
+			
+				1956
+			
+			
+				
+					32
+					32
+				
+			
+			
+				
+				9021.4.1.32
+				
+			
+			clear
+		
+		9021.4.1
+
+			P009021.4.1
+			
+		
+		journal issue	1	
+	

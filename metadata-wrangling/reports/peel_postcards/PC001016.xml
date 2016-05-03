@@ -1,0 +1,154 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		sfarnel	PC001016	postcards	1	3.2
+	/mods/@version	3.2	sfarnel	PC001016	postcards	1	3.2
+	/mods/titleInfo		sfarnel	PC001016	postcards	1	3.2
+	/mods/titleInfo/@lang	english	sfarnel	PC001016	postcards	1	3.2
+	/mods/titleInfo/title	The Fort Garry Hotel, Winnipeg, Manitoba.	sfarnel	PC001016	postcards	1	3.2
+	/mods/name		sfarnel	PC001016	postcards	1	3.2
+	/mods/name/@type	corporate	sfarnel	PC001016	postcards	1	3.2
+	/mods/name/namePart	Camera Products Co.	sfarnel	PC001016	postcards	1	3.2
+	/mods/name/role		sfarnel	PC001016	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	sfarnel	PC001016	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	sfarnel	PC001016	postcards	1	3.2
+	/mods/typeOfResource	still image	sfarnel	PC001016	postcards	1	3.2
+	/mods/genre	postcards	sfarnel	PC001016	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	sfarnel	PC001016	postcards	1	3.2
+	/mods/originInfo		sfarnel	PC001016	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	sfarnel	PC001016	postcards	1	3.2
+	/mods/originInfo/publisher	Published by the Camera Products Co., 1731 Dunbar Street, Vancouver, BC.	sfarnel	PC001016	postcards	1	3.2
+	/mods/originInfo/dateIssued	after 1920	sfarnel	PC001016	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	inferred	sfarnel	PC001016	postcards	1	3.2
+	/mods/originInfo/place		sfarnel	PC001016	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	Vancouver	sfarnel	PC001016	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	sfarnel	PC001016	postcards	1	3.2
+	/mods/language		sfarnel	PC001016	postcards	1	3.2
+	/mods/language/languageTerm	English	sfarnel	PC001016	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	sfarnel	PC001016	postcards	1	3.2
+	/mods/physicalDescription		sfarnel	PC001016	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : col. ; 14 x 9 cm.	sfarnel	PC001016	postcards	1	3.2
+	/mods/note	6	sfarnel	PC001016	postcards	10	3.2
+	/mods/note/@type	price	sfarnel	PC001016	postcards	1	3.2
+	/mods/note	false	sfarnel	PC001016	postcards	10	3.2
+	/mods/note/@type	notable	sfarnel	PC001016	postcards	1	3.2
+	/mods/note	true	sfarnel	PC001016	postcards	10	3.2
+	/mods/note/@type	imgprobs	sfarnel	PC001016	postcards	1	3.2
+	/mods/note	C.N. Riy, Winnipeg - Vancouver series No 19	sfarnel	PC001016	postcards	10	3.2
+	/mods/note/@type	public_on_front	sfarnel	PC001016	postcards	1	3.2
+	/mods/note	Glossy print post card.	sfarnel	PC001016	postcards	10	3.2
+	/mods/note/@type	public_other	sfarnel	PC001016	postcards	1	3.2
+	/mods/note	This is a Real Photograph. Hand Coloured.	sfarnel	PC001016	postcards	10	3.2
+	/mods/note/@type	public_on_back	sfarnel	PC001016	postcards	1	3.2
+	/mods/note	Meyers, Wpg	sfarnel	PC001016	postcards	10	3.2
+	/mods/note/@type	public_on_front	sfarnel	PC001016	postcards	1	3.2
+	/mods/note	Made in England.	sfarnel	PC001016	postcards	10	3.2
+	/mods/note/@type	public_on_back	sfarnel	PC001016	postcards	1	3.2
+	/mods/note	Exterior view of Fort Garry Hotel with trees around it.	sfarnel	PC001016	postcards	10	3.2
+	/mods/note/@type	public_description	sfarnel	PC001016	postcards	1	3.2
+	/mods/note	Duplicate: PC001015 - PC001016 are identical.	sfarnel	PC001016	postcards	10	3.2
+	/mods/note/@type	private	sfarnel	PC001016	postcards	1	3.2
+	/mods/subject		sfarnel	PC001016	postcards	5	3.2
+	/mods/subject/geographic	Winnipeg, MB	sfarnel	PC001016	postcards	1	3.2
+	/mods/subject		sfarnel	PC001016	postcards	5	3.2
+	/mods/subject/hierarchicalGeographic		sfarnel	PC001016	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	sfarnel	PC001016	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Manitoba	sfarnel	PC001016	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Winnipeg	sfarnel	PC001016	postcards	1	3.2
+	/mods/subject		sfarnel	PC001016	postcards	5	3.2
+	/mods/subject/genre	Postcards	sfarnel	PC001016	postcards	1	3.2
+	/mods/subject		sfarnel	PC001016	postcards	5	3.2
+	/mods/subject/topic	Hotels	sfarnel	PC001016	postcards	1	3.2
+	/mods/subject		sfarnel	PC001016	postcards	5	3.2
+	/mods/subject/name		sfarnel	PC001016	postcards	1	3.2
+	/mods/subject/name/@type	corporate	sfarnel	PC001016	postcards	1	3.2
+	/mods/subject/name/namePart	Fort Garry Hotel (Winnipeg, Man.)	sfarnel	PC001016	postcards	1	3.2
+	/mods/identifier	PC001016	sfarnel	PC001016	postcards	1	3.2
+	/mods/identifier/@type	local	sfarnel	PC001016	postcards	1	3.2
+	/mods/location		sfarnel	PC001016	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 3	sfarnel	PC001016	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC001016.html	sfarnel	PC001016	postcards	3	3.2
+	/mods/location/url/@access	object in context	sfarnel	PC001016	postcards	1	3.2
+	/mods/location/url/@usage	primary display	sfarnel	PC001016	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/001/web/PC001016.jpg	sfarnel	PC001016	postcards	3	3.2
+	/mods/location/url/@access	raw object	sfarnel	PC001016	postcards	1	3.2
+	/mods/location/url/@note	width='522' height='800' 	sfarnel	PC001016	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/001/thumbs/PC001016.jpg	sfarnel	PC001016	postcards	3	3.2
+	/mods/location/url/@access	preview	sfarnel	PC001016	postcards	1	3.2
+	/mods/location/url/@note	width='131' height='200'	sfarnel	PC001016	postcards	1	3.2
+	/mods/recordInfo		sfarnel	PC001016	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-20T16:05:12-0600	sfarnel	PC001016	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC001016	sfarnel	PC001016	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	sfarnel	sfarnel	PC001016	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2009-09-28T09:07:30-0600	sfarnel	PC001016	postcards	1	3.2
+	/@mods	
+
+The Fort Garry Hotel, Winnipeg, Manitoba.
+
+
+Camera Products Co.
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+Published by the Camera Products Co., 1731 Dunbar Street, Vancouver, BC.
+after 1920
+
+
+Vancouver
+
+
+
+English
+
+
+1 postcard : col. ; 14 x 9 cm.
+
+6
+false
+true
+C.N. Riy, Winnipeg - Vancouver series No 19
+Glossy print post card.
+This is a Real Photograph. Hand Coloured.
+Meyers, Wpg
+Made in England.
+Exterior view of Fort Garry Hotel with trees around it.
+Duplicate: PC001015 - PC001016 are identical.
+
+Winnipeg, MB
+
+
+
+Canada
+Manitoba
+Winnipeg
+
+
+
+Postcards
+
+
+Hotels
+
+
+
+Fort Garry Hotel (Winnipeg, Man.)
+
+
+PC001016
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 3
+http://peel.library.ualberta.ca/postcards/PC001016.html
+http://peel.library.ualberta.ca/pcimages/PC/001/web/PC001016.jpg
+http://peel.library.ualberta.ca/pcimages/PC/001/thumbs/PC001016.jpg
+
+
+2007-06-20T16:05:12-0600
+PC001016
+sfarnel
+2009-09-28T09:07:30-0600
+
+	sfarnel	PC001016	postcards	1	3.2
+	

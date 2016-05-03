@@ -1,0 +1,380 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods		journal issue	1	
+	/mods/titleInfo		journal issue	1	
+	/mods/titleInfo/title	Alberta Historical Review	journal issue	1	
+	/mods/originInfo		journal issue	2	
+	/mods/originInfo/issuance	continuing	journal issue	1	
+	/mods/identifier	0316-1552	journal issue	2	
+	/mods/identifier/@type	issn	journal issue	1	
+	/mods/part		journal issue	1	
+	/mods/part/detail		journal issue	2	
+	/mods/part/detail/@type	volume	journal issue	1	
+	/mods/part/detail/number	13	journal issue	1	
+	/mods/part/detail		journal issue	2	
+	/mods/part/detail/@type	issue	journal issue	1	
+	/mods/part/detail/number	4	journal issue	1	
+	/mods/part/detail/caption	no.	journal issue	1	
+	/mods/part/date	1965	journal issue	1	
+	/mods/note	Autumn	journal issue	1	
+	/mods/note/@type	season	journal issue	1	
+	/mods/language		journal issue	1	
+	/mods/language/languageTerm	English	journal issue	1	
+	/mods/language/languageTerm/@type	text	journal issue	1	
+	/mods/genre	journal issue	journal issue	1	
+	/mods/originInfo		journal issue	2	
+	/mods/originInfo/dateIssued	1965	journal issue	1	
+	/mods/relatedItem		journal issue	6	
+	/mods/relatedItem/@type	constituent	journal issue	1	
+	/mods/relatedItem/titleInfo		journal issue	1	
+	/mods/relatedItem/titleInfo/title	The Early History of Crow's Nest Pass	journal issue	1	
+	/mods/relatedItem/name		journal issue	1	
+	/mods/relatedItem/name/@type	personal	journal issue	1	
+	/mods/relatedItem/name/namePart	Cousins, William James	journal issue	1	
+	/mods/relatedItem/name/role		journal issue	1	
+	/mods/relatedItem/name/role/roleTerm	author	journal issue	1	
+	/mods/relatedItem/name/role/roleTerm/@type	text	journal issue	1	
+	/mods/relatedItem/language		journal issue	1	
+	/mods/relatedItem/language/languageTerm	English	journal issue	1	
+	/mods/relatedItem/language/languageTerm/@type	text	journal issue	1	
+	/mods/relatedItem/genre	journal article	journal issue	1	
+	/mods/relatedItem/originInfo		journal issue	1	
+	/mods/relatedItem/originInfo/dateIssued	1965	journal issue	1	
+	/mods/relatedItem/part		journal issue	1	
+	/mods/relatedItem/part/extent		journal issue	1	
+	/mods/relatedItem/part/extent/@unit	page	journal issue	1	
+	/mods/relatedItem/part/extent/start	1	journal issue	1	
+	/mods/relatedItem/part/extent/end	8	journal issue	1	
+	/mods/relatedItem/recordInfo		journal issue	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9021.13.4.1-8	journal issue	1	
+	/mods/relatedItem/note	blocked	journal issue	1	
+	/mods/relatedItem/note/@type	copyright	journal issue	1	
+	/mods/relatedItem		journal issue	6	
+	/mods/relatedItem/@type	constituent	journal issue	1	
+	/mods/relatedItem/titleInfo		journal issue	1	
+	/mods/relatedItem/titleInfo/title	Letters from a Skinner	journal issue	1	
+	/mods/relatedItem/name		journal issue	1	
+	/mods/relatedItem/name/@type	personal	journal issue	1	
+	/mods/relatedItem/name/namePart	"A British Ex-Officer"	journal issue	1	
+	/mods/relatedItem/name/role		journal issue	1	
+	/mods/relatedItem/name/role/roleTerm	author	journal issue	1	
+	/mods/relatedItem/name/role/roleTerm/@type	text	journal issue	1	
+	/mods/relatedItem/language		journal issue	1	
+	/mods/relatedItem/language/languageTerm	English	journal issue	1	
+	/mods/relatedItem/language/languageTerm/@type	text	journal issue	1	
+	/mods/relatedItem/genre	journal article	journal issue	1	
+	/mods/relatedItem/originInfo		journal issue	1	
+	/mods/relatedItem/originInfo/dateIssued	1965	journal issue	1	
+	/mods/relatedItem/part		journal issue	1	
+	/mods/relatedItem/part/extent		journal issue	1	
+	/mods/relatedItem/part/extent/@unit	page	journal issue	1	
+	/mods/relatedItem/part/extent/start	9	journal issue	1	
+	/mods/relatedItem/part/extent/end	20	journal issue	1	
+	/mods/relatedItem/recordInfo		journal issue	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9021.13.4.9-20	journal issue	1	
+	/mods/relatedItem/note	blocked	journal issue	1	
+	/mods/relatedItem/note/@type	copyright	journal issue	1	
+	/mods/relatedItem		journal issue	6	
+	/mods/relatedItem/@type	constituent	journal issue	1	
+	/mods/relatedItem/titleInfo		journal issue	1	
+	/mods/relatedItem/titleInfo/title	The Beginning of Leslieville	journal issue	1	
+	/mods/relatedItem/name		journal issue	1	
+	/mods/relatedItem/name/@type	personal	journal issue	1	
+	/mods/relatedItem/name/namePart	Bailey, Mary C.	journal issue	1	
+	/mods/relatedItem/name/role		journal issue	1	
+	/mods/relatedItem/name/role/roleTerm	author	journal issue	1	
+	/mods/relatedItem/name/role/roleTerm/@type	text	journal issue	1	
+	/mods/relatedItem/language		journal issue	1	
+	/mods/relatedItem/language/languageTerm	English	journal issue	1	
+	/mods/relatedItem/language/languageTerm/@type	text	journal issue	1	
+	/mods/relatedItem/genre	journal article	journal issue	1	
+	/mods/relatedItem/originInfo		journal issue	1	
+	/mods/relatedItem/originInfo/dateIssued	1965	journal issue	1	
+	/mods/relatedItem/part		journal issue	1	
+	/mods/relatedItem/part/extent		journal issue	1	
+	/mods/relatedItem/part/extent/@unit	page	journal issue	1	
+	/mods/relatedItem/part/extent/start	21	journal issue	1	
+	/mods/relatedItem/part/extent/end	23	journal issue	1	
+	/mods/relatedItem/recordInfo		journal issue	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9021.13.4.21-23	journal issue	1	
+	/mods/relatedItem/note	blocked	journal issue	1	
+	/mods/relatedItem/note/@type	copyright	journal issue	1	
+	/mods/relatedItem		journal issue	6	
+	/mods/relatedItem/@type	constituent	journal issue	1	
+	/mods/relatedItem/titleInfo		journal issue	1	
+	/mods/relatedItem/titleInfo/title	Three Trips to Peace River Country	journal issue	1	
+	/mods/relatedItem/name		journal issue	2	
+	/mods/relatedItem/name/@type	personal	journal issue	1	
+	/mods/relatedItem/name/namePart	Carrothers, Edward H.	journal issue	1	
+	/mods/relatedItem/name/role		journal issue	1	
+	/mods/relatedItem/name/role/roleTerm	author	journal issue	1	
+	/mods/relatedItem/name/role/roleTerm/@type	text	journal issue	1	
+	/mods/relatedItem/name		journal issue	2	
+	/mods/relatedItem/name/@type	personal	journal issue	1	
+	/mods/relatedItem/name/namePart	Bradshaw, Gail	journal issue	1	
+	/mods/relatedItem/name/role		journal issue	1	
+	/mods/relatedItem/name/role/roleTerm	author	journal issue	1	
+	/mods/relatedItem/name/role/roleTerm/@type	text	journal issue	1	
+	/mods/relatedItem/language		journal issue	1	
+	/mods/relatedItem/language/languageTerm	English	journal issue	1	
+	/mods/relatedItem/language/languageTerm/@type	text	journal issue	1	
+	/mods/relatedItem/genre	journal article	journal issue	1	
+	/mods/relatedItem/originInfo		journal issue	1	
+	/mods/relatedItem/originInfo/dateIssued	1965	journal issue	1	
+	/mods/relatedItem/part		journal issue	1	
+	/mods/relatedItem/part/extent		journal issue	1	
+	/mods/relatedItem/part/extent/@unit	page	journal issue	1	
+	/mods/relatedItem/part/extent/start	24	journal issue	1	
+	/mods/relatedItem/part/extent/end	29	journal issue	1	
+	/mods/relatedItem/recordInfo		journal issue	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9021.13.4.24-29	journal issue	1	
+	/mods/relatedItem/note	blocked	journal issue	1	
+	/mods/relatedItem/note/@type	copyright	journal issue	1	
+	/mods/relatedItem		journal issue	6	
+	/mods/relatedItem/@type	constituent	journal issue	1	
+	/mods/relatedItem/titleInfo		journal issue	1	
+	/mods/relatedItem/titleInfo/title	Notes and Comments	journal issue	1	
+	/mods/relatedItem/language		journal issue	1	
+	/mods/relatedItem/language/languageTerm	English	journal issue	1	
+	/mods/relatedItem/language/languageTerm/@type	text	journal issue	1	
+	/mods/relatedItem/genre	journal article	journal issue	1	
+	/mods/relatedItem/originInfo		journal issue	1	
+	/mods/relatedItem/originInfo/dateIssued	1965	journal issue	1	
+	/mods/relatedItem/part		journal issue	1	
+	/mods/relatedItem/part/extent		journal issue	1	
+	/mods/relatedItem/part/extent/@unit	page	journal issue	1	
+	/mods/relatedItem/part/extent/start	30	journal issue	1	
+	/mods/relatedItem/part/extent/end	30	journal issue	1	
+	/mods/relatedItem/recordInfo		journal issue	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9021.13.4.30	journal issue	1	
+	/mods/relatedItem/note	clear	journal issue	1	
+	/mods/relatedItem/note/@type	copyright	journal issue	1	
+	/mods/relatedItem		journal issue	6	
+	/mods/relatedItem/@type	constituent	journal issue	1	
+	/mods/relatedItem/titleInfo		journal issue	1	
+	/mods/relatedItem/titleInfo/title	Western Bookshelf	journal issue	1	
+	/mods/relatedItem/language		journal issue	1	
+	/mods/relatedItem/language/languageTerm	English	journal issue	1	
+	/mods/relatedItem/language/languageTerm/@type	text	journal issue	1	
+	/mods/relatedItem/genre	journal article	journal issue	1	
+	/mods/relatedItem/originInfo		journal issue	1	
+	/mods/relatedItem/originInfo/dateIssued	1965	journal issue	1	
+	/mods/relatedItem/part		journal issue	1	
+	/mods/relatedItem/part/extent		journal issue	1	
+	/mods/relatedItem/part/extent/@unit	page	journal issue	1	
+	/mods/relatedItem/part/extent/start	31	journal issue	1	
+	/mods/relatedItem/part/extent/end	32	journal issue	1	
+	/mods/relatedItem/recordInfo		journal issue	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9021.13.4.31-32	journal issue	1	
+	/mods/relatedItem/note	clear	journal issue	1	
+	/mods/relatedItem/note/@type	copyright	journal issue	1	
+	/mods/identifier	9021.13.4	journal issue	2	
+	/mods/identifier/@type	local:peel3	journal issue	1	
+	/mods/recordInfo		journal issue	1	
+	/mods/recordInfo/recordIdentifier	P009021.13.4	journal issue	1	
+	/@mods	
+		
+			Alberta Historical Review
+		
+		
+			continuing
+		
+		0316-1552
+		
+			
+				13
+			
+			
+				4
+				no.
+			
+			1965
+		
+		Autumn
+		
+			English
+		
+		journal issue
+		
+			1965
+		
+		
+			
+				The Early History of Crow's Nest Pass
+			
+			
+				Cousins, William James
+				
+					author
+				
+			
+			
+				English
+			
+			journal article
+			
+				1965
+			
+			
+				
+					1
+					8
+				
+			
+			
+				
+				9021.13.4.1-8
+				
+			
+			blocked
+		
+		
+			
+				Letters from a Skinner
+			
+			
+				"A British Ex-Officer"
+				
+					author
+				
+			
+			
+				English
+			
+			journal article
+			
+				1965
+			
+			
+				
+					9
+					20
+				
+			
+			
+				
+				9021.13.4.9-20
+				
+			
+			blocked
+		
+		
+			
+				The Beginning of Leslieville
+			
+			
+				Bailey, Mary C.
+				
+					author
+				
+			
+			
+				English
+			
+			journal article
+			
+				1965
+			
+			
+				
+					21
+					23
+				
+			
+			
+				
+				9021.13.4.21-23
+				
+			
+			blocked
+		
+		
+			
+				Three Trips to Peace River Country
+			
+			
+				Carrothers, Edward H.
+				
+					author
+				
+			
+			
+				Bradshaw, Gail
+				
+					author
+				
+			
+			
+				English
+			
+			journal article
+			
+				1965
+			
+			
+				
+					24
+					29
+				
+			
+			
+				
+				9021.13.4.24-29
+				
+			
+			blocked
+		
+		
+			
+				Notes and Comments
+			
+			
+				English
+			
+			journal article
+			
+				1965
+			
+			
+				
+					30
+					30
+				
+			
+			
+				
+				9021.13.4.30
+				
+			
+			clear
+		
+		
+			
+				Western Bookshelf
+			
+			
+				English
+			
+			journal article
+			
+				1965
+			
+			
+				
+					31
+					32
+				
+			
+			
+				
+				9021.13.4.31-32
+				
+			
+			clear
+		
+		9021.13.4
+
+			P009021.13.4
+			
+		
+		journal issue	1	
+	

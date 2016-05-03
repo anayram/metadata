@@ -1,0 +1,128 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		bstearns	PC000869	postcards	1	3.2
+	/mods/@version	3.2	bstearns	PC000869	postcards	1	3.2
+	/mods/titleInfo		bstearns	PC000869	postcards	1	3.2
+	/mods/titleInfo/@lang	english	bstearns	PC000869	postcards	1	3.2
+	/mods/titleInfo/title	Reston, Man.	bstearns	PC000869	postcards	1	3.2
+	/mods/typeOfResource	still image	bstearns	PC000869	postcards	1	3.2
+	/mods/genre	postcards	bstearns	PC000869	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	bstearns	PC000869	postcards	1	3.2
+	/mods/originInfo		bstearns	PC000869	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	bstearns	PC000869	postcards	1	3.2
+	/mods/originInfo/dateIssued	ca. 1909	bstearns	PC000869	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	inferred	bstearns	PC000869	postcards	1	3.2
+	/mods/originInfo/place		bstearns	PC000869	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	[Reston, Manitoba]	bstearns	PC000869	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	bstearns	PC000869	postcards	1	3.2
+	/mods/language		bstearns	PC000869	postcards	1	3.2
+	/mods/language/languageTerm	English	bstearns	PC000869	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	bstearns	PC000869	postcards	1	3.2
+	/mods/physicalDescription		bstearns	PC000869	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : sepia ; 9 x 14 cm.	bstearns	PC000869	postcards	1	3.2
+	/mods/note	80	bstearns	PC000869	postcards	4	3.2
+	/mods/note/@type	price	bstearns	PC000869	postcards	1	3.2
+	/mods/note	false	bstearns	PC000869	postcards	4	3.2
+	/mods/note/@type	notable	bstearns	PC000869	postcards	1	3.2
+	/mods/note	false	bstearns	PC000869	postcards	4	3.2
+	/mods/note/@type	imgprobs	bstearns	PC000869	postcards	1	3.2
+	/mods/note	Main street with several men and horse-drawn carts walking and driving through town. Building included is "Verity Plows, Massey- Harris Farm Implements."	bstearns	PC000869	postcards	4	3.2
+	/mods/note/@type	public_description	bstearns	PC000869	postcards	1	3.2
+	/mods/subject		bstearns	PC000869	postcards	7	3.2
+	/mods/subject/geographic	Reston, MB	bstearns	PC000869	postcards	1	3.2
+	/mods/subject		bstearns	PC000869	postcards	7	3.2
+	/mods/subject/hierarchicalGeographic		bstearns	PC000869	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	bstearns	PC000869	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Manitoba	bstearns	PC000869	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Reston	bstearns	PC000869	postcards	1	3.2
+	/mods/subject		bstearns	PC000869	postcards	7	3.2
+	/mods/subject/genre	Postcards	bstearns	PC000869	postcards	1	3.2
+	/mods/subject		bstearns	PC000869	postcards	7	3.2
+	/mods/subject/topic	Cityscapes	bstearns	PC000869	postcards	1	3.2
+	/mods/subject		bstearns	PC000869	postcards	7	3.2
+	/mods/subject/topic	Commercial streets	bstearns	PC000869	postcards	1	3.2
+	/mods/subject		bstearns	PC000869	postcards	7	3.2
+	/mods/subject/topic	City & town life	bstearns	PC000869	postcards	1	3.2
+	/mods/subject		bstearns	PC000869	postcards	7	3.2
+	/mods/subject/topic	Carts & wagons	bstearns	PC000869	postcards	1	3.2
+	/mods/identifier	PC000869	bstearns	PC000869	postcards	1	3.2
+	/mods/identifier/@type	local	bstearns	PC000869	postcards	1	3.2
+	/mods/location		bstearns	PC000869	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 2	bstearns	PC000869	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC000869.html	bstearns	PC000869	postcards	3	3.2
+	/mods/location/url/@access	object in context	bstearns	PC000869	postcards	1	3.2
+	/mods/location/url/@usage	primary display	bstearns	PC000869	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/000/web/PC000869.jpg	bstearns	PC000869	postcards	3	3.2
+	/mods/location/url/@access	raw object	bstearns	PC000869	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='483' 	bstearns	PC000869	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/000/thumbs/PC000869.jpg	bstearns	PC000869	postcards	3	3.2
+	/mods/location/url/@access	preview	bstearns	PC000869	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='121'	bstearns	PC000869	postcards	1	3.2
+	/mods/recordInfo		bstearns	PC000869	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-20T16:05:12-0600	bstearns	PC000869	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC000869	bstearns	PC000869	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	bstearns	bstearns	PC000869	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2009-10-30T13:40:18-0700	bstearns	PC000869	postcards	1	3.2
+	/@mods	
+
+Reston, Man.
+
+still image
+postcards
+
+monographic
+ca. 1909
+
+
+[Reston, Manitoba]
+
+
+
+English
+
+
+1 postcard : sepia ; 9 x 14 cm.
+
+80
+false
+false
+Main street with several men and horse-drawn carts walking and driving through town. Building included is "Verity Plows, Massey- Harris Farm Implements."
+
+Reston, MB
+
+
+
+Canada
+Manitoba
+Reston
+
+
+
+Postcards
+
+
+Cityscapes
+
+
+Commercial streets
+
+
+City & town life
+
+
+Carts & wagons
+
+PC000869
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 2
+http://peel.library.ualberta.ca/postcards/PC000869.html
+http://peel.library.ualberta.ca/pcimages/PC/000/web/PC000869.jpg
+http://peel.library.ualberta.ca/pcimages/PC/000/thumbs/PC000869.jpg
+
+
+2007-06-20T16:05:12-0600
+PC000869
+bstearns
+2009-10-30T13:40:18-0700
+
+	bstearns	PC000869	postcards	1	3.2
+	

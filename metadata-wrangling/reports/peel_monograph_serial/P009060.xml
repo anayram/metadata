@@ -1,0 +1,122 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.2
+	/mods/@version	3.2		1	3.2
+	/mods/titleInfo			1	3.2
+	/mods/titleInfo/title	Access to opportunity, 1905-80		1	3.2
+	/mods/titleInfo/subTitle	The development of post-secondary education in Alberta		1	3.2
+	/mods/name			3	3.2
+	/mods/name/@type	personal		1	3.2
+	/mods/name/namePart	Berghofer, Desmond E.		1	3.2
+	/mods/name			3	3.2
+	/mods/name/@type	personal		1	3.2
+	/mods/name/namePart	Vladicka, Alan S.		1	3.2
+	/mods/name			3	3.2
+	/mods/name/@type	corporate		1	3.2
+	/mods/name/namePart	Alberta.		2	3.2
+	/mods/name/namePart	Advanced Education and Manpower.		2	3.2
+	/mods/typeOfResource	text		1	3.2
+	/mods/originInfo			1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	abc		1	3.2
+	/mods/originInfo/place/placeTerm/@authority	marccountry		1	3.2
+	/mods/originInfo/place/placeTerm/@type	code		1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	[Edmonton]		1	3.2
+	/mods/originInfo/place/placeTerm/@type	text		1	3.2
+	/mods/originInfo/publisher	Alberta Advanced Education and Manpower		1	3.2
+	/mods/originInfo/dateIssued	1980		1	3.2
+	/mods/originInfo/issuance	monographic		1	3.2
+	/mods/language			1	3.2
+	/mods/language/languageTerm	eng		1	3.2
+	/mods/language/languageTerm/@authority	iso639-2b		1	3.2
+	/mods/language/languageTerm/@type	code		1	3.2
+	/mods/physicalDescription			1	3.2
+	/mods/physicalDescription/form	print		1	3.2
+	/mods/physicalDescription/form/@authority	marcform		1	3.2
+	/mods/physicalDescription/extent	84 p. : ill. ; 28 cm.		1	3.2
+	/mods/tableOfContents	Breaking ground: 1905-1916 -- Growth and depression: 1917-1939 -- The beginnings of change: 1940-1956 -- Higher education transformed: 1957-1966 -- The transition to a coordinated system: 1967-1971 -- A mature system of advanced education: 1972-1980 -- Perspectives and a look to the future -		1	3.2
+	/mods/note	uahistory		3	3.2
+	/mods/note/@type	local:oaiset		1	3.2
+	/mods/note	DOA: 1905 Spatial: Alberta		3	3.2
+	/mods/note/@type	local		1	3.2
+	/mods/note	Foreword by Henry Kolesar.		3	3.2
+	/mods/note/@type	public		1	3.2
+	/mods/subject			2	3.2
+	/mods/subject/geographicCode	n-cn-ab		1	3.2
+	/mods/subject/geographicCode/@authority	marcgac		1	3.2
+	/mods/subject			2	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/topic	Education, Higher		2	3.2
+	/mods/subject/geographic	Alberta		1	3.2
+	/mods/subject/topic	History		2	3.2
+	/mods/classification	LA 418 A3 B49 1980		1	3.2
+	/mods/classification/@authority	lcc		1	3.2
+	/mods/identifier	378911		2	3.2
+	/mods/identifier/@type	local:neos		1	3.2
+	/mods/identifier	9060		2	3.2
+	/mods/identifier/@type	local:peel3		1	3.2
+	/mods/recordInfo			1	3.2
+	/mods/recordInfo/recordContentSource	RC		1	3.2
+	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.2
+	/mods/recordInfo/recordCreationDate	2008-09-10T15:09:52-0600		1	3.2
+	/mods/recordInfo/recordIdentifier	P009060		1	3.2
+	/mods/recordInfo/recordChangeDate	2010-04-04T07:53:59-0600		1	3.2
+	/@mods	
+
+Access to opportunity, 1905-80
+The development of post-secondary education in Alberta
+
+
+Berghofer, Desmond E.
+
+
+Vladicka, Alan S.
+
+
+Alberta.
+Advanced Education and Manpower.
+
+text
+
+
+abc
+
+
+[Edmonton]
+
+Alberta Advanced Education and Manpower
+1980
+monographic
+
+
+eng
+
+
+print
+84 p. : ill. ; 28 cm.
+
+Breaking ground: 1905-1916 -- Growth and depression: 1917-1939 -- The beginnings of change: 1940-1956 -- Higher education transformed: 1957-1966 -- The transition to a coordinated system: 1967-1971 -- A mature system of advanced education: 1972-1980 -- Perspectives and a look to the future -
+uahistory
+DOA: 1905 Spatial: Alberta
+Foreword by Henry Kolesar.
+
+				n-cn-ab
+			
+
+				Education, Higher
+			
+				Alberta
+			
+				History
+			
+LA 418 A3 B49 1980
+378911
+9060
+
+RC
+2008-09-10T15:09:52-0600
+P009060
+2010-04-04T07:53:59-0600
+
+		1	3.2
+	

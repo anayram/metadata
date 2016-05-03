@@ -1,0 +1,185 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@schemaLocation	http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/nonSort	The 		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	rainbow in the North		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/subTitle	A short account of the first establishment of Christianity in Rupert's Land by the Church Missionary Society		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA001250		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Tucker, Sarah		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	d.c.1859.		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart/@type	date		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/description	d.<i>c.</i>1859.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.2		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA001251		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Evans, Edmund		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	1826-1905.		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart/@type	date		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	illustrator		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/description	1826-1905. English engraver, illustrator, and printer; notable for adding technology of photography to process of wood engraving and colour printing.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	London		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	James Nisbet & Co.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1851		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	English		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	[4,] 1 leaf, [vii]-viii, 216 p., illus., fold. map.; 18 cm.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	Also published, 3rd thousand, London: J. Nisbet, 1851 (viii, 222p.); New York: Robert Carter & Brothers, 1852 ([3], 1 leaf, [v]-vi, [7]-308, [4]p.); London: J. Nisbet, 1852 (viii, 222p.); 4th thousand, London: J. Nisbet, 1853 (viii, 222p.); 4th edition, London: J. Nisbet, 1854 ([4], 1 leaf, vii-viii, 222p.); New York: R. Carter, 1854 (308p.); 5th thousand, includes preface to 4th edition, London: J. Nisbet, 1854 (viii, 222p.); 6th thousand, London: J. Nisbet & Co., 1856 (viii, 222p.); 7th thousand, London: J. Nisbet & Co., 1858 ([v]-viii, 222p.); New York: Robert Carter & Brothers, 1858 (308, [4]p.); New York: Gen. Prot. Ep. Sunday School Union and Church Book Society, 1861 (301p.); New York: R. Carter & Bros., 1861 (vi, 301p.); New York: R. Carter, 1866 (308p.); New York: R. Carter, 1875 (vi, 309p.). 		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	public		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	Subject headings not auto-converted.		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	subject conversion		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			9	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	The Spiritual Life--Church of England		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			9	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name/namePart	Church Missionary Society		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			9	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name/namePart	Église Société Missionnaire		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			9	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Church of England		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Missions		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			9	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	canthes		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Prairie Provinces--Churches		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			9	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Église d'Angleterre		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Missions		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			9	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Missions		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Manitoba		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			9	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Missions		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Manitoba		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			9	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1851		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	121		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	144		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel2		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	285		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	285		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel-procite-id		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P000285		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+    
+        The 
+        rainbow in the North
+        A short account of the first establishment of Christianity in Rupert's Land by the Church Missionary Society
+    
+    
+        Tucker, Sarah
+        d.c.1859.
+        
+            author
+        
+        d.<i>c.</i>1859.
+    
+    
+        Evans, Edmund
+        1826-1905.
+        
+            illustrator
+        
+        1826-1905. English engraver, illustrator, and printer; notable for adding technology of photography to process of wood engraving and colour printing.
+    
+    text
+    
+        
+            London
+        
+        James Nisbet & Co.
+        1851
+    
+    
+        English
+    
+    
+        print
+        [4,] 1 leaf, [vii]-viii, 216 p., illus., fold. map.; 18 cm.
+    
+    Also published, 3rd thousand, London: J. Nisbet, 1851 (viii, 222p.); New York: Robert Carter & Brothers, 1852 ([3], 1 leaf, [v]-vi, [7]-308, [4]p.); London: J. Nisbet, 1852 (viii, 222p.); 4th thousand, London: J. Nisbet, 1853 (viii, 222p.); 4th edition, London: J. Nisbet, 1854 ([4], 1 leaf, vii-viii, 222p.); New York: R. Carter, 1854 (308p.); 5th thousand, includes preface to 4th edition, London: J. Nisbet, 1854 (viii, 222p.); 6th thousand, London: J. Nisbet & Co., 1856 (viii, 222p.); 7th thousand, London: J. Nisbet & Co., 1858 ([v]-viii, 222p.); New York: Robert Carter & Brothers, 1858 (308, [4]p.); New York: Gen. Prot. Ep. Sunday School Union and Church Book Society, 1861 (301p.); New York: R. Carter & Bros., 1861 (vi, 301p.); New York: R. Carter, 1866 (308p.); New York: R. Carter, 1875 (vi, 309p.). 
+    Subject headings not auto-converted.
+    
+        The Spiritual Life--Church of England
+    
+    
+        
+            Church Missionary Society
+        
+    
+    
+        
+            Église Société Missionnaire
+        
+    
+    
+        Church of England
+        Missions
+    
+    
+        Prairie Provinces--Churches
+    
+    
+        Église d'Angleterre
+        Missions
+    
+    
+        Missions
+        Manitoba
+    
+    
+        Missions
+        Manitoba
+    
+    
+        1851
+    
+    121
+    144
+    285
+    285
+    
+        Peel's Prairie Portal
+        P000285
+        2003-01-01T12:00:00-0700
+    
+		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

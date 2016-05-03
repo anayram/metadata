@@ -1,0 +1,169 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@schemaLocation	http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	Strange empire		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/subTitle	Louis Riel and the Métis people		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA000308		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Howard, Joseph Kinsey		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	1906-1951.		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart/@type	date		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/description	1906-1951. Montana journalist and author.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	Toronto		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	J. Lewis & Samuel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1952		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	English		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	vi, 601 p., maps.; 21 cm.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	Also published, Toronto: James Lewis and Samuel, 1974 (vi, 601p.). Also published as  <i>Strange empire: A narrative of the Northwest </i>, New York: William Morrow, 1952 (xii, 601p.); Toronto: George J. McLeod, 1952 (xii, 601p.); with new introduction by Nicholas C.P. Vrooman, St Paul, Minn.: Minnesota Historical Society Press, 1994 (601p.); reprinted Westport, Conn.: Greenwood Press, 1974 (xii, 601p.); and as  <i>Strange empire: The story of Louis Riel </i>, Toronto: Swan, 1965 & 1970 (480p.). Translated into French by Ghislain Pouliot as  <i>L'Empire des Bois-Brûles </i>, Saint-Boniface, Man.: Éditions des Plaines, 1989 (xiv, 515p.). A history of the two Riel Rebellions. 		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	public		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	The People--Métis		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Rebellions and Regimental Histories--Red River Rebellion		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Rebellions and Regimental Histories--Saskatchewan Rebellion		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002849		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Métis		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002849		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Métis--Canada		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003814		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Red River Rebellion, 1869-70--History		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003814		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Rouge, Rébellion de la rivière, 1869-1870--Histoire		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003912		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Riel Rebellion, 1885--History		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003912		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Riel, Rébellion de, 1885--Histoire		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003919		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name/namePart	Riel, Louis, 1844-1885		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1885		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	2730		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	4296		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel2		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	1463		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	1461		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel-procite-id		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P001463		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+    
+        Strange empire
+        Louis Riel and the Métis people
+    
+    
+        Howard, Joseph Kinsey
+        1906-1951.
+        
+            author
+        
+        1906-1951. Montana journalist and author.
+    
+    text
+    
+        
+            Toronto
+        
+        J. Lewis & Samuel
+        1952
+    
+    
+        English
+    
+    
+        print
+        vi, 601 p., maps.; 21 cm.
+    
+    Also published, Toronto: James Lewis and Samuel, 1974 (vi, 601p.). Also published as  <i>Strange empire: A narrative of the Northwest </i>, New York: William Morrow, 1952 (xii, 601p.); Toronto: George J. McLeod, 1952 (xii, 601p.); with new introduction by Nicholas C.P. Vrooman, St Paul, Minn.: Minnesota Historical Society Press, 1994 (601p.); reprinted Westport, Conn.: Greenwood Press, 1974 (xii, 601p.); and as  <i>Strange empire: The story of Louis Riel </i>, Toronto: Swan, 1965 & 1970 (480p.). Translated into French by Ghislain Pouliot as  <i>L'Empire des Bois-Brûles </i>, Saint-Boniface, Man.: Éditions des Plaines, 1989 (xiv, 515p.). A history of the two Riel Rebellions. 
+    
+        The People--Métis
+    
+    
+        Rebellions and Regimental Histories--Red River Rebellion
+    
+    
+        Rebellions and Regimental Histories--Saskatchewan Rebellion
+    
+    
+        Métis
+    
+    
+        Métis--Canada
+    
+    
+        Red River Rebellion, 1869-70--History
+    
+    
+        Rouge, Rébellion de la rivière, 1869-1870--Histoire
+    
+    
+        Riel Rebellion, 1885--History
+    
+    
+        Riel, Rébellion de, 1885--Histoire
+    
+    
+        
+            Riel, Louis, 1844-1885
+        
+    
+    
+        1885
+    
+    2730
+    4296
+    1463
+    1461
+    
+        Peel's Prairie Portal
+        P001463
+        2003-01-01T12:00:00-0700
+    
+		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

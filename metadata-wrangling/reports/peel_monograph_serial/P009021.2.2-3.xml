@@ -1,0 +1,619 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods		journal article	1	
+	/mods/titleInfo		journal article	1	
+	/mods/titleInfo/title	Alberta Historical Review	journal article	1	
+	/mods/originInfo		journal article	2	
+	/mods/originInfo/issuance	continuing	journal article	1	
+	/mods/identifier	0316-1552	journal article	2	
+	/mods/identifier/@type	issn	journal article	1	
+	/mods/part		journal article	2	
+	/mods/part/detail		journal article	2	
+	/mods/part/detail/@type	volume	journal article	1	
+	/mods/part/detail/number	2	journal article	1	
+	/mods/part/detail		journal article	2	
+	/mods/part/detail/@type	issue	journal article	1	
+	/mods/part/detail/number	2	journal article	1	
+	/mods/part/detail/caption	no.	journal article	1	
+	/mods/part/date	1954	journal article	1	
+	/mods/note	Spring	journal article	2	
+	/mods/note/@type	season	journal article	1	
+	/mods/originInfo		journal article	2	
+	/mods/originInfo/dateIssued	1954	journal article	1	
+	/mods/relatedItem		journal article	10	
+	/mods/relatedItem/@type	constituent	journal article	1	
+	/mods/relatedItem/titleInfo		journal article	1	
+	/mods/relatedItem/titleInfo/title	Eben McAdam's Diary (I)	journal article	1	
+	/mods/relatedItem/name		journal article	2	
+	/mods/relatedItem/name/@type	personal	journal article	1	
+	/mods/relatedItem/name/namePart	McAdam, Eben	journal article	1	
+	/mods/relatedItem/name/role		journal article	1	
+	/mods/relatedItem/name/role/roleTerm	author	journal article	1	
+	/mods/relatedItem/name/role/roleTerm/@type	text	journal article	1	
+	/mods/relatedItem/name		journal article	2	
+	/mods/relatedItem/name/@type	personal	journal article	1	
+	/mods/relatedItem/name/namePart	Edmonds, W. Everard	journal article	1	
+	/mods/relatedItem/name/role		journal article	1	
+	/mods/relatedItem/name/role/roleTerm	editor	journal article	1	
+	/mods/relatedItem/name/role/roleTerm/@type	text	journal article	1	
+	/mods/relatedItem/language		journal article	1	
+	/mods/relatedItem/language/languageTerm	English	journal article	1	
+	/mods/relatedItem/language/languageTerm/@type	text	journal article	1	
+	/mods/relatedItem/genre	journal article	journal article	1	
+	/mods/relatedItem/originInfo		journal article	1	
+	/mods/relatedItem/originInfo/dateIssued	1954	journal article	1	
+	/mods/relatedItem/part		journal article	1	
+	/mods/relatedItem/part/extent		journal article	1	
+	/mods/relatedItem/part/extent/@unit	page	journal article	1	
+	/mods/relatedItem/part/extent/start	3	journal article	1	
+	/mods/relatedItem/part/extent/end	10	journal article	1	
+	/mods/relatedItem/recordInfo		journal article	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9021.2.2.3-10	journal article	1	
+	/mods/relatedItem/note	blocked	journal article	1	
+	/mods/relatedItem/note/@type	copyright	journal article	1	
+	/mods/relatedItem		journal article	10	
+	/mods/relatedItem/@type	constituent	journal article	1	
+	/mods/relatedItem/titleInfo		journal article	1	
+	/mods/relatedItem/titleInfo/title	Historic St. Albert (I): Its Foundation 1861-1868	journal article	1	
+	/mods/relatedItem/name		journal article	1	
+	/mods/relatedItem/name/@type	personal	journal article	1	
+	/mods/relatedItem/name/namePart	Tetreault, Alexis, O.M.I.	journal article	1	
+	/mods/relatedItem/name/role		journal article	1	
+	/mods/relatedItem/name/role/roleTerm	author	journal article	1	
+	/mods/relatedItem/name/role/roleTerm/@type	text	journal article	1	
+	/mods/relatedItem/language		journal article	1	
+	/mods/relatedItem/language/languageTerm	English	journal article	1	
+	/mods/relatedItem/language/languageTerm/@type	text	journal article	1	
+	/mods/relatedItem/genre	journal article	journal article	1	
+	/mods/relatedItem/originInfo		journal article	1	
+	/mods/relatedItem/originInfo/dateIssued	1954	journal article	1	
+	/mods/relatedItem/part		journal article	1	
+	/mods/relatedItem/part/extent		journal article	1	
+	/mods/relatedItem/part/extent/@unit	page	journal article	1	
+	/mods/relatedItem/part/extent/start	11	journal article	1	
+	/mods/relatedItem/part/extent/end	20	journal article	1	
+	/mods/relatedItem/recordInfo		journal article	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9021.2.2.11-20	journal article	1	
+	/mods/relatedItem/note	blocked	journal article	1	
+	/mods/relatedItem/note/@type	copyright	journal article	1	
+	/mods/relatedItem		journal article	10	
+	/mods/relatedItem/@type	constituent	journal article	1	
+	/mods/relatedItem/titleInfo		journal article	1	
+	/mods/relatedItem/titleInfo/title	Chronology of Farming in the Okotoks - High River Area, 1879-1930	journal article	1	
+	/mods/relatedItem/name		journal article	1	
+	/mods/relatedItem/name/@type	personal	journal article	1	
+	/mods/relatedItem/name/namePart	Fowler, Roy L.	journal article	1	
+	/mods/relatedItem/name/role		journal article	1	
+	/mods/relatedItem/name/role/roleTerm	author	journal article	1	
+	/mods/relatedItem/name/role/roleTerm/@type	text	journal article	1	
+	/mods/relatedItem/language		journal article	1	
+	/mods/relatedItem/language/languageTerm	English	journal article	1	
+	/mods/relatedItem/language/languageTerm/@type	text	journal article	1	
+	/mods/relatedItem/genre	journal article	journal article	1	
+	/mods/relatedItem/originInfo		journal article	1	
+	/mods/relatedItem/originInfo/dateIssued	1954	journal article	1	
+	/mods/relatedItem/part		journal article	1	
+	/mods/relatedItem/part/extent		journal article	1	
+	/mods/relatedItem/part/extent/@unit	page	journal article	1	
+	/mods/relatedItem/part/extent/start	21	journal article	1	
+	/mods/relatedItem/part/extent/end	27	journal article	1	
+	/mods/relatedItem/recordInfo		journal article	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9021.2.2.21-27	journal article	1	
+	/mods/relatedItem/note	blocked	journal article	1	
+	/mods/relatedItem/note/@type	copyright	journal article	1	
+	/mods/relatedItem		journal article	10	
+	/mods/relatedItem/@type	constituent	journal article	1	
+	/mods/relatedItem/titleInfo		journal article	1	
+	/mods/relatedItem/titleInfo/title	George Bolton's Story (I): Work and Adventures in the Crowsnest Pass	journal article	1	
+	/mods/relatedItem/name		journal article	1	
+	/mods/relatedItem/name/@type	personal	journal article	1	
+	/mods/relatedItem/name/namePart	Bolton, George	journal article	1	
+	/mods/relatedItem/name/role		journal article	1	
+	/mods/relatedItem/name/role/roleTerm	author	journal article	1	
+	/mods/relatedItem/name/role/roleTerm/@type	text	journal article	1	
+	/mods/relatedItem/language		journal article	1	
+	/mods/relatedItem/language/languageTerm	English	journal article	1	
+	/mods/relatedItem/language/languageTerm/@type	text	journal article	1	
+	/mods/relatedItem/genre	journal article	journal article	1	
+	/mods/relatedItem/originInfo		journal article	1	
+	/mods/relatedItem/originInfo/dateIssued	1954	journal article	1	
+	/mods/relatedItem/part		journal article	1	
+	/mods/relatedItem/part/extent		journal article	1	
+	/mods/relatedItem/part/extent/@unit	page	journal article	1	
+	/mods/relatedItem/part/extent/start	28	journal article	1	
+	/mods/relatedItem/part/extent/end	33	journal article	1	
+	/mods/relatedItem/recordInfo		journal article	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9021.2.2.28-33	journal article	1	
+	/mods/relatedItem/note	blocked	journal article	1	
+	/mods/relatedItem/note/@type	copyright	journal article	1	
+	/mods/relatedItem		journal article	10	
+	/mods/relatedItem/@type	constituent	journal article	1	
+	/mods/relatedItem/titleInfo		journal article	1	
+	/mods/relatedItem/titleInfo/title	Notes and Comments	journal article	1	
+	/mods/relatedItem/language		journal article	1	
+	/mods/relatedItem/language/languageTerm	English	journal article	1	
+	/mods/relatedItem/language/languageTerm/@type	text	journal article	1	
+	/mods/relatedItem/genre	journal article	journal article	1	
+	/mods/relatedItem/originInfo		journal article	1	
+	/mods/relatedItem/originInfo/dateIssued	1954	journal article	1	
+	/mods/relatedItem/part		journal article	1	
+	/mods/relatedItem/part/extent		journal article	1	
+	/mods/relatedItem/part/extent/@unit	page	journal article	1	
+	/mods/relatedItem/part/extent/start	34	journal article	1	
+	/mods/relatedItem/part/extent/end	36	journal article	1	
+	/mods/relatedItem/recordInfo		journal article	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9021.2.2.34-36	journal article	1	
+	/mods/relatedItem/note	clear	journal article	1	
+	/mods/relatedItem/note/@type	copyright	journal article	1	
+	/mods/part		journal article	2	
+	/mods/part/detail		journal article	2	
+	/mods/part/detail/@type	volume	journal article	1	
+	/mods/part/detail/number	2	journal article	1	
+	/mods/part/detail		journal article	2	
+	/mods/part/detail/@type	issue	journal article	1	
+	/mods/part/detail/number	3	journal article	1	
+	/mods/part/detail/caption	no.	journal article	1	
+	/mods/part/date	1954	journal article	1	
+	/mods/note	Summer	journal article	2	
+	/mods/note/@type	season	journal article	1	
+	/mods/relatedItem		journal article	10	
+	/mods/relatedItem/@type	constituent	journal article	1	
+	/mods/relatedItem/titleInfo		journal article	1	
+	/mods/relatedItem/titleInfo/title	The Return of the Buffalo: Canada's Purchase of the Pablo Herd	journal article	1	
+	/mods/relatedItem/name		journal article	1	
+	/mods/relatedItem/name/@type	personal	journal article	1	
+	/mods/relatedItem/name/namePart	MacGregor, James G.	journal article	1	
+	/mods/relatedItem/name/role		journal article	1	
+	/mods/relatedItem/name/role/roleTerm	author	journal article	1	
+	/mods/relatedItem/name/role/roleTerm/@type	text	journal article	1	
+	/mods/relatedItem/language		journal article	1	
+	/mods/relatedItem/language/languageTerm	English	journal article	1	
+	/mods/relatedItem/language/languageTerm/@type	text	journal article	1	
+	/mods/relatedItem/genre	journal article	journal article	1	
+	/mods/relatedItem/originInfo		journal article	1	
+	/mods/relatedItem/originInfo/dateIssued	1954	journal article	1	
+	/mods/relatedItem/part		journal article	1	
+	/mods/relatedItem/part/extent		journal article	1	
+	/mods/relatedItem/part/extent/@unit	page	journal article	1	
+	/mods/relatedItem/part/extent/start	3	journal article	1	
+	/mods/relatedItem/part/extent/end	15	journal article	1	
+	/mods/relatedItem/recordInfo		journal article	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9021.2.3.3-15	journal article	1	
+	/mods/relatedItem/note	blocked	journal article	1	
+	/mods/relatedItem/note/@type	copyright	journal article	1	
+	/mods/relatedItem		journal article	10	
+	/mods/relatedItem/@type	constituent	journal article	1	
+	/mods/relatedItem/titleInfo		journal article	1	
+	/mods/relatedItem/titleInfo/title	Historic St. Albert (II): Highlights in the Development of Big Lake Settlement,
+				1868-1876	journal article	1	
+	/mods/relatedItem/name		journal article	1	
+	/mods/relatedItem/name/@type	personal	journal article	1	
+	/mods/relatedItem/name/namePart	Tetreault, Alexis, O.M.I.	journal article	1	
+	/mods/relatedItem/name/role		journal article	1	
+	/mods/relatedItem/name/role/roleTerm	author	journal article	1	
+	/mods/relatedItem/name/role/roleTerm/@type	text	journal article	1	
+	/mods/relatedItem/language		journal article	1	
+	/mods/relatedItem/language/languageTerm	English	journal article	1	
+	/mods/relatedItem/language/languageTerm/@type	text	journal article	1	
+	/mods/relatedItem/genre	journal article	journal article	1	
+	/mods/relatedItem/originInfo		journal article	1	
+	/mods/relatedItem/originInfo/dateIssued	1954	journal article	1	
+	/mods/relatedItem/part		journal article	1	
+	/mods/relatedItem/part/extent		journal article	1	
+	/mods/relatedItem/part/extent/@unit	page	journal article	1	
+	/mods/relatedItem/part/extent/start	16	journal article	1	
+	/mods/relatedItem/part/extent/end	23	journal article	1	
+	/mods/relatedItem/recordInfo		journal article	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9021.2.3.16-23	journal article	1	
+	/mods/relatedItem/note	blocked	journal article	1	
+	/mods/relatedItem/note/@type	copyright	journal article	1	
+	/mods/relatedItem		journal article	10	
+	/mods/relatedItem/@type	constituent	journal article	1	
+	/mods/relatedItem/titleInfo		journal article	1	
+	/mods/relatedItem/titleInfo/title	Fort Ostell and the Riel Rebellion	journal article	1	
+	/mods/relatedItem/name		journal article	1	
+	/mods/relatedItem/name/@type	personal	journal article	1	
+	/mods/relatedItem/name/namePart	Dempsey, Hugh A.	journal article	1	
+	/mods/relatedItem/name/role		journal article	1	
+	/mods/relatedItem/name/role/roleTerm	author	journal article	1	
+	/mods/relatedItem/name/role/roleTerm/@type	text	journal article	1	
+	/mods/relatedItem/language		journal article	1	
+	/mods/relatedItem/language/languageTerm	English	journal article	1	
+	/mods/relatedItem/language/languageTerm/@type	text	journal article	1	
+	/mods/relatedItem/genre	journal article	journal article	1	
+	/mods/relatedItem/originInfo		journal article	1	
+	/mods/relatedItem/originInfo/dateIssued	1954	journal article	1	
+	/mods/relatedItem/part		journal article	1	
+	/mods/relatedItem/part/extent		journal article	1	
+	/mods/relatedItem/part/extent/@unit	page	journal article	1	
+	/mods/relatedItem/part/extent/start	24	journal article	1	
+	/mods/relatedItem/part/extent/end	33	journal article	1	
+	/mods/relatedItem/recordInfo		journal article	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9021.2.3.24-33	journal article	1	
+	/mods/relatedItem/note	blocked	journal article	1	
+	/mods/relatedItem/note/@type	copyright	journal article	1	
+	/mods/relatedItem		journal article	10	
+	/mods/relatedItem/@type	constituent	journal article	1	
+	/mods/relatedItem/titleInfo		journal article	1	
+	/mods/relatedItem/titleInfo/title	Eben McAdam's Diary (II)	journal article	1	
+	/mods/relatedItem/name		journal article	2	
+	/mods/relatedItem/name/@type	personal	journal article	1	
+	/mods/relatedItem/name/namePart	McAdam, Eben	journal article	1	
+	/mods/relatedItem/name/role		journal article	1	
+	/mods/relatedItem/name/role/roleTerm	author	journal article	1	
+	/mods/relatedItem/name/role/roleTerm/@type	text	journal article	1	
+	/mods/relatedItem/name		journal article	2	
+	/mods/relatedItem/name/@type	personal	journal article	1	
+	/mods/relatedItem/name/namePart	Edmonds, W. Everard	journal article	1	
+	/mods/relatedItem/name/role		journal article	1	
+	/mods/relatedItem/name/role/roleTerm	editor	journal article	1	
+	/mods/relatedItem/name/role/roleTerm/@type	text	journal article	1	
+	/mods/relatedItem/language		journal article	1	
+	/mods/relatedItem/language/languageTerm	English	journal article	1	
+	/mods/relatedItem/language/languageTerm/@type	text	journal article	1	
+	/mods/relatedItem/genre	journal article	journal article	1	
+	/mods/relatedItem/originInfo		journal article	1	
+	/mods/relatedItem/originInfo/dateIssued	1954	journal article	1	
+	/mods/relatedItem/part		journal article	1	
+	/mods/relatedItem/part/extent		journal article	1	
+	/mods/relatedItem/part/extent/@unit	page	journal article	1	
+	/mods/relatedItem/part/extent/start	34	journal article	1	
+	/mods/relatedItem/part/extent/end	41	journal article	1	
+	/mods/relatedItem/recordInfo		journal article	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9021.2.3.34-41	journal article	1	
+	/mods/relatedItem/note	blocked	journal article	1	
+	/mods/relatedItem/note/@type	copyright	journal article	1	
+	/mods/relatedItem		journal article	10	
+	/mods/relatedItem/@type	constituent	journal article	1	
+	/mods/relatedItem/titleInfo		journal article	1	
+	/mods/relatedItem/titleInfo/title	George Bolton's Story (II): My Hike Through the Crowsnest Pass	journal article	1	
+	/mods/relatedItem/name		journal article	1	
+	/mods/relatedItem/name/@type	personal	journal article	1	
+	/mods/relatedItem/name/namePart	Bolton, George	journal article	1	
+	/mods/relatedItem/name/role		journal article	1	
+	/mods/relatedItem/name/role/roleTerm	author	journal article	1	
+	/mods/relatedItem/name/role/roleTerm/@type	text	journal article	1	
+	/mods/relatedItem/language		journal article	1	
+	/mods/relatedItem/language/languageTerm	English	journal article	1	
+	/mods/relatedItem/language/languageTerm/@type	text	journal article	1	
+	/mods/relatedItem/genre	journal article	journal article	1	
+	/mods/relatedItem/originInfo		journal article	1	
+	/mods/relatedItem/originInfo/dateIssued	1954	journal article	1	
+	/mods/relatedItem/part		journal article	1	
+	/mods/relatedItem/part/extent		journal article	1	
+	/mods/relatedItem/part/extent/@unit	page	journal article	1	
+	/mods/relatedItem/part/extent/start	42	journal article	1	
+	/mods/relatedItem/part/extent/end	48	journal article	1	
+	/mods/relatedItem/recordInfo		journal article	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9021.2.3.42-48	journal article	1	
+	/mods/relatedItem/note	blocked	journal article	1	
+	/mods/relatedItem/note/@type	copyright	journal article	1	
+	/mods/identifier	9021.2.2-3	journal article	2	
+	/mods/identifier/@type	local:peel3	journal article	1	
+	/mods/recordInfo		journal article	1	
+	/mods/recordInfo/recordIdentifier	P009021.2.2-3	journal article	1	
+	/@mods	
+	
+		Alberta Historical Review
+	
+	
+		continuing
+	
+	0316-1552
+	
+		
+			2
+		
+		
+			2
+			no.
+		
+		1954
+	
+	Spring
+	
+		1954
+	
+	
+		
+			Eben McAdam's Diary (I)
+		
+		
+			McAdam, Eben
+			
+				author
+			
+		
+		
+			Edmonds, W. Everard
+			
+				editor
+			
+		
+		
+			English
+		
+		journal article
+		
+			1954
+		
+		
+			
+				3
+				10
+			
+		
+		
+			9021.2.2.3-10
+		
+		blocked
+	
+	
+		
+			Historic St. Albert (I): Its Foundation 1861-1868
+		
+		
+			Tetreault, Alexis, O.M.I.
+			
+				author
+			
+		
+		
+			English
+		
+		journal article
+		
+			1954
+		
+		
+			
+				11
+				20
+			
+		
+		
+			9021.2.2.11-20
+		
+		blocked
+	
+	
+		
+			Chronology of Farming in the Okotoks - High River Area, 1879-1930
+		
+		
+			Fowler, Roy L.
+			
+				author
+			
+		
+		
+			English
+		
+		journal article
+		
+			1954
+		
+		
+			
+				21
+				27
+			
+		
+		
+			9021.2.2.21-27
+		
+		blocked
+	
+	
+		
+			George Bolton's Story (I): Work and Adventures in the Crowsnest Pass
+		
+		
+			Bolton, George
+			
+				author
+			
+		
+		
+			English
+		
+		journal article
+		
+			1954
+		
+		
+			
+				28
+				33
+			
+		
+		
+			9021.2.2.28-33
+		
+		blocked
+	
+	
+		
+			Notes and Comments
+		
+		
+			English
+		
+		journal article
+		
+			1954
+		
+		
+			
+				34
+				36
+			
+		
+		
+			9021.2.2.34-36
+		
+		clear
+	
+	
+		
+			2
+		
+		
+			3
+			no.
+		
+		1954
+	
+	Summer
+	
+		
+			The Return of the Buffalo: Canada's Purchase of the Pablo Herd
+		
+		
+			MacGregor, James G.
+			
+				author
+			
+		
+		
+			English
+		
+		journal article
+		
+			1954
+		
+		
+			
+				3
+				15
+			
+		
+		
+			9021.2.3.3-15
+		
+		blocked
+	
+	
+		
+			Historic St. Albert (II): Highlights in the Development of Big Lake Settlement,
+				1868-1876
+		
+		
+			Tetreault, Alexis, O.M.I.
+			
+				author
+			
+		
+		
+			English
+		
+		journal article
+		
+			1954
+		
+		
+			
+				16
+				23
+			
+		
+		
+			9021.2.3.16-23
+		
+		blocked
+	
+	
+		
+			Fort Ostell and the Riel Rebellion
+		
+		
+			Dempsey, Hugh A.
+			
+				author
+			
+		
+		
+			English
+		
+		journal article
+		
+			1954
+		
+		
+			
+				24
+				33
+			
+		
+		
+			9021.2.3.24-33
+		
+		blocked
+	
+	
+		
+			Eben McAdam's Diary (II)
+		
+		
+			McAdam, Eben
+			
+				author
+			
+		
+		
+			Edmonds, W. Everard
+			
+				editor
+			
+		
+		
+			English
+		
+		journal article
+		
+			1954
+		
+		
+			
+				34
+				41
+			
+		
+		
+			9021.2.3.34-41
+		
+		blocked
+	
+	
+		
+			George Bolton's Story (II): My Hike Through the Crowsnest Pass
+		
+		
+			Bolton, George
+			
+				author
+			
+		
+		
+			English
+		
+		journal article
+		
+			1954
+		
+		
+			
+				42
+				48
+			
+		
+		
+			9021.2.3.42-48
+		
+		blocked
+	
+	9021.2.2-3
+
+		P009021.2.2-3
+	
+	journal article	1	
+	

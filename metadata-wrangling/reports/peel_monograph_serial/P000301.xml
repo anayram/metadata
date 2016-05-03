@@ -1,0 +1,163 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@schemaLocation	http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	Monseigneur Provencher et les missions de la Rivière-Rouge		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA000334		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Dugas, Georges		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	1833-1928.		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart/@type	date		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/description	1833-1928. Born and educated in Quebec; ordained Catholic priest, 1862; to West as missionary, 1866; associated with Catholic education and the cathedral of Saint-Boniface, 1866-1887; during Red River Rebellion contributed anonymous articles to the French press of Quebec explaining the Métis point of view; returned to Quebec 1887; surname sometimes misspelled Dugast, even on title-pages (Morice, <i>Dictionnaire historique</i>; Wallace, <i>Dictionary of Canadian biography</i>).		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	Montreal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	C.O. Beauchemin & fils		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1889		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	French		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	331 p.; 18.5 cm.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			10	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	The Spiritual Life--Roman Catholic Church		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			10	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000420		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Biography		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			10	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000420		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Biographies		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			10	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003679		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name/namePart	Provencher, Joseph Norbert, 1787-1853		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			10	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	Other		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003832		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Red River Valley (Man.)--History		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			10	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	Other		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003885		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Religious orders		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			10	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003885		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Monasticism and religious orders		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			10	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003885		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Monachisme et ordres religieux		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			10	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	CanThes		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003974		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name/namePart	Roman Catholic Church--Clergy		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			10	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1853		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	809		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	1103		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel2		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	301		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	301		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel-procite-id		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P000301		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+    
+        Monseigneur Provencher et les missions de la Rivière-Rouge
+    
+    
+        Dugas, Georges
+        1833-1928.
+        
+            author
+        
+        1833-1928. Born and educated in Quebec; ordained Catholic priest, 1862; to West as missionary, 1866; associated with Catholic education and the cathedral of Saint-Boniface, 1866-1887; during Red River Rebellion contributed anonymous articles to the French press of Quebec explaining the Métis point of view; returned to Quebec 1887; surname sometimes misspelled Dugast, even on title-pages (Morice, <i>Dictionnaire historique</i>; Wallace, <i>Dictionary of Canadian biography</i>).
+    
+    text
+    
+        
+            Montreal
+        
+        C.O. Beauchemin & fils
+        1889
+    
+    
+        French
+    
+    
+        print
+        331 p.; 18.5 cm.
+    
+    
+        The Spiritual Life--Roman Catholic Church
+    
+    
+        Biography
+    
+    
+        Biographies
+    
+    
+        
+            Provencher, Joseph Norbert, 1787-1853
+        
+    
+    
+        Red River Valley (Man.)--History
+    
+    
+        Religious orders
+    
+    
+        Monasticism and religious orders
+    
+    
+        Monachisme et ordres religieux
+    
+    
+        
+            Roman Catholic Church--Clergy
+        
+    
+    
+        1853
+    
+    809
+    1103
+    301
+    301
+    
+        Peel's Prairie Portal
+        P000301
+        2003-01-01T12:00:00-0700
+    
+		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

@@ -1,0 +1,91 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+	/mods/@version	3.0		1	3.0
+	/mods/titleInfo			1	3.0
+	/mods/titleInfo/title	Natural gas in Alberta and British Columbia, and its development for the benefit of Canada		1	3.0
+	/mods/name			1	3.0
+	/mods/name/@ID	author.1		1	3.0
+	/mods/name/@type	corporate		1	3.0
+	/mods/name/namePart	Westcoast Transmission Company		1	3.0
+	/mods/typeOfResource	text		1	3.0
+	/mods/originInfo			1	3.0
+	/mods/originInfo/place			1	3.0
+	/mods/originInfo/place/placeTerm	Calgary		1	3.0
+	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+	/mods/originInfo/publisher	Westcoast Transmission Company		1	3.0
+	/mods/originInfo/dateIssued	1950		1	3.0
+	/mods/language			1	3.0
+	/mods/language/languageTerm	English		1	3.0
+	/mods/language/languageTerm/@type	text		1	3.0
+	/mods/physicalDescription			1	3.0
+	/mods/physicalDescription/form	print		1	3.0
+	/mods/physicalDescription/form/@authority	marcform		1	3.0
+	/mods/physicalDescription/extent	20 p. : ill. ; 28 cm.		1	3.0
+	/mods/note	brief		4	3.0
+	/mods/note/@type	local:catlevel		1	3.0
+	/mods/note	main		4	3.0
+	/mods/note/@type	local:frbr		1	3.0
+	/mods/note	Booklet presenting the benefits of constructing a pipeline to transport Alberta natural gas. Also published, rev. ed., Calgary: Westcoast Transmission Company, 1950.		4	3.0
+	/mods/note/@type	public		1	3.0
+	/mods/note	The company articulates similar arguments in an earlier publication. This booklet - <i>Natural gas for the people of northern Alberta and British Columbia to be provided by the pipeline system of Westcoast Transmission Company Limited</i>, [Calgary]: [Westcoast Transmission Company], [1949?] - is described separately in the bibliography.		4	3.0
+	/mods/note/@type	public		1	3.0
+	/mods/subject			1	3.0
+	/mods/relatedItem			2	3.0
+	/mods/relatedItem/@ID	t2		1	3.0
+	/mods/relatedItem/@displayLabel	Rev. ed.		1	3.0
+	/mods/relatedItem/@type	otherVersion		1	3.0
+	/mods/relatedItem/@href	N015572		1	3.0
+	/mods/relatedItem			2	3.0
+	/mods/relatedItem/@type	preceding		1	3.0
+	/mods/relatedItem/@href	N017989		1	3.0
+	/mods/identifier	N008822		2	3.0
+	/mods/identifier/@type	local:peel_new		1	3.0
+	/mods/identifier	9451		2	3.0
+	/mods/identifier/@type	local:peel3		1	3.0
+	/mods/recordInfo			1	3.0
+	/mods/recordInfo/recordContentSource	Peel's Prairie Provinces		2	3.0
+	/mods/recordInfo/recordContentSource	RC		2	3.0
+	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.0
+	/mods/recordInfo/recordCreationDate	2008-07-22T12:52:00-0600		1	3.0
+	/mods/recordInfo/recordIdentifier	P009451		1	3.0
+	/mods/recordInfo/recordChangeDate	2010-07-02T12:35:59-0600		1	3.0
+	/@mods	
+
+Natural gas in Alberta and British Columbia, and its development for the benefit of Canada
+
+
+Westcoast Transmission Company
+
+text
+
+
+Calgary
+
+Westcoast Transmission Company
+1950
+
+
+English
+
+
+print
+20 p. : ill. ; 28 cm.
+
+brief
+main
+Booklet presenting the benefits of constructing a pipeline to transport Alberta natural gas. Also published, rev. ed., Calgary: Westcoast Transmission Company, 1950.
+The company articulates similar arguments in an earlier publication. This booklet - <i>Natural gas for the people of northern Alberta and British Columbia to be provided by the pipeline system of Westcoast Transmission Company Limited</i>, [Calgary]: [Westcoast Transmission Company], [1949?] - is described separately in the bibliography.
+
+
+
+N008822
+9451
+
+Peel's Prairie Provinces
+RC
+2008-07-22T12:52:00-0600
+P009451
+2010-07-02T12:35:59-0600
+
+		1	3.0
+	

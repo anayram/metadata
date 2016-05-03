@@ -1,0 +1,146 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		bstearns	PC006549	postcards	1	3.2
+	/mods/@version	3.2	bstearns	PC006549	postcards	1	3.2
+	/mods/titleInfo		bstearns	PC006549	postcards	1	3.2
+	/mods/titleInfo/@lang	english	bstearns	PC006549	postcards	1	3.2
+	/mods/titleInfo/title	Norwood Public School, Edmonton, Alta.	bstearns	PC006549	postcards	1	3.2
+	/mods/name		bstearns	PC006549	postcards	1	3.2
+	/mods/name/@type	personal	bstearns	PC006549	postcards	1	3.2
+	/mods/name/namePart	Smith	bstearns	PC006549	postcards	2	3.2
+	/mods/name/namePart/@type	family	bstearns	PC006549	postcards	1	3.2
+	/mods/name/namePart	A.C.	bstearns	PC006549	postcards	2	3.2
+	/mods/name/namePart/@type	given	bstearns	PC006549	postcards	1	3.2
+	/mods/name/role		bstearns	PC006549	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	bstearns	PC006549	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	bstearns	PC006549	postcards	1	3.2
+	/mods/typeOfResource	still image	bstearns	PC006549	postcards	1	3.2
+	/mods/genre	postcards	bstearns	PC006549	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	bstearns	PC006549	postcards	1	3.2
+	/mods/originInfo		bstearns	PC006549	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	bstearns	PC006549	postcards	1	3.2
+	/mods/originInfo/publisher	A.C. Smith, 744 First St., Edmonton, Alta.	bstearns	PC006549	postcards	1	3.2
+	/mods/originInfo/dateIssued	after 1930	bstearns	PC006549	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	inferred	bstearns	PC006549	postcards	1	3.2
+	/mods/originInfo/place		bstearns	PC006549	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	Edmonton	bstearns	PC006549	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	bstearns	PC006549	postcards	1	3.2
+	/mods/language		bstearns	PC006549	postcards	1	3.2
+	/mods/language/languageTerm	English	bstearns	PC006549	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	bstearns	PC006549	postcards	1	3.2
+	/mods/physicalDescription		bstearns	PC006549	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : b&w ; 9 x 14 cm.	bstearns	PC006549	postcards	1	3.2
+	/mods/note	40	bstearns	PC006549	postcards	6	3.2
+	/mods/note/@type	price	bstearns	PC006549	postcards	1	3.2
+	/mods/note	false	bstearns	PC006549	postcards	6	3.2
+	/mods/note/@type	notable	bstearns	PC006549	postcards	1	3.2
+	/mods/note	false	bstearns	PC006549	postcards	6	3.2
+	/mods/note/@type	imgprobs	bstearns	PC006549	postcards	1	3.2
+	/mods/note	Exterior view of the Norwood Public School and grounds in Edmonton, Alberta.	bstearns	PC006549	postcards	6	3.2
+	/mods/note/@type	public_description	bstearns	PC006549	postcards	1	3.2
+	/mods/note	Printed in Britain	bstearns	PC006549	postcards	6	3.2
+	/mods/note/@type	public_on_back	bstearns	PC006549	postcards	1	3.2
+	/mods/note	[Printer's no.] 964/8	bstearns	PC006549	postcards	6	3.2
+	/mods/note/@type	public_on_front	bstearns	PC006549	postcards	1	3.2
+	/mods/subject		bstearns	PC006549	postcards	5	3.2
+	/mods/subject/geographic	Edmonton, AB	bstearns	PC006549	postcards	1	3.2
+	/mods/subject		bstearns	PC006549	postcards	5	3.2
+	/mods/subject/hierarchicalGeographic		bstearns	PC006549	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	bstearns	PC006549	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	bstearns	PC006549	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Edmonton	bstearns	PC006549	postcards	1	3.2
+	/mods/subject		bstearns	PC006549	postcards	5	3.2
+	/mods/subject/genre	Postcards	bstearns	PC006549	postcards	1	3.2
+	/mods/subject		bstearns	PC006549	postcards	5	3.2
+	/mods/subject/topic	Public schools	bstearns	PC006549	postcards	1	3.2
+	/mods/subject		bstearns	PC006549	postcards	5	3.2
+	/mods/subject/name		bstearns	PC006549	postcards	1	3.2
+	/mods/subject/name/@type	corporate	bstearns	PC006549	postcards	1	3.2
+	/mods/subject/name/namePart	Norwood School (Edmonton, Alta.)	bstearns	PC006549	postcards	1	3.2
+	/mods/identifier	PC006549	bstearns	PC006549	postcards	1	3.2
+	/mods/identifier/@type	local	bstearns	PC006549	postcards	1	3.2
+	/mods/location		bstearns	PC006549	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 8	bstearns	PC006549	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC006549.html	bstearns	PC006549	postcards	3	3.2
+	/mods/location/url/@access	object in context	bstearns	PC006549	postcards	1	3.2
+	/mods/location/url/@usage	primary display	bstearns	PC006549	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/006/web/PC006549.jpg	bstearns	PC006549	postcards	3	3.2
+	/mods/location/url/@access	raw object	bstearns	PC006549	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='509' 	bstearns	PC006549	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/006/thumbs/PC006549.jpg	bstearns	PC006549	postcards	3	3.2
+	/mods/location/url/@access	preview	bstearns	PC006549	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='127'	bstearns	PC006549	postcards	1	3.2
+	/mods/recordInfo		bstearns	PC006549	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	bstearns	PC006549	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC006549	bstearns	PC006549	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	bstearns	bstearns	PC006549	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2009-10-30T13:24:23-0700	bstearns	PC006549	postcards	1	3.2
+	/@mods	
+
+Norwood Public School, Edmonton, Alta.
+
+
+Smith
+A.C.
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+A.C. Smith, 744 First St., Edmonton, Alta.
+after 1930
+
+
+Edmonton
+
+
+
+English
+
+
+1 postcard : b&w ; 9 x 14 cm.
+
+40
+false
+false
+Exterior view of the Norwood Public School and grounds in Edmonton, Alberta.
+Printed in Britain
+[Printer's no.] 964/8
+
+Edmonton, AB
+
+
+
+Canada
+Alberta
+Edmonton
+
+
+
+Postcards
+
+
+Public schools
+
+
+
+Norwood School (Edmonton, Alta.)
+
+
+PC006549
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 8
+http://peel.library.ualberta.ca/postcards/PC006549.html
+http://peel.library.ualberta.ca/pcimages/PC/006/web/PC006549.jpg
+http://peel.library.ualberta.ca/pcimages/PC/006/thumbs/PC006549.jpg
+
+
+2007-06-25T16:49:56-0600
+PC006549
+bstearns
+2009-10-30T13:24:23-0700
+
+	bstearns	PC006549	postcards	1	3.2
+	

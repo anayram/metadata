@@ -1,0 +1,171 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@schemaLocation	http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	My Canadian memories		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA002028		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	MacNaughtan, Sarah Broom		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	d.1916.		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart/@type	date		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/description	d.1916. Writer of novels, first published in 1898, and war memoirs; visited Canada from England shortly before First World War; nurse in Antwerp during early days of the war; volunteered for ambulance service in Russia; en route to Russia from Persia contracted an illness from which she died (<i>Who was who</i>, 1916-1928).		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.2		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA002029		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Home, Beatrice		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	editor		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	London		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	Chapman & Hall		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1920		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	English		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	vii, 247, [1] p., port.; 23 cm.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	Also published, New York: E.P. Dutton, 1921 (vii, 247p.). Contents: "On board the C.P.R."; "From Toronto to Montreal"; "Concerning Quebec"; "Story of the C.P.R."; "Lord Strathcona: A sketch"; "Sir William Van Horne"; "Story of the Canadian Northern"; "Sir William Mackenzie"; "Sir Donald Mann"; "Colonel Davidson"; "Shipping"; "Reciprocity"; "The Royal North-West Mounted Police." These sketches were based on a visit to Canada, just before the First World War, and were published posthumously. 		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	public		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			10	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Communications--Other Railways		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			10	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000420		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Biography		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			10	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000420		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Biographies		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			10	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000535		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Travelers--Great Britain		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			10	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000535		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Voyageurs--Grande-Bretagne		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			10	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	Other		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000665		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Canada--Description and travel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			10	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	Other		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000719		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Canada--Transportation		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			10	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003756		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Railroads--History		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			10	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003756		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Chemins de fer--Histoire		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			10	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1914		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	2724		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel2		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	4041		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	4036		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel-procite-id		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P004041		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+    
+        My Canadian memories
+    
+    
+        MacNaughtan, Sarah Broom
+        d.1916.
+        
+            author
+        
+        d.1916. Writer of novels, first published in 1898, and war memoirs; visited Canada from England shortly before First World War; nurse in Antwerp during early days of the war; volunteered for ambulance service in Russia; en route to Russia from Persia contracted an illness from which she died (<i>Who was who</i>, 1916-1928).
+    
+    
+        Home, Beatrice
+        
+            editor
+        
+    
+    text
+    
+        
+            London
+        
+        Chapman & Hall
+        1920
+    
+    
+        English
+    
+    
+        print
+        vii, 247, [1] p., port.; 23 cm.
+    
+    Also published, New York: E.P. Dutton, 1921 (vii, 247p.). Contents: "On board the C.P.R."; "From Toronto to Montreal"; "Concerning Quebec"; "Story of the C.P.R."; "Lord Strathcona: A sketch"; "Sir William Van Horne"; "Story of the Canadian Northern"; "Sir William Mackenzie"; "Sir Donald Mann"; "Colonel Davidson"; "Shipping"; "Reciprocity"; "The Royal North-West Mounted Police." These sketches were based on a visit to Canada, just before the First World War, and were published posthumously. 
+    
+        Communications--Other Railways
+    
+    
+        Biography
+    
+    
+        Biographies
+    
+    
+        Travelers--Great Britain
+    
+    
+        Voyageurs--Grande-Bretagne
+    
+    
+        Canada--Description and travel
+    
+    
+        Canada--Transportation
+    
+    
+        Railroads--History
+    
+    
+        Chemins de fer--Histoire
+    
+    
+        1914
+    
+    2724
+    4041
+    4036
+    
+        Peel's Prairie Portal
+        P004041
+        2003-01-01T12:00:00-0700
+    
+		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

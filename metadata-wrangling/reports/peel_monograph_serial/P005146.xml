@@ -1,0 +1,180 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@schemaLocation	http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	Canada		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA004065		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	corporate		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Canadian Pacific Railway		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	[Copenhagen, Denmark]		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	[Triers]		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1927		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued/@qualifier	inferred		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	Danish		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	72 p., illus.; 21.5 cm.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	Text in double columns, with each column numbered. Cover illustration of a farmer with a pitchfork in front of a prosperous prairie town. 		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	public		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			13	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Settling the West--Immigration Literature		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			13	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	Other		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000665		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Canada--Description and travel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			13	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS001395		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Farms		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			13	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS001395		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Exploitations agricoles		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			13	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002010		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Emigration and immigration		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			13	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002010		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Émigration et immigration		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			13	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	Other		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003747		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Railroad land		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			13	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003747		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Railroad land grants		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			13	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003747		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Concessions ferroviaires		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			13	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	Other		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS004154		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Scandinavians in Canada		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			13	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS004154		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Scandinavians--Canada		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			13	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS004154		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Scandinaves--Canada		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			13	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1927		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	3008		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel2		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	3066		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel2		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	5146		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	5140		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel-procite-id		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P005146		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+    
+        Canada
+    
+    
+        Canadian Pacific Railway
+        
+            author
+        
+    
+    text
+    
+        
+            [Copenhagen, Denmark]
+        
+        [Triers]
+        1927
+    
+    
+        Danish
+    
+    
+        print
+        72 p., illus.; 21.5 cm.
+    
+    Text in double columns, with each column numbered. Cover illustration of a farmer with a pitchfork in front of a prosperous prairie town. 
+    
+        Settling the West--Immigration Literature
+    
+    
+        Canada--Description and travel
+    
+    
+        Farms
+    
+    
+        Exploitations agricoles
+    
+    
+        Emigration and immigration
+    
+    
+        Émigration et immigration
+    
+    
+        Railroad land
+    
+    
+        Railroad land grants
+    
+    
+        Concessions ferroviaires
+    
+    
+        Scandinavians in Canada
+    
+    
+        Scandinavians--Canada
+    
+    
+        Scandinaves--Canada
+    
+    
+        1927
+    
+    3008
+    3066
+    5146
+    5140
+    
+        Peel's Prairie Portal
+        P005146
+        2003-01-01T12:00:00-0700
+    
+		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

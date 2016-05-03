@@ -1,0 +1,158 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		fsalehi	PC007746	postcards	1	3.2
+	/mods/@version	3.2	fsalehi	PC007746	postcards	1	3.2
+	/mods/titleInfo		fsalehi	PC007746	postcards	1	3.2
+	/mods/titleInfo/@lang	english	fsalehi	PC007746	postcards	1	3.2
+	/mods/titleInfo/title	Head of waters N. Fork River, Mt. Saskatchewan Glacier and Columbia Icefield.	fsalehi	PC007746	postcards	1	3.2
+	/mods/name		fsalehi	PC007746	postcards	1	3.2
+	/mods/name/@type	corporate	fsalehi	PC007746	postcards	1	3.2
+	/mods/name/namePart	Photogelatine Engraving Co. Limited	fsalehi	PC007746	postcards	1	3.2
+	/mods/name/role		fsalehi	PC007746	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	fsalehi	PC007746	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC007746	postcards	1	3.2
+	/mods/typeOfResource	still image	fsalehi	PC007746	postcards	1	3.2
+	/mods/genre	postcards	fsalehi	PC007746	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	fsalehi	PC007746	postcards	1	3.2
+	/mods/originInfo		fsalehi	PC007746	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	fsalehi	PC007746	postcards	1	3.2
+	/mods/originInfo/publisher	Photogelatine Engraving Co. Limited, Ottawa	fsalehi	PC007746	postcards	1	3.2
+	/mods/originInfo/dateIssued	ca. 1940	fsalehi	PC007746	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	approximate	fsalehi	PC007746	postcards	1	3.2
+	/mods/originInfo/place		fsalehi	PC007746	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	Ottawa	fsalehi	PC007746	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC007746	postcards	1	3.2
+	/mods/language		fsalehi	PC007746	postcards	1	3.2
+	/mods/language/languageTerm	English	fsalehi	PC007746	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	fsalehi	PC007746	postcards	1	3.2
+	/mods/physicalDescription		fsalehi	PC007746	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : col. ; 9 x 14 cm.	fsalehi	PC007746	postcards	1	3.2
+	/mods/note	4	fsalehi	PC007746	postcards	5	3.2
+	/mods/note/@type	price	fsalehi	PC007746	postcards	1	3.2
+	/mods/note	false	fsalehi	PC007746	postcards	5	3.2
+	/mods/note/@type	notable	fsalehi	PC007746	postcards	1	3.2
+	/mods/note	false	fsalehi	PC007746	postcards	5	3.2
+	/mods/note/@type	imgprobs	fsalehi	PC007746	postcards	1	3.2
+	/mods/note	[printer's no.] J.N.P. 37	fsalehi	PC007746	postcards	5	3.2
+	/mods/note/@type	public_on_front	fsalehi	PC007746	postcards	1	3.2
+	/mods/note	Mount Saskatchewan, located in the North Saskatchewan River Valley, north of Terrace Creek and the Alexandra River Valley, Banff National Park, Alberta. Named by J. Norman Collie in 1898. The name is taken from the Saskatchewan River whose headwaters is nearby.	fsalehi	PC007746	postcards	5	3.2
+	/mods/note/@type	public_description	fsalehi	PC007746	postcards	1	3.2
+	/mods/subject		fsalehi	PC007746	postcards	8	3.2
+	/mods/subject/geographic	Columbia Icefield, AB	fsalehi	PC007746	postcards	1	3.2
+	/mods/subject		fsalehi	PC007746	postcards	8	3.2
+	/mods/subject/hierarchicalGeographic		fsalehi	PC007746	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	fsalehi	PC007746	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	fsalehi	PC007746	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city		fsalehi	PC007746	postcards	1	3.2
+	/mods/subject		fsalehi	PC007746	postcards	8	3.2
+	/mods/subject/genre	Postcards	fsalehi	PC007746	postcards	1	3.2
+	/mods/subject		fsalehi	PC007746	postcards	8	3.2
+	/mods/subject/topic	Mountains	fsalehi	PC007746	postcards	1	3.2
+	/mods/subject		fsalehi	PC007746	postcards	8	3.2
+	/mods/subject/topic	Rivers	fsalehi	PC007746	postcards	1	3.2
+	/mods/subject		fsalehi	PC007746	postcards	8	3.2
+	/mods/subject/topic	Forests	fsalehi	PC007746	postcards	1	3.2
+	/mods/subject		fsalehi	PC007746	postcards	8	3.2
+	/mods/subject/name		fsalehi	PC007746	postcards	1	3.2
+	/mods/subject/name/namePart	Jasper National Park (Alta.)	fsalehi	PC007746	postcards	1	3.2
+	/mods/subject		fsalehi	PC007746	postcards	8	3.2
+	/mods/subject/name		fsalehi	PC007746	postcards	1	3.2
+	/mods/subject/name/namePart	Mount Saskatchewan (Alta.)	fsalehi	PC007746	postcards	1	3.2
+	/mods/identifier	PC007746	fsalehi	PC007746	postcards	1	3.2
+	/mods/identifier/@type	local	fsalehi	PC007746	postcards	1	3.2
+	/mods/location		fsalehi	PC007746	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 11	fsalehi	PC007746	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC007746.html	fsalehi	PC007746	postcards	3	3.2
+	/mods/location/url/@access	object in context	fsalehi	PC007746	postcards	1	3.2
+	/mods/location/url/@usage	primary display	fsalehi	PC007746	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/007/web/PC007746.jpg	fsalehi	PC007746	postcards	3	3.2
+	/mods/location/url/@access	raw object	fsalehi	PC007746	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='525' 	fsalehi	PC007746	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/007/thumbs/PC007746.jpg	fsalehi	PC007746	postcards	3	3.2
+	/mods/location/url/@access	preview	fsalehi	PC007746	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='131'	fsalehi	PC007746	postcards	1	3.2
+	/mods/recordInfo		fsalehi	PC007746	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	fsalehi	PC007746	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC007746	fsalehi	PC007746	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	fsalehi	fsalehi	PC007746	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2009-05-29T10:51:31-0600	fsalehi	PC007746	postcards	1	3.2
+	/@mods	
+
+Head of waters N. Fork River, Mt. Saskatchewan Glacier and Columbia Icefield.
+
+
+Photogelatine Engraving Co. Limited
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+Photogelatine Engraving Co. Limited, Ottawa
+ca. 1940
+
+
+Ottawa
+
+
+
+English
+
+
+1 postcard : col. ; 9 x 14 cm.
+
+4
+false
+false
+[printer's no.] J.N.P. 37
+Mount Saskatchewan, located in the North Saskatchewan River Valley, north of Terrace Creek and the Alexandra River Valley, Banff National Park, Alberta. Named by J. Norman Collie in 1898. The name is taken from the Saskatchewan River whose headwaters is nearby.
+
+Columbia Icefield, AB
+
+
+
+Canada
+Alberta
+
+
+
+
+Postcards
+
+
+Mountains
+
+
+Rivers
+
+
+Forests
+
+
+
+Jasper National Park (Alta.)
+
+
+
+
+Mount Saskatchewan (Alta.)
+
+
+PC007746
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 11
+http://peel.library.ualberta.ca/postcards/PC007746.html
+http://peel.library.ualberta.ca/pcimages/PC/007/web/PC007746.jpg
+http://peel.library.ualberta.ca/pcimages/PC/007/thumbs/PC007746.jpg
+
+
+
+
+2007-06-25T16:49:56-0600
+PC007746
+fsalehi
+2009-05-29T10:51:31-0600
+
+	fsalehi	PC007746	postcards	1	3.2
+	

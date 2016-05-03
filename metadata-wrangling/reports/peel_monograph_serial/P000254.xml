@@ -1,0 +1,167 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@schemaLocation	http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	Wanderungen eines Künstlers unter den Indianern Nordamerika's von Canada nach der Vancouver's-Insel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/subTitle	und nach Oregon durch das Gebiet der Hudson's-Bay-Gesellschaft und zurück		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA001031		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Kane, Paul		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	1810-1871.		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart/@type	date		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/description	1810-1871. Born in Ireland; to British North America with family, 1819; studied art in USA, France, and Italy; returned to Canada, 1845; painter of Native life in the Northwest (Wallace, <i>Dictionary of Canadian biography</i>).		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.2		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA001047		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Hauthal, Luise Velthusen		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	translator		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	Leipzig		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	H. Matthes		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1862		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	German		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	xii, 225 p., illus.; 22 cm.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	Also published, edition limited to 425 copies of which 400 numbered, [Königstein, Germany]: Verlag für Amerikanistik, 1992 (xii, 224p.). For the English version  <i>see </i>Peel <xref>253</xref>. 		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	public		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			9	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000270		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Artists		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			9	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000270		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Artistes		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			9	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002052		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Indian art--North America		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			9	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002052		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Art indien d'Amérique--Amérique du Nord		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			9	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	Other		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002350		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name/namePart	Kane, Paul, 1810-1871		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			9	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003377		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Painting		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			9	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003377		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Peinture		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			9	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003554		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Prairie Provinces--Description and travel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			9	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1848		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	254		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	254		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel-procite-id		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P000254		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+    
+        Wanderungen eines Künstlers unter den Indianern Nordamerika's von Canada nach der Vancouver's-Insel
+        und nach Oregon durch das Gebiet der Hudson's-Bay-Gesellschaft und zurück
+    
+    
+        Kane, Paul
+        1810-1871.
+        
+            author
+        
+        1810-1871. Born in Ireland; to British North America with family, 1819; studied art in USA, France, and Italy; returned to Canada, 1845; painter of Native life in the Northwest (Wallace, <i>Dictionary of Canadian biography</i>).
+    
+    
+        Hauthal, Luise Velthusen
+        
+            translator
+        
+    
+    text
+    
+        
+            Leipzig
+        
+        H. Matthes
+        1862
+    
+    
+        German
+    
+    
+        print
+        xii, 225 p., illus.; 22 cm.
+    
+    Also published, edition limited to 425 copies of which 400 numbered, [Königstein, Germany]: Verlag für Amerikanistik, 1992 (xii, 224p.). For the English version  <i>see </i>Peel <xref>253</xref>. 
+    
+        Artists
+    
+    
+        Artistes
+    
+    
+        Indian art--North America
+    
+    
+        Art indien d'Amérique--Amérique du Nord
+    
+    
+        
+            Kane, Paul, 1810-1871
+        
+    
+    
+        Painting
+    
+    
+        Peinture
+    
+    
+        Prairie Provinces--Description and travel
+    
+    
+        1848
+    
+    254
+    254
+    
+        Peel's Prairie Portal
+        P000254
+        2003-01-01T12:00:00-0700
+    
+		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

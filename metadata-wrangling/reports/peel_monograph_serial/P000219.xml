@@ -1,0 +1,162 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@schemaLocation	http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	Magnetical and meteorological observations at Lake Athabasca and Fort Simpson by J.H. Lefroy and at Fort Confidence in Great Bear Lake by John Richardson		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA000815		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Lefroy, John Henry (Sir)		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	1817-1890.		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart/@type	date		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/description	1817-1890. English military officer and scientist; conducted magnetic survey of Canada, from Lachine to Fort Simpson, 1843-1844, which established his reputation as a geographer; in charge of magnetic observatory in Toronto, 1844-1853; elected Fellow of the Royal Society, 1848, and Fellow of Royal Geographical Society, 1853; returned to England (<i>Dictionary of National Biography</i>).		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.2		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA000429		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Richardson, John (Sir)		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	1787-1865.		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart/@type	date		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/description	1787-1865. Accompanied Sir John Franklin on Arctic journeys of 1819-1822 and 1825-1827; in command of a search party for Franklin, 1848-1849 (Wallace, <i>Dictionary of Canadian biography</i>).		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA000827		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Younghusband, Charles Wright		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	1821-1899.		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart/@type	date		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/description	1821-1899.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	London		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	Published for Her Majesty's Stationery Office by Longman, Brown, Green, and Longmans		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1855		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	English		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	xiv, [2], [3]-391, [1] p., plans, fold. diagrams.; 26 cm.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	"Sir John Richardson's Magnetical observations educed and discussed by Captain Younghusband" on pages 289-323. 		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	public		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003191		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Northwest Passage--Description and travel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS004181		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Scientists		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS004181		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Scientifiques		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS004422		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Surveys		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS004422		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Levés		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1844		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	219		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	219		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel-procite-id		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P000219		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+    
+        Magnetical and meteorological observations at Lake Athabasca and Fort Simpson by J.H. Lefroy and at Fort Confidence in Great Bear Lake by John Richardson
+    
+    
+        Lefroy, John Henry (Sir)
+        1817-1890.
+        
+            author
+        
+        1817-1890. English military officer and scientist; conducted magnetic survey of Canada, from Lachine to Fort Simpson, 1843-1844, which established his reputation as a geographer; in charge of magnetic observatory in Toronto, 1844-1853; elected Fellow of the Royal Society, 1848, and Fellow of Royal Geographical Society, 1853; returned to England (<i>Dictionary of National Biography</i>).
+    
+    
+        Richardson, John (Sir)
+        1787-1865.
+        
+            author
+        
+        1787-1865. Accompanied Sir John Franklin on Arctic journeys of 1819-1822 and 1825-1827; in command of a search party for Franklin, 1848-1849 (Wallace, <i>Dictionary of Canadian biography</i>).
+    
+    
+        Younghusband, Charles Wright
+        1821-1899.
+        
+            author
+        
+        1821-1899.
+    
+    text
+    
+        
+            London
+        
+        Published for Her Majesty's Stationery Office by Longman, Brown, Green, and Longmans
+        1855
+    
+    
+        English
+    
+    
+        print
+        xiv, [2], [3]-391, [1] p., plans, fold. diagrams.; 26 cm.
+    
+    "Sir John Richardson's Magnetical observations educed and discussed by Captain Younghusband" on pages 289-323. 
+    
+        Northwest Passage--Description and travel
+    
+    
+        Scientists
+    
+    
+        Scientifiques
+    
+    
+        Surveys
+    
+    
+        Levés
+    
+    
+        1844
+    
+    219
+    219
+    
+        Peel's Prairie Portal
+        P000219
+        2003-01-01T12:00:00-0700
+    
+		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

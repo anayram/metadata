@@ -1,0 +1,157 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@schemaLocation	http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/nonSort	The 		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	Indians of western Canada		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA000822		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Baird, Andrew Browning		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	1855-1940.		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart/@type	date		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/description	1855-1940. Born in Ontario; Presbyterian minister in Edmonton, 1881-1887; for many years lectured at Manitoba College; first minister at Augustine Church, Winnipeg, 1887-1892 (<i>Canadian who's who</i>, 1936-1937).		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	Toronto		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	Press of the Canada Presbyterian		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1895		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	English		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	30 p., port.; 18 cm.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	At head of title: "Foreign missions of the Presbyterian Church in Canada." Contains lists (name, date of appointment, location; retired or died), history and description of Presbyterian mission efforts in the region, and biographical sketches of some of the Presbyterian missionaries. Includes portrait of Chief Pasquah. 		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	public		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			10	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	The People--Natives		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			10	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	The Spiritual Life--Presbyterian Church		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			10	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000420		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Biography		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			10	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000420		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Biographies		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			10	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002137		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Indians of North America--Missions		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			10	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002137		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Indiens d'Amérique--Amérique du Nord--Missions		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			10	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	Other		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003558		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Prairie Provinces--Ethnic groups		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			10	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003616		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Presbyterian Church--Missions--Canada		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			10	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003616		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Église presbytérienne--Missions--Canada		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			10	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1895		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	1388		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel2		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	2182		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	2180		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel-procite-id		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P002182		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+    
+        The 
+        Indians of western Canada
+    
+    
+        Baird, Andrew Browning
+        1855-1940.
+        
+            author
+        
+        1855-1940. Born in Ontario; Presbyterian minister in Edmonton, 1881-1887; for many years lectured at Manitoba College; first minister at Augustine Church, Winnipeg, 1887-1892 (<i>Canadian who's who</i>, 1936-1937).
+    
+    text
+    
+        
+            Toronto
+        
+        Press of the Canada Presbyterian
+        1895
+    
+    
+        English
+    
+    
+        print
+        30 p., port.; 18 cm.
+    
+    At head of title: "Foreign missions of the Presbyterian Church in Canada." Contains lists (name, date of appointment, location; retired or died), history and description of Presbyterian mission efforts in the region, and biographical sketches of some of the Presbyterian missionaries. Includes portrait of Chief Pasquah. 
+    
+        The People--Natives
+    
+    
+        The Spiritual Life--Presbyterian Church
+    
+    
+        Biography
+    
+    
+        Biographies
+    
+    
+        Indians of North America--Missions
+    
+    
+        Indiens d'Amérique--Amérique du Nord--Missions
+    
+    
+        Prairie Provinces--Ethnic groups
+    
+    
+        Presbyterian Church--Missions--Canada
+    
+    
+        Église presbytérienne--Missions--Canada
+    
+    
+        1895
+    
+    1388
+    2182
+    2180
+    
+        Peel's Prairie Portal
+        P002182
+        2003-01-01T12:00:00-0700
+    
+		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

@@ -1,0 +1,743 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		tkitagawa	PC001684	postcards	1	3.2
+	/mods/@version	3.2	tkitagawa	PC001684	postcards	1	3.2
+	/mods/titleInfo		tkitagawa	PC001684	postcards	1	3.2
+	/mods/titleInfo/@lang	english	tkitagawa	PC001684	postcards	1	3.2
+	/mods/titleInfo/title	Souvenir of Virden, Man.	tkitagawa	PC001684	postcards	1	3.2
+	/mods/name		tkitagawa	PC001684	postcards	1	3.2
+	/mods/name/@type	corporate	tkitagawa	PC001684	postcards	1	3.2
+	/mods/name/namePart	Novelty Mfg & Art Ptg Co., Montreal	tkitagawa	PC001684	postcards	1	3.2
+	/mods/name/role		tkitagawa	PC001684	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	tkitagawa	PC001684	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	tkitagawa	PC001684	postcards	1	3.2
+	/mods/typeOfResource	still image	tkitagawa	PC001684	postcards	1	3.2
+	/mods/genre	postcards	tkitagawa	PC001684	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	tkitagawa	PC001684	postcards	1	3.2
+	/mods/originInfo		tkitagawa	PC001684	postcards	1	3.2
+	/mods/originInfo/publisher	Novelty Manufacturing & Art Printing Co., Montreal.	tkitagawa	PC001684	postcards	1	3.2
+	/mods/originInfo/dateIssued	1913	tkitagawa	PC001684	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	inferred	tkitagawa	PC001684	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	tkitagawa	PC001684	postcards	1	3.2
+	/mods/originInfo/place		tkitagawa	PC001684	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	Montreal	tkitagawa	PC001684	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	tkitagawa	PC001684	postcards	1	3.2
+	/mods/language		tkitagawa	PC001684	postcards	1	3.2
+	/mods/language/languageTerm	English	tkitagawa	PC001684	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	tkitagawa	PC001684	postcards	1	3.2
+	/mods/physicalDescription		tkitagawa	PC001684	postcards	1	3.2
+	/mods/physicalDescription/form		tkitagawa	PC001684	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard booklet	tkitagawa	PC001684	postcards	1	3.2
+	/mods/note	120	tkitagawa	PC001684	postcards	4	3.2
+	/mods/note/@type	price	tkitagawa	PC001684	postcards	1	3.2
+	/mods/note	false	tkitagawa	PC001684	postcards	4	3.2
+	/mods/note/@type	notable	tkitagawa	PC001684	postcards	1	3.2
+	/mods/note	false	tkitagawa	PC001684	postcards	4	3.2
+	/mods/note/@type	imgprobs	tkitagawa	PC001684	postcards	1	3.2
+	/mods/note	A booklet of 10 postcards of Virden with the following captions: the Seventh Ave.; Public School; Virden Hospital; C.P.R. Station; English Church; Central Hotel and Alexandra Hotel; Virden Collegiate; Nelson St.; Presbyterian Church; view of Nelson St.	tkitagawa	PC001684	postcards	4	3.2
+	/mods/note/@type	public_description	tkitagawa	PC001684	postcards	1	3.2
+	/mods/subject		tkitagawa	PC001684	postcards	4	3.2
+	/mods/subject/geographic	Virden, MB	tkitagawa	PC001684	postcards	1	3.2
+	/mods/subject		tkitagawa	PC001684	postcards	4	3.2
+	/mods/subject/hierarchicalGeographic		tkitagawa	PC001684	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	tkitagawa	PC001684	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Manitoba	tkitagawa	PC001684	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Virden	tkitagawa	PC001684	postcards	1	3.2
+	/mods/subject		tkitagawa	PC001684	postcards	4	3.2
+	/mods/subject/topic	Cities & towns	tkitagawa	PC001684	postcards	1	3.2
+	/mods/subject		tkitagawa	PC001684	postcards	4	3.2
+	/mods/subject/topic	Viewbooks	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem		tkitagawa	PC001684	postcards	14	3.2
+	/mods/relatedItem/@ID	0	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/@type	constituent	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/titleInfo		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/titleInfo/title	Souvenir of Virden, Man.	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/name		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/name/@type	corporate	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/name/namePart	Novelty Manufacturing & Art Printing Co.	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/name/role		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/name/role/roleTerm	Publisher	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/name/role/roleTerm/@type	text	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/originInfo		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/originInfo/place		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/originInfo/place/placeTerm	Montreal	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/originInfo/place/placeTerm/@type	text	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/originInfo/publisher	Novelty Manufacturing & Art Printing Co., Montreal.	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/originInfo/dateIssued	1913	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/originInfo/dateIssued/@qualifier	inferred	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/physicalDescription		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/physicalDescription/form		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/physicalDescription/extent	1 postcard booklet	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/note	Novelty Mfg & Art Ptg Co., Montreal.	tkitagawa	PC001684	postcards	3	3.2
+	/mods/relatedItem/note/@type	public_on_front	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/note	[Written in ms.] H.S. Turner	tkitagawa	PC001684	postcards	3	3.2
+	/mods/relatedItem/note/@type	public_on_front	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/note	The cardboard cover from a booklet of 10 postcards of Virden.	tkitagawa	PC001684	postcards	3	3.2
+	/mods/relatedItem/note/@type	public_description	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC001684	postcards	3	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/country	Canada	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/province	Manitoba	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/city	Virden	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC001684	postcards	3	3.2
+	/mods/relatedItem/subject/topic	Cities & towns	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC001684	postcards	3	3.2
+	/mods/relatedItem/subject/topic	Viewbooks	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/physicalLocation		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/001/web/PC001684.jpg	tkitagawa	PC001684	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	raw object	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='800' height='497'	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/001/thumbs/PC001684.jpg	tkitagawa	PC001684	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	preview	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='200' height='124'	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem		tkitagawa	PC001684	postcards	14	3.2
+	/mods/relatedItem/@ID	1	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/@type	constituent	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/physicalLocation		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/001/web/PC001684.1.jpg	tkitagawa	PC001684	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	raw object	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='800' height='511'	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/001/thumbs/PC001684.1.jpg	tkitagawa	PC001684	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	preview	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='200' height='128'	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem		tkitagawa	PC001684	postcards	14	3.2
+	/mods/relatedItem/@ID	10	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/@type	constituent	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/titleInfo		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/titleInfo/title	Presbyterian church, Virden, Man.	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/name		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/name/@type	corporate	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/name/namePart	Novelty Manufacturing & Art Printing Co.	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/name/role		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/name/role/roleTerm	Publisher	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/name/role/roleTerm/@type	text	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/originInfo		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/originInfo/place		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/originInfo/place/placeTerm	Montreal	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/originInfo/place/placeTerm/@type	text	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/originInfo/publisher	Novelty Manufacturing & Art Printing Co., Montreal.	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/originInfo/dateIssued	1913	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/originInfo/dateIssued/@qualifier	inferred	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/physicalDescription		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/physicalDescription/form		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/physicalDescription/extent	1 postcard booklet	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/note	[printer's nos.] 1178 12310	tkitagawa	PC001684	postcards	2	3.2
+	/mods/relatedItem/note/@type	public_on_back	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/note	People in an automobile pass by the Presbyterian church in Virden.	tkitagawa	PC001684	postcards	2	3.2
+	/mods/relatedItem/note/@type	public_description	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC001684	postcards	4	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/country	Canada	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/province	Manitoba	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/city	Virden	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC001684	postcards	4	3.2
+	/mods/relatedItem/subject/topic	Presbyterian churches	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC001684	postcards	4	3.2
+	/mods/relatedItem/subject/topic	Automobiles	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC001684	postcards	4	3.2
+	/mods/relatedItem/subject/topic	Viewbooks	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/physicalLocation		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/001/web/PC001684.10.jpg	tkitagawa	PC001684	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	raw object	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='800' height='502'	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/001/thumbs/PC001684.10.jpg	tkitagawa	PC001684	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	preview	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='200' height='126'	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem		tkitagawa	PC001684	postcards	14	3.2
+	/mods/relatedItem/@ID	11	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/@type	constituent	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/titleInfo		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/titleInfo/title	View of Nelson St.  Virden, Man. showing Methodist church	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/name		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/name/@type	corporate	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/name/namePart	Novelty Manufacturing & Art Printing Co.	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/name/role		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/name/role/roleTerm	Publisher	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/name/role/roleTerm/@type	text	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/originInfo		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/originInfo/place		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/originInfo/place/placeTerm	Montreal	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/originInfo/place/placeTerm/@type	text	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/originInfo/publisher	Novelty Manufacturing & Art Printing Co., Montreal.	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/originInfo/dateIssued	1913	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/originInfo/dateIssued/@qualifier	inferred	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/physicalDescription		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/physicalDescription/form		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/physicalDescription/extent	1 postcard booklet	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/note	[printer's nos.] 1179 12311	tkitagawa	PC001684	postcards	2	3.2
+	/mods/relatedItem/note/@type	public_on_back	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/note	A view of the Methodist church in Virden.	tkitagawa	PC001684	postcards	2	3.2
+	/mods/relatedItem/note/@type	public_description	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC001684	postcards	3	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/country	Canada	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/province	Manitoba	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/city	Virden	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC001684	postcards	3	3.2
+	/mods/relatedItem/subject/topic	Methodist churches	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC001684	postcards	3	3.2
+	/mods/relatedItem/subject/topic	Viewbooks	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/physicalLocation		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/001/web/PC001684.11.jpg	tkitagawa	PC001684	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	raw object	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='800' height='503'	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/001/thumbs/PC001684.11.jpg	tkitagawa	PC001684	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	preview	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='200' height='126'	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem		tkitagawa	PC001684	postcards	14	3.2
+	/mods/relatedItem/@ID	12	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/@type	constituent	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/physicalLocation		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/001/web/PC001684.12.jpg	tkitagawa	PC001684	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	raw object	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='800' height='491'	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/001/thumbs/PC001684.12.jpg	tkitagawa	PC001684	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	preview	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='200' height='123'	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem		tkitagawa	PC001684	postcards	14	3.2
+	/mods/relatedItem/@ID	13	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/@type	constituent	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/physicalLocation		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/001/web/PC001684.13.jpg	tkitagawa	PC001684	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	raw object	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='800' height='484'	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/001/thumbs/PC001684.13.jpg	tkitagawa	PC001684	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	preview	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='200' height='121'	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem		tkitagawa	PC001684	postcards	14	3.2
+	/mods/relatedItem/@ID	2	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/@type	constituent	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/titleInfo		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/titleInfo/title	Seventh Ave., Virden, Man.	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/name		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/name/@type	corporate	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/name/namePart	Novelty Manufacturing & Art Printing Co.	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/name/role		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/name/role/roleTerm	Publisher	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/name/role/roleTerm/@type	text	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/originInfo		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/originInfo/place		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/originInfo/place/placeTerm	Montreal	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/originInfo/place/placeTerm/@type	text	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/originInfo/publisher	Novelty Manufacturing & Art Printing Co., Montreal.	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/originInfo/dateIssued	1913	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/originInfo/dateIssued/@qualifier	inferred	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/physicalDescription		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/physicalDescription/form		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/physicalDescription/extent	1 postcard booklet	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/note	[printer's nos.] 1175 12302	tkitagawa	PC001684	postcards	2	3.2
+	/mods/relatedItem/note/@type	public_on_back	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/note	People can be seen next to the commercial properties on both sides of this main street as well as in the middle of the road.	tkitagawa	PC001684	postcards	2	3.2
+	/mods/relatedItem/note/@type	public_description	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC001684	postcards	6	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/country	Canada	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/province	Manitoba	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/city	Virden	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC001684	postcards	6	3.2
+	/mods/relatedItem/subject/topic	City & town life	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC001684	postcards	6	3.2
+	/mods/relatedItem/subject/topic	Commercial streets	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC001684	postcards	6	3.2
+	/mods/relatedItem/subject/topic	Commercial properties	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC001684	postcards	6	3.2
+	/mods/relatedItem/subject/topic	Dirt roads	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC001684	postcards	6	3.2
+	/mods/relatedItem/subject/topic	Viewbooks	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/physicalLocation		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/001/web/PC001684.2.jpg	tkitagawa	PC001684	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	raw object	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='800' height='502'	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/001/thumbs/PC001684.2.jpg	tkitagawa	PC001684	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	preview	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='200' height='126'	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem		tkitagawa	PC001684	postcards	14	3.2
+	/mods/relatedItem/@ID	3	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/@type	constituent	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/titleInfo		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/titleInfo/title	Public school, Virden, Man.	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/name		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/name/@type	corporate	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/name/namePart	Novelty Manufacturing & Art Printing Co.	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/name/role		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/name/role/roleTerm	Publisher	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/name/role/roleTerm/@type	text	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/originInfo		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/originInfo/place		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/originInfo/place/placeTerm	Montreal	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/originInfo/place/placeTerm/@type	text	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/originInfo/publisher	Novelty Manufacturing & Art Printing Co., Montreal.	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/originInfo/dateIssued	1913	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/originInfo/dateIssued/@qualifier	inferred	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/physicalDescription		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/physicalDescription/form		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/physicalDescription/extent	1 postcard booklet	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/note	[printer's nos.] 1177 12303	tkitagawa	PC001684	postcards	2	3.2
+	/mods/relatedItem/note/@type	public_on_back	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/note	Teachers and students (who appear to be mostly boys) pose for a photograph in front of their school. Note what appear to be horse-drawn "schoolbuses".	tkitagawa	PC001684	postcards	2	3.2
+	/mods/relatedItem/note/@type	public_description	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC001684	postcards	6	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/country	Canada	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/province	Manitoba	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/city	Virden	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC001684	postcards	6	3.2
+	/mods/relatedItem/subject/topic	Schools	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC001684	postcards	6	3.2
+	/mods/relatedItem/subject/topic	School children	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC001684	postcards	6	3.2
+	/mods/relatedItem/subject/topic	Teachers	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC001684	postcards	6	3.2
+	/mods/relatedItem/subject/topic	Carriages & coaches	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/subject		tkitagawa	PC001684	postcards	6	3.2
+	/mods/relatedItem/subject/topic	Viewbooks	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/physicalLocation		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/001/web/PC001684.3.jpg	tkitagawa	PC001684	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	raw object	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='800' height='504'	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/001/thumbs/PC001684.3.jpg	tkitagawa	PC001684	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	preview	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='200' height='126'	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem		tkitagawa	PC001684	postcards	14	3.2
+	/mods/relatedItem/@ID	4	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/@type	constituent	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/physicalLocation		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/001/web/PC001684.4.jpg	tkitagawa	PC001684	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	raw object	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='800' height='498'	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/001/thumbs/PC001684.4.jpg	tkitagawa	PC001684	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	preview	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='200' height='125'	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem		tkitagawa	PC001684	postcards	14	3.2
+	/mods/relatedItem/@ID	5	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/@type	constituent	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/physicalLocation		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/001/web/PC001684.5.jpg	tkitagawa	PC001684	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	raw object	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='800' height='501'	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/001/thumbs/PC001684.5.jpg	tkitagawa	PC001684	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	preview	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='200' height='125'	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem		tkitagawa	PC001684	postcards	14	3.2
+	/mods/relatedItem/@ID	6	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/@type	constituent	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/physicalLocation		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/001/web/PC001684.6.jpg	tkitagawa	PC001684	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	raw object	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='800' height='482'	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/001/thumbs/PC001684.6.jpg	tkitagawa	PC001684	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	preview	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='200' height='121'	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem		tkitagawa	PC001684	postcards	14	3.2
+	/mods/relatedItem/@ID	7	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/@type	constituent	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/physicalLocation		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/001/web/PC001684.7.jpg	tkitagawa	PC001684	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	raw object	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='800' height='496'	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/001/thumbs/PC001684.7.jpg	tkitagawa	PC001684	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	preview	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='200' height='124'	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem		tkitagawa	PC001684	postcards	14	3.2
+	/mods/relatedItem/@ID	8	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/@type	constituent	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/physicalLocation		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/001/web/PC001684.8.jpg	tkitagawa	PC001684	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	raw object	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='800' height='503'	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/001/thumbs/PC001684.8.jpg	tkitagawa	PC001684	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	preview	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='200' height='126'	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem		tkitagawa	PC001684	postcards	14	3.2
+	/mods/relatedItem/@ID	9	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/@type	constituent	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/physicalLocation		tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/001/web/PC001684.9.jpg	tkitagawa	PC001684	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	raw object	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='800' height='502'	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/001/thumbs/PC001684.9.jpg	tkitagawa	PC001684	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	preview	tkitagawa	PC001684	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='200' height='126'	tkitagawa	PC001684	postcards	1	3.2
+	/mods/identifier	PC001684	tkitagawa	PC001684	postcards	1	3.2
+	/mods/identifier/@type	local	tkitagawa	PC001684	postcards	1	3.2
+	/mods/location		tkitagawa	PC001684	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 4	tkitagawa	PC001684	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC001684.html	tkitagawa	PC001684	postcards	1	3.2
+	/mods/location/url/@access	object in context	tkitagawa	PC001684	postcards	1	3.2
+	/mods/location/url/@usage	primary display	tkitagawa	PC001684	postcards	1	3.2
+	/mods/recordInfo		tkitagawa	PC001684	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	tkitagawa	tkitagawa	PC001684	postcards	2	3.2
+	/mods/recordInfo/recordContentSource	tkitagawa	tkitagawa	PC001684	postcards	2	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-20T16:05:12-0600	tkitagawa	PC001684	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC001684	tkitagawa	PC001684	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2010-06-25T10:23:57-0600	tkitagawa	PC001684	postcards	1	3.2
+	/@mods	
+
+Souvenir of Virden, Man.
+
+
+Novelty Mfg & Art Ptg Co., Montreal
+
+Publisher
+
+
+still image
+postcards
+
+
+Novelty Manufacturing & Art Printing Co., Montreal.
+1913
+monographic
+
+Montreal
+
+
+
+English
+
+
+
+1 postcard booklet
+
+120
+false
+false
+A booklet of 10 postcards of Virden with the following captions: the Seventh Ave.; Public School; Virden Hospital; C.P.R. Station; English Church; Central Hotel and Alexandra Hotel; Virden Collegiate; Nelson St.; Presbyterian Church; view of Nelson St.
+
+Virden, MB
+
+
+
+Canada
+Manitoba
+Virden
+
+
+
+Cities & towns
+
+
+Viewbooks
+
+
+
+Souvenir of Virden, Man.
+
+
+Novelty Manufacturing & Art Printing Co.
+
+Publisher
+
+
+
+
+Montreal
+
+Novelty Manufacturing & Art Printing Co., Montreal.
+1913
+
+
+
+1 postcard booklet
+
+Novelty Mfg & Art Ptg Co., Montreal.
+[Written in ms.] H.S. Turner
+The cardboard cover from a booklet of 10 postcards of Virden.
+
+
+Canada
+Manitoba
+Virden
+
+
+
+Cities & towns
+
+
+Viewbooks
+
+
+
+http://peel.library.ualberta.ca/pcimages/PC/001/web/PC001684.jpg
+http://peel.library.ualberta.ca/pcimages/PC/001/thumbs/PC001684.jpg
+
+
+
+
+
+http://peel.library.ualberta.ca/pcimages/PC/001/web/PC001684.1.jpg
+http://peel.library.ualberta.ca/pcimages/PC/001/thumbs/PC001684.1.jpg
+
+
+
+
+Presbyterian church, Virden, Man.
+
+
+Novelty Manufacturing & Art Printing Co.
+
+Publisher
+
+
+
+
+Montreal
+
+Novelty Manufacturing & Art Printing Co., Montreal.
+1913
+
+
+
+1 postcard booklet
+
+[printer's nos.] 1178 12310
+People in an automobile pass by the Presbyterian church in Virden.
+
+
+Canada
+Manitoba
+Virden
+
+
+
+Presbyterian churches
+
+
+Automobiles
+
+
+Viewbooks
+
+
+
+http://peel.library.ualberta.ca/pcimages/PC/001/web/PC001684.10.jpg
+http://peel.library.ualberta.ca/pcimages/PC/001/thumbs/PC001684.10.jpg
+
+
+
+
+View of Nelson St.  Virden, Man. showing Methodist church
+
+
+Novelty Manufacturing & Art Printing Co.
+
+Publisher
+
+
+
+
+Montreal
+
+Novelty Manufacturing & Art Printing Co., Montreal.
+1913
+
+
+
+1 postcard booklet
+
+[printer's nos.] 1179 12311
+A view of the Methodist church in Virden.
+
+
+Canada
+Manitoba
+Virden
+
+
+
+Methodist churches
+
+
+Viewbooks
+
+
+
+http://peel.library.ualberta.ca/pcimages/PC/001/web/PC001684.11.jpg
+http://peel.library.ualberta.ca/pcimages/PC/001/thumbs/PC001684.11.jpg
+
+
+
+
+
+http://peel.library.ualberta.ca/pcimages/PC/001/web/PC001684.12.jpg
+http://peel.library.ualberta.ca/pcimages/PC/001/thumbs/PC001684.12.jpg
+
+
+
+
+
+http://peel.library.ualberta.ca/pcimages/PC/001/web/PC001684.13.jpg
+http://peel.library.ualberta.ca/pcimages/PC/001/thumbs/PC001684.13.jpg
+
+
+
+
+Seventh Ave., Virden, Man.
+
+
+Novelty Manufacturing & Art Printing Co.
+
+Publisher
+
+
+
+
+Montreal
+
+Novelty Manufacturing & Art Printing Co., Montreal.
+1913
+
+
+
+1 postcard booklet
+
+[printer's nos.] 1175 12302
+People can be seen next to the commercial properties on both sides of this main street as well as in the middle of the road.
+
+
+Canada
+Manitoba
+Virden
+
+
+
+City & town life
+
+
+Commercial streets
+
+
+Commercial properties
+
+
+Dirt roads
+
+
+Viewbooks
+
+
+
+http://peel.library.ualberta.ca/pcimages/PC/001/web/PC001684.2.jpg
+http://peel.library.ualberta.ca/pcimages/PC/001/thumbs/PC001684.2.jpg
+
+
+
+
+Public school, Virden, Man.
+
+
+Novelty Manufacturing & Art Printing Co.
+
+Publisher
+
+
+
+
+Montreal
+
+Novelty Manufacturing & Art Printing Co., Montreal.
+1913
+
+
+
+1 postcard booklet
+
+[printer's nos.] 1177 12303
+Teachers and students (who appear to be mostly boys) pose for a photograph in front of their school. Note what appear to be horse-drawn "schoolbuses".
+
+
+Canada
+Manitoba
+Virden
+
+
+
+Schools
+
+
+School children
+
+
+Teachers
+
+
+Carriages & coaches
+
+
+Viewbooks
+
+
+
+http://peel.library.ualberta.ca/pcimages/PC/001/web/PC001684.3.jpg
+http://peel.library.ualberta.ca/pcimages/PC/001/thumbs/PC001684.3.jpg
+
+
+
+
+
+http://peel.library.ualberta.ca/pcimages/PC/001/web/PC001684.4.jpg
+http://peel.library.ualberta.ca/pcimages/PC/001/thumbs/PC001684.4.jpg
+
+
+
+
+
+http://peel.library.ualberta.ca/pcimages/PC/001/web/PC001684.5.jpg
+http://peel.library.ualberta.ca/pcimages/PC/001/thumbs/PC001684.5.jpg
+
+
+
+
+
+http://peel.library.ualberta.ca/pcimages/PC/001/web/PC001684.6.jpg
+http://peel.library.ualberta.ca/pcimages/PC/001/thumbs/PC001684.6.jpg
+
+
+
+
+
+http://peel.library.ualberta.ca/pcimages/PC/001/web/PC001684.7.jpg
+http://peel.library.ualberta.ca/pcimages/PC/001/thumbs/PC001684.7.jpg
+
+
+
+
+
+http://peel.library.ualberta.ca/pcimages/PC/001/web/PC001684.8.jpg
+http://peel.library.ualberta.ca/pcimages/PC/001/thumbs/PC001684.8.jpg
+
+
+
+
+
+http://peel.library.ualberta.ca/pcimages/PC/001/web/PC001684.9.jpg
+http://peel.library.ualberta.ca/pcimages/PC/001/thumbs/PC001684.9.jpg
+
+
+PC001684
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 4
+http://peel.library.ualberta.ca/postcards/PC001684.html
+
+
+tkitagawa
+tkitagawa
+2007-06-20T16:05:12-0600
+PC001684
+2010-06-25T10:23:57-0600
+
+	tkitagawa	PC001684	postcards	1	3.2
+	

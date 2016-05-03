@@ -1,0 +1,122 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		sfarnel	PC004980	postcards	1	3.2
+	/mods/@version	3.2	sfarnel	PC004980	postcards	1	3.2
+	/mods/titleInfo		sfarnel	PC004980	postcards	1	3.2
+	/mods/titleInfo/@lang	english	sfarnel	PC004980	postcards	1	3.2
+	/mods/titleInfo/title	Municipal Hospital, Wainwright	sfarnel	PC004980	postcards	1	3.2
+	/mods/typeOfResource	still image	sfarnel	PC004980	postcards	1	3.2
+	/mods/genre	postcards	sfarnel	PC004980	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	sfarnel	PC004980	postcards	1	3.2
+	/mods/originInfo		sfarnel	PC004980	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	sfarnel	PC004980	postcards	1	3.2
+	/mods/originInfo/dateIssued	not before 1930	sfarnel	PC004980	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	inferred	sfarnel	PC004980	postcards	1	3.2
+	/mods/originInfo/place		sfarnel	PC004980	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	[Wainwright]	sfarnel	PC004980	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	sfarnel	PC004980	postcards	1	3.2
+	/mods/language		sfarnel	PC004980	postcards	1	3.2
+	/mods/language/languageTerm	English	sfarnel	PC004980	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	sfarnel	PC004980	postcards	1	3.2
+	/mods/physicalDescription		sfarnel	PC004980	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : sepia ; 9 x 14 cm.	sfarnel	PC004980	postcards	1	3.2
+	/mods/note	60	sfarnel	PC004980	postcards	4	3.2
+	/mods/note/@type	price	sfarnel	PC004980	postcards	1	3.2
+	/mods/note	false	sfarnel	PC004980	postcards	4	3.2
+	/mods/note/@type	notable	sfarnel	PC004980	postcards	1	3.2
+	/mods/note	true	sfarnel	PC004980	postcards	4	3.2
+	/mods/note/@type	imgprobs	sfarnel	PC004980	postcards	1	3.2
+	/mods/note	Exterior view of Municipal Hospital, Wainwright, Alberta.	sfarnel	PC004980	postcards	4	3.2
+	/mods/note/@type	public_description	sfarnel	PC004980	postcards	1	3.2
+	/mods/subject		sfarnel	PC004980	postcards	5	3.2
+	/mods/subject/geographic	Wainwright, AB	sfarnel	PC004980	postcards	1	3.2
+	/mods/subject		sfarnel	PC004980	postcards	5	3.2
+	/mods/subject/hierarchicalGeographic		sfarnel	PC004980	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	sfarnel	PC004980	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	sfarnel	PC004980	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Wainwright	sfarnel	PC004980	postcards	1	3.2
+	/mods/subject		sfarnel	PC004980	postcards	5	3.2
+	/mods/subject/genre	Postcards	sfarnel	PC004980	postcards	1	3.2
+	/mods/subject		sfarnel	PC004980	postcards	5	3.2
+	/mods/subject/topic	Hospitals	sfarnel	PC004980	postcards	1	3.2
+	/mods/subject		sfarnel	PC004980	postcards	5	3.2
+	/mods/subject/name		sfarnel	PC004980	postcards	1	3.2
+	/mods/subject/name/@type	corporate	sfarnel	PC004980	postcards	1	3.2
+	/mods/subject/name/namePart	Wainwright Municipal Hospital	sfarnel	PC004980	postcards	1	3.2
+	/mods/identifier	PC004980	sfarnel	PC004980	postcards	1	3.2
+	/mods/identifier/@type	local	sfarnel	PC004980	postcards	1	3.2
+	/mods/location		sfarnel	PC004980	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 5	sfarnel	PC004980	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC004980.html	sfarnel	PC004980	postcards	3	3.2
+	/mods/location/url/@access	object in context	sfarnel	PC004980	postcards	1	3.2
+	/mods/location/url/@usage	primary display	sfarnel	PC004980	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/004/web/PC004980.jpg	sfarnel	PC004980	postcards	3	3.2
+	/mods/location/url/@access	raw object	sfarnel	PC004980	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='504' 	sfarnel	PC004980	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/004/thumbs/PC004980.jpg	sfarnel	PC004980	postcards	3	3.2
+	/mods/location/url/@access	preview	sfarnel	PC004980	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='126'	sfarnel	PC004980	postcards	1	3.2
+	/mods/recordInfo		sfarnel	PC004980	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	sfarnel	PC004980	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC004980	sfarnel	PC004980	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	sfarnel	sfarnel	PC004980	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2009-12-07T11:08:48-0700	sfarnel	PC004980	postcards	1	3.2
+	/@mods	
+
+Municipal Hospital, Wainwright
+
+still image
+postcards
+
+monographic
+not before 1930
+
+
+[Wainwright]
+
+
+
+English
+
+
+1 postcard : sepia ; 9 x 14 cm.
+
+60
+false
+true
+Exterior view of Municipal Hospital, Wainwright, Alberta.
+
+Wainwright, AB
+
+
+
+Canada
+Alberta
+Wainwright
+
+
+
+Postcards
+
+
+Hospitals
+
+
+
+Wainwright Municipal Hospital
+
+
+PC004980
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 5
+http://peel.library.ualberta.ca/postcards/PC004980.html
+http://peel.library.ualberta.ca/pcimages/PC/004/web/PC004980.jpg
+http://peel.library.ualberta.ca/pcimages/PC/004/thumbs/PC004980.jpg
+
+
+2007-06-25T16:49:56-0600
+PC004980
+sfarnel
+2009-12-07T11:08:48-0700
+
+	sfarnel	PC004980	postcards	1	3.2
+	

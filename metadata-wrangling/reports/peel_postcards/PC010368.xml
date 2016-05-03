@@ -1,0 +1,147 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		fsalehi	PC010368	postcards	1	3.2
+	/mods/@version	3.2	fsalehi	PC010368	postcards	1	3.2
+	/mods/titleInfo		fsalehi	PC010368	postcards	1	3.2
+	/mods/titleInfo/@lang	english	fsalehi	PC010368	postcards	1	3.2
+	/mods/titleInfo/title	Main Street, Cardston, Alta., Looking north	fsalehi	PC010368	postcards	1	3.2
+	/mods/name		fsalehi	PC010368	postcards	1	3.2
+	/mods/name/@type	corporate	fsalehi	PC010368	postcards	1	3.2
+	/mods/name/namePart	Alberta Drug and Book Co., Ltd	fsalehi	PC010368	postcards	1	3.2
+	/mods/name/role		fsalehi	PC010368	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	fsalehi	PC010368	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC010368	postcards	1	3.2
+	/mods/typeOfResource	still image	fsalehi	PC010368	postcards	1	3.2
+	/mods/genre	postcards	fsalehi	PC010368	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	fsalehi	PC010368	postcards	1	3.2
+	/mods/originInfo		fsalehi	PC010368	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	fsalehi	PC010368	postcards	1	3.2
+	/mods/originInfo/publisher	Alberta Drug and Book Co., Ltd., Cardston, Alta.	fsalehi	PC010368	postcards	1	3.2
+	/mods/originInfo/dateIssued	1910	fsalehi	PC010368	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	inferred	fsalehi	PC010368	postcards	1	3.2
+	/mods/originInfo/place		fsalehi	PC010368	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	Cardston	fsalehi	PC010368	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC010368	postcards	1	3.2
+	/mods/language		fsalehi	PC010368	postcards	1	3.2
+	/mods/language/languageTerm	English	fsalehi	PC010368	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	fsalehi	PC010368	postcards	1	3.2
+	/mods/physicalDescription		fsalehi	PC010368	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : col. ; 9 x 14 cm.	fsalehi	PC010368	postcards	1	3.2
+	/mods/note	20	fsalehi	PC010368	postcards	6	3.2
+	/mods/note/@type	price	fsalehi	PC010368	postcards	1	3.2
+	/mods/note	false	fsalehi	PC010368	postcards	6	3.2
+	/mods/note/@type	notable	fsalehi	PC010368	postcards	1	3.2
+	/mods/note	true	fsalehi	PC010368	postcards	6	3.2
+	/mods/note/@type	imgprobs	fsalehi	PC010368	postcards	1	3.2
+	/mods/note	[printer's no.] 600,729	fsalehi	PC010368	postcards	6	3.2
+	/mods/note/@type	public_on_front	fsalehi	PC010368	postcards	1	3.2
+	/mods/note	Printed in Great Britain	fsalehi	PC010368	postcards	6	3.2
+	/mods/note/@type	public_on_back	fsalehi	PC010368	postcards	1	3.2
+	/mods/note	Image shows a general view of the main business district in Cardston, Alberta. There is a building with a sign on it's front that reads "The Cardston Investment Company Limited".	fsalehi	PC010368	postcards	6	3.2
+	/mods/note/@type	public_description	fsalehi	PC010368	postcards	1	3.2
+	/mods/subject		fsalehi	PC010368	postcards	7	3.2
+	/mods/subject/geographic	Cardston, AB	fsalehi	PC010368	postcards	1	3.2
+	/mods/subject		fsalehi	PC010368	postcards	7	3.2
+	/mods/subject/hierarchicalGeographic		fsalehi	PC010368	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	fsalehi	PC010368	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	fsalehi	PC010368	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Cardston	fsalehi	PC010368	postcards	1	3.2
+	/mods/subject		fsalehi	PC010368	postcards	7	3.2
+	/mods/subject/genre	Postcards	fsalehi	PC010368	postcards	1	3.2
+	/mods/subject		fsalehi	PC010368	postcards	7	3.2
+	/mods/subject/topic	Commercial streets	fsalehi	PC010368	postcards	1	3.2
+	/mods/subject		fsalehi	PC010368	postcards	7	3.2
+	/mods/subject/topic	Stores & shops	fsalehi	PC010368	postcards	1	3.2
+	/mods/subject		fsalehi	PC010368	postcards	7	3.2
+	/mods/subject/topic	Utility poles	fsalehi	PC010368	postcards	1	3.2
+	/mods/subject		fsalehi	PC010368	postcards	7	3.2
+	/mods/subject/topic	Carts & wagons	fsalehi	PC010368	postcards	1	3.2
+	/mods/identifier	PC010368	fsalehi	PC010368	postcards	1	3.2
+	/mods/identifier/@type	local	fsalehi	PC010368	postcards	1	3.2
+	/mods/location		fsalehi	PC010368	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 1	fsalehi	PC010368	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC010368.html	fsalehi	PC010368	postcards	3	3.2
+	/mods/location/url/@access	object in context	fsalehi	PC010368	postcards	1	3.2
+	/mods/location/url/@usage	primary display	fsalehi	PC010368	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/010/web/PC010368.jpg	fsalehi	PC010368	postcards	3	3.2
+	/mods/location/url/@access	raw object	fsalehi	PC010368	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='525' 	fsalehi	PC010368	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/010/thumbs/PC010368.jpg	fsalehi	PC010368	postcards	3	3.2
+	/mods/location/url/@access	preview	fsalehi	PC010368	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='131'	fsalehi	PC010368	postcards	1	3.2
+	/mods/recordInfo		fsalehi	PC010368	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2009-01-19T16:18:42-0700	fsalehi	PC010368	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC010368	fsalehi	PC010368	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	fsalehi	fsalehi	PC010368	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2009-04-03T10:06:08-0700	fsalehi	PC010368	postcards	1	3.2
+	/@mods	
+
+Main Street, Cardston, Alta., Looking north
+
+
+Alberta Drug and Book Co., Ltd
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+Alberta Drug and Book Co., Ltd., Cardston, Alta.
+1910
+
+Cardston
+
+
+
+English
+
+
+1 postcard : col. ; 9 x 14 cm.
+
+20
+false
+true
+[printer's no.] 600,729
+Printed in Great Britain
+Image shows a general view of the main business district in Cardston, Alberta. There is a building with a sign on it's front that reads "The Cardston Investment Company Limited".
+
+Cardston, AB
+
+
+
+Canada
+Alberta
+Cardston
+
+
+
+Postcards
+
+
+Commercial streets
+
+
+Stores & shops
+
+
+Utility poles
+
+
+Carts & wagons
+
+PC010368
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 1
+http://peel.library.ualberta.ca/postcards/PC010368.html
+http://peel.library.ualberta.ca/pcimages/PC/010/web/PC010368.jpg
+http://peel.library.ualberta.ca/pcimages/PC/010/thumbs/PC010368.jpg
+
+
+2009-01-19T16:18:42-0700
+PC010368
+fsalehi
+2009-04-03T10:06:08-0700
+
+	fsalehi	PC010368	postcards	1	3.2
+	

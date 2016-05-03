@@ -1,0 +1,138 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@schemaLocation	http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	Rapport des explorations géologiques dans les districts d'Athabaska, Saskatchewan, Keewatin		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/subTitle	comprenant le lac Moose et la route du Lac Cumberland à le rivière Churchill et le cours supérieur des Rivières Burntwood et Grass		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA000481		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Dowling, Donaldson Bogart		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	1858-1925.		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart/@type	date		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/description	1858-1925. Civil engineer hired by Geological Survey of Canada, 1885; surveyed and explored for minerals extensively in West; member of Logan Club.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.2		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA004851		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	corporate		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Geological Survey of Canada		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA001099		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Sauvalle, Marc		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	translator		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	Ottawa		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	Imprimerie du gouvernement		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1912		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	English		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	47 p., illus.; 26 cm.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	For English version  <i>see </i>Peel <xref>2617</xref>. 		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	public		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	Other		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000293		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Athabasca, Alberta--Geology		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	Other		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002357		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Keewatin Region (Sask.)--Geology		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	Other		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS004113		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Saskatchewan--Geology		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1902		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	2616		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	2613		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel-procite-id		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P002616		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+    
+        Rapport des explorations géologiques dans les districts d'Athabaska, Saskatchewan, Keewatin
+        comprenant le lac Moose et la route du Lac Cumberland à le rivière Churchill et le cours supérieur des Rivières Burntwood et Grass
+    
+    
+        Dowling, Donaldson Bogart
+        1858-1925.
+        
+            author
+        
+        1858-1925. Civil engineer hired by Geological Survey of Canada, 1885; surveyed and explored for minerals extensively in West; member of Logan Club.
+    
+    
+        Geological Survey of Canada
+        
+            author
+        
+    
+    
+        Sauvalle, Marc
+        
+            translator
+        
+    
+    text
+    
+        
+            Ottawa
+        
+        Imprimerie du gouvernement
+        1912
+    
+    
+        English
+    
+    
+        print
+        47 p., illus.; 26 cm.
+    
+    For English version  <i>see </i>Peel <xref>2617</xref>. 
+    
+        Athabasca, Alberta--Geology
+    
+    
+        Keewatin Region (Sask.)--Geology
+    
+    
+        Saskatchewan--Geology
+    
+    
+        1902
+    
+    2616
+    2613
+    
+        Peel's Prairie Portal
+        P002616
+        2003-01-01T12:00:00-0700
+    
+		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

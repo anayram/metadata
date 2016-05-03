@@ -1,0 +1,64 @@
+Path	Content	URL	Form or Genre	Occurrence	MODS version
+
+/mods/titleInfo		http://peel.library.ualberta.ca/newspapers/SMS.html	newspaper	1	3.2
+/mods/titleInfo/title	Strathmore standard	http://peel.library.ualberta.ca/newspapers/SMS.html	newspaper	1	3.2
+/mods/titleInfo/nonSort	The 	http://peel.library.ualberta.ca/newspapers/SMS.html	newspaper	1	3.2
+
+/mods/typeOfResource	text	http://peel.library.ualberta.ca/newspapers/SMS.html	newspaper	1	3.2
+
+/mods/genre	newspaper	http://peel.library.ualberta.ca/newspapers/SMS.html	newspaper	1	3.2
+/mods/genre/@authority	marcgt	http://peel.library.ualberta.ca/newspapers/SMS.html	newspaper	1	3.2
+
+/mods/originInfo		http://peel.library.ualberta.ca/newspapers/SMS.html	newspaper	1	3.2
+/mods/originInfo/place		http://peel.library.ualberta.ca/newspapers/SMS.html	newspaper	2	3.2
+/mods/originInfo/place/placeTerm	cn	http://peel.library.ualberta.ca/newspapers/SMS.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@authority	marccountry	http://peel.library.ualberta.ca/newspapers/SMS.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@type	code	http://peel.library.ualberta.ca/newspapers/SMS.html	newspaper	1	3.2
+/mods/originInfo/place		http://peel.library.ualberta.ca/newspapers/SMS.html	newspaper	2	3.2
+/mods/originInfo/place/placeTerm	Calgary	http://peel.library.ualberta.ca/newspapers/SMS.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@type	text	http://peel.library.ualberta.ca/newspapers/SMS.html	newspaper	1	3.2
+/mods/originInfo/dateIssued	n.d.-	http://peel.library.ualberta.ca/newspapers/SMS.html	newspaper	3	3.2
+/mods/originInfo/dateIssued	1909	http://peel.library.ualberta.ca/newspapers/SMS.html	newspaper	3	3.2
+/mods/originInfo/dateIssued/@encoding	marc	http://peel.library.ualberta.ca/newspapers/SMS.html	newspaper	1	3.2
+/mods/originInfo/dateIssued/@point	start	http://peel.library.ualberta.ca/newspapers/SMS.html	newspaper	1	3.2
+/mods/originInfo/dateIssued	1948	http://peel.library.ualberta.ca/newspapers/SMS.html	newspaper	3	3.2
+/mods/originInfo/dateIssued/@encoding	marc	http://peel.library.ualberta.ca/newspapers/SMS.html	newspaper	1	3.2
+/mods/originInfo/dateIssued/@point	end	http://peel.library.ualberta.ca/newspapers/SMS.html	newspaper	1	3.2
+/mods/originInfo/issuance	continuing	http://peel.library.ualberta.ca/newspapers/SMS.html	newspaper	1	3.2
+
+/mods/language		http://peel.library.ualberta.ca/newspapers/SMS.html	newspaper	1	3.2
+/mods/language/languageTerm	eng	http://peel.library.ualberta.ca/newspapers/SMS.html	newspaper	1	3.2
+/mods/language/languageTerm/@authority	iso639-2b	http://peel.library.ualberta.ca/newspapers/SMS.html	newspaper	1	3.2
+/mods/language/languageTerm/@type	code	http://peel.library.ualberta.ca/newspapers/SMS.html	newspaper	1	3.2
+
+/mods/physicalDescription		http://peel.library.ualberta.ca/newspapers/SMS.html	newspaper	1	3.2
+/mods/physicalDescription/form	print	http://peel.library.ualberta.ca/newspapers/SMS.html	newspaper	1	3.2
+/mods/physicalDescription/form/@authority	marcform	http://peel.library.ualberta.ca/newspapers/SMS.html	newspaper	1	3.2
+/mods/physicalDescription/extent	v. : ill.	http://peel.library.ualberta.ca/newspapers/SMS.html	newspaper	1	3.2
+
+/mods/subject		http://peel.library.ualberta.ca/newspapers/SMS.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic		http://peel.library.ualberta.ca/newspapers/SMS.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/country	Canada	http://peel.library.ualberta.ca/newspapers/SMS.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/province	Alberta	http://peel.library.ualberta.ca/newspapers/SMS.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/city	Strathmore	http://peel.library.ualberta.ca/newspapers/SMS.html	newspaper	1	3.2
+
+/mods/relatedItem		http://peel.library.ualberta.ca/newspapers/SMS.html	newspaper	1	3.2
+/mods/relatedItem/@type	succeeding	http://peel.library.ualberta.ca/newspapers/SMS.html	newspaper	1	3.2
+/mods/relatedItem/titleInfo		http://peel.library.ualberta.ca/newspapers/SMS.html	newspaper	1	3.2
+/mods/relatedItem/titleInfo/title	Strathmore and Bow Valley standard (1949)	http://peel.library.ualberta.ca/newspapers/SMS.html	newspaper	1	3.2
+
+/mods/identifier	000014635142	http://peel.library.ualberta.ca/newspapers/SMS.html	newspaper	2	3.2
+/mods/identifier/@type	local:amicus	http://peel.library.ualberta.ca/newspapers/SMS.html	newspaper	1	3.2
+
+/mods/identifier	SMS	http://peel.library.ualberta.ca/newspapers/SMS.html	newspaper	2	3.2
+/mods/identifier/@type	local:newspaper	http://peel.library.ualberta.ca/newspapers/SMS.html	newspaper	1	3.2
+
+/mods/recordInfo		http://peel.library.ualberta.ca/newspapers/SMS.html	newspaper	1	3.2
+/mods/recordInfo/recordContentSource	CaACU	http://peel.library.ualberta.ca/newspapers/SMS.html	newspaper	2	3.2
+/mods/recordInfo/recordContentSource/@authority	marcorg	http://peel.library.ualberta.ca/newspapers/SMS.html	newspaper	1	3.2
+/mods/recordInfo/recordContentSource	sfarnel	http://peel.library.ualberta.ca/newspapers/SMS.html	newspaper	2	3.2
+/mods/recordInfo/recordContentSource/@authority	local:person	http://peel.library.ualberta.ca/newspapers/SMS.html	newspaper	1	3.2
+/mods/recordInfo/recordCreationDate	2010-02-11T12:13:30-0700	http://peel.library.ualberta.ca/newspapers/SMS.html	newspaper	1	3.2
+/mods/recordInfo/recordIdentifier	QSMS	http://peel.library.ualberta.ca/newspapers/SMS.html	newspaper	1	3.2
+/mods/recordInfo/recordChangeDate	2010-02-11T12:13:41-0700	http://peel.library.ualberta.ca/newspapers/SMS.html	newspaper	1	3.2
+

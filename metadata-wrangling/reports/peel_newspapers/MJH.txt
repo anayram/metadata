@@ -1,0 +1,55 @@
+Path	Content	URL	Form or Genre	Occurrence	MODS version
+
+/mods/titleInfo		http://peel.library.ualberta.ca/newspapers/MJH.html	newspaper	1	3.0
+/mods/titleInfo/title	Moose Jaw herald times	http://peel.library.ualberta.ca/newspapers/MJH.html	newspaper	1	3.0
+
+/mods/typeOfResource	text	http://peel.library.ualberta.ca/newspapers/MJH.html	newspaper	1	3.0
+
+/mods/genre	newspaper	http://peel.library.ualberta.ca/newspapers/MJH.html	newspaper	1	3.0
+/mods/genre/@authority	marcgt	http://peel.library.ualberta.ca/newspapers/MJH.html	newspaper	1	3.0
+
+/mods/originInfo		http://peel.library.ualberta.ca/newspapers/MJH.html	newspaper	1	3.0
+/mods/originInfo/@lang	eng	http://peel.library.ualberta.ca/newspapers/MJH.html	newspaper	1	3.0
+/mods/originInfo/place		http://peel.library.ualberta.ca/newspapers/MJH.html	newspaper	1	3.0
+/mods/originInfo/place/placeTerm	Moose Jaw (Sask.)	http://peel.library.ualberta.ca/newspapers/MJH.html	newspaper	1	3.0
+/mods/originInfo/place/placeTerm/@type	text	http://peel.library.ualberta.ca/newspapers/MJH.html	newspaper	1	3.0
+/mods/originInfo/dateIssued	1890	http://peel.library.ualberta.ca/newspapers/MJH.html	newspaper	2	3.0
+/mods/originInfo/dateIssued/@encoding	iso8601	http://peel.library.ualberta.ca/newspapers/MJH.html	newspaper	1	3.0
+/mods/originInfo/dateIssued/@point	start	http://peel.library.ualberta.ca/newspapers/MJH.html	newspaper	1	3.0
+/mods/originInfo/dateIssued	1899	http://peel.library.ualberta.ca/newspapers/MJH.html	newspaper	2	3.0
+/mods/originInfo/dateIssued/@encoding	iso8601	http://peel.library.ualberta.ca/newspapers/MJH.html	newspaper	1	3.0
+/mods/originInfo/dateIssued/@point	end	http://peel.library.ualberta.ca/newspapers/MJH.html	newspaper	1	3.0
+/mods/originInfo/issuance	continuing	http://peel.library.ualberta.ca/newspapers/MJH.html	newspaper	1	3.0
+
+/mods/language		http://peel.library.ualberta.ca/newspapers/MJH.html	newspaper	1	3.0
+/mods/language/languageTerm	English	http://peel.library.ualberta.ca/newspapers/MJH.html	newspaper	1	3.0
+/mods/language/languageTerm/@type	text	http://peel.library.ualberta.ca/newspapers/MJH.html	newspaper	1	3.0
+
+/mods/physicalDescription		http://peel.library.ualberta.ca/newspapers/MJH.html	newspaper	1	3.0
+/mods/physicalDescription/form	print	http://peel.library.ualberta.ca/newspapers/MJH.html	newspaper	1	3.0
+/mods/physicalDescription/form/@authority	marcform	http://peel.library.ualberta.ca/newspapers/MJH.html	newspaper	1	3.0
+/mods/physicalDescription/extent	v. : ill.	http://peel.library.ualberta.ca/newspapers/MJH.html	newspaper	1	3.0
+
+/mods/note	Published 1890 to 1899.	http://peel.library.ualberta.ca/newspapers/MJH.html	newspaper	2	3.0
+/mods/note/@type	public	http://peel.library.ualberta.ca/newspapers/MJH.html	newspaper	1	3.0
+
+/mods/note	newspapers	http://peel.library.ualberta.ca/newspapers/MJH.html	newspaper	2	3.0
+/mods/note/@type	local:oaiset	http://peel.library.ualberta.ca/newspapers/MJH.html	newspaper	1	3.0
+
+    /mods/subject		http://peel.library.ualberta.ca/newspapers/MJH.html	newspaper	1	3.0
+/mods/subject/hierarchicalGeographic		http://peel.library.ualberta.ca/newspapers/MJH.html	newspaper	1	3.0
+/mods/subject/hierarchicalGeographic/country	Canada	http://peel.library.ualberta.ca/newspapers/MJH.html	newspaper	1	3.0
+/mods/subject/hierarchicalGeographic/province	Saskatchewan	http://peel.library.ualberta.ca/newspapers/MJH.html	newspaper	1	3.0
+/mods/subject/hierarchicalGeographic/city	Moose Jaw	http://peel.library.ualberta.ca/newspapers/MJH.html	newspaper	1	3.0
+
+/mods/identifier	MJH	http://peel.library.ualberta.ca/newspapers/MJH.html	newspaper	1	3.0
+/mods/identifier/@type	local:newspaper	http://peel.library.ualberta.ca/newspapers/MJH.html	newspaper	1	3.0
+
+/mods/recordInfo		http://peel.library.ualberta.ca/newspapers/MJH.html	newspaper	1	3.0
+/mods/recordInfo/recordContentSource	Peel's Prairie Provinces	http://peel.library.ualberta.ca/newspapers/MJH.html	newspaper	2	3.0
+/mods/recordInfo/recordContentSource	sfarnel	http://peel.library.ualberta.ca/newspapers/MJH.html	newspaper	2	3.0
+/mods/recordInfo/recordContentSource/@authority	local:person	http://peel.library.ualberta.ca/newspapers/MJH.html	newspaper	1	3.0
+/mods/recordInfo/recordCreationDate	2010-08-31T10:18:10-0600	http://peel.library.ualberta.ca/newspapers/MJH.html	newspaper	1	3.0
+/mods/recordInfo/recordIdentifier	QMJH	http://peel.library.ualberta.ca/newspapers/MJH.html	newspaper	1	3.0
+/mods/recordInfo/recordChangeDate	2010-08-31T10:19:28-0600	http://peel.library.ualberta.ca/newspapers/MJH.html	newspaper	1	3.0
+

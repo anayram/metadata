@@ -1,0 +1,178 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		bstearns	PC002504	postcards	1	3.2
+	/mods/@version	3.2	bstearns	PC002504	postcards	1	3.2
+	/mods/titleInfo		bstearns	PC002504	postcards	1	3.2
+	/mods/titleInfo/@lang	english	bstearns	PC002504	postcards	1	3.2
+	/mods/titleInfo/title	Moose Jaw bank buildings	bstearns	PC002504	postcards	1	3.2
+	/mods/name		bstearns	PC002504	postcards	2	3.2
+	/mods/name/@type	corporate	bstearns	PC002504	postcards	1	3.2
+	/mods/name/namePart	Valentine & Sons Publishing Co., Ltd.	bstearns	PC002504	postcards	1	3.2
+	/mods/name/role		bstearns	PC002504	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	bstearns	PC002504	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	bstearns	PC002504	postcards	1	3.2
+	/mods/name		bstearns	PC002504	postcards	2	3.2
+	/mods/name/@type	corporate	bstearns	PC002504	postcards	1	3.2
+	/mods/name/namePart	Sutton	bstearns	PC002504	postcards	1	3.2
+	/mods/name/role		bstearns	PC002504	postcards	1	3.2
+	/mods/name/role/roleTerm	Photographer	bstearns	PC002504	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	bstearns	PC002504	postcards	1	3.2
+	/mods/typeOfResource	still image	bstearns	PC002504	postcards	1	3.2
+	/mods/genre	postcards	bstearns	PC002504	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	bstearns	PC002504	postcards	1	3.2
+	/mods/originInfo		bstearns	PC002504	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	bstearns	PC002504	postcards	1	3.2
+	/mods/originInfo/publisher	Valentine & Son's Publishing Co., Ltd., Montreal and Toronto; photo by Sutten	bstearns	PC002504	postcards	1	3.2
+	/mods/originInfo/dateIssued	19-	bstearns	PC002504	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	inferred	bstearns	PC002504	postcards	1	3.2
+	/mods/originInfo/place		bstearns	PC002504	postcards	2	3.2
+	/mods/originInfo/place/placeTerm	Montreal	bstearns	PC002504	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	bstearns	PC002504	postcards	1	3.2
+	/mods/originInfo/place		bstearns	PC002504	postcards	2	3.2
+	/mods/originInfo/place/placeTerm	Toronto	bstearns	PC002504	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	bstearns	PC002504	postcards	1	3.2
+	/mods/language		bstearns	PC002504	postcards	1	3.2
+	/mods/language/languageTerm	English	bstearns	PC002504	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	bstearns	PC002504	postcards	1	3.2
+	/mods/physicalDescription		bstearns	PC002504	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : col.; 14 x 9 cm.	bstearns	PC002504	postcards	1	3.2
+	/mods/note	30	bstearns	PC002504	postcards	4	3.2
+	/mods/note/@type	price	bstearns	PC002504	postcards	1	3.2
+	/mods/note	false	bstearns	PC002504	postcards	4	3.2
+	/mods/note/@type	notable	bstearns	PC002504	postcards	1	3.2
+	/mods/note	false	bstearns	PC002504	postcards	4	3.2
+	/mods/note/@type	imgprobs	bstearns	PC002504	postcards	1	3.2
+	/mods/note	View of four banks in Moose Jaw, Saskatchewan: The Union Bank of Canada, The Bank of Hamilton, The Dominion Bank, Northern Crown Bank.	bstearns	PC002504	postcards	4	3.2
+	/mods/note/@type	public_description	bstearns	PC002504	postcards	1	3.2
+	/mods/subject		bstearns	PC002504	postcards	8	3.2
+	/mods/subject/geographic	Moose Jaw, SK	bstearns	PC002504	postcards	1	3.2
+	/mods/subject		bstearns	PC002504	postcards	8	3.2
+	/mods/subject/hierarchicalGeographic		bstearns	PC002504	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	bstearns	PC002504	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Saskatchewan	bstearns	PC002504	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Moose Jaw	bstearns	PC002504	postcards	1	3.2
+	/mods/subject		bstearns	PC002504	postcards	8	3.2
+	/mods/subject/genre	Postcards	bstearns	PC002504	postcards	1	3.2
+	/mods/subject		bstearns	PC002504	postcards	8	3.2
+	/mods/subject/topic	Banks	bstearns	PC002504	postcards	1	3.2
+	/mods/subject		bstearns	PC002504	postcards	8	3.2
+	/mods/subject/name		bstearns	PC002504	postcards	1	3.2
+	/mods/subject/name/namePart	Union Bank of Canada (Moose Jaw, Sask.)	bstearns	PC002504	postcards	1	3.2
+	/mods/subject		bstearns	PC002504	postcards	8	3.2
+	/mods/subject/name		bstearns	PC002504	postcards	1	3.2
+	/mods/subject/name/namePart	Bank of Hamilton (Moose Jaw, Sask.)	bstearns	PC002504	postcards	1	3.2
+	/mods/subject		bstearns	PC002504	postcards	8	3.2
+	/mods/subject/name		bstearns	PC002504	postcards	1	3.2
+	/mods/subject/name/namePart	Dominion Bank (Moose Jaw, Sask.)	bstearns	PC002504	postcards	1	3.2
+	/mods/subject		bstearns	PC002504	postcards	8	3.2
+	/mods/subject/name		bstearns	PC002504	postcards	1	3.2
+	/mods/subject/name/namePart	Northern Crown Bank (Moose Jaw, Sask.)	bstearns	PC002504	postcards	1	3.2
+	/mods/identifier	PC002504	bstearns	PC002504	postcards	1	3.2
+	/mods/identifier/@type	local	bstearns	PC002504	postcards	1	3.2
+	/mods/location		bstearns	PC002504	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Sask. Box 1	bstearns	PC002504	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC002504.html	bstearns	PC002504	postcards	3	3.2
+	/mods/location/url/@access	object in context	bstearns	PC002504	postcards	1	3.2
+	/mods/location/url/@usage	primary display	bstearns	PC002504	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/002/web/PC002504.jpg	bstearns	PC002504	postcards	3	3.2
+	/mods/location/url/@access	raw object	bstearns	PC002504	postcards	1	3.2
+	/mods/location/url/@note	width='516' height='800' 	bstearns	PC002504	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/002/thumbs/PC002504.jpg	bstearns	PC002504	postcards	3	3.2
+	/mods/location/url/@access	preview	bstearns	PC002504	postcards	1	3.2
+	/mods/location/url/@note	width='129' height='200'	bstearns	PC002504	postcards	1	3.2
+	/mods/recordInfo		bstearns	PC002504	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	bstearns	PC002504	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC002504	bstearns	PC002504	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	bstearns	bstearns	PC002504	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2009-12-02T11:43:38-0700	bstearns	PC002504	postcards	1	3.2
+	/@mods	
+
+Moose Jaw bank buildings
+
+
+Valentine & Sons Publishing Co., Ltd.
+
+Publisher
+
+
+
+Sutton
+
+Photographer
+
+
+still image
+postcards
+
+monographic
+Valentine & Son's Publishing Co., Ltd., Montreal and Toronto; photo by Sutten
+19-
+
+
+
+Montreal
+
+
+Toronto
+
+
+
+English
+
+
+1 postcard : col.; 14 x 9 cm.
+
+30
+false
+false
+View of four banks in Moose Jaw, Saskatchewan: The Union Bank of Canada, The Bank of Hamilton, The Dominion Bank, Northern Crown Bank.
+
+Moose Jaw, SK
+
+
+
+Canada
+Saskatchewan
+Moose Jaw
+
+
+
+Postcards
+
+
+Banks
+
+
+
+Union Bank of Canada (Moose Jaw, Sask.)
+
+
+
+
+Bank of Hamilton (Moose Jaw, Sask.)
+
+
+
+
+Dominion Bank (Moose Jaw, Sask.)
+
+
+
+
+Northern Crown Bank (Moose Jaw, Sask.)
+
+
+PC002504
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Sask. Box 1
+http://peel.library.ualberta.ca/postcards/PC002504.html
+http://peel.library.ualberta.ca/pcimages/PC/002/web/PC002504.jpg
+http://peel.library.ualberta.ca/pcimages/PC/002/thumbs/PC002504.jpg
+
+
+2007-06-25T16:49:56-0600
+PC002504
+bstearns
+2009-12-02T11:43:38-0700
+
+	bstearns	PC002504	postcards	1	3.2
+	

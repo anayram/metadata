@@ -1,0 +1,163 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		bstearns	PC012217	postcards	1	3.3
+	/mods/@version	3.3	bstearns	PC012217	postcards	1	3.3
+	/mods/titleInfo		bstearns	PC012217	postcards	1	3.3
+	/mods/titleInfo/@lang	english	bstearns	PC012217	postcards	1	3.3
+	/mods/titleInfo/title	Jasper	bstearns	PC012217	postcards	1	3.3
+	/mods/name		bstearns	PC012217	postcards	1	3.3
+	/mods/name/@type	personal	bstearns	PC012217	postcards	1	3.3
+	/mods/name/namePart	Taylor	bstearns	PC012217	postcards	2	3.3
+	/mods/name/namePart/@type	family	bstearns	PC012217	postcards	1	3.3
+	/mods/name/namePart	G. Morris	bstearns	PC012217	postcards	2	3.3
+	/mods/name/namePart/@type	given	bstearns	PC012217	postcards	1	3.3
+	/mods/name/role		bstearns	PC012217	postcards	1	3.3
+	/mods/name/role/roleTerm	Photographer	bstearns	PC012217	postcards	1	3.3
+	/mods/name/role/roleTerm/@type	text	bstearns	PC012217	postcards	1	3.3
+	/mods/typeOfResource	still image	bstearns	PC012217	postcards	1	3.3
+	/mods/genre	postcards	bstearns	PC012217	postcards	1	3.3
+	/mods/genre/@authority	gmgpc	bstearns	PC012217	postcards	1	3.3
+	/mods/originInfo		bstearns	PC012217	postcards	1	3.3
+	/mods/originInfo/issuance	monographic	bstearns	PC012217	postcards	1	3.3
+	/mods/originInfo/publisher	Photographed and Copyrighted by G. Morris Taylor, Jasper, Alberta	bstearns	PC012217	postcards	1	3.3
+	/mods/originInfo/dateIssued	ca. 1940	bstearns	PC012217	postcards	1	3.3
+	/mods/originInfo/dateIssued/@qualifier	approximate	bstearns	PC012217	postcards	1	3.3
+	/mods/originInfo/place		bstearns	PC012217	postcards	1	3.3
+	/mods/originInfo/place/placeTerm	Jasper	bstearns	PC012217	postcards	1	3.3
+	/mods/originInfo/place/placeTerm/@type	text	bstearns	PC012217	postcards	1	3.3
+	/mods/language		bstearns	PC012217	postcards	1	3.3
+	/mods/language/languageTerm	English	bstearns	PC012217	postcards	1	3.3
+	/mods/language/languageTerm/@type	text	bstearns	PC012217	postcards	1	3.3
+	/mods/physicalDescription		bstearns	PC012217	postcards	1	3.3
+	/mods/physicalDescription/extent	1 postcard : b&w ; 9 x 14 cm.	bstearns	PC012217	postcards	1	3.3
+	/mods/note	30	bstearns	PC012217	postcards	7	3.3
+	/mods/note/@type	price	bstearns	PC012217	postcards	1	3.3
+	/mods/note	false	bstearns	PC012217	postcards	7	3.3
+	/mods/note/@type	notable	bstearns	PC012217	postcards	1	3.3
+	/mods/note	false	bstearns	PC012217	postcards	7	3.3
+	/mods/note/@type	imgprobs	bstearns	PC012217	postcards	1	3.3
+	/mods/note	[printer's] No. 175	bstearns	PC012217	postcards	7	3.3
+	/mods/note/@type	public_on_front	bstearns	PC012217	postcards	1	3.3
+	/mods/note	Made in Canada	bstearns	PC012217	postcards	7	3.3
+	/mods/note/@type	public_on_back	bstearns	PC012217	postcards	1	3.3
+	/mods/note	Taylor	bstearns	PC012217	postcards	7	3.3
+	/mods/note/@type	public_on_front	bstearns	PC012217	postcards	1	3.3
+	/mods/note	A bird's eye view of J-shaped, Jasper.	bstearns	PC012217	postcards	7	3.3
+	/mods/note/@type	public_description	bstearns	PC012217	postcards	1	3.3
+	/mods/subject		bstearns	PC012217	postcards	8	3.3
+	/mods/subject/geographic	Jasper, MB	bstearns	PC012217	postcards	1	3.3
+	/mods/subject		bstearns	PC012217	postcards	8	3.3
+	/mods/subject/hierarchicalGeographic		bstearns	PC012217	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/country	Canada	bstearns	PC012217	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/province	Alberta	bstearns	PC012217	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/city	Jasper	bstearns	PC012217	postcards	1	3.3
+	/mods/subject		bstearns	PC012217	postcards	8	3.3
+	/mods/subject/genre	Postcards	bstearns	PC012217	postcards	1	3.3
+	/mods/subject		bstearns	PC012217	postcards	8	3.3
+	/mods/subject/topic	Cities & towns	bstearns	PC012217	postcards	1	3.3
+	/mods/subject		bstearns	PC012217	postcards	8	3.3
+	/mods/subject/topic	Cityscapes	bstearns	PC012217	postcards	1	3.3
+	/mods/subject		bstearns	PC012217	postcards	8	3.3
+	/mods/subject/topic	Buildings	bstearns	PC012217	postcards	1	3.3
+	/mods/subject		bstearns	PC012217	postcards	8	3.3
+	/mods/subject/topic	Mountains	bstearns	PC012217	postcards	1	3.3
+	/mods/subject		bstearns	PC012217	postcards	8	3.3
+	/mods/subject/name		bstearns	PC012217	postcards	1	3.3
+	/mods/subject/name/namePart	Jasper National Park (Alta.)	bstearns	PC012217	postcards	1	3.3
+	/mods/identifier	PC012217	bstearns	PC012217	postcards	1	3.3
+	/mods/identifier/@type	local	bstearns	PC012217	postcards	1	3.3
+	/mods/location		bstearns	PC012217	postcards	1	3.3
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 4 (set 2)	bstearns	PC012217	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC012217.html	bstearns	PC012217	postcards	3	3.3
+	/mods/location/url/@access	object in context	bstearns	PC012217	postcards	1	3.3
+	/mods/location/url/@usage	primary display	bstearns	PC012217	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/012/web/PC012217.jpg	bstearns	PC012217	postcards	3	3.3
+	/mods/location/url/@access	raw object	bstearns	PC012217	postcards	1	3.3
+	/mods/location/url/@note	width='800' height='495' 	bstearns	PC012217	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/012/thumbs/PC012217.jpg	bstearns	PC012217	postcards	3	3.3
+	/mods/location/url/@access	preview	bstearns	PC012217	postcards	1	3.3
+	/mods/location/url/@note	width='200' height='124'	bstearns	PC012217	postcards	1	3.3
+	/mods/recordInfo		bstearns	PC012217	postcards	1	3.3
+	/mods/recordInfo/recordCreationDate	2009-01-23T14:03:00-0700	bstearns	PC012217	postcards	1	3.3
+	/mods/recordInfo/recordIdentifier	PC012217	bstearns	PC012217	postcards	1	3.3
+	/mods/recordInfo/recordContentSource	bstearns	bstearns	PC012217	postcards	1	3.3
+	/mods/recordInfo/recordChangeDate	2009-12-02T17:52:44-0700	bstearns	PC012217	postcards	1	3.3
+	/@mods	
+
+Jasper
+
+
+Taylor
+G. Morris
+
+Photographer
+
+
+still image
+postcards
+
+monographic
+Photographed and Copyrighted by G. Morris Taylor, Jasper, Alberta
+ca. 1940
+
+
+Jasper
+
+
+
+English
+
+
+1 postcard : b&w ; 9 x 14 cm.
+
+30
+false
+false
+[printer's] No. 175
+Made in Canada
+Taylor
+A bird's eye view of J-shaped, Jasper.
+
+Jasper, MB
+
+
+
+Canada
+Alberta
+Jasper
+
+
+
+Postcards
+
+
+Cities & towns
+
+
+Cityscapes
+
+
+Buildings
+
+
+Mountains
+
+
+
+Jasper National Park (Alta.)
+
+
+PC012217
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 4 (set 2)
+http://peel.library.ualberta.ca/postcards/PC012217.html
+http://peel.library.ualberta.ca/pcimages/PC/012/web/PC012217.jpg
+http://peel.library.ualberta.ca/pcimages/PC/012/thumbs/PC012217.jpg
+
+
+2009-01-23T14:03:00-0700
+PC012217
+bstearns
+2009-12-02T17:52:44-0700
+
+	bstearns	PC012217	postcards	1	3.3
+	

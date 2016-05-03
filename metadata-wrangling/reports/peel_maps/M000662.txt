@@ -1,0 +1,126 @@
+Path	Content	URL	Form or Genre	Occurrence	MODS version
+
+/mods/titleInfo		http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	1	3.3
+/mods/titleInfo/title	Valley of Old Man's River	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	1	3.3
+
+/mods/name		http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	2	3.3
+/mods/name/@type	personal	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	1	3.3
+/mods/name/namePart	Temple, J. & C.	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	1	3.3
+
+/mods/name		http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	2	3.3
+/mods/name/@type	corporate	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	1	3.3
+/mods/name/namePart	The Illustrated Sporting and Dramatic News	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	1	3.3
+
+/mods/typeOfResource	cartographic	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	1	3.3
+
+/mods/genre	map	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	2	3.3
+/mods/genre/@authority	marcgt	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	1	3.3
+
+/mods/genre	Digital maps	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	2	3.3
+/mods/genre/@authority	lcgft	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	1	3.3
+
+/mods/originInfo		http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	1	3.3
+/mods/originInfo/place		http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	1	3.3
+/mods/originInfo/place/placeTerm	London	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	1	3.3
+/mods/originInfo/place/placeTerm/@type	text	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	1	3.3
+/mods/originInfo/publisher	The Illustrated Sporting and Dramatic News	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	1	3.3
+/mods/originInfo/dateIssued	1883 (Dec. 22)	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	1	3.3
+
+/mods/language		http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	1	3.3
+/mods/language/languageTerm	English	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	1	3.3
+/mods/language/languageTerm/@type	text	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	1	3.3
+
+/mods/physicalDescription		http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	1	3.3
+/mods/physicalDescription/form		http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	1	3.3
+/mods/physicalDescription/extent	1 map : col. ; 10 x 11 cm. on sheet 40 x 26.2 cm.	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	1	3.3
+
+/mods/note	Map shows the author's journey from Fort McLeod out to the foothills and back. It shows ranches and a mill. Map by J & C Temple from Sketches by CCMCC. Rest of page has illustrations: "Behind the blind," "In camp," "Some game," "Lots of fun," "At home again." Overall title is "Wild Fowling in Canada."	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	7	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	1	3.3
+
+/mods/note	Name at the bottom is John Swain.	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	7	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	1	3.3
+
+/mods/note	peelmaps	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	7	3.3
+/mods/note/@type	local:oaiset	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	1	3.3
+
+/mods/note	1	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	7	3.3
+/mods/note/@type	local:sheetcount	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	1	3.3
+
+/mods/note	40 x 26.2 cm.	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	7	3.3
+/mods/note/@type	local:sheetsize	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	1	3.3
+
+/mods/note	40	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	7	3.3
+/mods/note/@type	local:sheetlength	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	1	3.3
+
+/mods/note	26.2	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	7	3.3
+/mods/note/@type	local:sheetwidth	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	11	3.3
+/mods/subject/@authority	lcsh	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	1	3.3
+/mods/subject/@lang	eng	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	1	3.3
+/mods/subject/geographic	Alberta	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	11	3.3
+/mods/subject/@authority	lcsh	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	1	3.3
+/mods/subject/@lang	eng	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	1	3.3
+/mods/subject/geographic	Oldman River (Alta.)	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	11	3.3
+/mods/subject/geographic	Porcupine Hills	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	11	3.3
+/mods/subject/geographic	Old Man River	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	11	3.3
+/mods/subject/geographic	Fort McLeod	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	11	3.3
+/mods/subject/geographic	Willow Creek	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	11	3.3
+/mods/subject/geographic	Pincher Creek	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	11	3.3
+/mods/subject/geographic	Crows Nest Pass	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	11	3.3
+/mods/subject/geographic	Heneys Lake	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	11	3.3
+/mods/subject/temporal	1883	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	11	3.3
+/mods/subject/cartographics		http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	1	3.3
+/mods/subject/cartographics/coordinates	w11405xx/n04945xx w113xxxx/n04945xx w113xxxx/n049xxxx w11405xx/n049xxxx	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	1	3.3
+
+/mods/classification	Alberta E-68	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	1	3.3
+
+/mods/identifier	587	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	5	3.3
+/mods/identifier/@type	local:mapsproject	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	1	3.3
+
+/mods/identifier	AAA-0643	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	5	3.3
+/mods/identifier/@type	local:mapsdb	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	1	3.3
+
+/mods/identifier	587.xml	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	5	3.3
+/mods/identifier/@type	local:mapsproject_filename	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	1	3.3
+
+/mods/identifier	M000662	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	5	3.3
+/mods/identifier/@type	local:peel3	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	1	3.3
+
+/mods/identifier	N019353	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	5	3.3
+/mods/identifier/@type	local:old_peel_new	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	1	3.3
+
+/mods/location		http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	1	3.3
+/mods/location/physicalLocation	UA Cameron Staff Access-Maps	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	1	3.3
+/mods/location/url	http://peel.library.ualberta.ca/maps/M/00/06/M000662/M000662.tif	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	1	3.3
+/mods/location/url/@access	raw object	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	1	3.3
+/mods/location/url/@note	width='3106' height='4669'	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	1	3.3
+
+/mods/recordInfo		http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	1	3.3
+/mods/recordInfo/recordContentSource	mapsproject	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	2	3.3
+/mods/recordInfo/recordContentSource/@authority	local:project	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	1	3.3
+/mods/recordInfo/recordContentSource	jhuck	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	2	3.3
+/mods/recordInfo/recordContentSource/@authority	local:person	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	1	3.3
+/mods/recordInfo/recordIdentifier	M000662	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	1	3.3
+/mods/recordInfo/recordChangeDate	2014-01-10T15:42:26-0700	http://peel.library.ualberta.ca/maps/M000662.html	map Digital maps 	1	3.3
+

@@ -1,0 +1,168 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		rschramm	PC005337	postcards	1	3.2
+	/mods/@version	3.2	rschramm	PC005337	postcards	1	3.2
+	/mods/titleInfo		rschramm	PC005337	postcards	1	3.2
+	/mods/titleInfo/@lang	english	rschramm	PC005337	postcards	1	3.2
+	/mods/titleInfo/title	9th Ave. and C.P.R. station, Calgary, Alta.	rschramm	PC005337	postcards	1	3.2
+	/mods/name		rschramm	PC005337	postcards	1	3.2
+	/mods/name/@type	corporate	rschramm	PC005337	postcards	1	3.2
+	/mods/name/namePart	Stedman Bros., Limited	rschramm	PC005337	postcards	1	3.2
+	/mods/name/role		rschramm	PC005337	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	rschramm	PC005337	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	rschramm	PC005337	postcards	1	3.2
+	/mods/typeOfResource	still image	rschramm	PC005337	postcards	1	3.2
+	/mods/genre	postcards	rschramm	PC005337	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	rschramm	PC005337	postcards	1	3.2
+	/mods/originInfo		rschramm	PC005337	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	rschramm	PC005337	postcards	1	3.2
+	/mods/originInfo/publisher	Stedman Bros. Ltd., Brantford and Winnipeg, Canada	rschramm	PC005337	postcards	1	3.2
+	/mods/originInfo/dateIssued	1911	rschramm	PC005337	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	approximate	rschramm	PC005337	postcards	1	3.2
+	/mods/originInfo/place		rschramm	PC005337	postcards	2	3.2
+	/mods/originInfo/place/placeTerm	Brantford	rschramm	PC005337	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	rschramm	PC005337	postcards	1	3.2
+	/mods/originInfo/place		rschramm	PC005337	postcards	2	3.2
+	/mods/originInfo/place/placeTerm	Winnipeg	rschramm	PC005337	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	rschramm	PC005337	postcards	1	3.2
+	/mods/language		rschramm	PC005337	postcards	1	3.2
+	/mods/language/languageTerm	English	rschramm	PC005337	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	rschramm	PC005337	postcards	1	3.2
+	/mods/physicalDescription		rschramm	PC005337	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : b&w ; 9 x 14 cm.	rschramm	PC005337	postcards	1	3.2
+	/mods/note	30	rschramm	PC005337	postcards	12	3.2
+	/mods/note/@type	price	rschramm	PC005337	postcards	1	3.2
+	/mods/note	false	rschramm	PC005337	postcards	12	3.2
+	/mods/note/@type	notable	rschramm	PC005337	postcards	1	3.2
+	/mods/note	false	rschramm	PC005337	postcards	12	3.2
+	/mods/note/@type	imgprobs	rschramm	PC005337	postcards	1	3.2
+	/mods/note	View of 9th Avenue in Calgary, Alberta including the CPR train station.	rschramm	PC005337	postcards	12	3.2
+	/mods/note/@type	public_description	rschramm	PC005337	postcards	1	3.2
+	/mods/note	Mr. C. Kerr	rschramm	PC005337	postcards	12	3.2
+	/mods/note/@type	public_to	rschramm	PC005337	postcards	1	3.2
+	/mods/note	AS	rschramm	PC005337	postcards	12	3.2
+	/mods/note/@type	public_from	rschramm	PC005337	postcards	1	3.2
+	/mods/note	Banff, Alta.	rschramm	PC005337	postcards	12	3.2
+	/mods/note/@type	public_address	rschramm	PC005337	postcards	1	3.2
+	/mods/note	All serene at the O.M.D. but have a presentiment there will be an outbreak by Wed., and then there will be a mad rush for the mountains. So don't be frightened if you hear strange sounds. AS	rschramm	PC005337	postcards	12	3.2
+	/mods/note/@type	public_message	rschramm	PC005337	postcards	1	3.2
+	/mods/note	Calgary, Alta., 1911-07-07	rschramm	PC005337	postcards	12	3.2
+	/mods/note/@type	public_postmark_date	rschramm	PC005337	postcards	1	3.2
+	/mods/note	Banff, Alta., 1911-07-08	rschramm	PC005337	postcards	12	3.2
+	/mods/note/@type	public_postmark_date	rschramm	PC005337	postcards	1	3.2
+	/mods/note	Made in Germany	rschramm	PC005337	postcards	12	3.2
+	/mods/note/@type	public_on_back	rschramm	PC005337	postcards	1	3.2
+	/mods/note	[Printer's no.] S.B.4567	rschramm	PC005337	postcards	12	3.2
+	/mods/note/@type	public_on_back	rschramm	PC005337	postcards	1	3.2
+	/mods/subject		rschramm	PC005337	postcards	6	3.2
+	/mods/subject/geographic	Calgary, AB	rschramm	PC005337	postcards	1	3.2
+	/mods/subject		rschramm	PC005337	postcards	6	3.2
+	/mods/subject/hierarchicalGeographic		rschramm	PC005337	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	rschramm	PC005337	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	rschramm	PC005337	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Calgary	rschramm	PC005337	postcards	1	3.2
+	/mods/subject		rschramm	PC005337	postcards	6	3.2
+	/mods/subject/genre	Postcards	rschramm	PC005337	postcards	1	3.2
+	/mods/subject		rschramm	PC005337	postcards	6	3.2
+	/mods/subject/topic	Cityscapes	rschramm	PC005337	postcards	1	3.2
+	/mods/subject		rschramm	PC005337	postcards	6	3.2
+	/mods/subject/topic	Hotels	rschramm	PC005337	postcards	1	3.2
+	/mods/subject		rschramm	PC005337	postcards	6	3.2
+	/mods/subject/topic	Commercial streets	rschramm	PC005337	postcards	1	3.2
+	/mods/identifier	PC005337	rschramm	PC005337	postcards	1	3.2
+	/mods/identifier/@type	local	rschramm	PC005337	postcards	1	3.2
+	/mods/location		rschramm	PC005337	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 6	rschramm	PC005337	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC005337.html	rschramm	PC005337	postcards	3	3.2
+	/mods/location/url/@access	object in context	rschramm	PC005337	postcards	1	3.2
+	/mods/location/url/@usage	primary display	rschramm	PC005337	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/005/web/PC005337.jpg	rschramm	PC005337	postcards	3	3.2
+	/mods/location/url/@access	raw object	rschramm	PC005337	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='518' 	rschramm	PC005337	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/005/thumbs/PC005337.jpg	rschramm	PC005337	postcards	3	3.2
+	/mods/location/url/@access	preview	rschramm	PC005337	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='130'	rschramm	PC005337	postcards	1	3.2
+	/mods/recordInfo		rschramm	PC005337	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	rschramm	PC005337	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC005337	rschramm	PC005337	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	rschramm	rschramm	PC005337	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2008-05-23T15:50:31-0600	rschramm	PC005337	postcards	1	3.2
+	/@mods	
+
+9th Ave. and C.P.R. station, Calgary, Alta.
+
+
+Stedman Bros., Limited
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+Stedman Bros. Ltd., Brantford and Winnipeg, Canada
+1911
+
+Brantford
+
+
+Winnipeg
+
+
+
+English
+
+
+1 postcard : b&w ; 9 x 14 cm.
+
+30
+false
+false
+View of 9th Avenue in Calgary, Alberta including the CPR train station.
+Mr. C. Kerr
+AS
+Banff, Alta.
+All serene at the O.M.D. but have a presentiment there will be an outbreak by Wed., and then there will be a mad rush for the mountains. So don't be frightened if you hear strange sounds. AS
+Calgary, Alta., 1911-07-07
+Banff, Alta., 1911-07-08
+Made in Germany
+[Printer's no.] S.B.4567
+
+Calgary, AB
+
+
+
+Canada
+Alberta
+Calgary
+
+
+
+Postcards
+
+
+Cityscapes
+
+
+Hotels
+
+
+Commercial streets
+
+PC005337
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 6
+http://peel.library.ualberta.ca/postcards/PC005337.html
+http://peel.library.ualberta.ca/pcimages/PC/005/web/PC005337.jpg
+http://peel.library.ualberta.ca/pcimages/PC/005/thumbs/PC005337.jpg
+
+
+
+
+2007-06-25T16:49:56-0600
+PC005337
+rschramm
+2008-05-23T15:50:31-0600
+
+	rschramm	PC005337	postcards	1	3.2
+	

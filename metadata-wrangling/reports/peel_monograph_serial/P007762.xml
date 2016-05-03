@@ -1,0 +1,147 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@schemaLocation	http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/nonSort	La 	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	dédicace de la cathédrale de Saint-Boniface	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MANaN	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	corporate	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Oblates of Mary Immaculate	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	French	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	23 cm.	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject		periodical	5	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000803	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Cathedrals--Manitoba--St. Boniface	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject		periodical	5	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000803	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Cathédrales--Manitoba--St. Boniface	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject		periodical	5	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	Other	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS004057	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Saint-Boniface, Manitoba	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject		periodical	5	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:geographic	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Saint-Boniface, Manitoba	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject		periodical	5	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1887	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem		periodical	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@type	host	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/genre	periodical	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/genre/@authority	marcgt	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/titleInfo		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/titleInfo/title	Missions de la Congrégation des missionnaires oblats de Marie Immaculée	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/originInfo		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/originInfo/issuance	continuing	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/originInfo/publisher	A. Hennuyer	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/originInfo/place		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/originInfo/place/placeTerm	Paris	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/detail		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/detail/number	100	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/detail/caption	no	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/extent		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/extent/@unit	page	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/extent/start	468	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/extent/end	469	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/date	1887-12	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/date/@point	start	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem		periodical	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@type	series	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/identifier	missions	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/identifier/@type	local:oai-set	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	907	periodical	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel_new	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	7762	periodical	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal	periodical	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P007762	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2004-12-22T09:47:43-0700	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	CR	periodical	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource/@authority	local:person	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+    
+        La 
+        dédicace de la cathédrale de Saint-Boniface
+    
+    
+        Oblates of Mary Immaculate
+        
+            author
+        
+    
+    
+        French
+    
+    
+        23 cm.
+    
+    
+        Cathedrals--Manitoba--St. Boniface
+    
+    
+        Cathédrales--Manitoba--St. Boniface
+    
+    
+        Saint-Boniface, Manitoba
+    
+    
+        Saint-Boniface, Manitoba
+    
+    
+        1887
+    
+    
+        periodical
+        
+            Missions de la Congrégation des missionnaires oblats de Marie Immaculée
+        
+        
+            continuing
+            A. Hennuyer
+            
+                Paris
+            
+        
+        
+            
+                100
+                no
+            
+            
+                468
+                469
+            
+            1887-12
+        
+    
+    
+        missions
+    
+    907
+    7762
+    
+        Peel's Prairie Portal
+        P007762
+        2004-12-22T09:47:43-0700
+        CR
+    
+	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

@@ -1,0 +1,120 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods		picture	1	3.2
+	/mods/@version	3.2	picture	1	3.2
+	/mods/titleInfo		picture	1	3.2
+	/mods/titleInfo/title	Original photographs of Jasper Park	picture	1	3.2
+	/mods/name		picture	1	3.2
+	/mods/name/@type	personal	picture	1	3.2
+	/mods/name/namePart	Johnston, Tom H	picture	1	3.2
+	/mods/typeOfResource	still image	picture	1	3.2
+	/mods/genre	picture	picture	1	3.2
+	/mods/genre/@authority	marcgt	picture	1	3.2
+	/mods/originInfo		picture	1	3.2
+	/mods/originInfo/place		picture	2	3.2
+	/mods/originInfo/place/placeTerm	abc	picture	1	3.2
+	/mods/originInfo/place/placeTerm/@authority	marccountry	picture	1	3.2
+	/mods/originInfo/place/placeTerm/@type	code	picture	1	3.2
+	/mods/originInfo/place		picture	2	3.2
+	/mods/originInfo/place/placeTerm	Jasper, Alta.	picture	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	picture	1	3.2
+	/mods/originInfo/publisher	Tom H. Johnston	picture	1	3.2
+	/mods/originInfo/dateIssued	[194-?]	picture	5	3.2
+	/mods/originInfo/dateIssued	1940	picture	5	3.2
+	/mods/originInfo/dateIssued/@encoding	marc	picture	1	3.2
+	/mods/originInfo/dateIssued/@point	start	picture	1	3.2
+	/mods/originInfo/dateIssued	1949	picture	5	3.2
+	/mods/originInfo/dateIssued/@encoding	marc	picture	1	3.2
+	/mods/originInfo/dateIssued/@point	end	picture	1	3.2
+	/mods/originInfo/dateIssued	1940	picture	5	3.2
+	/mods/originInfo/dateIssued/@encoding	marc	picture	1	3.2
+	/mods/originInfo/dateIssued/@point	start	picture	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	questionable	picture	1	3.2
+	/mods/originInfo/dateIssued	1949	picture	5	3.2
+	/mods/originInfo/dateIssued/@encoding	marc	picture	1	3.2
+	/mods/originInfo/dateIssued/@point	end	picture	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	questionable	picture	1	3.2
+	/mods/originInfo/issuance	monographic	picture	1	3.2
+	/mods/language		picture	1	3.2
+	/mods/language/languageTerm	eng	picture	1	3.2
+	/mods/language/languageTerm/@authority	iso639-2b	picture	1	3.2
+	/mods/language/languageTerm/@type	code	picture	1	3.2
+	/mods/physicalDescription		picture	1	3.2
+	/mods/physicalDescription/form	picture	picture	1	3.2
+	/mods/physicalDescription/form/@authority	gmd	picture	1	3.2
+	/mods/physicalDescription/extent	12 photographs in envelope ; 9 x 15 cm.	picture	1	3.2
+	/mods/note	by Tom H. Johnston.	picture	5	3.2
+	/mods/note/@type	statement of responsibility	picture	1	3.2
+	/mods/note	Title from envelope.	picture	5	3.2
+	/mods/note	http://chelsea.library.ualberta.ca:8081/peel_master/select/?q=%28authorAuthority%3A%22Johnston%2C+Tom+H%22%29+OR+%28subjectAuthority%3A%22Jasper+National+Park+%28Alta.%29%22%29&fl=id+authorAuthority+authorDates+subjectAuthority+authorityAuthority&rows=100	picture	5	3.2
+	/mods/note/@type	solr	picture	1	3.2
+	/mods/note	DOA: 1940 Spatial: Jasper National Park (Alta.)	picture	5	3.2
+	/mods/note/@type	local	picture	1	3.2
+	/mods/note	Title from envelope. Set of photographs presumably issued as a tourist souvenir.	picture	5	3.2
+	/mods/note/@type	public	picture	1	3.2
+	/mods/subject		picture	1	3.2
+	/mods/subject/@authority	lcsh	picture	1	3.2
+	/mods/subject/geographic	Jasper National Park (Alta.)	picture	1	3.2
+	/mods/identifier	3838580	picture	3	3.2
+	/mods/identifier/@type	local:neos	picture	1	3.2
+	/mods/identifier	N008476	picture	3	3.2
+	/mods/identifier/@type	local:peel_new	picture	1	3.2
+	/mods/identifier	9425	picture	3	3.2
+	/mods/identifier/@type	local:peel3	picture	1	3.2
+	/mods/recordInfo		picture	1	3.2
+	/mods/recordInfo/recordContentSource	RC	picture	2	3.2
+	/mods/recordInfo/recordContentSource	RC	picture	2	3.2
+	/mods/recordInfo/recordContentSource/@authority	local:person	picture	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-02-06T12:00:00-0700	picture	1	3.2
+	/mods/recordInfo/recordIdentifier	P009425	picture	1	3.2
+	/mods/recordInfo/recordChangeDate	2010-01-10T10:12:52-0700	picture	1	3.2
+	/@mods	
+
+Original photographs of Jasper Park
+
+
+Johnston, Tom H
+
+still image
+picture
+
+
+abc
+
+
+Jasper, Alta.
+
+Tom H. Johnston
+[194-?]
+1940
+1949
+1940
+1949
+monographic
+
+
+eng
+
+
+picture
+12 photographs in envelope ; 9 x 15 cm.
+
+by Tom H. Johnston.
+Title from envelope.
+http://chelsea.library.ualberta.ca:8081/peel_master/select/?q=%28authorAuthority%3A%22Johnston%2C+Tom+H%22%29+OR+%28subjectAuthority%3A%22Jasper+National+Park+%28Alta.%29%22%29&fl=id+authorAuthority+authorDates+subjectAuthority+authorityAuthority&rows=100
+DOA: 1940 Spatial: Jasper National Park (Alta.)
+Title from envelope. Set of photographs presumably issued as a tourist souvenir.
+
+				Jasper National Park (Alta.)
+			
+3838580
+N008476
+9425
+
+RC
+RC
+2007-02-06T12:00:00-0700
+P009425
+2010-01-10T10:12:52-0700
+
+	picture	1	3.2
+	

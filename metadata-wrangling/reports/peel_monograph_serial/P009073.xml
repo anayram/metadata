@@ -1,0 +1,183 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	Echoes in the halls		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/subTitle	An unofficial history of the University of Alberta		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	McIntosh, Gordon		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	editor		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.2		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Spencer, Mary		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	1923-.		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart/@type	date		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	editor		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Dier, Kay		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	1922-.		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart/@type	date		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	editor		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.4		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	corporate		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	University of Alberta.		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Association of Professors Emeriti		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	abc		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@authority	marccountry		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	code		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	Edmonton		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	Duval House Publishing		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1999		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1999		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued/@encoding	marc		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/issuance	monographic		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	eng		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@authority	iso639-2b		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	code		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	English		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	x, 332 p. : ill. ; 23 cm.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	Association of Professors Emeriti of the University of Alberta.		5	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	statement of responsibility		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	Edited by Mary Spencer, Kay Dier and Gordon McIntosh.		5	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	uahistory		5	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	oaiset		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	DOA: 1908 Spatial: Edmonton (Alta.)		5	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	local		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	Co-published by the University of Alberta Press. Collection of reminiscences from retired staff and faculty about their experiences at the University of Alberta.		5	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	public		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographicCode	n-cn-ab		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographicCode/@authority	marcgac		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name/@type	corporate		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name/namePart	University of Alberta		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	History		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Anecdotes		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1999		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/classification	378.7123/3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/classification/@authority	ddc		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/classification/@edition	21		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	1552200744:		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	isbn		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	9073		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	8268		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel_new		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	2438185		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:neos		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	RC		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P009073		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordChangeDate	2010-03-20T09:33:02-0600		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+
+Echoes in the halls
+An unofficial history of the University of Alberta
+
+
+McIntosh, Gordon
+
+editor
+
+
+
+Spencer, Mary
+1923-.
+
+editor
+
+
+
+Dier, Kay
+1922-.
+
+editor
+
+
+
+University of Alberta.
+Association of Professors Emeriti
+
+text
+
+
+abc
+
+
+Edmonton
+
+Duval House Publishing
+1999
+1999
+monographic
+
+
+eng
+English
+
+
+print
+x, 332 p. : ill. ; 23 cm.
+
+Association of Professors Emeriti of the University of Alberta.
+Edited by Mary Spencer, Kay Dier and Gordon McIntosh.
+uahistory
+DOA: 1908 Spatial: Edmonton (Alta.)
+Co-published by the University of Alberta Press. Collection of reminiscences from retired staff and faculty about their experiences at the University of Alberta.
+
+				n-cn-ab
+			
+
+				
+University of Alberta
+
+			
+				History
+			
+				Anecdotes
+			
+
+				1999
+			
+378.7123/3
+1552200744:
+9073
+8268
+2438185
+
+Peel's Prairie Portal
+RC
+2003-01-01T12:00:00-0700
+P009073
+2010-03-20T09:33:02-0600
+
+		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

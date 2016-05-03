@@ -1,0 +1,131 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@schemaLocation	http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/nonSort	A 		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	beaver's tooth		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/subTitle	With some account of the beaver's works and ways, of Indian legends about the beaver, and of curious Old World beliefs of the magical and medical powers of castoreum and beavers' teeth		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA000484		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	corporate		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Manitoba Free Press		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	Winnipeg		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	[Manitoba Free Press]		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1909		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	English		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	24 p., illus.; 18 cm.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	"Christmas, nineteen hundred and nine" issued accompanied by a mounted beaver's tooth. For other Christmas issues by Manitoba Free Press  <i>see </i>Peel <xref>17</xref>, <xref>2635</xref>, <xref>2698</xref>, <xref>2778</xref>, <xref>2971</xref>, <xref>3081</xref>, <xref>3617</xref>, and <xref>3773</xref>. 		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	public		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			7	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000225		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Animals--History		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			7	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000225		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Animaux--Histoire		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			7	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000868		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Christmas		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			7	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000868		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Noël		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			7	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS004318		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Souvenirs (Keepsakes)		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			7	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS004318		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Souvenirs (Objets)		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			7	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1909		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	3314		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	3310		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel-procite-id		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P003314		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+    
+        A 
+        beaver's tooth
+        With some account of the beaver's works and ways, of Indian legends about the beaver, and of curious Old World beliefs of the magical and medical powers of castoreum and beavers' teeth
+    
+    
+        Manitoba Free Press
+        
+            author
+        
+    
+    text
+    
+        
+            Winnipeg
+        
+        [Manitoba Free Press]
+        1909
+    
+    
+        English
+    
+    
+        print
+        24 p., illus.; 18 cm.
+    
+    "Christmas, nineteen hundred and nine" issued accompanied by a mounted beaver's tooth. For other Christmas issues by Manitoba Free Press  <i>see </i>Peel <xref>17</xref>, <xref>2635</xref>, <xref>2698</xref>, <xref>2778</xref>, <xref>2971</xref>, <xref>3081</xref>, <xref>3617</xref>, and <xref>3773</xref>. 
+    
+        Animals--History
+    
+    
+        Animaux--Histoire
+    
+    
+        Christmas
+    
+    
+        Noël
+    
+    
+        Souvenirs (Keepsakes)
+    
+    
+        Souvenirs (Objets)
+    
+    
+        1909
+    
+    3314
+    3310
+    
+        Peel's Prairie Portal
+        P003314
+        2003-01-01T12:00:00-0700
+    
+		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

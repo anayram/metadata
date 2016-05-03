@@ -1,0 +1,356 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods		journal issue	1	
+	/mods/titleInfo		journal issue	1	
+	/mods/titleInfo/title	Alberta Historical Review	journal issue	1	
+	/mods/originInfo		journal issue	2	
+	/mods/originInfo/issuance	continuing	journal issue	1	
+	/mods/identifier	0316-1552	journal issue	2	
+	/mods/identifier/@type	issn	journal issue	1	
+	/mods/part		journal issue	1	
+	/mods/part/detail		journal issue	2	
+	/mods/part/detail/@type	volume	journal issue	1	
+	/mods/part/detail/number	11	journal issue	1	
+	/mods/part/detail		journal issue	2	
+	/mods/part/detail/@type	issue	journal issue	1	
+	/mods/part/detail/number	2	journal issue	1	
+	/mods/part/detail/caption	no.	journal issue	1	
+	/mods/part/date	1963	journal issue	1	
+	/mods/note	Spring	journal issue	1	
+	/mods/note/@type	season	journal issue	1	
+	/mods/language		journal issue	1	
+	/mods/language/languageTerm	English	journal issue	1	
+	/mods/language/languageTerm/@type	text	journal issue	1	
+	/mods/genre	journal issue	journal issue	1	
+	/mods/originInfo		journal issue	2	
+	/mods/originInfo/dateIssued	1963	journal issue	1	
+	/mods/relatedItem		journal issue	6	
+	/mods/relatedItem/@type	constituent	journal issue	1	
+	/mods/relatedItem/titleInfo		journal issue	1	
+	/mods/relatedItem/titleInfo/title	The Last Great Roundup	journal issue	1	
+	/mods/relatedItem/name		journal issue	1	
+	/mods/relatedItem/name/@type	personal	journal issue	1	
+	/mods/relatedItem/name/namePart	Hughes, Katherine	journal issue	1	
+	/mods/relatedItem/name/role		journal issue	1	
+	/mods/relatedItem/name/role/roleTerm	author	journal issue	1	
+	/mods/relatedItem/name/role/roleTerm/@type	text	journal issue	1	
+	/mods/relatedItem/language		journal issue	1	
+	/mods/relatedItem/language/languageTerm	English	journal issue	1	
+	/mods/relatedItem/language/languageTerm/@type	text	journal issue	1	
+	/mods/relatedItem/genre	journal article	journal issue	1	
+	/mods/relatedItem/originInfo		journal issue	1	
+	/mods/relatedItem/originInfo/dateIssued	1963	journal issue	1	
+	/mods/relatedItem/part		journal issue	1	
+	/mods/relatedItem/part/extent		journal issue	1	
+	/mods/relatedItem/part/extent/@unit	page	journal issue	1	
+	/mods/relatedItem/part/extent/start	1	journal issue	1	
+	/mods/relatedItem/part/extent/end	7	journal issue	1	
+	/mods/relatedItem/recordInfo		journal issue	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9021.11.2.1-7	journal issue	1	
+	/mods/relatedItem/note	blocked	journal issue	1	
+	/mods/relatedItem/note/@type	copyright	journal issue	1	
+	/mods/relatedItem		journal issue	6	
+	/mods/relatedItem/@type	constituent	journal issue	1	
+	/mods/relatedItem/titleInfo		journal issue	1	
+	/mods/relatedItem/titleInfo/title	Origin and Development of Public Telephones in Alberta	journal issue	1	
+	/mods/relatedItem/name		journal issue	1	
+	/mods/relatedItem/name/@type	personal	journal issue	1	
+	/mods/relatedItem/name/namePart	Williams, J.E.	journal issue	1	
+	/mods/relatedItem/name/role		journal issue	1	
+	/mods/relatedItem/name/role/roleTerm	author	journal issue	1	
+	/mods/relatedItem/name/role/roleTerm/@type	text	journal issue	1	
+	/mods/relatedItem/language		journal issue	1	
+	/mods/relatedItem/language/languageTerm	English	journal issue	1	
+	/mods/relatedItem/language/languageTerm/@type	text	journal issue	1	
+	/mods/relatedItem/genre	journal article	journal issue	1	
+	/mods/relatedItem/originInfo		journal issue	1	
+	/mods/relatedItem/originInfo/dateIssued	1963	journal issue	1	
+	/mods/relatedItem/part		journal issue	1	
+	/mods/relatedItem/part/extent		journal issue	1	
+	/mods/relatedItem/part/extent/@unit	page	journal issue	1	
+	/mods/relatedItem/part/extent/start	8	journal issue	1	
+	/mods/relatedItem/part/extent/end	12	journal issue	1	
+	/mods/relatedItem/recordInfo		journal issue	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9021.11.2.8-12	journal issue	1	
+	/mods/relatedItem/note	blocked	journal issue	1	
+	/mods/relatedItem/note/@type	copyright	journal issue	1	
+	/mods/relatedItem		journal issue	6	
+	/mods/relatedItem/@type	constituent	journal issue	1	
+	/mods/relatedItem/titleInfo		journal issue	1	
+	/mods/relatedItem/titleInfo/title	Smallpox Epidemic of 1869-70	journal issue	1	
+	/mods/relatedItem/language		journal issue	1	
+	/mods/relatedItem/language/languageTerm	English	journal issue	1	
+	/mods/relatedItem/language/languageTerm/@type	text	journal issue	1	
+	/mods/relatedItem/genre	journal article	journal issue	1	
+	/mods/relatedItem/originInfo		journal issue	1	
+	/mods/relatedItem/originInfo/dateIssued	1963	journal issue	1	
+	/mods/relatedItem/part		journal issue	1	
+	/mods/relatedItem/part/extent		journal issue	1	
+	/mods/relatedItem/part/extent/@unit	page	journal issue	1	
+	/mods/relatedItem/part/extent/start	13	journal issue	1	
+	/mods/relatedItem/part/extent/end	19	journal issue	1	
+	/mods/relatedItem/recordInfo		journal issue	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9021.11.2.13-19	journal issue	1	
+	/mods/relatedItem/note	clear	journal issue	1	
+	/mods/relatedItem/note/@type	copyright	journal issue	1	
+	/mods/relatedItem		journal issue	6	
+	/mods/relatedItem/@type	constituent	journal issue	1	
+	/mods/relatedItem/titleInfo		journal issue	1	
+	/mods/relatedItem/titleInfo/title	The Beaver River Route	journal issue	1	
+	/mods/relatedItem/name		journal issue	1	
+	/mods/relatedItem/name/@type	personal	journal issue	1	
+	/mods/relatedItem/name/namePart	Scott, Walter H.	journal issue	1	
+	/mods/relatedItem/name/role		journal issue	1	
+	/mods/relatedItem/name/role/roleTerm	author	journal issue	1	
+	/mods/relatedItem/name/role/roleTerm/@type	text	journal issue	1	
+	/mods/relatedItem/language		journal issue	1	
+	/mods/relatedItem/language/languageTerm	English	journal issue	1	
+	/mods/relatedItem/language/languageTerm/@type	text	journal issue	1	
+	/mods/relatedItem/genre	journal article	journal issue	1	
+	/mods/relatedItem/originInfo		journal issue	1	
+	/mods/relatedItem/originInfo/dateIssued	1963	journal issue	1	
+	/mods/relatedItem/part		journal issue	1	
+	/mods/relatedItem/part/extent		journal issue	1	
+	/mods/relatedItem/part/extent/@unit	page	journal issue	1	
+	/mods/relatedItem/part/extent/start	20	journal issue	1	
+	/mods/relatedItem/part/extent/end	22	journal issue	1	
+	/mods/relatedItem/recordInfo		journal issue	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9021.11.2.20-22	journal issue	1	
+	/mods/relatedItem/note	blocked	journal issue	1	
+	/mods/relatedItem/note/@type	copyright	journal issue	1	
+	/mods/relatedItem		journal issue	6	
+	/mods/relatedItem/@type	constituent	journal issue	1	
+	/mods/relatedItem/titleInfo		journal issue	1	
+	/mods/relatedItem/titleInfo/title	Notes and Comments and Letters from Readers	journal issue	1	
+	/mods/relatedItem/language		journal issue	1	
+	/mods/relatedItem/language/languageTerm	English	journal issue	1	
+	/mods/relatedItem/language/languageTerm/@type	text	journal issue	1	
+	/mods/relatedItem/genre	journal article	journal issue	1	
+	/mods/relatedItem/originInfo		journal issue	1	
+	/mods/relatedItem/originInfo/dateIssued	1963	journal issue	1	
+	/mods/relatedItem/part		journal issue	1	
+	/mods/relatedItem/part/extent		journal issue	1	
+	/mods/relatedItem/part/extent/@unit	page	journal issue	1	
+	/mods/relatedItem/part/extent/start	23	journal issue	1	
+	/mods/relatedItem/part/extent/end	26	journal issue	1	
+	/mods/relatedItem/recordInfo		journal issue	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9021.11.2.23-26	journal issue	1	
+	/mods/relatedItem/note	clear	journal issue	1	
+	/mods/relatedItem/note/@type	copyright	journal issue	1	
+	/mods/relatedItem		journal issue	6	
+	/mods/relatedItem/@type	constituent	journal issue	1	
+	/mods/relatedItem/titleInfo		journal issue	1	
+	/mods/relatedItem/titleInfo/title	Western Bookshelf	journal issue	1	
+	/mods/relatedItem/language		journal issue	1	
+	/mods/relatedItem/language/languageTerm	English	journal issue	1	
+	/mods/relatedItem/language/languageTerm/@type	text	journal issue	1	
+	/mods/relatedItem/genre	journal article	journal issue	1	
+	/mods/relatedItem/originInfo		journal issue	1	
+	/mods/relatedItem/originInfo/dateIssued	1963	journal issue	1	
+	/mods/relatedItem/part		journal issue	1	
+	/mods/relatedItem/part/extent		journal issue	1	
+	/mods/relatedItem/part/extent/@unit	page	journal issue	1	
+	/mods/relatedItem/part/extent/start	27	journal issue	1	
+	/mods/relatedItem/part/extent/end	32	journal issue	1	
+	/mods/relatedItem/recordInfo		journal issue	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9021.11.2.27-32	journal issue	1	
+	/mods/relatedItem/note	clear	journal issue	1	
+	/mods/relatedItem/note/@type	copyright	journal issue	1	
+	/mods/identifier	9021.11.2	journal issue	2	
+	/mods/identifier/@type	local:peel3	journal issue	1	
+	/mods/recordInfo		journal issue	1	
+	/mods/recordInfo/recordIdentifier	P009021.11.2	journal issue	1	
+	/@mods	
+		
+			Alberta Historical Review
+		
+		
+			continuing
+		
+		0316-1552
+		
+			
+				11
+			
+			
+				2
+				no.
+			
+			1963
+		
+		Spring
+		
+			English
+		
+		journal issue
+		
+			1963
+		
+		
+			
+				The Last Great Roundup
+			
+			
+				Hughes, Katherine
+				
+					author
+				
+			
+			
+				English
+			
+			journal article
+			
+				1963
+			
+			
+				
+					1
+					7
+				
+			
+			
+				
+				9021.11.2.1-7
+				
+			
+			blocked
+		
+		
+			
+				Origin and Development of Public Telephones in Alberta
+			
+			
+				Williams, J.E.
+				
+					author
+				
+			
+			
+				English
+			
+			journal article
+			
+				1963
+			
+			
+				
+					8
+					12
+				
+			
+			
+				
+				9021.11.2.8-12
+				
+			
+			blocked
+		
+		
+			
+				Smallpox Epidemic of 1869-70
+			
+			
+				English
+			
+			journal article
+			
+				1963
+			
+			
+				
+					13
+					19
+				
+			
+			
+				
+				9021.11.2.13-19
+				
+			
+			clear
+		
+		
+			
+				The Beaver River Route
+			
+			
+				Scott, Walter H.
+				
+					author
+				
+			
+			
+				English
+			
+			journal article
+			
+				1963
+			
+			
+				
+					20
+					22
+				
+			
+			
+				
+				9021.11.2.20-22
+				
+			
+			blocked
+		
+		
+			
+				Notes and Comments and Letters from Readers
+			
+			
+				English
+			
+			journal article
+			
+				1963
+			
+			
+				
+					23
+					26
+				
+			
+			
+				
+				9021.11.2.23-26
+				
+			
+			clear
+		
+		
+			
+				Western Bookshelf
+			
+			
+				English
+			
+			journal article
+			
+				1963
+			
+			
+				
+					27
+					32
+				
+			
+			
+				
+				9021.11.2.27-32
+				
+			
+			clear
+		
+		9021.11.2
+
+			P009021.11.2
+			
+		
+		journal issue	1	
+	

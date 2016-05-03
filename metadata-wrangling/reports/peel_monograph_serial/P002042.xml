@@ -1,0 +1,164 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@schemaLocation	http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/nonSort	La 		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	baie d'Hudson		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/subTitle	exploitation proposée de ses ressources de terre et de mer, nouvelle colonie, chemin de fer pour s'y rendre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA000726		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Baillairgé, Charles		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	1827-1906.		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart/@type	date		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/description	1827-1906. Architect and prolific author; elected charter Fellow of Royal Society of Canada, 1882 (Wallace, <i>Dictionary of Canadian biography</i>).		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	Joliette, Que.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	Impr. du Bon Combat, du Couvent et la Famille		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1893		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	French		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	42 p.; 24 cm.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	Also published, in  <i>Société de géographie de Québec Bulletin </i>, 1897, vol. 2, no. 2 (42p.); Joliette, Que.: Impr. du Bon Combat, du Couvent et la Famille, 1898 (42p.). For English version  <i>see </i>Peel <xref>2181</xref>. 		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	public		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Communications--Hudson Bay Route		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Explorers, Surveyors and Travellers--Description and Travel--Manitoba		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	Other		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS001938		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Hudson Bay Region (Man.)--Description and travel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002464		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Land settlement		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002464		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Colonisation intérieure		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003107		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Natural resources		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003107		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Ressources naturelles		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003750		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Railroads		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003750		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Railroads		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003750		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Chemins de fer		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1893		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	2042		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	2040		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel-procite-id		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P002042		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+    
+        La 
+        baie d'Hudson
+        exploitation proposée de ses ressources de terre et de mer, nouvelle colonie, chemin de fer pour s'y rendre
+    
+    
+        Baillairgé, Charles
+        1827-1906.
+        
+            author
+        
+        1827-1906. Architect and prolific author; elected charter Fellow of Royal Society of Canada, 1882 (Wallace, <i>Dictionary of Canadian biography</i>).
+    
+    text
+    
+        
+            Joliette, Que.
+        
+        Impr. du Bon Combat, du Couvent et la Famille
+        1893
+    
+    
+        French
+    
+    
+        print
+        42 p.; 24 cm.
+    
+    Also published, in  <i>Société de géographie de Québec Bulletin </i>, 1897, vol. 2, no. 2 (42p.); Joliette, Que.: Impr. du Bon Combat, du Couvent et la Famille, 1898 (42p.). For English version  <i>see </i>Peel <xref>2181</xref>. 
+    
+        Communications--Hudson Bay Route
+    
+    
+        Explorers, Surveyors and Travellers--Description and Travel--Manitoba
+    
+    
+        Hudson Bay Region (Man.)--Description and travel
+    
+    
+        Land settlement
+    
+    
+        Colonisation intérieure
+    
+    
+        Natural resources
+    
+    
+        Ressources naturelles
+    
+    
+        Railroads
+    
+    
+        Railroads
+    
+    
+        Chemins de fer
+    
+    
+        1893
+    
+    2042
+    2040
+    
+        Peel's Prairie Portal
+        P002042
+        2003-01-01T12:00:00-0700
+    
+		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

@@ -1,0 +1,161 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	Manitoba, the Canadian North-West		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/subTitle	Testimony of actual settlers		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	corporate		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA004065		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Canadian Pacific Railway		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	[Montreal]		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	[Canadian Pacific Railway]		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1884		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued/@qualifier	questionable		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	English		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	49, [2] p..; 20 cm.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	At head of title: "Queries and replies." On pages [50-51]: "Supplementary testimony of settlers." Also published, [Montreal]: Canadian Pacific Railway, 1886 (50p.). At head of this title: "1886."		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	public		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	main		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	local:frbr		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Settling the West--Immigration Literature		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002002		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Immigrants--Canada		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002002		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Immigrants--Canada		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003554		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Prairie Provinces--Description and travel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	Other		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003747		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Railroad land		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003747		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Railroad land grants		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003747		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Concessions ferroviaires		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1884		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@ID	t2		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@displayLabel	1886 ed.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@type	otherVersion		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@href	N032243		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	546		6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	0659		6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	733		6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel2		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	905		6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel2		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	1220		6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	1219		6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel-procite-id		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	RC		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P001220		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordChangeDate	2014-12-04T10:34:16-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+
+Manitoba, the Canadian North-West
+Testimony of actual settlers
+
+
+Canadian Pacific Railway
+
+author
+
+
+text
+
+
+[Montreal]
+
+[Canadian Pacific Railway]
+1884
+
+
+English
+
+
+print
+49, [2] p..; 20 cm.
+
+At head of title: "Queries and replies." On pages [50-51]: "Supplementary testimony of settlers." Also published, [Montreal]: Canadian Pacific Railway, 1886 (50p.). At head of this title: "1886."
+main
+
+				Settling the West--Immigration Literature
+			
+
+				Immigrants--Canada
+			
+
+				Immigrants--Canada
+			
+
+				Prairie Provinces--Description and travel
+			
+
+				Railroad land
+			
+
+				Railroad land grants
+			
+
+				Concessions ferroviaires
+			
+
+				1884
+			
+
+546
+0659
+733
+905
+1220
+1219
+
+Peel's Prairie Portal
+RC
+2003-01-01T12:00:00-0700
+P001220
+2014-12-04T10:34:16-0700
+
+		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

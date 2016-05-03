@@ -1,0 +1,105 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	Destiny of the human race		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA000916		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Maclean, John		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	1851-1928.		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart/@type	date		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/description	1851-1928. Methodist missionary and author; served as Chief Archivist of the Methodist Church of Canada; worked among Blood Indians, near Fort Macleod, 1880-1889; stationed at Moose Jaw, 1889-1892; at various churches in Manitoba, 1895-1928; during his stay in Northwest Territories, served as school inspector and on Board of Education (Morgan, <i>Canadian men and women of the time</i>, 1912; United Church of Canada. <i>Yearbook</i>, 1930).		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	[Toronto]		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	[s.n.]		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1892		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued/@qualifier	questionable		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	English		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	20 p.; 21 cm.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	Originally appeared in <i>Canadian Methodist Quarterly</i>. Also published in Peel <xref>2571</xref>.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	public		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002039		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Indians of North America		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002039		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Indiens d'Am�rique--Am�rique du Nord		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1892		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	2013		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	2011		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel-procite-id		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P002013		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordChangeDate	2012-07-13T09:47:38-0600		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	acarruth		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+
+Destiny of the human race
+
+
+Maclean, John
+1851-1928.
+
+author
+
+1851-1928. Methodist missionary and author; served as Chief Archivist of the Methodist Church of Canada; worked among Blood Indians, near Fort Macleod, 1880-1889; stationed at Moose Jaw, 1889-1892; at various churches in Manitoba, 1895-1928; during his stay in Northwest Territories, served as school inspector and on Board of Education (Morgan, <i>Canadian men and women of the time</i>, 1912; United Church of Canada. <i>Yearbook</i>, 1930).
+
+text
+
+
+[Toronto]
+
+[s.n.]
+1892
+
+
+English
+
+
+print
+20 p.; 21 cm.
+
+Originally appeared in <i>Canadian Methodist Quarterly</i>. Also published in Peel <xref>2571</xref>.
+
+				Indians of North America
+			
+
+				Indiens d'Am�rique--Am�rique du Nord
+			
+
+				1892
+			
+2013
+2011
+
+Peel's Prairie Portal
+2003-01-01T12:00:00-0700
+P002013
+2012-07-13T09:47:38-0600
+acarruth
+
+		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

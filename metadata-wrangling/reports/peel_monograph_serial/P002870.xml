@@ -1,0 +1,138 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@schemaLocation	http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/nonSort	"The 		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	Lord is my shepherd" in Cree		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA002922		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Mackay, John Alexander		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	1838-1923.		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart/@type	date		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/description	1838-1923. Native of Moosonee, Ontario; trained under Bishop Horden; ordained in the Church of England, 1862; at York Factory, 1862-1864, Stanley, 1864-1876, Nepowewin and Carlton, 1876-1877, and Battleford, 1877-1879; Cree tutor at Emmanuel College, Prince Albert, 1880-1884; in charge of Indian reserves at Battleford, 1885-1887; professor of divinity at Emmanuel, 1887-1900; superintendent of missions in diocese of Saskatchewan, 1900-1921; reorganized day school at Little Pine reserve, 1922; translator of religious works into Cree (Hopkins, <i>Canadian annual review</i>, 1923).		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	[London]		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	British and Foreign Bible Society		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1905		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued/@qualifier	questionable		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	Cree		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	English		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	[2] p.; 21 cm.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			7	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000410		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Bible. O.T.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			7	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000410		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Bible. A.T.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			7	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000411		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Bible--Versions		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			7	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000411		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Bible--Versions		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			7	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002131		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Indians of North America--Languages		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			7	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002131		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Langues indiennes d'Amérique--Amérique du Nord		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			7	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1905		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	2870		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	2867		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel-procite-id		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P002870		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+    
+        "The 
+        Lord is my shepherd" in Cree
+    
+    
+        Mackay, John Alexander
+        1838-1923.
+        
+            author
+        
+        1838-1923. Native of Moosonee, Ontario; trained under Bishop Horden; ordained in the Church of England, 1862; at York Factory, 1862-1864, Stanley, 1864-1876, Nepowewin and Carlton, 1876-1877, and Battleford, 1877-1879; Cree tutor at Emmanuel College, Prince Albert, 1880-1884; in charge of Indian reserves at Battleford, 1885-1887; professor of divinity at Emmanuel, 1887-1900; superintendent of missions in diocese of Saskatchewan, 1900-1921; reorganized day school at Little Pine reserve, 1922; translator of religious works into Cree (Hopkins, <i>Canadian annual review</i>, 1923).
+    
+    text
+    
+        
+            [London]
+        
+        British and Foreign Bible Society
+        1905
+    
+    
+        Cree
+    
+    
+        English
+    
+    
+        print
+        [2] p.; 21 cm.
+    
+    
+        Bible. O.T.
+    
+    
+        Bible. A.T.
+    
+    
+        Bible--Versions
+    
+    
+        Bible--Versions
+    
+    
+        Indians of North America--Languages
+    
+    
+        Langues indiennes d'Amérique--Amérique du Nord
+    
+    
+        1905
+    
+    2870
+    2867
+    
+        Peel's Prairie Portal
+        P002870
+        2003-01-01T12:00:00-0700
+    
+		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

@@ -1,0 +1,113 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@schemaLocation	http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/nonSort	The 		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	grand portage		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/subTitle	A novel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA000874		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	O'Meara, Walter		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	1897-1989.		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart/@type	date		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/description	1897-1989. Born and raised in Minnesota; worked as journalist and in advertising; became full-time writer, 1950; of 16 books published, most dealt with American Indians or Canadian fur trade; <i>The grand portage</i> was a best seller (Minnesota Historical Society).		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	Indianapolis, Ind.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	Bobbs-Merrill Co.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1951		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	English		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	352 p., maps on end-papers.; 22 cm.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	Fictionalized account of the life of fur trader Daniel W. Harmon (1778-1845) of the North West Company. Also published, London: Alvin Redman, 1952 (352p.); New York: Bantam Books, 1952 (308p.); [new Bantam edition], Toronto: Bantam Books of Canada, 1966 (280p.). Translated by Luz Maria Ojeda Flon as  <i>La Gran carga </i>, s.l.: s.n., s.d. (310p.); by M.L. Ohl as  <i>De grote strijd: een pionier vindt zijn levensgeluk </i>, The Hague, Netherlands: Ad. M.C. Stok, Zuid-hollandsche Uitgevers Mij., [1963] (300p.). 		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	public		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Literary Works--Fiction		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS001416		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Fiction		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS001416		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Roman		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1845		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	4256		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel2		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	227		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	227		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel-procite-id		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P000227		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+    
+        The 
+        grand portage
+        A novel
+    
+    
+        O'Meara, Walter
+        1897-1989.
+        
+            author
+        
+        1897-1989. Born and raised in Minnesota; worked as journalist and in advertising; became full-time writer, 1950; of 16 books published, most dealt with American Indians or Canadian fur trade; <i>The grand portage</i> was a best seller (Minnesota Historical Society).
+    
+    text
+    
+        
+            Indianapolis, Ind.
+        
+        Bobbs-Merrill Co.
+        1951
+    
+    
+        English
+    
+    
+        print
+        352 p., maps on end-papers.; 22 cm.
+    
+    Fictionalized account of the life of fur trader Daniel W. Harmon (1778-1845) of the North West Company. Also published, London: Alvin Redman, 1952 (352p.); New York: Bantam Books, 1952 (308p.); [new Bantam edition], Toronto: Bantam Books of Canada, 1966 (280p.). Translated by Luz Maria Ojeda Flon as  <i>La Gran carga </i>, s.l.: s.n., s.d. (310p.); by M.L. Ohl as  <i>De grote strijd: een pionier vindt zijn levensgeluk </i>, The Hague, Netherlands: Ad. M.C. Stok, Zuid-hollandsche Uitgevers Mij., [1963] (300p.). 
+    
+        Literary Works--Fiction
+    
+    
+        Fiction
+    
+    
+        Roman
+    
+    
+        1845
+    
+    4256
+    227
+    227
+    
+        Peel's Prairie Portal
+        P000227
+        2003-01-01T12:00:00-0700
+    
+		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

@@ -1,0 +1,156 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		fsalehi	PC006829	postcards	1	3.2
+	/mods/@version	3.2	fsalehi	PC006829	postcards	1	3.2
+	/mods/titleInfo		fsalehi	PC006829	postcards	1	3.2
+	/mods/titleInfo/@lang	english	fsalehi	PC006829	postcards	1	3.2
+	/mods/titleInfo/title	[Victoria High School, Edmonton]	fsalehi	PC006829	postcards	1	3.2
+	/mods/name		fsalehi	PC006829	postcards	1	3.2
+	/mods/name/@type	personal	fsalehi	PC006829	postcards	1	3.2
+	/mods/name/namePart	Schwindt	fsalehi	PC006829	postcards	2	3.2
+	/mods/name/namePart/@type	family	fsalehi	PC006829	postcards	1	3.2
+	/mods/name/namePart	G.W.	fsalehi	PC006829	postcards	2	3.2
+	/mods/name/namePart/@type	given	fsalehi	PC006829	postcards	1	3.2
+	/mods/name/role		fsalehi	PC006829	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	fsalehi	PC006829	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC006829	postcards	1	3.2
+	/mods/typeOfResource	still image	fsalehi	PC006829	postcards	1	3.2
+	/mods/genre	postcards	fsalehi	PC006829	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	fsalehi	PC006829	postcards	1	3.2
+	/mods/originInfo		fsalehi	PC006829	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	fsalehi	PC006829	postcards	1	3.2
+	/mods/originInfo/publisher	G.W. Schwindt	fsalehi	PC006829	postcards	1	3.2
+	/mods/originInfo/dateIssued	ca. 1920	fsalehi	PC006829	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	inferred	fsalehi	PC006829	postcards	1	3.2
+	/mods/originInfo/place		fsalehi	PC006829	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	[Edmonton]	fsalehi	PC006829	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC006829	postcards	1	3.2
+	/mods/language		fsalehi	PC006829	postcards	1	3.2
+	/mods/language/languageTerm	English	fsalehi	PC006829	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	fsalehi	PC006829	postcards	1	3.2
+	/mods/physicalDescription		fsalehi	PC006829	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : col. ; 9 x 14 cm.	fsalehi	PC006829	postcards	1	3.2
+	/mods/note	false	fsalehi	PC006829	postcards	4	3.2
+	/mods/note/@type	notable	fsalehi	PC006829	postcards	1	3.2
+	/mods/note	true	fsalehi	PC006829	postcards	4	3.2
+	/mods/note/@type	imgprobs	fsalehi	PC006829	postcards	1	3.2
+	/mods/note	Victoria High School, 1911 to 1962. Built at a cost of $150.000 on 8 acres of land purchased from the Hudson?s Bay Co., it contained 12 classrooms, library, offices, gymnasium, and auditorium. Principal F.S Carr and five teachers hand charge of 150 students. The Edmonton junior H.S. Rugby Champions 1924 are depicted.	fsalehi	PC006829	postcards	4	3.2
+	/mods/note/@type	public_on_back	fsalehi	PC006829	postcards	1	3.2
+	/mods/note	Victoria High School building and students playing soccer in yard.	fsalehi	PC006829	postcards	4	3.2
+	/mods/note/@type	public_description	fsalehi	PC006829	postcards	1	3.2
+	/mods/subject		fsalehi	PC006829	postcards	8	3.2
+	/mods/subject/geographic	Edmonton, AB	fsalehi	PC006829	postcards	1	3.2
+	/mods/subject		fsalehi	PC006829	postcards	8	3.2
+	/mods/subject/hierarchicalGeographic		fsalehi	PC006829	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	fsalehi	PC006829	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	fsalehi	PC006829	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Edmonton	fsalehi	PC006829	postcards	1	3.2
+	/mods/subject		fsalehi	PC006829	postcards	8	3.2
+	/mods/subject/genre	Postcards	fsalehi	PC006829	postcards	1	3.2
+	/mods/subject		fsalehi	PC006829	postcards	8	3.2
+	/mods/subject/topic	Soccer	fsalehi	PC006829	postcards	1	3.2
+	/mods/subject		fsalehi	PC006829	postcards	8	3.2
+	/mods/subject/topic	Soccer players	fsalehi	PC006829	postcards	1	3.2
+	/mods/subject		fsalehi	PC006829	postcards	8	3.2
+	/mods/subject/topic	Schools	fsalehi	PC006829	postcards	1	3.2
+	/mods/subject		fsalehi	PC006829	postcards	8	3.2
+	/mods/subject/topic	Students	fsalehi	PC006829	postcards	1	3.2
+	/mods/subject		fsalehi	PC006829	postcards	8	3.2
+	/mods/subject/name		fsalehi	PC006829	postcards	1	3.2
+	/mods/subject/name/namePart	Victoria High School (Edmonton, Alta.)	fsalehi	PC006829	postcards	1	3.2
+	/mods/identifier	PC006829	fsalehi	PC006829	postcards	1	3.2
+	/mods/identifier/@type	local	fsalehi	PC006829	postcards	1	3.2
+	/mods/location		fsalehi	PC006829	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 8	fsalehi	PC006829	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC006829.html	fsalehi	PC006829	postcards	3	3.2
+	/mods/location/url/@access	object in context	fsalehi	PC006829	postcards	1	3.2
+	/mods/location/url/@usage	primary display	fsalehi	PC006829	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/006/web/PC006829.jpg	fsalehi	PC006829	postcards	3	3.2
+	/mods/location/url/@access	raw object	fsalehi	PC006829	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='493' 	fsalehi	PC006829	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/006/thumbs/PC006829.jpg	fsalehi	PC006829	postcards	3	3.2
+	/mods/location/url/@access	preview	fsalehi	PC006829	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='123'	fsalehi	PC006829	postcards	1	3.2
+	/mods/recordInfo		fsalehi	PC006829	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	fsalehi	PC006829	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC006829	fsalehi	PC006829	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	fsalehi	fsalehi	PC006829	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2009-07-22T09:55:36-0600	fsalehi	PC006829	postcards	1	3.2
+	/@mods	
+
+[Victoria High School, Edmonton]
+
+
+Schwindt
+G.W.
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+G.W. Schwindt
+ca. 1920
+
+
+[Edmonton]
+
+
+
+English
+
+
+1 postcard : col. ; 9 x 14 cm.
+
+false
+true
+Victoria High School, 1911 to 1962. Built at a cost of $150.000 on 8 acres of land purchased from the Hudson?s Bay Co., it contained 12 classrooms, library, offices, gymnasium, and auditorium. Principal F.S Carr and five teachers hand charge of 150 students. The Edmonton junior H.S. Rugby Champions 1924 are depicted.
+Victoria High School building and students playing soccer in yard.
+
+Edmonton, AB
+
+
+
+Canada
+Alberta
+Edmonton
+
+
+
+Postcards
+
+
+Soccer
+
+
+Soccer players
+
+
+Schools
+
+
+Students
+
+
+
+Victoria High School (Edmonton, Alta.)
+
+
+PC006829
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 8
+http://peel.library.ualberta.ca/postcards/PC006829.html
+http://peel.library.ualberta.ca/pcimages/PC/006/web/PC006829.jpg
+http://peel.library.ualberta.ca/pcimages/PC/006/thumbs/PC006829.jpg
+
+
+
+
+2007-06-25T16:49:56-0600
+PC006829
+fsalehi
+2009-07-22T09:55:36-0600
+
+	fsalehi	PC006829	postcards	1	3.2
+	

@@ -1,0 +1,124 @@
+Path	Content	URL	Form or Genre	Occurrence	MODS version
+
+/mods/titleInfo		http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+/mods/titleInfo/title	Churchill, Manitoba	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+
+/mods/name		http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+/mods/name/@type	corporate	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+/mods/name/namePart	Topographical Survey of Canada, Department of the Interior	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+
+/mods/typeOfResource	cartographic	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+
+/mods/genre	map	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	3	3.3
+/mods/genre/@authority	marcgt	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+
+/mods/genre	Digital maps	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	3	3.3
+/mods/genre/@authority	lcgft	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+
+/mods/genre	Topographic maps	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	3	3.3
+/mods/genre/@authority	lcgft	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+
+/mods/originInfo		http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+/mods/originInfo/place		http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+/mods/originInfo/place/placeTerm	Ottawa	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+/mods/originInfo/place/placeTerm/@type	text	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+/mods/originInfo/publisher	Department of the Interior	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+/mods/originInfo/dateIssued	1933	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+
+/mods/language		http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+/mods/language/languageTerm	English	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+/mods/language/languageTerm/@type	text	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+
+/mods/physicalDescription		http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+/mods/physicalDescription/form		http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+/mods/physicalDescription/extent	1 map : col., mounted on linen ; 61.1 x 48.2 cm. on sheet 76 x 61.3 cm.	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+
+/mods/note	"Compiled, drawn, and printed at the office of the Surveyor General, Ottawa, June, 1933, by the Topographical Survey of Canada, from aerial photographs by the Royal Canadian Air Force; from information supplied by the Department of Mines and Natural Resources, Manitoba, and the Department of Railways and Canals; and from charts published by the Department of Marine. Geographical positions based on data furnished by the Geodetic Survey of Canada."	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	7	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+
+/mods/note	Inset: key map, and declination of compass from January, 1932.	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	7	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+
+/mods/note	peelmaps	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	7	3.3
+/mods/note/@type	local:oaiset	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+
+/mods/note	1	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	7	3.3
+/mods/note/@type	local:sheetcount	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+
+/mods/note	76 x 61.3 cm.	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	7	3.3
+/mods/note/@type	local:sheetsize	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+
+/mods/note	76	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	7	3.3
+/mods/note/@type	local:sheetlength	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+
+/mods/note	61.3	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	7	3.3
+/mods/note/@type	local:sheetwidth	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+
+	/mods/subject		http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	7	3.3
+/mods/subject/@authority	lcsh	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+/mods/subject/@lang	eng	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+/mods/subject/topic	Land cover	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+/mods/subject/geographic	Manitoba	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+
+	/mods/subject		http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	7	3.3
+/mods/subject/@authority	lcsh	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+/mods/subject/@lang	eng	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+/mods/subject/geographic	Churchill (Man.)	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+
+	/mods/subject		http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	7	3.3
+/mods/subject/@authority	lcsh	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+/mods/subject/@lang	eng	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+/mods/subject/geographic	Churchill River (Sask. and Man.)	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+
+	/mods/subject		http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	7	3.3
+/mods/subject/@authority	lcsh	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+/mods/subject/@lang	eng	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+/mods/subject/geographic	Hudson Bay	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+
+	/mods/subject		http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	7	3.3
+/mods/subject/@authority	lcsh	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+/mods/subject/@lang	eng	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+/mods/subject/geographic	Manitoba	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	7	3.3
+/mods/subject/temporal	1933	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	7	3.3
+/mods/subject/cartographics		http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+/mods/subject/cartographics/coordinates	w09430xx/n05850xx w094xxxx/n05850xx w094xxxx/n05830xx w09430xx/n05830xx	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+/mods/subject/cartographics/scale	1:63,360	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+
+/mods/classification	Manitoba C-12	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+
+/mods/identifier	2747	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	5	3.3
+/mods/identifier/@type	local:mapsproject	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+
+/mods/identifier	AAA-2835	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	5	3.3
+/mods/identifier/@type	local:mapsdb	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+
+/mods/identifier	2747a.xml	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	5	3.3
+/mods/identifier/@type	local:mapsproject_filename	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+
+
+                
+                /mods/identifier	M000235	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	5	3.3
+/mods/identifier/@type	local:peel3	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+
+                /mods/identifier	N018857	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	5	3.3
+/mods/identifier/@type	local:old_peel_new	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+
+                
+            /mods/location		http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+/mods/location/physicalLocation	UA Cameron Staff Access-Maps	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+/mods/location/url	http://peel.library.ualberta.ca/maps/M/00/02/M000235/M000235.tif	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+/mods/location/url/@access	raw object	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+/mods/location/url/@note	width='7323' height='9023'	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+
+/mods/recordInfo		http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+/mods/recordInfo/recordContentSource	mapsproject	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	2	3.3
+/mods/recordInfo/recordContentSource/@authority	local:project	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+/mods/recordInfo/recordContentSource	sfarnel	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	2	3.3
+/mods/recordInfo/recordContentSource/@authority	local:person	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+/mods/recordInfo/recordIdentifier	M000235	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+/mods/recordInfo/recordChangeDate	2010-11-22T15:14:55-0700	http://peel.library.ualberta.ca/maps/M000235.html	map Digital maps Topographic maps 	1	3.3
+

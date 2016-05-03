@@ -1,0 +1,162 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	Cardiology at the University of Alberta, 1922-1969		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Fraser, R. S. (Robert Stewart)		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	1922-.		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart/@type	date		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.2		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	corporate		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	University of Alberta.		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Dept. of Medicine		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	abc		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@authority	marccountry		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	code		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	Edmonton		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	Department of Medicine, University of Alberta		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	c1992		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/issuance	monographic		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	eng		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@authority	iso639-2b		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	code		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	English		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	vi, 122 p. : ill., ports. ; 23 cm.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	R.S. Stewart.		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	statement of responsibility		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	uahistory		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	oaiset		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	DOA: 1922 Spatial: Edmonton (Alta.)		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	local		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographicCode	n-cn-ab		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographicCode/@authority	marcgac		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name/@type	corporate		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name/namePart	University of Alberta		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name/namePart	Division of Cardiology		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	History		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Cardiology		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Study and teaching		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Alberta		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Edmonton		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	History		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1992		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/classification	616.1/2/0711712334		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/classification/@authority	ddc		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/classification/@edition	20		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	0888648774		5	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	isbn		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	92911366		5	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	lccn		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	9037		5	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	8232		5	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel_new		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	821339		5	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:neos		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	RC		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P009037		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordChangeDate	2010-03-28T19:05:32-0600		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+
+Cardiology at the University of Alberta, 1922-1969
+
+
+Fraser, R. S. (Robert Stewart)
+1922-.
+
+
+University of Alberta.
+Dept. of Medicine
+
+text
+
+
+abc
+
+
+Edmonton
+
+Department of Medicine, University of Alberta
+c1992
+monographic
+
+
+eng
+English
+
+
+print
+vi, 122 p. : ill., ports. ; 23 cm.
+
+R.S. Stewart.
+uahistory
+DOA: 1922 Spatial: Edmonton (Alta.)
+
+				n-cn-ab
+			
+
+				
+University of Alberta
+Division of Cardiology
+
+			
+				History
+			
+
+				Cardiology
+			
+				Study and teaching
+			
+				Alberta
+			
+				Edmonton
+			
+				History
+			
+
+				1992
+			
+616.1/2/0711712334
+0888648774
+92911366
+9037
+8232
+821339
+
+Peel's Prairie Portal
+RC
+2003-01-01T12:00:00-0700
+P009037
+2010-03-28T19:05:32-0600
+
+		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

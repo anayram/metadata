@@ -1,0 +1,153 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		sfarnel	PC010292	postcards	1	3.2
+	/mods/@version	3.2	sfarnel	PC010292	postcards	1	3.2
+	/mods/titleInfo		sfarnel	PC010292	postcards	1	3.2
+	/mods/titleInfo/@lang	english	sfarnel	PC010292	postcards	1	3.2
+	/mods/titleInfo/title	Eighth Avenue looking west, Calgary, Alberta	sfarnel	PC010292	postcards	1	3.2
+	/mods/name		sfarnel	PC010292	postcards	1	3.2
+	/mods/name/@type	corporate	sfarnel	PC010292	postcards	1	3.2
+	/mods/name/namePart	The Valentine Edy Company  Limited	sfarnel	PC010292	postcards	1	3.2
+	/mods/name/role		sfarnel	PC010292	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	sfarnel	PC010292	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	sfarnel	PC010292	postcards	1	3.2
+	/mods/typeOfResource	still image	sfarnel	PC010292	postcards	1	3.2
+	/mods/genre	postcards	sfarnel	PC010292	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	sfarnel	PC010292	postcards	1	3.2
+	/mods/originInfo		sfarnel	PC010292	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	sfarnel	PC010292	postcards	1	3.2
+	/mods/originInfo/publisher	Pub. by the Valentine Edy Company Limited, Winnipeg.	sfarnel	PC010292	postcards	1	3.2
+	/mods/originInfo/dateIssued	ca. 1915	sfarnel	PC010292	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	inferred	sfarnel	PC010292	postcards	1	3.2
+	/mods/originInfo/place		sfarnel	PC010292	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	Winnipeg	sfarnel	PC010292	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	sfarnel	PC010292	postcards	1	3.2
+	/mods/language		sfarnel	PC010292	postcards	1	3.2
+	/mods/language/languageTerm	English	sfarnel	PC010292	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	sfarnel	PC010292	postcards	1	3.2
+	/mods/physicalDescription		sfarnel	PC010292	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : col. ; 9 x 14 cm.	sfarnel	PC010292	postcards	1	3.2
+	/mods/note	18	sfarnel	PC010292	postcards	6	3.2
+	/mods/note/@type	price	sfarnel	PC010292	postcards	1	3.2
+	/mods/note	false	sfarnel	PC010292	postcards	6	3.2
+	/mods/note/@type	notable	sfarnel	PC010292	postcards	1	3.2
+	/mods/note	true	sfarnel	PC010292	postcards	6	3.2
+	/mods/note/@type	imgprobs	sfarnel	PC010292	postcards	1	3.2
+	/mods/note	Printed in U.S.A.	sfarnel	PC010292	postcards	6	3.2
+	/mods/note/@type	public_on_back	sfarnel	PC010292	postcards	1	3.2
+	/mods/note	[printer's no.] 24408	sfarnel	PC010292	postcards	6	3.2
+	/mods/note/@type	public_on_front	sfarnel	PC010292	postcards	1	3.2
+	/mods/note	View of Eighth Avenue looking west, Calgary, Alberta, showing prominently a streetcar, Lamberts Clothes Shop, a drug store, Winchester Cigarette sign, etc.	sfarnel	PC010292	postcards	6	3.2
+	/mods/note/@type	public_description	sfarnel	PC010292	postcards	1	3.2
+	/mods/subject		sfarnel	PC010292	postcards	8	3.2
+	/mods/subject/geographic	Calgary, AB	sfarnel	PC010292	postcards	1	3.2
+	/mods/subject		sfarnel	PC010292	postcards	8	3.2
+	/mods/subject/hierarchicalGeographic		sfarnel	PC010292	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	sfarnel	PC010292	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	sfarnel	PC010292	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Calgary	sfarnel	PC010292	postcards	1	3.2
+	/mods/subject		sfarnel	PC010292	postcards	8	3.2
+	/mods/subject/genre	Postcards	sfarnel	PC010292	postcards	1	3.2
+	/mods/subject		sfarnel	PC010292	postcards	8	3.2
+	/mods/subject/topic	Commercial streets	sfarnel	PC010292	postcards	1	3.2
+	/mods/subject		sfarnel	PC010292	postcards	8	3.2
+	/mods/subject/topic	Stores & shops	sfarnel	PC010292	postcards	1	3.2
+	/mods/subject		sfarnel	PC010292	postcards	8	3.2
+	/mods/subject/topic	Street railroads	sfarnel	PC010292	postcards	1	3.2
+	/mods/subject		sfarnel	PC010292	postcards	8	3.2
+	/mods/subject/topic	Pedestrians	sfarnel	PC010292	postcards	1	3.2
+	/mods/subject		sfarnel	PC010292	postcards	8	3.2
+	/mods/subject/topic	Automobiles	sfarnel	PC010292	postcards	1	3.2
+	/mods/identifier	PC010292	sfarnel	PC010292	postcards	1	3.2
+	/mods/identifier/@type	local	sfarnel	PC010292	postcards	1	3.2
+	/mods/location		sfarnel	PC010292	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 1	sfarnel	PC010292	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC010292.html	sfarnel	PC010292	postcards	3	3.2
+	/mods/location/url/@access	object in context	sfarnel	PC010292	postcards	1	3.2
+	/mods/location/url/@usage	primary display	sfarnel	PC010292	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/010/web/PC010292.jpg	sfarnel	PC010292	postcards	3	3.2
+	/mods/location/url/@access	raw object	sfarnel	PC010292	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='550' 	sfarnel	PC010292	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/010/thumbs/PC010292.jpg	sfarnel	PC010292	postcards	3	3.2
+	/mods/location/url/@access	preview	sfarnel	PC010292	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='138'	sfarnel	PC010292	postcards	1	3.2
+	/mods/recordInfo		sfarnel	PC010292	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2009-01-19T16:18:42-0700	sfarnel	PC010292	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC010292	sfarnel	PC010292	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	sfarnel	sfarnel	PC010292	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2009-12-06T18:34:03-0700	sfarnel	PC010292	postcards	1	3.2
+	/@mods	
+
+Eighth Avenue looking west, Calgary, Alberta
+
+
+The Valentine Edy Company  Limited
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+Pub. by the Valentine Edy Company Limited, Winnipeg.
+ca. 1915
+
+
+Winnipeg
+
+
+
+English
+
+
+1 postcard : col. ; 9 x 14 cm.
+
+18
+false
+true
+Printed in U.S.A.
+[printer's no.] 24408
+View of Eighth Avenue looking west, Calgary, Alberta, showing prominently a streetcar, Lamberts Clothes Shop, a drug store, Winchester Cigarette sign, etc.
+
+Calgary, AB
+
+
+
+Canada
+Alberta
+Calgary
+
+
+
+Postcards
+
+
+Commercial streets
+
+
+Stores & shops
+
+
+Street railroads
+
+
+Pedestrians
+
+
+Automobiles
+
+PC010292
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 1
+http://peel.library.ualberta.ca/postcards/PC010292.html
+http://peel.library.ualberta.ca/pcimages/PC/010/web/PC010292.jpg
+http://peel.library.ualberta.ca/pcimages/PC/010/thumbs/PC010292.jpg
+
+
+2009-01-19T16:18:42-0700
+PC010292
+sfarnel
+2009-12-06T18:34:03-0700
+
+	sfarnel	PC010292	postcards	1	3.2
+	

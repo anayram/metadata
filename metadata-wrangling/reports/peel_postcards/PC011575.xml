@@ -1,0 +1,138 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		fsalehi	PC011575	postcards	1	3.3
+	/mods/@version	3.3	fsalehi	PC011575	postcards	1	3.3
+	/mods/titleInfo		fsalehi	PC011575	postcards	1	3.3
+	/mods/titleInfo/@lang	english	fsalehi	PC011575	postcards	1	3.3
+	/mods/titleInfo/title	Broadway Winnipeg	fsalehi	PC011575	postcards	1	3.3
+	/mods/name		fsalehi	PC011575	postcards	1	3.3
+	/mods/name/@type	personal	fsalehi	PC011575	postcards	1	3.3
+	/mods/name/namePart	Meyers	fsalehi	PC011575	postcards	1	3.3
+	/mods/name/namePart/@type	family	fsalehi	PC011575	postcards	1	3.3
+	/mods/name/role		fsalehi	PC011575	postcards	1	3.3
+	/mods/name/role/roleTerm	Photographer	fsalehi	PC011575	postcards	1	3.3
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC011575	postcards	1	3.3
+	/mods/typeOfResource	still image	fsalehi	PC011575	postcards	1	3.3
+	/mods/genre	postcards	fsalehi	PC011575	postcards	1	3.3
+	/mods/genre/@authority	gmgpc	fsalehi	PC011575	postcards	1	3.3
+	/mods/originInfo		fsalehi	PC011575	postcards	1	3.3
+	/mods/originInfo/issuance	monographic	fsalehi	PC011575	postcards	1	3.3
+	/mods/originInfo/publisher	Meyers Photo, Winnipeg, Man.	fsalehi	PC011575	postcards	1	3.3
+	/mods/originInfo/dateIssued	after 1910	fsalehi	PC011575	postcards	1	3.3
+	/mods/originInfo/dateIssued/@qualifier	inferred	fsalehi	PC011575	postcards	1	3.3
+	/mods/originInfo/place		fsalehi	PC011575	postcards	1	3.3
+	/mods/originInfo/place/placeTerm	Winnipeg	fsalehi	PC011575	postcards	1	3.3
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC011575	postcards	1	3.3
+	/mods/language		fsalehi	PC011575	postcards	1	3.3
+	/mods/language/languageTerm	English	fsalehi	PC011575	postcards	1	3.3
+	/mods/language/languageTerm/@type	text	fsalehi	PC011575	postcards	1	3.3
+	/mods/physicalDescription		fsalehi	PC011575	postcards	1	3.3
+	/mods/physicalDescription/extent	1 postcard : b&w ; 9 x 14 cm.	fsalehi	PC011575	postcards	1	3.3
+	/mods/note	25	fsalehi	PC011575	postcards	4	3.3
+	/mods/note/@type	price	fsalehi	PC011575	postcards	1	3.3
+	/mods/note	false	fsalehi	PC011575	postcards	4	3.3
+	/mods/note/@type	notable	fsalehi	PC011575	postcards	1	3.3
+	/mods/note	false	fsalehi	PC011575	postcards	4	3.3
+	/mods/note/@type	imgprobs	fsalehi	PC011575	postcards	1	3.3
+	/mods/note	View of Broadway Avenue, Winnipeg. A streetcar is visible in the road.	fsalehi	PC011575	postcards	4	3.3
+	/mods/note/@type	public_description	fsalehi	PC011575	postcards	1	3.3
+	/mods/subject		fsalehi	PC011575	postcards	6	3.3
+	/mods/subject/geographic	Winnipeg, MB	fsalehi	PC011575	postcards	1	3.3
+	/mods/subject		fsalehi	PC011575	postcards	6	3.3
+	/mods/subject/hierarchicalGeographic		fsalehi	PC011575	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/country	Canada	fsalehi	PC011575	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/province	Manitoba	fsalehi	PC011575	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/city	Winnipeg	fsalehi	PC011575	postcards	1	3.3
+	/mods/subject		fsalehi	PC011575	postcards	6	3.3
+	/mods/subject/genre	Postcards	fsalehi	PC011575	postcards	1	3.3
+	/mods/subject		fsalehi	PC011575	postcards	6	3.3
+	/mods/subject/topic	Streets	fsalehi	PC011575	postcards	1	3.3
+	/mods/subject		fsalehi	PC011575	postcards	6	3.3
+	/mods/subject/topic	Street railroads	fsalehi	PC011575	postcards	1	3.3
+	/mods/subject		fsalehi	PC011575	postcards	6	3.3
+	/mods/subject/topic	Pedestrians	fsalehi	PC011575	postcards	1	3.3
+	/mods/identifier	PC011575	fsalehi	PC011575	postcards	1	3.3
+	/mods/identifier/@type	local	fsalehi	PC011575	postcards	1	3.3
+	/mods/location		fsalehi	PC011575	postcards	1	3.3
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 4 (set 2)	fsalehi	PC011575	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC011575.html	fsalehi	PC011575	postcards	3	3.3
+	/mods/location/url/@access	object in context	fsalehi	PC011575	postcards	1	3.3
+	/mods/location/url/@usage	primary display	fsalehi	PC011575	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/011/web/PC011575.jpg	fsalehi	PC011575	postcards	3	3.3
+	/mods/location/url/@access	raw object	fsalehi	PC011575	postcards	1	3.3
+	/mods/location/url/@note	width='800' height='487' 	fsalehi	PC011575	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/011/thumbs/PC011575.jpg	fsalehi	PC011575	postcards	3	3.3
+	/mods/location/url/@access	preview	fsalehi	PC011575	postcards	1	3.3
+	/mods/location/url/@note	width='200' height='122'	fsalehi	PC011575	postcards	1	3.3
+	/mods/recordInfo		fsalehi	PC011575	postcards	1	3.3
+	/mods/recordInfo/recordCreationDate	2009-01-23T14:03:00-0700	fsalehi	PC011575	postcards	1	3.3
+	/mods/recordInfo/recordIdentifier	PC011575	fsalehi	PC011575	postcards	1	3.3
+	/mods/recordInfo/recordContentSource	fsalehi	fsalehi	PC011575	postcards	1	3.3
+	/mods/recordInfo/recordChangeDate	2009-10-29T11:10:30-0700	fsalehi	PC011575	postcards	1	3.3
+	/@mods	
+
+Broadway Winnipeg
+
+
+Meyers
+
+Photographer
+
+
+still image
+postcards
+
+monographic
+Meyers Photo, Winnipeg, Man.
+after 1910
+
+
+Winnipeg
+
+
+
+English
+
+
+1 postcard : b&w ; 9 x 14 cm.
+
+25
+false
+false
+View of Broadway Avenue, Winnipeg. A streetcar is visible in the road.
+
+Winnipeg, MB
+
+
+
+Canada
+Manitoba
+Winnipeg
+
+
+
+Postcards
+
+
+Streets
+
+
+Street railroads
+
+
+Pedestrians
+
+PC011575
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 4 (set 2)
+http://peel.library.ualberta.ca/postcards/PC011575.html
+http://peel.library.ualberta.ca/pcimages/PC/011/web/PC011575.jpg
+http://peel.library.ualberta.ca/pcimages/PC/011/thumbs/PC011575.jpg
+
+
+2009-01-23T14:03:00-0700
+PC011575
+fsalehi
+2009-10-29T11:10:30-0700
+
+	fsalehi	PC011575	postcards	1	3.3
+	

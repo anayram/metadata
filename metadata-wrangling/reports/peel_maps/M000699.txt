@@ -1,0 +1,113 @@
+Path	Content	URL	Form or Genre	Occurrence	MODS version
+
+/mods/titleInfo		http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	1	3.3
+/mods/titleInfo/title	Map of St. Paul des Metis district, province of Alberta	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	1	3.3
+/mods/titleInfo/subTitle	classification of lands by quarter-sections for settlement purposes	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/name		http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	1	3.3
+/mods/name/@type	corporate	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	1	3.3
+/mods/name/namePart	Topographical Surveys Office, Department of the Interior	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/typeOfResource	cartographic	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/genre	map	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	3	3.3
+/mods/genre/@authority	marcgt	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/genre	Digital maps	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	3	3.3
+/mods/genre/@authority	lcgft	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/genre	Cadastral maps	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	3	3.3
+/mods/genre/@authority	lcgft	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/originInfo		http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	1	3.3
+/mods/originInfo/place		http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	1	3.3
+/mods/originInfo/place/placeTerm	Ottawa	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	1	3.3
+/mods/originInfo/place/placeTerm/@type	text	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	1	3.3
+/mods/originInfo/publisher	Department of the Interior	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	1	3.3
+/mods/originInfo/dateIssued	1922 (March 15th)	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/language		http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	1	3.3
+/mods/language/languageTerm	English	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	1	3.3
+/mods/language/languageTerm/@type	text	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/physicalDescription		http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	1	3.3
+/mods/physicalDescription/form		http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	1	3.3
+/mods/physicalDescription/extent	1 map : col. ; 39 x 67.4 cm. on sheet 45.8 x 73.6 cm.	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/note	Colours mark lands not open for homestead entry; lands suitable for immediate settlement; lands considered only fair for settlement; lands which can be economically improved; lands with suitable soil but requiring extensive improvements; hay meadows and marshes; grazing lands; and lands of no agricultural value.	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	9	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/note	Conventional signs include main through roads, roads fit for wheel traffic, pack trails, river 3 chains wide or over, river under 3 chains wide or brook or creek, telegraph lines, elevations, town or village (population 300 or over), post office, railway station, railway station and post office, and Dominion Lands Agency.	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	9	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/note	Inset map of Alberta and Saskatchewan locating the district in its larger geographical context. (1 inch = 135 miles)	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	9	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/note	Most of the area is either settled already or taken up with Indian and forest reserves.	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	9	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/note	peelmaps	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	9	3.3
+/mods/note/@type	local:oaiset	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/note	1	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	9	3.3
+/mods/note/@type	local:sheetcount	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/note	45.8 x 73.6 cm.	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	9	3.3
+/mods/note/@type	local:sheetsize	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/note	45.8	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	9	3.3
+/mods/note/@type	local:sheetlength	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/note	73.6	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	9	3.3
+/mods/note/@type	local:sheetwidth	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	4	3.3
+/mods/subject/@authority	lcsh	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	1	3.3
+/mods/subject/@lang	eng	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	1	3.3
+/mods/subject/topic	Land use	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	1	3.3
+/mods/subject/geographic	Alberta	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	4	3.3
+/mods/subject/@authority	lcsh	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	1	3.3
+/mods/subject/@lang	eng	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	1	3.3
+/mods/subject/geographic	Alberta	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	4	3.3
+/mods/subject/temporal	1922	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	4	3.3
+/mods/subject/cartographics		http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	1	3.3
+/mods/subject/cartographics/coordinates	w11230xx/n05430xx w110xxxx/n05430xx w110xxxx/n05345xx w11230xx/n05345xx	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	1	3.3
+/mods/subject/cartographics/scale	1:250,000	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/classification	Alberta G-11	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/identifier	639	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	5	3.3
+/mods/identifier/@type	local:mapsproject	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/identifier	AAA-0695	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	5	3.3
+/mods/identifier/@type	local:mapsdb	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/identifier	639spdm.xml	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	5	3.3
+/mods/identifier/@type	local:mapsproject_filename	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/identifier	M000699	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	5	3.3
+/mods/identifier/@type	local:peel3	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/identifier	N019406	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	5	3.3
+/mods/identifier/@type	local:old_peel_new	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/location		http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	1	3.3
+/mods/location/physicalLocation	UA Cameron Staff Access-Maps	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	1	3.3
+/mods/location/url	http://peel.library.ualberta.ca/maps/M/00/06/M000699/M000699.tif	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	1	3.3
+/mods/location/url/@access	raw object	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	1	3.3
+/mods/location/url/@note	width='8858' height='5456'	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/recordInfo		http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	1	3.3
+/mods/recordInfo/recordContentSource	mapsproject	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	2	3.3
+/mods/recordInfo/recordContentSource/@authority	local:project	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	1	3.3
+/mods/recordInfo/recordContentSource	jhuck	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	2	3.3
+/mods/recordInfo/recordContentSource/@authority	local:person	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	1	3.3
+/mods/recordInfo/recordIdentifier	M000699	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	1	3.3
+/mods/recordInfo/recordChangeDate	2014-01-20T23:46:40-0700	http://peel.library.ualberta.ca/maps/M000699.html	map Digital maps Cadastral maps 	1	3.3
+

@@ -1,0 +1,117 @@
+Path	Content	URL	Form or Genre	Occurrence	MODS version
+
+/mods/titleInfo		http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	1	3.3
+/mods/titleInfo/title	Map of the South Turner Valley oil field, Tp. 18 - Rg. 2 - W. 5th M.	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	1	3.3
+
+/mods/name		http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	2	3.3
+/mods/name/@type	corporate	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	1	3.3
+/mods/name/namePart	Huff Investments Ltd.	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	1	3.3
+
+/mods/name		http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	2	3.3
+/mods/name/@type	personal	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	1	3.3
+/mods/name/namePart	Atkins, C. B.	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	1	3.3
+
+/mods/typeOfResource	cartographic	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	1	3.3
+
+/mods/genre	map	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	4	3.3
+/mods/genre/@authority	marcgt	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	1	3.3
+
+/mods/genre	Digital maps	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	4	3.3
+/mods/genre/@authority	lcgft	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	1	3.3
+
+/mods/genre	Geological maps	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	4	3.3
+/mods/genre/@authority	lcgft	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	1	3.3
+
+/mods/genre	Cadastral maps	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	4	3.3
+/mods/genre/@authority	lcgft	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	1	3.3
+
+/mods/originInfo		http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	1	3.3
+/mods/originInfo/place		http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	1	3.3
+/mods/originInfo/place/placeTerm	Edmonton	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	1	3.3
+/mods/originInfo/place/placeTerm/@type	text	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	1	3.3
+/mods/originInfo/publisher	Huff Investments Ltd.	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	1	3.3
+/mods/originInfo/dateIssued	19uu	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	1	3.3
+/mods/originInfo/dateIssued/@qualifier	approximate	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	1	3.3
+
+/mods/language		http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	1	3.3
+/mods/language/languageTerm	English	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	1	3.3
+/mods/language/languageTerm/@type	text	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	1	3.3
+
+/mods/physicalDescription		http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	1	3.3
+/mods/physicalDescription/form		http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	1	3.3
+/mods/physicalDescription/extent	1 map ; 47.4 x 33.2 cm. on sheet 50.5 x 35.6 cm.	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	1	3.3
+
+/mods/note	Legend shows wells producing large crude, wells producing light crude and naptha, wells drilling, and wells located. It also shows the names of the leaseholders.	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	8	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	1	3.3
+
+/mods/note	"Note - Location of Well Sites are taken from Departmental records. Names of Owners, Lessors and Development Companies are taken from Brokerage Prospectus and other sources of information and subject to change and correction."	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	8	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	1	3.3
+
+/mods/note	Map created by C. B. Atkins, Surveyor and Engineer, 510 Agency Bldg., Edmonton, Alta, and given out "with the compliments of" Huff Investments Limited, Stocks and Bonds, 203-4-5 Agency Bldg, Edmonton, Canada.	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	8	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	1	3.3
+
+/mods/note	peelmaps	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	8	3.3
+/mods/note/@type	local:oaiset	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	1	3.3
+
+/mods/note	1	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	8	3.3
+/mods/note/@type	local:sheetcount	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	1	3.3
+
+/mods/note	50.5 x 35.6 cm.	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	8	3.3
+/mods/note/@type	local:sheetsize	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	1	3.3
+
+/mods/note	50.5	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	8	3.3
+/mods/note/@type	local:sheetlength	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	1	3.3
+
+/mods/note	35.6	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	8	3.3
+/mods/note/@type	local:sheetwidth	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	3	3.3
+/mods/subject/@authority	lcsh	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	1	3.3
+/mods/subject/@lang	eng	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	1	3.3
+/mods/subject/topic	Mines and mineral resources	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	1	3.3
+/mods/subject/geographic	Alberta	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	3	3.3
+/mods/subject/@authority	lcsh	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	1	3.3
+/mods/subject/@lang	eng	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	1	3.3
+/mods/subject/geographic	Alberta	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	3	3.3
+/mods/subject/cartographics		http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	1	3.3
+/mods/subject/cartographics/coordinates	w11422xx/n05035xx w11414xx/n05035xx  w11414xx/n05029xx w11422xx/n05029xx	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	1	3.3
+/mods/subject/cartographics/scale	1:10,560	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	1	3.3
+
+/mods/classification	Alberta H-4	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	1	3.3
+
+/mods/identifier	754	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	5	3.3
+/mods/identifier/@type	local:mapsproject	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	1	3.3
+
+/mods/identifier	AAA-0816	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	5	3.3
+/mods/identifier/@type	local:mapsdb	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	1	3.3
+
+/mods/identifier	754a.xml	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	5	3.3
+/mods/identifier/@type	local:mapsproject_filename	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	1	3.3
+
+
+                
+                /mods/identifier	M000733	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	5	3.3
+/mods/identifier/@type	local:peel3	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	1	3.3
+
+                /mods/identifier	N019444	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	5	3.3
+/mods/identifier/@type	local:old_peel_new	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	1	3.3
+
+                
+            /mods/location		http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	1	3.3
+/mods/location/physicalLocation	UA Cameron Staff Access-Maps	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	1	3.3
+/mods/location/url	http://peel.library.ualberta.ca/maps/M/00/07/M000733/M000733.tif	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	1	3.3
+/mods/location/url/@access	raw object	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	1	3.3
+/mods/location/url/@note	width='4252' height='6041'	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	1	3.3
+
+/mods/recordInfo		http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	1	3.3
+/mods/recordInfo/recordContentSource	mapsproject	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	2	3.3
+/mods/recordInfo/recordContentSource/@authority	local:project	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	1	3.3
+/mods/recordInfo/recordContentSource	sfarnel	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	2	3.3
+/mods/recordInfo/recordContentSource/@authority	local:person	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	1	3.3
+/mods/recordInfo/recordIdentifier	M000733	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	1	3.3
+/mods/recordInfo/recordChangeDate	2010-11-24T08:52:47-0700	http://peel.library.ualberta.ca/maps/M000733.html	map Digital maps Geological maps Cadastral maps 	1	3.3
+

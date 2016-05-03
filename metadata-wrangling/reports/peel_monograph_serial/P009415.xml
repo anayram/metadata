@@ -1,0 +1,168 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.2
+	/mods/@version	3.2		1	3.2
+	/mods/titleInfo			1	3.2
+	/mods/titleInfo/title	Canadian Pacific Rockies		1	3.2
+	/mods/name			5	3.2
+	/mods/name/@type	personal		1	3.2
+	/mods/name/namePart	Thornley, Betty.		1	3.2
+	/mods/name			5	3.2
+	/mods/name/@type	personal		1	3.2
+	/mods/name/namePart	Simpson, C. W.		1	3.2
+	/mods/name/role			1	3.2
+	/mods/name/role/roleTerm	illustrator		1	3.2
+	/mods/name			5	3.2
+	/mods/name/@type	personal		1	3.2
+	/mods/name/namePart	Grover, Oliver Dennett		1	3.2
+	/mods/name/role			1	3.2
+	/mods/name/role/roleTerm	illustrator		1	3.2
+	/mods/name			5	3.2
+	/mods/name/@type	personal		1	3.2
+	/mods/name/namePart	Rungius, Carl		2	3.2
+	/mods/name/namePart	1869-1959		2	3.2
+	/mods/name/namePart/@type	date		1	3.2
+	/mods/name/role			1	3.2
+	/mods/name/role/roleTerm	illustrator		1	3.2
+	/mods/name			5	3.2
+	/mods/name/@type	corporate		1	3.2
+	/mods/name/namePart	Canadian Pacific Railway Company		1	3.2
+	/mods/typeOfResource	text		1	3.2
+	/mods/originInfo			1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	xx		1	3.2
+	/mods/originInfo/place/placeTerm/@authority	marccountry		1	3.2
+	/mods/originInfo/place/placeTerm/@type	code		1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	[Montreal?]		1	3.2
+	/mods/originInfo/place/placeTerm/@type	text		1	3.2
+	/mods/originInfo/publisher	[Canadian Pacific Railway Company?]		1	3.2
+	/mods/originInfo/dateIssued	[193-?]		5	3.2
+	/mods/originInfo/dateIssued	1930		5	3.2
+	/mods/originInfo/dateIssued/@encoding	marc		1	3.2
+	/mods/originInfo/dateIssued/@point	start		1	3.2
+	/mods/originInfo/dateIssued	1939		5	3.2
+	/mods/originInfo/dateIssued/@encoding	marc		1	3.2
+	/mods/originInfo/dateIssued/@point	end		1	3.2
+	/mods/originInfo/dateIssued	1930		5	3.2
+	/mods/originInfo/dateIssued/@encoding	marc		1	3.2
+	/mods/originInfo/dateIssued/@point	start		1	3.2
+	/mods/originInfo/dateIssued/@qualifier	questionable		1	3.2
+	/mods/originInfo/dateIssued	1939		5	3.2
+	/mods/originInfo/dateIssued/@encoding	marc		1	3.2
+	/mods/originInfo/dateIssued/@point	end		1	3.2
+	/mods/originInfo/dateIssued/@qualifier	questionable		1	3.2
+	/mods/originInfo/issuance	monographic		1	3.2
+	/mods/language			1	3.2
+	/mods/language/languageTerm	eng		1	3.2
+	/mods/language/languageTerm/@authority	iso639-2b		1	3.2
+	/mods/language/languageTerm/@type	code		1	3.2
+	/mods/physicalDescription			1	3.2
+	/mods/physicalDescription/form	print		1	3.2
+	/mods/physicalDescription/form/@authority	marcform		1	3.2
+	/mods/physicalDescription/extent	[33] p. : col. ill. ; 26 cm.		1	3.2
+	/mods/note	illustrations by C.W. Simpson ... [et al.] ; text by Betty Thornley.		5	3.2
+	/mods/note/@type	statement of responsibility		1	3.2
+	/mods/note	Cover title.		5	3.2
+	/mods/note	http://chelsea.library.ualberta.ca:8081/peel_master/select/?q=%28authorAuthority%3A%22Thornley%2C+Betty%22%29+OR+%28authorAuthority%3A%22Simpson%2C+C.+W%22%29+OR+%28subjectAuthority%3A%22Canadian+Rockies+%28B.C.+and+Alta.%29--Description+and+travel%22%29+OR+%28subjectAuthority%3A%22Canadian+Rockies+%28B.C.+and+Alta.%29%22%29&fl=id+authorAuthority+authorDates+subjectAuthority+authorityAuthority&rows=100		5	3.2
+	/mods/note/@type	solr		1	3.2
+	/mods/note	DOA: 1930 Spatial: Rocky Mountains, Canadian (B.C. and Alta.)		5	3.2
+	/mods/note/@type	local		1	3.2
+	/mods/note	Cover title.		5	3.2
+	/mods/note/@type	public		1	3.2
+	/mods/subject			2	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/geographic	Canadian Rockies (B.C. and Alta.)		1	3.2
+	/mods/subject/topic	Description and travel		1	3.2
+	/mods/subject			2	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/geographic	Canadian Rockies (B.C. and Alta.)		1	3.2
+	/mods/identifier	3838521		3	3.2
+	/mods/identifier/@type	local:neos		1	3.2
+	/mods/identifier	N008463		3	3.2
+	/mods/identifier/@type	local:peel_new		1	3.2
+	/mods/identifier	9415		3	3.2
+	/mods/identifier/@type	local:peel3		1	3.2
+	/mods/recordInfo			1	3.2
+	/mods/recordInfo/recordContentSource	RC		2	3.2
+	/mods/recordInfo/recordContentSource	RC		2	3.2
+	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.2
+	/mods/recordInfo/recordCreationDate	2007-02-14T12:00:00-0700		1	3.2
+	/mods/recordInfo/recordIdentifier	P009415		1	3.2
+	/mods/recordInfo/recordChangeDate	2010-01-09T14:26:08-0700		1	3.2
+	/@mods	
+
+Canadian Pacific Rockies
+
+
+Thornley, Betty.
+
+
+Simpson, C. W.
+
+illustrator
+
+
+
+Grover, Oliver Dennett
+
+illustrator
+
+
+
+Rungius, Carl
+1869-1959
+
+illustrator
+
+
+
+Canadian Pacific Railway Company
+
+text
+
+
+xx
+
+
+[Montreal?]
+
+[Canadian Pacific Railway Company?]
+[193-?]
+1930
+1939
+1930
+1939
+monographic
+
+
+eng
+
+
+print
+[33] p. : col. ill. ; 26 cm.
+
+illustrations by C.W. Simpson ... [et al.] ; text by Betty Thornley.
+Cover title.
+http://chelsea.library.ualberta.ca:8081/peel_master/select/?q=%28authorAuthority%3A%22Thornley%2C+Betty%22%29+OR+%28authorAuthority%3A%22Simpson%2C+C.+W%22%29+OR+%28subjectAuthority%3A%22Canadian+Rockies+%28B.C.+and+Alta.%29--Description+and+travel%22%29+OR+%28subjectAuthority%3A%22Canadian+Rockies+%28B.C.+and+Alta.%29%22%29&fl=id+authorAuthority+authorDates+subjectAuthority+authorityAuthority&rows=100
+DOA: 1930 Spatial: Rocky Mountains, Canadian (B.C. and Alta.)
+Cover title.
+
+				Canadian Rockies (B.C. and Alta.)
+			
+				Description and travel
+			
+
+				Canadian Rockies (B.C. and Alta.)
+			
+3838521
+N008463
+9415
+
+RC
+RC
+2007-02-14T12:00:00-0700
+P009415
+2010-01-09T14:26:08-0700
+
+		1	3.2
+	

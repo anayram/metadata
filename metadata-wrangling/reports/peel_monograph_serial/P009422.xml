@@ -1,0 +1,134 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods		bibliography	1	3.2
+	/mods/@version	3.2	bibliography	1	3.2
+	/mods/titleInfo		bibliography	1	3.2
+	/mods/titleInfo/title	Round about the Rockies	bibliography	1	3.2
+	/mods/titleInfo/subTitle	An everyday guide to the Rocky and Selkirk Mountains of Canada	bibliography	1	3.2
+	/mods/name		bibliography	1	3.2
+	/mods/name/@type	personal	bibliography	1	3.2
+	/mods/name/namePart	Stokes, Charles W	bibliography	1	3.2
+	/mods/typeOfResource	text	bibliography	1	3.2
+	/mods/genre	bibliography	bibliography	1	3.2
+	/mods/genre/@authority	marcgt	bibliography	1	3.2
+	/mods/originInfo		bibliography	1	3.2
+	/mods/originInfo/place		bibliography	2	3.2
+	/mods/originInfo/place/placeTerm	onc	bibliography	1	3.2
+	/mods/originInfo/place/placeTerm/@authority	marccountry	bibliography	1	3.2
+	/mods/originInfo/place/placeTerm/@type	code	bibliography	1	3.2
+	/mods/originInfo/place		bibliography	2	3.2
+	/mods/originInfo/place/placeTerm	Toronto	bibliography	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	bibliography	1	3.2
+	/mods/originInfo/publisher	Musson Book Company	bibliography	1	3.2
+	/mods/originInfo/dateIssued	c1923	bibliography	2	3.2
+	/mods/originInfo/dateIssued	1923	bibliography	2	3.2
+	/mods/originInfo/dateIssued/@encoding	marc	bibliography	1	3.2
+	/mods/originInfo/issuance	monographic	bibliography	1	3.2
+	/mods/language		bibliography	1	3.2
+	/mods/language/languageTerm	eng	bibliography	1	3.2
+	/mods/language/languageTerm/@authority	iso639-2b	bibliography	1	3.2
+	/mods/language/languageTerm/@type	code	bibliography	1	3.2
+	/mods/physicalDescription		bibliography	1	3.2
+	/mods/physicalDescription/form	print	bibliography	1	3.2
+	/mods/physicalDescription/form/@authority	marcform	bibliography	1	3.2
+	/mods/physicalDescription/extent	96 p., [13] leaves of plates : ill. (some col.), maps ; 23 cm.	bibliography	1	3.2
+	/mods/note	by Charles W. Stokes.	bibliography	5	3.2
+	/mods/note/@type	statement of responsibility	bibliography	1	3.2
+	/mods/note	Includes bibliographical references (p. 92) and index.	bibliography	5	3.2
+	/mods/note	http://chelsea.library.ualberta.ca:8081/peel_master/select/?q=%28authorAuthority%3A%22Stokes%2C+Charles+W%22%29+OR+%28subjectAuthority%3A%22Canadian+Rockies+%28B.C.+and+Alta.%29%22%29+OR+%28subjectAuthority%3A%22National+parks+and+reserves--Canada%22%29&fl=id+authorAuthority+authorDates+subjectAuthority+authorityAuthority&rows=100	bibliography	5	3.2
+	/mods/note/@type	solr	bibliography	1	3.2
+	/mods/note	DOA: 1923 Spatial: Rocky Mountains, Canadian (B.C. and Alta.)	bibliography	5	3.2
+	/mods/note/@type	local	bibliography	1	3.2
+	/mods/note	On cover: "A guide for the tourist, a souvenir for his friend."	bibliography	5	3.2
+	/mods/note/@type	public	bibliography	1	3.2
+	/mods/subject		bibliography	3	3.2
+	/mods/subject/geographicCode	n-cn-bc	bibliography	3	3.2
+	/mods/subject/geographicCode/@authority	marcgac	bibliography	1	3.2
+	/mods/subject/geographicCode	n-cn-ab	bibliography	3	3.2
+	/mods/subject/geographicCode/@authority	marcgac	bibliography	1	3.2
+	/mods/subject/geographicCode	n-cn---	bibliography	3	3.2
+	/mods/subject/geographicCode/@authority	marcgac	bibliography	1	3.2
+	/mods/subject		bibliography	3	3.2
+	/mods/subject/@authority	lcsh	bibliography	1	3.2
+	/mods/subject/geographic	Canadian Rockies (B.C. and Alta.)	bibliography	1	3.2
+	/mods/subject		bibliography	3	3.2
+	/mods/subject/@authority	lcsh	bibliography	1	3.2
+	/mods/subject/@href	MS003095	bibliography	1	3.2
+	/mods/subject/topic	National parks and reserves	bibliography	1	3.2
+	/mods/subject/geographic	Canada	bibliography	1	3.2
+	/mods/classification	F1090 .S86	bibliography	1	3.2
+	/mods/classification/@authority	lcc	bibliography	1	3.2
+	/mods/identifier	3838537	bibliography	3	3.2
+	/mods/identifier/@type	local:neos	bibliography	1	3.2
+	/mods/identifier	N008471	bibliography	3	3.2
+	/mods/identifier/@type	local:peel_new	bibliography	1	3.2
+	/mods/identifier	9422	bibliography	3	3.2
+	/mods/identifier/@type	local:peel3	bibliography	1	3.2
+	/mods/recordInfo		bibliography	1	3.2
+	/mods/recordInfo/recordContentSource	RC	bibliography	2	3.2
+	/mods/recordInfo/recordContentSource	RC	bibliography	2	3.2
+	/mods/recordInfo/recordContentSource/@authority	local:person	bibliography	1	3.2
+	/mods/recordInfo/recordCreationDate	1978-08-01T12:00:00-0700	bibliography	1	3.2
+	/mods/recordInfo/recordIdentifier	P009422	bibliography	1	3.2
+	/mods/recordInfo/recordChangeDate	2010-01-10T09:57:23-0700	bibliography	1	3.2
+	/@mods	
+
+Round about the Rockies
+An everyday guide to the Rocky and Selkirk Mountains of Canada
+
+
+Stokes, Charles W
+
+text
+bibliography
+
+
+onc
+
+
+Toronto
+
+Musson Book Company
+c1923
+1923
+monographic
+
+
+eng
+
+
+print
+96 p., [13] leaves of plates : ill. (some col.), maps ; 23 cm.
+
+by Charles W. Stokes.
+Includes bibliographical references (p. 92) and index.
+http://chelsea.library.ualberta.ca:8081/peel_master/select/?q=%28authorAuthority%3A%22Stokes%2C+Charles+W%22%29+OR+%28subjectAuthority%3A%22Canadian+Rockies+%28B.C.+and+Alta.%29%22%29+OR+%28subjectAuthority%3A%22National+parks+and+reserves--Canada%22%29&fl=id+authorAuthority+authorDates+subjectAuthority+authorityAuthority&rows=100
+DOA: 1923 Spatial: Rocky Mountains, Canadian (B.C. and Alta.)
+On cover: "A guide for the tourist, a souvenir for his friend."
+
+				n-cn-bc
+			
+				n-cn-ab
+			
+				n-cn---
+			
+
+				Canadian Rockies (B.C. and Alta.)
+			
+
+				National parks and reserves
+			
+				Canada
+			
+F1090 .S86
+3838537
+N008471
+9422
+
+RC
+RC
+1978-08-01T12:00:00-0700
+P009422
+2010-01-10T09:57:23-0700
+
+	bibliography	1	3.2
+	

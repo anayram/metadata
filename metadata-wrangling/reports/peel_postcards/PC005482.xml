@@ -1,0 +1,158 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		fsalehi	PC005482	postcards	1	3.2
+	/mods/@version	3.2	fsalehi	PC005482	postcards	1	3.2
+	/mods/titleInfo		fsalehi	PC005482	postcards	1	3.2
+	/mods/titleInfo/@lang	english	fsalehi	PC005482	postcards	1	3.2
+	/mods/titleInfo/title	The High School, Calgary, Alta.	fsalehi	PC005482	postcards	1	3.2
+	/mods/name		fsalehi	PC005482	postcards	1	3.2
+	/mods/name/@type	corporate	fsalehi	PC005482	postcards	1	3.2
+	/mods/name/namePart	Novelty Manufacturing & Art Printing Co.	fsalehi	PC005482	postcards	1	3.2
+	/mods/name/role		fsalehi	PC005482	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	fsalehi	PC005482	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC005482	postcards	1	3.2
+	/mods/typeOfResource	still image	fsalehi	PC005482	postcards	1	3.2
+	/mods/genre	postcards	fsalehi	PC005482	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	fsalehi	PC005482	postcards	1	3.2
+	/mods/originInfo		fsalehi	PC005482	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	fsalehi	PC005482	postcards	1	3.2
+	/mods/originInfo/publisher	Novelty Manufacturing & Art Printing Co., Montreal	fsalehi	PC005482	postcards	1	3.2
+	/mods/originInfo/dateIssued	1913	fsalehi	PC005482	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	approximate	fsalehi	PC005482	postcards	1	3.2
+	/mods/originInfo/place		fsalehi	PC005482	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	Montreal	fsalehi	PC005482	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC005482	postcards	1	3.2
+	/mods/language		fsalehi	PC005482	postcards	1	3.2
+	/mods/language/languageTerm	English	fsalehi	PC005482	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	fsalehi	PC005482	postcards	1	3.2
+	/mods/physicalDescription		fsalehi	PC005482	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : col.; 9 x 14 cm.	fsalehi	PC005482	postcards	1	3.2
+	/mods/note	15	fsalehi	PC005482	postcards	9	3.2
+	/mods/note/@type	price	fsalehi	PC005482	postcards	1	3.2
+	/mods/note	false	fsalehi	PC005482	postcards	9	3.2
+	/mods/note/@type	notable	fsalehi	PC005482	postcards	1	3.2
+	/mods/note	true	fsalehi	PC005482	postcards	9	3.2
+	/mods/note/@type	imgprobs	fsalehi	PC005482	postcards	1	3.2
+	/mods/note	Mrs. C.H. Moran	fsalehi	PC005482	postcards	9	3.2
+	/mods/note/@type	public_to	fsalehi	PC005482	postcards	1	3.2
+	/mods/note	Mrs. Joe Frozen [?]	fsalehi	PC005482	postcards	9	3.2
+	/mods/note/@type	public_from	fsalehi	PC005482	postcards	1	3.2
+	/mods/note	Edmonton, Alta., Can., (gen del).	fsalehi	PC005482	postcards	9	3.2
+	/mods/note/@type	public_address	fsalehi	PC005482	postcards	1	3.2
+	/mods/note	Hello how you [masi] we just landed in Calgary will leave at 11 oclock. it is snowing here tonight by bye as ever Mrs. Joe Frozen	fsalehi	PC005482	postcards	9	3.2
+	/mods/note/@type	public_message	fsalehi	PC005482	postcards	1	3.2
+	/mods/note	Calgary, Alta., 1913-03-19	fsalehi	PC005482	postcards	9	3.2
+	/mods/note/@type	public_postmark_date	fsalehi	PC005482	postcards	1	3.2
+	/mods/note	Exterior view of Central High School, constructed in 1908, originally called Central Collegiate Institute and located on 13th Avenue and 8th Street South West. Sandstone letters that spell out "Boys" and "Girls" can be seen over left and right entrances, respectively.	fsalehi	PC005482	postcards	9	3.2
+	/mods/note/@type	public_description	fsalehi	PC005482	postcards	1	3.2
+	/mods/subject		fsalehi	PC005482	postcards	6	3.2
+	/mods/subject/geographic	Calgary, AB	fsalehi	PC005482	postcards	1	3.2
+	/mods/subject		fsalehi	PC005482	postcards	6	3.2
+	/mods/subject/hierarchicalGeographic		fsalehi	PC005482	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	fsalehi	PC005482	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	fsalehi	PC005482	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Calgary	fsalehi	PC005482	postcards	1	3.2
+	/mods/subject		fsalehi	PC005482	postcards	6	3.2
+	/mods/subject/genre	Postcards	fsalehi	PC005482	postcards	1	3.2
+	/mods/subject		fsalehi	PC005482	postcards	6	3.2
+	/mods/subject/topic	Schools	fsalehi	PC005482	postcards	1	3.2
+	/mods/subject		fsalehi	PC005482	postcards	6	3.2
+	/mods/subject/name		fsalehi	PC005482	postcards	1	3.2
+	/mods/subject/name/namePart	Central High School (Calgary, Alta.)	fsalehi	PC005482	postcards	1	3.2
+	/mods/subject		fsalehi	PC005482	postcards	6	3.2
+	/mods/subject/name		fsalehi	PC005482	postcards	1	3.2
+	/mods/subject/name/namePart	Central Collegiate Institute (Calgary, Alta.)	fsalehi	PC005482	postcards	1	3.2
+	/mods/identifier	PC005482	fsalehi	PC005482	postcards	1	3.2
+	/mods/identifier/@type	local	fsalehi	PC005482	postcards	1	3.2
+	/mods/location		fsalehi	PC005482	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 6	fsalehi	PC005482	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC005482.html	fsalehi	PC005482	postcards	3	3.2
+	/mods/location/url/@access	object in context	fsalehi	PC005482	postcards	1	3.2
+	/mods/location/url/@usage	primary display	fsalehi	PC005482	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/005/web/PC005482.jpg	fsalehi	PC005482	postcards	3	3.2
+	/mods/location/url/@access	raw object	fsalehi	PC005482	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='508' 	fsalehi	PC005482	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/005/thumbs/PC005482.jpg	fsalehi	PC005482	postcards	3	3.2
+	/mods/location/url/@access	preview	fsalehi	PC005482	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='127'	fsalehi	PC005482	postcards	1	3.2
+	/mods/recordInfo		fsalehi	PC005482	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	fsalehi	PC005482	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC005482	fsalehi	PC005482	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	fsalehi	fsalehi	PC005482	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2009-11-05T09:56:13-0700	fsalehi	PC005482	postcards	1	3.2
+	/@mods	
+
+The High School, Calgary, Alta.
+
+
+Novelty Manufacturing & Art Printing Co.
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+Novelty Manufacturing & Art Printing Co., Montreal
+1913
+
+
+Montreal
+
+
+
+English
+
+
+1 postcard : col.; 9 x 14 cm.
+
+15
+false
+true
+Mrs. C.H. Moran
+Mrs. Joe Frozen [?]
+Edmonton, Alta., Can., (gen del).
+Hello how you [masi] we just landed in Calgary will leave at 11 oclock. it is snowing here tonight by bye as ever Mrs. Joe Frozen
+Calgary, Alta., 1913-03-19
+Exterior view of Central High School, constructed in 1908, originally called Central Collegiate Institute and located on 13th Avenue and 8th Street South West. Sandstone letters that spell out "Boys" and "Girls" can be seen over left and right entrances, respectively.
+
+Calgary, AB
+
+
+
+Canada
+Alberta
+Calgary
+
+
+
+Postcards
+
+
+Schools
+
+
+
+Central High School (Calgary, Alta.)
+
+
+
+
+Central Collegiate Institute (Calgary, Alta.)
+
+
+PC005482
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 6
+http://peel.library.ualberta.ca/postcards/PC005482.html
+http://peel.library.ualberta.ca/pcimages/PC/005/web/PC005482.jpg
+http://peel.library.ualberta.ca/pcimages/PC/005/thumbs/PC005482.jpg
+
+
+2007-06-25T16:49:56-0600
+PC005482
+fsalehi
+2009-11-05T09:56:13-0700
+
+	fsalehi	PC005482	postcards	1	3.2
+	

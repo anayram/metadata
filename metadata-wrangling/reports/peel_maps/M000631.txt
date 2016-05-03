@@ -1,0 +1,114 @@
+Path	Content	URL	Form or Genre	Occurrence	MODS version
+
+/mods/titleInfo		http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	1	3.3
+/mods/titleInfo/title	[Lands for sale by] Royal Trust Company [in the area bounded by Tps 22 to 34, Rgs. 18 to 29 W 3rd]	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/name		http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	2	3.3
+/mods/name/@type	corporate	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	1	3.3
+/mods/name/namePart	Royal Trust Company	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/name		http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	2	3.3
+/mods/name/@type	corporate	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	1	3.3
+/mods/name/namePart	The Western Map Co.	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/typeOfResource	cartographic	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/genre	map	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	3	3.3
+/mods/genre/@authority	marcgt	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/genre	Digital maps	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	3	3.3
+/mods/genre/@authority	lcgft	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/genre	Cadastral maps	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	3	3.3
+/mods/genre/@authority	lcgft	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/originInfo		http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	1	3.3
+/mods/originInfo/place		http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	1	3.3
+/mods/originInfo/place/placeTerm	Winnipeg	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	1	3.3
+/mods/originInfo/place/placeTerm/@type	text	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	1	3.3
+/mods/originInfo/publisher	The Western Map Co.	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	1	3.3
+/mods/originInfo/dateIssued	193u	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	1	3.3
+/mods/originInfo/dateIssued/@qualifier	approximate	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/language		http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	1	3.3
+/mods/language/languageTerm	English	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	1	3.3
+/mods/language/languageTerm/@type	text	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/physicalDescription		http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	1	3.3
+/mods/physicalDescription/form		http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	1	3.3
+/mods/physicalDescription/extent	1 map : 1 col., mounted on linen ; 36 x 32.5 cm. on sheet 40.4 x 35.7 cm.	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/note	Title: For prices and terms of lands shewn in "Red" apply to Royal Trust Company, Executors and Trustees, Royal Trust Building, 436 Main Street, Winnipeg.	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	6	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/note	peelmaps	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	6	3.3
+/mods/note/@type	local:oaiset	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/note	1	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	6	3.3
+/mods/note/@type	local:sheetcount	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/note	40.4 x 35.7 cm.	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	6	3.3
+/mods/note/@type	local:sheetsize	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/note	40.4	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	6	3.3
+/mods/note/@type	local:sheetlength	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/note	35.7	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	6	3.3
+/mods/note/@type	local:sheetwidth	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	5	3.3
+/mods/subject/@authority	lcsh	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	1	3.3
+/mods/subject/@lang	eng	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	1	3.3
+/mods/subject/topic	Real property	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	1	3.3
+/mods/subject/geographic	Saskatchewan	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	5	3.3
+/mods/subject/@authority	lcsh	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	1	3.3
+/mods/subject/@lang	eng	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	1	3.3
+/mods/subject/topic	Railroads	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	1	3.3
+/mods/subject/geographic	Saskatchewan	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	5	3.3
+/mods/subject/@authority	lcsh	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	1	3.3
+/mods/subject/@lang	eng	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	1	3.3
+/mods/subject/geographic	Saskatchewan	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	5	3.3
+/mods/subject/temporal	1930	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	5	3.3
+/mods/subject/cartographics		http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	1	3.3
+/mods/subject/cartographics/coordinates	w110xxxx/n052xxxx w10830xx/n052xxxx w10830xx/n051xxxx w110xxxx/n051xxxx	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	1	3.3
+/mods/subject/cartographics/scale	ca. 1:380,160	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/classification	Saskatchewan G-24	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/identifier	4831	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	5	3.3
+/mods/identifier/@type	local:mapsproject	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/identifier	AAA-4943	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	5	3.3
+/mods/identifier/@type	local:mapsdb	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/identifier	4831.xml	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	5	3.3
+/mods/identifier/@type	local:mapsproject_filename	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/identifier	M000631	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	5	3.3
+/mods/identifier/@type	local:peel3	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/identifier	N019319	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	5	3.3
+/mods/identifier/@type	local:old_peel_new	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/location		http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	1	3.3
+/mods/location/physicalLocation	UA Cameron Staff Access-Maps	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	1	3.3
+/mods/location/url	http://peel.library.ualberta.ca/maps/M/00/06/M000631/M000631.tif	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	1	3.3
+/mods/location/url/@access	raw object	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	1	3.3
+/mods/location/url/@note	width='4331' height='4813'	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/recordInfo		http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	1	3.3
+/mods/recordInfo/recordContentSource	mapsproject	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	2	3.3
+/mods/recordInfo/recordContentSource/@authority	local:project	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	1	3.3
+/mods/recordInfo/recordContentSource	jhuck	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	2	3.3
+/mods/recordInfo/recordContentSource/@authority	local:person	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	1	3.3
+/mods/recordInfo/recordIdentifier	M000631	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	1	3.3
+/mods/recordInfo/recordChangeDate	2014-01-10T15:18:51-0700	http://peel.library.ualberta.ca/maps/M000631.html	map Digital maps Cadastral maps 	1	3.3
+

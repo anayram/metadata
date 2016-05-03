@@ -1,0 +1,161 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@schemaLocation	http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	Experiments with the single tax in western Canada		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA000722		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Wade, Frederick Coate		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	1860-1924.		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart/@type	date		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/description	1860-1924. Arrived in Manitoba, 1883; called to Manitoba bar, 1886; editorial writer on <i>Free Press</i>, 1886-1887; practised law in Winnipeg until 1897; subsequent career associated with Yukon and British Columbia (Morgan, <i>Canadian men and women of the time</i>, 1912; Robertson, <i>A political manual of the province of Manitoba</i>; Wallace, <i>Dictionary of Canadian biography</i>).		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	Vancouver		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	Saturday Sunset Presses		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1914		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued/@qualifier	questionable		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	English		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	19 p., diagram.; 18.5 cm.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	Paper read before the eighth annual conference on taxation, under the auspices of the National Tax Association at Denver, Colorado, September 11, 1914. Also published, Denver, Colo.: National Tax Association, 1914. 		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	public		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			10	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	The Wheat Economy--Taxation		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			10	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	Other		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000987		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Conferences		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			10	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000987		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Congresses and conventions		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			10	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000987		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Congrès et conférences		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			10	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	Other		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003562		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Prairie Provinces--Finance		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			10	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS004321		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Speeches, addresses, etc.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			10	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS004321		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Discours		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			10	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS004455		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Taxation		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			10	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS004455		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Impôt		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			10	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1914		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	1576		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	2487		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel2		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	4081		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	4076		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel-procite-id		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P004081		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+    
+        Experiments with the single tax in western Canada
+    
+    
+        Wade, Frederick Coate
+        1860-1924.
+        
+            author
+        
+        1860-1924. Arrived in Manitoba, 1883; called to Manitoba bar, 1886; editorial writer on <i>Free Press</i>, 1886-1887; practised law in Winnipeg until 1897; subsequent career associated with Yukon and British Columbia (Morgan, <i>Canadian men and women of the time</i>, 1912; Robertson, <i>A political manual of the province of Manitoba</i>; Wallace, <i>Dictionary of Canadian biography</i>).
+    
+    text
+    
+        
+            Vancouver
+        
+        Saturday Sunset Presses
+        1914
+    
+    
+        English
+    
+    
+        print
+        19 p., diagram.; 18.5 cm.
+    
+    Paper read before the eighth annual conference on taxation, under the auspices of the National Tax Association at Denver, Colorado, September 11, 1914. Also published, Denver, Colo.: National Tax Association, 1914. 
+    
+        The Wheat Economy--Taxation
+    
+    
+        Conferences
+    
+    
+        Congresses and conventions
+    
+    
+        Congrès et conférences
+    
+    
+        Prairie Provinces--Finance
+    
+    
+        Speeches, addresses, etc.
+    
+    
+        Discours
+    
+    
+        Taxation
+    
+    
+        Impôt
+    
+    
+        1914
+    
+    1576
+    2487
+    4081
+    4076
+    
+        Peel's Prairie Portal
+        P004081
+        2003-01-01T12:00:00-0700
+    
+		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

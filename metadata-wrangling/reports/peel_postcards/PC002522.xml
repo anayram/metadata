@@ -1,0 +1,154 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		fsalehi	PC002522	postcards	1	3.2
+	/mods/@version	3.2	fsalehi	PC002522	postcards	1	3.2
+	/mods/titleInfo		fsalehi	PC002522	postcards	1	3.2
+	/mods/titleInfo/@lang	english	fsalehi	PC002522	postcards	1	3.2
+	/mods/titleInfo/title	Moose Jaw, Sask., looking north	fsalehi	PC002522	postcards	1	3.2
+	/mods/name		fsalehi	PC002522	postcards	1	3.2
+	/mods/name/@type	corporate	fsalehi	PC002522	postcards	1	3.2
+	/mods/name/namePart	Valentine & Sons Publishing Co., Ltd.	fsalehi	PC002522	postcards	1	3.2
+	/mods/name/role		fsalehi	PC002522	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	fsalehi	PC002522	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC002522	postcards	1	3.2
+	/mods/typeOfResource	still image	fsalehi	PC002522	postcards	1	3.2
+	/mods/genre	postcards	fsalehi	PC002522	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	fsalehi	PC002522	postcards	1	3.2
+	/mods/originInfo		fsalehi	PC002522	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	fsalehi	PC002522	postcards	1	3.2
+	/mods/originInfo/publisher	Valentine & Son's Publishing Co., Ltd., Montreal , Toronto	fsalehi	PC002522	postcards	1	3.2
+	/mods/originInfo/dateIssued	1926	fsalehi	PC002522	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	inferred	fsalehi	PC002522	postcards	1	3.2
+	/mods/originInfo/place		fsalehi	PC002522	postcards	2	3.2
+	/mods/originInfo/place/placeTerm	Montreal	fsalehi	PC002522	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC002522	postcards	1	3.2
+	/mods/originInfo/place		fsalehi	PC002522	postcards	2	3.2
+	/mods/originInfo/place/placeTerm	Toronto	fsalehi	PC002522	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC002522	postcards	1	3.2
+	/mods/language		fsalehi	PC002522	postcards	1	3.2
+	/mods/language/languageTerm	English	fsalehi	PC002522	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	fsalehi	PC002522	postcards	1	3.2
+	/mods/physicalDescription		fsalehi	PC002522	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : col.; 9 x 14 cm.	fsalehi	PC002522	postcards	1	3.2
+	/mods/note	30	fsalehi	PC002522	postcards	5	3.2
+	/mods/note/@type	price	fsalehi	PC002522	postcards	1	3.2
+	/mods/note	false	fsalehi	PC002522	postcards	5	3.2
+	/mods/note/@type	notable	fsalehi	PC002522	postcards	1	3.2
+	/mods/note	false	fsalehi	PC002522	postcards	5	3.2
+	/mods/note/@type	imgprobs	fsalehi	PC002522	postcards	1	3.2
+	/mods/note	Printed in Great Britain.	fsalehi	PC002522	postcards	5	3.2
+	/mods/note/@type	public_on_back	fsalehi	PC002522	postcards	1	3.2
+	/mods/note	A view down a street. The streetcar line can be seen down the middle of the street, with a streetcar in service. Cars are also visible in the street and parked along the side.	fsalehi	PC002522	postcards	5	3.2
+	/mods/note/@type	public_description	fsalehi	PC002522	postcards	1	3.2
+	/mods/subject		fsalehi	PC002522	postcards	7	3.2
+	/mods/subject/geographic	Moose Jaw, SK	fsalehi	PC002522	postcards	1	3.2
+	/mods/subject		fsalehi	PC002522	postcards	7	3.2
+	/mods/subject/hierarchicalGeographic		fsalehi	PC002522	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	fsalehi	PC002522	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Saskatchewan	fsalehi	PC002522	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Moose Jaw	fsalehi	PC002522	postcards	1	3.2
+	/mods/subject		fsalehi	PC002522	postcards	7	3.2
+	/mods/subject/genre	Postcards	fsalehi	PC002522	postcards	1	3.2
+	/mods/subject		fsalehi	PC002522	postcards	7	3.2
+	/mods/subject/topic	Cityscapes	fsalehi	PC002522	postcards	1	3.2
+	/mods/subject		fsalehi	PC002522	postcards	7	3.2
+	/mods/subject/topic	Commercial streets	fsalehi	PC002522	postcards	1	3.2
+	/mods/subject		fsalehi	PC002522	postcards	7	3.2
+	/mods/subject/topic	Buildings	fsalehi	PC002522	postcards	1	3.2
+	/mods/subject		fsalehi	PC002522	postcards	7	3.2
+	/mods/subject/topic	Stores & shops	fsalehi	PC002522	postcards	1	3.2
+	/mods/identifier	PC002522	fsalehi	PC002522	postcards	1	3.2
+	/mods/identifier/@type	local	fsalehi	PC002522	postcards	1	3.2
+	/mods/location		fsalehi	PC002522	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Sask. Box 1	fsalehi	PC002522	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC002522.html	fsalehi	PC002522	postcards	3	3.2
+	/mods/location/url/@access	object in context	fsalehi	PC002522	postcards	1	3.2
+	/mods/location/url/@usage	primary display	fsalehi	PC002522	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/002/web/PC002522.jpg	fsalehi	PC002522	postcards	3	3.2
+	/mods/location/url/@access	raw object	fsalehi	PC002522	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='511' 	fsalehi	PC002522	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/002/thumbs/PC002522.jpg	fsalehi	PC002522	postcards	3	3.2
+	/mods/location/url/@access	preview	fsalehi	PC002522	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='128'	fsalehi	PC002522	postcards	1	3.2
+	/mods/recordInfo		fsalehi	PC002522	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	fsalehi	PC002522	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC002522	fsalehi	PC002522	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	fsalehi	fsalehi	PC002522	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2007-12-12T09:25:55-0700	fsalehi	PC002522	postcards	1	3.2
+	/@mods	
+
+Moose Jaw, Sask., looking north
+
+
+Valentine & Sons Publishing Co., Ltd.
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+Valentine & Son's Publishing Co., Ltd., Montreal , Toronto
+1926
+
+
+
+Montreal
+
+
+Toronto
+
+
+
+English
+
+
+1 postcard : col.; 9 x 14 cm.
+
+30
+false
+false
+Printed in Great Britain.
+A view down a street. The streetcar line can be seen down the middle of the street, with a streetcar in service. Cars are also visible in the street and parked along the side.
+
+Moose Jaw, SK
+
+
+
+Canada
+Saskatchewan
+Moose Jaw
+
+
+
+Postcards
+
+
+Cityscapes
+
+
+Commercial streets
+
+
+Buildings
+
+
+Stores & shops
+
+PC002522
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Sask. Box 1
+http://peel.library.ualberta.ca/postcards/PC002522.html
+http://peel.library.ualberta.ca/pcimages/PC/002/web/PC002522.jpg
+http://peel.library.ualberta.ca/pcimages/PC/002/thumbs/PC002522.jpg
+
+
+
+
+2007-06-25T16:49:56-0600
+PC002522
+fsalehi
+2007-12-12T09:25:55-0700
+
+	fsalehi	PC002522	postcards	1	3.2
+	

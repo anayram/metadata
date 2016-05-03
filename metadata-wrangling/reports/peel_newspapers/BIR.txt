@@ -1,0 +1,90 @@
+Path	Content	URL	Form or Genre	Occurrence	MODS version
+
+/mods/titleInfo		http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	1	3.2
+/mods/titleInfo/title	Bow Island review	http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	1	3.2
+
+/mods/typeOfResource	text	http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	1	3.2
+
+/mods/genre	newspaper	http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	1	3.2
+/mods/genre/@authority	marcgt	http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	1	3.2
+
+/mods/originInfo		http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	1	3.2
+/mods/originInfo/place		http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	2	3.2
+/mods/originInfo/place/placeTerm	abc	http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@authority	marccountry	http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@type	code	http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	1	3.2
+/mods/originInfo/place		http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	2	3.2
+/mods/originInfo/place/placeTerm	Bow Island, Alta	http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@type	text	http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	1	3.2
+/mods/originInfo/publisher	W.P. Cotton	http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	1	3.2
+/mods/originInfo/dateIssued	1910-1936?]	http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	3	3.2
+/mods/originInfo/dateIssued	1910	http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	3	3.2
+/mods/originInfo/dateIssued/@encoding	marc	http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	1	3.2
+/mods/originInfo/dateIssued/@point	start	http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	1	3.2
+/mods/originInfo/dateIssued	1935	http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	3	3.2
+/mods/originInfo/dateIssued/@encoding	marc	http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	1	3.2
+/mods/originInfo/dateIssued/@point	end	http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	1	3.2
+/mods/originInfo/issuance	continuing	http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	1	3.2
+
+/mods/language		http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	1	3.2
+/mods/language/languageTerm	eng	http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	1	3.2
+/mods/language/languageTerm/@authority	iso639-2b	http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	1	3.2
+/mods/language/languageTerm/@type	code	http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	1	3.2
+
+/mods/physicalDescription		http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	1	3.2
+/mods/physicalDescription/form	print	http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	1	3.2
+/mods/physicalDescription/form/@authority	marcform	http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	1	3.2
+/mods/physicalDescription/extent	v. : ill.	http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	1	3.2
+
+/mods/note	Imprint varies: Dec. 27, 1918-1936?, Charles Avery.	http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	2	3.2
+
+/mods/note	newspapers	http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	2	3.2
+/mods/note/@type	local:oaiset	http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	1	3.2
+
+/mods/subject		http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic		http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/country	Canada	http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/province	Alberta	http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/city	Bow Island	http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	1	3.2
+
+/mods/relatedItem		http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	1	3.2
+/mods/relatedItem/@type	otherFormat	http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	1	3.2
+/mods/relatedItem/titleInfo		http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	1	3.2
+/mods/relatedItem/titleInfo/title	Bow Island review	http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	1	3.2
+/mods/relatedItem/originInfo		http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	1	3.2
+/mods/relatedItem/originInfo/publisher	[S.l. : s.n.]	http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	1	3.2
+/mods/relatedItem/identifier	0710-3921	http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	1	3.2
+/mods/relatedItem/identifier/@type	issn	http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	1	3.2
+
+/mods/identifier	0710-3921	http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	3	3.2
+/mods/identifier/@type	issn	http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	1	3.2
+
+/mods/identifier	000007527741	http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	3	3.2
+/mods/identifier/@type	local:amicus	http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	1	3.2
+
+/mods/identifier	BIR	http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	3	3.2
+/mods/identifier/@type	local:newspaper	http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	1	3.2
+
+/mods/location		http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	2	3.2
+/mods/location/physicalLocation	CaAEP	http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	1	3.2
+
+    /mods/location		http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	2	3.2
+/mods/location/physicalLocation	CaAEU	http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	1	3.2
+/mods/location/physicalLocation/@authority	marcorg	http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	1	3.2
+/mods/location/holdingSimple		http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation		http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/form	electronic	http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/form/@authority	marcform	http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/electronicLocator	http://peel.library.ualberta.ca/newspapers/BIR/	http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/enumerationAndChronology	1910-1923	http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/enumerationAndChronology/@unitType	1	http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	1	3.2
+
+/mods/recordInfo		http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	1	3.2
+/mods/recordInfo/recordContentSource	CaOONLN	http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	2	3.2
+/mods/recordInfo/recordContentSource/@authority	marcorg	http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	1	3.2
+/mods/recordInfo/recordContentSource	sfarnel	http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	2	3.2
+/mods/recordInfo/recordContentSource/@authority	local:person	http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	1	3.2
+/mods/recordInfo/recordCreationDate	2010-01-13T16:06:22-0700	http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	1	3.2
+/mods/recordInfo/recordIdentifier	QBIR	http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	1	3.2
+/mods/recordInfo/recordChangeDate	2010-01-13T16:06:31-0700	http://peel.library.ualberta.ca/newspapers/BIR.html	newspaper	1	3.2
+

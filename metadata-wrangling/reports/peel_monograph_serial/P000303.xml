@@ -1,0 +1,165 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	Traits of American-Indian life and character		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA001377		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Ogden, Peter Skene		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/description	1790-1854. Baptized at Quebec; worked for American Fur Company in Montreal; joined NWC, 1809; served at Île-à-la-Crosse, Green Lake, Fort George, Spokane House, Thompson's River, Fort Nass/Fort Simpson, Fort St James, Fort Vancouver; became factor with HBC, 1823, and chief factor, 1834; accompanied Vavasour and Warre on surveying trip, 1845; retired, 1854.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	London		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	Smith, Elder & Co.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1853		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	English		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	xiv, 218 p.; 21 cm.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	Formerly attributed to Duncan Finlayson, a chief factor for HBC. Also published, edition limited to 500 copies, San Francisco, Calif.: Grabhorn Press, 1933 (107p.); New York: AMS Press, [1972] (107p.); Fairfield, Wash.: Ye Galleon Press, [1986]; and New York: Dover and London: Constable, 1995 (107p.).		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	public		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	Also published, in part, <i>Meat's meat: Feasting with the enemy</i>, Victoria: Reference West, 1996.		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	public		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	main		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	local:frbr		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS001650		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Fur traders		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS001650		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Coureurs de bois		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	Other		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS001952		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name/namePart	Hudson's Bay Company		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002171		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Indians of North America--Social life and customs		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002171		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Indiens d'Amérique--Amérique du Nord--Mœurs et coutumes		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1853		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem			5	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@ID	t2		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@displayLabel	Grabhorn Press ed.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@type	otherVersion		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@href	N027362		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem			5	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@ID	t3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@displayLabel	AMS Press		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@type	otherVersion		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@href	N027363		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem			5	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@ID	t4		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@displayLabel	Ye Galleon Press ed.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@type	otherVersion		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@href	N027364		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem			5	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@ID	t5		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@displayLabel	Dover; Constable ed.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@type	otherVersion		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@href	N027365		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem			5	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@ID	t6		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@displayLabel	Meat's meat: Feasting with the enemy		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@type	otherVersion		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@href	N027366		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	303		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	303		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel-procite-id		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	RC		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P000303		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordChangeDate	2012-03-18T19:19:49-0600		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+
+Traits of American-Indian life and character
+
+
+Ogden, Peter Skene
+
+author
+
+1790-1854. Baptized at Quebec; worked for American Fur Company in Montreal; joined NWC, 1809; served at Île-à-la-Crosse, Green Lake, Fort George, Spokane House, Thompson's River, Fort Nass/Fort Simpson, Fort St James, Fort Vancouver; became factor with HBC, 1823, and chief factor, 1834; accompanied Vavasour and Warre on surveying trip, 1845; retired, 1854.
+
+text
+
+
+London
+
+Smith, Elder & Co.
+1853
+
+
+English
+
+
+print
+xiv, 218 p.; 21 cm.
+
+Formerly attributed to Duncan Finlayson, a chief factor for HBC. Also published, edition limited to 500 copies, San Francisco, Calif.: Grabhorn Press, 1933 (107p.); New York: AMS Press, [1972] (107p.); Fairfield, Wash.: Ye Galleon Press, [1986]; and New York: Dover and London: Constable, 1995 (107p.).
+Also published, in part, <i>Meat's meat: Feasting with the enemy</i>, Victoria: Reference West, 1996.
+main
+
+				Fur traders
+			
+
+				Coureurs de bois
+			
+
+				
+Hudson's Bay Company
+
+			
+
+				Indians of North America--Social life and customs
+			
+
+				Indiens d'Amérique--Amérique du Nord--Mœurs et coutumes
+			
+
+				1853
+			
+
+
+
+
+
+303
+303
+
+Peel's Prairie Portal
+RC
+2003-01-01T12:00:00-0700
+P000303
+2012-03-18T19:19:49-0600
+
+		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

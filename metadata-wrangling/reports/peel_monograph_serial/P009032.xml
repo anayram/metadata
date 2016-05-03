@@ -1,0 +1,132 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods		bibliography	1	3.2
+	/mods/@version	3.2	bibliography	1	3.2
+	/mods/titleInfo		bibliography	1	3.2
+	/mods/titleInfo/title	passion for music	bibliography	1	3.2
+	/mods/titleInfo/subTitle	A biography of Richard S. Eaton	bibliography	1	3.2
+	/mods/titleInfo/nonSort	A 	bibliography	1	3.2
+	/mods/name		bibliography	1	3.2
+	/mods/name/@type	personal	bibliography	1	3.2
+	/mods/name/namePart	Matheson, Margaret C	bibliography	1	3.2
+	/mods/typeOfResource	text	bibliography	1	3.2
+	/mods/genre	bibliography	bibliography	1	3.2
+	/mods/genre/@authority	marcgt	bibliography	1	3.2
+	/mods/originInfo		bibliography	1	3.2
+	/mods/originInfo/place		bibliography	2	3.2
+	/mods/originInfo/place/placeTerm	abc	bibliography	1	3.2
+	/mods/originInfo/place/placeTerm/@authority	marccountry	bibliography	1	3.2
+	/mods/originInfo/place/placeTerm/@type	code	bibliography	1	3.2
+	/mods/originInfo/place		bibliography	2	3.2
+	/mods/originInfo/place/placeTerm	Edmonton	bibliography	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	bibliography	1	3.2
+	/mods/originInfo/publisher	Spotted Cow Press	bibliography	1	3.2
+	/mods/originInfo/dateIssued	2001	bibliography	1	3.2
+	/mods/originInfo/issuance	monographic	bibliography	1	3.2
+	/mods/language		bibliography	1	3.2
+	/mods/language/languageTerm	eng	bibliography	1	3.2
+	/mods/language/languageTerm/@authority	iso639-2b	bibliography	1	3.2
+	/mods/language/languageTerm/@type	code	bibliography	1	3.2
+	/mods/physicalDescription		bibliography	1	3.2
+	/mods/physicalDescription/form	print	bibliography	1	3.2
+	/mods/physicalDescription/form/@authority	marcform	bibliography	1	3.2
+	/mods/physicalDescription/extent	x, 298 p. : ill., facsims., map, ports. ; 24 cm.	bibliography	1	3.2
+	/mods/note	Includes bibliographical references (p. 289-292) and index.	bibliography	4	3.2
+	/mods/note	uahistory	bibliography	4	3.2
+	/mods/note/@type	local:oaiset	bibliography	1	3.2
+	/mods/note	DOA: 1947 Spatial: Edmonton (Alta.)	bibliography	4	3.2
+	/mods/note/@type	local	bibliography	1	3.2
+	/mods/note	Biography of a University of Alberta music professor.	bibliography	4	3.2
+	/mods/note/@type	public	bibliography	1	3.2
+	/mods/subject		bibliography	3	3.2
+	/mods/subject/@authority	lcsh	bibliography	1	3.2
+	/mods/subject/name		bibliography	1	3.2
+	/mods/subject/name/@type	personal	bibliography	1	3.2
+	/mods/subject/name/namePart	Eaton, Richard S	bibliography	2	3.2
+	/mods/subject/name/namePart	1914-1968	bibliography	2	3.2
+	/mods/subject/name/namePart/@type	date	bibliography	1	3.2
+	/mods/subject		bibliography	3	3.2
+	/mods/subject/@authority	lcsh	bibliography	1	3.2
+	/mods/subject/topic	Music teachers	bibliography	1	3.2
+	/mods/subject/geographic	Alberta	bibliography	1	3.2
+	/mods/subject		bibliography	3	3.2
+	/mods/subject/@authority	lcsh	bibliography	1	3.2
+	/mods/subject/topic	Composers	bibliography	1	3.2
+	/mods/subject/geographic	Alberta	bibliography	1	3.2
+	/mods/classification	ML410.E25 M38 2001	bibliography	1	3.2
+	/mods/classification/@authority	lcc	bibliography	1	3.2
+	/mods/identifier	0968897703	bibliography	3	3.2
+	/mods/identifier/@type	isbn	bibliography	1	3.2
+	/mods/identifier	2502508	bibliography	3	3.2
+	/mods/identifier/@type	local:neos	bibliography	1	3.2
+	/mods/identifier	9032	bibliography	3	3.2
+	/mods/identifier/@type	local:peel3	bibliography	1	3.2
+	/mods/recordInfo		bibliography	1	3.2
+	/mods/recordInfo/recordContentSource	AEU	bibliography	2	3.2
+	/mods/recordInfo/recordContentSource/@authority	marcorg	bibliography	1	3.2
+	/mods/recordInfo/recordContentSource	RC	bibliography	2	3.2
+	/mods/recordInfo/recordContentSource/@authority	local:person	bibliography	1	3.2
+	/mods/recordInfo/recordCreationDate	2008-09-10T16:58:10-0600	bibliography	1	3.2
+	/mods/recordInfo/recordIdentifier	P009032	bibliography	1	3.2
+	/mods/recordInfo/recordChangeDate	2010-03-14T14:24:39-0600	bibliography	1	3.2
+	/@mods	
+
+passion for music
+A biography of Richard S. Eaton
+A 
+
+
+Matheson, Margaret C
+
+text
+bibliography
+
+
+abc
+
+
+Edmonton
+
+Spotted Cow Press
+2001
+monographic
+
+
+eng
+
+
+print
+x, 298 p. : ill., facsims., map, ports. ; 24 cm.
+
+Includes bibliographical references (p. 289-292) and index.
+uahistory
+DOA: 1947 Spatial: Edmonton (Alta.)
+Biography of a University of Alberta music professor.
+
+				
+Eaton, Richard S
+1914-1968
+
+			
+
+				Music teachers
+			
+				Alberta
+			
+
+				Composers
+			
+				Alberta
+			
+ML410.E25 M38 2001
+0968897703
+2502508
+9032
+
+AEU
+RC
+2008-09-10T16:58:10-0600
+P009032
+2010-03-14T14:24:39-0600
+
+	bibliography	1	3.2
+	

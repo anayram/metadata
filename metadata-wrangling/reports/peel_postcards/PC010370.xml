@@ -1,0 +1,151 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		fsalehi	PC010370	postcards	1	3.2
+	/mods/@version	3.2	fsalehi	PC010370	postcards	1	3.2
+	/mods/titleInfo		fsalehi	PC010370	postcards	1	3.2
+	/mods/titleInfo/@lang	english	fsalehi	PC010370	postcards	1	3.2
+	/mods/titleInfo/title	Main Street, Cardston, Alberta, Canada.	fsalehi	PC010370	postcards	1	3.2
+	/mods/name		fsalehi	PC010370	postcards	1	3.2
+	/mods/name/@type	corporate	fsalehi	PC010370	postcards	1	3.2
+	/mods/name/namePart	Photogelatine Engraving Co.	fsalehi	PC010370	postcards	1	3.2
+	/mods/name/role		fsalehi	PC010370	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	fsalehi	PC010370	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC010370	postcards	1	3.2
+	/mods/typeOfResource	still image	fsalehi	PC010370	postcards	1	3.2
+	/mods/genre	postcards	fsalehi	PC010370	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	fsalehi	PC010370	postcards	1	3.2
+	/mods/originInfo		fsalehi	PC010370	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	fsalehi	PC010370	postcards	1	3.2
+	/mods/originInfo/publisher	Photogelatine Engraving Co. Limited, Toronto.	fsalehi	PC010370	postcards	1	3.2
+	/mods/originInfo/dateIssued	1940's	fsalehi	PC010370	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	inferred	fsalehi	PC010370	postcards	1	3.2
+	/mods/originInfo/place		fsalehi	PC010370	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	Toronto	fsalehi	PC010370	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC010370	postcards	1	3.2
+	/mods/language		fsalehi	PC010370	postcards	1	3.2
+	/mods/language/languageTerm	English	fsalehi	PC010370	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	fsalehi	PC010370	postcards	1	3.2
+	/mods/physicalDescription		fsalehi	PC010370	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : col. ; 9 x 14 cm.	fsalehi	PC010370	postcards	1	3.2
+	/mods/note	10	fsalehi	PC010370	postcards	7	3.2
+	/mods/note/@type	price	fsalehi	PC010370	postcards	1	3.2
+	/mods/note	false	fsalehi	PC010370	postcards	7	3.2
+	/mods/note/@type	notable	fsalehi	PC010370	postcards	1	3.2
+	/mods/note	true	fsalehi	PC010370	postcards	7	3.2
+	/mods/note/@type	imgprobs	fsalehi	PC010370	postcards	1	3.2
+	/mods/note	[printer's no.] 5	fsalehi	PC010370	postcards	7	3.2
+	/mods/note/@type	public_on_front	fsalehi	PC010370	postcards	1	3.2
+	/mods/note	Made in Canada	fsalehi	PC010370	postcards	7	3.2
+	/mods/note/@type	public_on_back	fsalehi	PC010370	postcards	1	3.2
+	/mods/note	View of a commercial street in town with stores and shops on the either side or pedestrians on the sidewalk and cars are driving and parked on either side.	fsalehi	PC010370	postcards	7	3.2
+	/mods/note/@type	public_description	fsalehi	PC010370	postcards	1	3.2
+	/mods/note	Duplicate image of PC010367	fsalehi	PC010370	postcards	7	3.2
+	/mods/note/@type	private	fsalehi	PC010370	postcards	1	3.2
+	/mods/subject		fsalehi	PC010370	postcards	7	3.2
+	/mods/subject/geographic	Cardston, AB	fsalehi	PC010370	postcards	1	3.2
+	/mods/subject		fsalehi	PC010370	postcards	7	3.2
+	/mods/subject/hierarchicalGeographic		fsalehi	PC010370	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	fsalehi	PC010370	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	fsalehi	PC010370	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Cardston	fsalehi	PC010370	postcards	1	3.2
+	/mods/subject		fsalehi	PC010370	postcards	7	3.2
+	/mods/subject/genre	Postcards	fsalehi	PC010370	postcards	1	3.2
+	/mods/subject		fsalehi	PC010370	postcards	7	3.2
+	/mods/subject/topic	Commercial streets	fsalehi	PC010370	postcards	1	3.2
+	/mods/subject		fsalehi	PC010370	postcards	7	3.2
+	/mods/subject/topic	Stores & shops	fsalehi	PC010370	postcards	1	3.2
+	/mods/subject		fsalehi	PC010370	postcards	7	3.2
+	/mods/subject/topic	Carts & wagons	fsalehi	PC010370	postcards	1	3.2
+	/mods/subject		fsalehi	PC010370	postcards	7	3.2
+	/mods/subject/topic	Utility poles	fsalehi	PC010370	postcards	1	3.2
+	/mods/identifier	PC010370	fsalehi	PC010370	postcards	1	3.2
+	/mods/identifier/@type	local	fsalehi	PC010370	postcards	1	3.2
+	/mods/location		fsalehi	PC010370	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 1	fsalehi	PC010370	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC010370.html	fsalehi	PC010370	postcards	3	3.2
+	/mods/location/url/@access	object in context	fsalehi	PC010370	postcards	1	3.2
+	/mods/location/url/@usage	primary display	fsalehi	PC010370	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/010/web/PC010370.jpg	fsalehi	PC010370	postcards	3	3.2
+	/mods/location/url/@access	raw object	fsalehi	PC010370	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='524' 	fsalehi	PC010370	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/010/thumbs/PC010370.jpg	fsalehi	PC010370	postcards	3	3.2
+	/mods/location/url/@access	preview	fsalehi	PC010370	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='131'	fsalehi	PC010370	postcards	1	3.2
+	/mods/recordInfo		fsalehi	PC010370	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2009-01-19T16:18:42-0700	fsalehi	PC010370	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC010370	fsalehi	PC010370	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	fsalehi	fsalehi	PC010370	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2009-08-25T15:26:35-0600	fsalehi	PC010370	postcards	1	3.2
+	/@mods	
+
+Main Street, Cardston, Alberta, Canada.
+
+
+Photogelatine Engraving Co.
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+Photogelatine Engraving Co. Limited, Toronto.
+1940's
+
+
+Toronto
+
+
+
+English
+
+
+1 postcard : col. ; 9 x 14 cm.
+
+10
+false
+true
+[printer's no.] 5
+Made in Canada
+View of a commercial street in town with stores and shops on the either side or pedestrians on the sidewalk and cars are driving and parked on either side.
+Duplicate image of PC010367
+
+Cardston, AB
+
+
+
+Canada
+Alberta
+Cardston
+
+
+
+Postcards
+
+
+Commercial streets
+
+
+Stores & shops
+
+
+Carts & wagons
+
+
+Utility poles
+
+PC010370
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 1
+http://peel.library.ualberta.ca/postcards/PC010370.html
+http://peel.library.ualberta.ca/pcimages/PC/010/web/PC010370.jpg
+http://peel.library.ualberta.ca/pcimages/PC/010/thumbs/PC010370.jpg
+
+
+2009-01-19T16:18:42-0700
+PC010370
+fsalehi
+2009-08-25T15:26:35-0600
+
+	fsalehi	PC010370	postcards	1	3.2
+	

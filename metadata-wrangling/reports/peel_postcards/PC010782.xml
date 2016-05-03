@@ -1,0 +1,155 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		fsalehi	PC010782	postcards	1	3.2
+	/mods/@version	3.2	fsalehi	PC010782	postcards	1	3.2
+	/mods/titleInfo		fsalehi	PC010782	postcards	1	3.2
+	/mods/titleInfo/@lang	english	fsalehi	PC010782	postcards	1	3.2
+	/mods/titleInfo/title	Toronto Street, showing Assiniboia Hotel, Medicine Hat, Alberta	fsalehi	PC010782	postcards	1	3.2
+	/mods/name		fsalehi	PC010782	postcards	1	3.2
+	/mods/name/@type	corporate	fsalehi	PC010782	postcards	1	3.2
+	/mods/name/namePart	The Valentine & Sons United Publishing Co. Limited	fsalehi	PC010782	postcards	1	3.2
+	/mods/name/role		fsalehi	PC010782	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	fsalehi	PC010782	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC010782	postcards	1	3.2
+	/mods/typeOfResource	still image	fsalehi	PC010782	postcards	1	3.2
+	/mods/genre	postcards	fsalehi	PC010782	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	fsalehi	PC010782	postcards	1	3.2
+	/mods/originInfo		fsalehi	PC010782	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	fsalehi	PC010782	postcards	1	3.2
+	/mods/originInfo/dateIssued	ca. 1910	fsalehi	PC010782	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	inferred	fsalehi	PC010782	postcards	1	3.2
+	/mods/originInfo/publisher	The Valentine & Sons United Publishing Co. Limited Toronto and Winnipeg	fsalehi	PC010782	postcards	1	3.2
+	/mods/originInfo/place		fsalehi	PC010782	postcards	2	3.2
+	/mods/originInfo/place/placeTerm	Toronto	fsalehi	PC010782	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC010782	postcards	1	3.2
+	/mods/originInfo/place		fsalehi	PC010782	postcards	2	3.2
+	/mods/originInfo/place/placeTerm	Winnipeg	fsalehi	PC010782	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC010782	postcards	1	3.2
+	/mods/language		fsalehi	PC010782	postcards	1	3.2
+	/mods/language/languageTerm	English	fsalehi	PC010782	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	fsalehi	PC010782	postcards	1	3.2
+	/mods/physicalDescription		fsalehi	PC010782	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : col. ; 9 x 14 cm.	fsalehi	PC010782	postcards	1	3.2
+	/mods/note	6	fsalehi	PC010782	postcards	6	3.2
+	/mods/note/@type	price	fsalehi	PC010782	postcards	1	3.2
+	/mods/note	false	fsalehi	PC010782	postcards	6	3.2
+	/mods/note/@type	notable	fsalehi	PC010782	postcards	1	3.2
+	/mods/note	true	fsalehi	PC010782	postcards	6	3.2
+	/mods/note/@type	imgprobs	fsalehi	PC010782	postcards	1	3.2
+	/mods/note	Printed in U.S.A.	fsalehi	PC010782	postcards	6	3.2
+	/mods/note/@type	public_on_back	fsalehi	PC010782	postcards	1	3.2
+	/mods/note	[printer's no.] 110240 (JV)	fsalehi	PC010782	postcards	6	3.2
+	/mods/note/@type	public_on_front	fsalehi	PC010782	postcards	1	3.2
+	/mods/note	Toronto Street, showing Assiniboia Hotel in Medicine Hat, Alberta.	fsalehi	PC010782	postcards	6	3.2
+	/mods/note/@type	public_description	fsalehi	PC010782	postcards	1	3.2
+	/mods/subject		fsalehi	PC010782	postcards	7	3.2
+	/mods/subject/geographic	Medicine Hat, AB	fsalehi	PC010782	postcards	1	3.2
+	/mods/subject		fsalehi	PC010782	postcards	7	3.2
+	/mods/subject/hierarchicalGeographic		fsalehi	PC010782	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	fsalehi	PC010782	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	fsalehi	PC010782	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Medicine Hat	fsalehi	PC010782	postcards	1	3.2
+	/mods/subject		fsalehi	PC010782	postcards	7	3.2
+	/mods/subject/genre	Postcards	fsalehi	PC010782	postcards	1	3.2
+	/mods/subject		fsalehi	PC010782	postcards	7	3.2
+	/mods/subject/topic	Commercial streets	fsalehi	PC010782	postcards	1	3.2
+	/mods/subject		fsalehi	PC010782	postcards	7	3.2
+	/mods/subject/topic	Stores & shops	fsalehi	PC010782	postcards	1	3.2
+	/mods/subject		fsalehi	PC010782	postcards	7	3.2
+	/mods/subject/topic	Carts & wagons	fsalehi	PC010782	postcards	1	3.2
+	/mods/subject		fsalehi	PC010782	postcards	7	3.2
+	/mods/subject/topic	Commercial facilities	fsalehi	PC010782	postcards	1	3.2
+	/mods/identifier	PC010782	fsalehi	PC010782	postcards	1	3.2
+	/mods/identifier/@type	local	fsalehi	PC010782	postcards	1	3.2
+	/mods/location		fsalehi	PC010782	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 2	fsalehi	PC010782	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC010782.html	fsalehi	PC010782	postcards	3	3.2
+	/mods/location/url/@access	object in context	fsalehi	PC010782	postcards	1	3.2
+	/mods/location/url/@usage	primary display	fsalehi	PC010782	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/010/web/PC010782.jpg	fsalehi	PC010782	postcards	3	3.2
+	/mods/location/url/@access	raw object	fsalehi	PC010782	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='531' 	fsalehi	PC010782	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/010/thumbs/PC010782.jpg	fsalehi	PC010782	postcards	3	3.2
+	/mods/location/url/@access	preview	fsalehi	PC010782	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='133'	fsalehi	PC010782	postcards	1	3.2
+	/mods/recordInfo		fsalehi	PC010782	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2009-01-19T16:18:42-0700	fsalehi	PC010782	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC010782	fsalehi	PC010782	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	fsalehi	fsalehi	PC010782	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2009-11-12T09:39:26-0700	fsalehi	PC010782	postcards	1	3.2
+	/@mods	
+
+Toronto Street, showing Assiniboia Hotel, Medicine Hat, Alberta
+
+
+The Valentine & Sons United Publishing Co. Limited
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+ca. 1910
+The Valentine & Sons United Publishing Co. Limited Toronto and Winnipeg
+
+
+
+Toronto
+
+
+Winnipeg
+
+
+
+English
+
+
+1 postcard : col. ; 9 x 14 cm.
+
+6
+false
+true
+Printed in U.S.A.
+[printer's no.] 110240 (JV)
+Toronto Street, showing Assiniboia Hotel in Medicine Hat, Alberta.
+
+Medicine Hat, AB
+
+
+
+Canada
+Alberta
+Medicine Hat
+
+
+
+Postcards
+
+
+Commercial streets
+
+
+Stores & shops
+
+
+Carts & wagons
+
+
+Commercial facilities
+
+PC010782
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 2
+http://peel.library.ualberta.ca/postcards/PC010782.html
+http://peel.library.ualberta.ca/pcimages/PC/010/web/PC010782.jpg
+http://peel.library.ualberta.ca/pcimages/PC/010/thumbs/PC010782.jpg
+
+
+2009-01-19T16:18:42-0700
+PC010782
+fsalehi
+2009-11-12T09:39:26-0700
+
+	fsalehi	PC010782	postcards	1	3.2
+	

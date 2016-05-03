@@ -1,0 +1,80 @@
+Path	Content	URL	Form or Genre	Occurrence	MODS version
+
+/mods/titleInfo		http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	1	3.2
+/mods/titleInfo/title	mirror mail	http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	1	3.2
+/mods/titleInfo/nonSort	The 	http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	1	3.2
+
+/mods/typeOfResource	text	http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	1	3.2
+
+/mods/genre	newspaper	http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	1	3.2
+/mods/genre/@authority	marcgt	http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	1	3.2
+
+/mods/originInfo		http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	1	3.2
+/mods/originInfo/place		http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	2	3.2
+/mods/originInfo/place/placeTerm	abc	http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@authority	marccountry	http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@type	code	http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	1	3.2
+/mods/originInfo/place		http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	2	3.2
+/mods/originInfo/place/placeTerm	Mirror, Alta	http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@type	text	http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	1	3.2
+/mods/originInfo/publisher	J. Saywright	http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	1	3.2
+/mods/originInfo/dateIssued	1925-[1927?]	http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	3	3.2
+/mods/originInfo/dateIssued	1925	http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	3	3.2
+/mods/originInfo/dateIssued/@encoding	marc	http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	1	3.2
+/mods/originInfo/dateIssued/@point	start	http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	1	3.2
+/mods/originInfo/dateIssued	1927	http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	3	3.2
+/mods/originInfo/dateIssued/@encoding	marc	http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	1	3.2
+/mods/originInfo/dateIssued/@point	end	http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	1	3.2
+/mods/originInfo/issuance	continuing	http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	1	3.2
+
+/mods/language		http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	1	3.2
+/mods/language/languageTerm	eng	http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	1	3.2
+/mods/language/languageTerm/@authority	iso639-2b	http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	1	3.2
+/mods/language/languageTerm/@type	code	http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	1	3.2
+
+/mods/physicalDescription		http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	1	3.2
+/mods/physicalDescription/form	print	http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	1	3.2
+/mods/physicalDescription/form/@authority	marcform	http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	1	3.2
+/mods/physicalDescription/extent	v. : ill.	http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	1	3.2
+
+/mods/note	Weekly. Published December 1925 to 16 June [1927?].	http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	2	3.2
+/mods/note/@type	public	http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	1	3.2
+
+/mods/note	newspapers	http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	2	3.2
+/mods/note/@type	local:oaiset	http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	1	3.2
+
+/mods/subject		http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic		http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/country	Canada	http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/province	Alberta	http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/city	Mirror	http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	1	3.2
+
+/mods/identifier	000008227663	http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	2	3.2
+/mods/identifier/@type	local:amicus	http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	1	3.2
+
+/mods/identifier	MRM	http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	2	3.2
+/mods/identifier/@type	local:newspaper	http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	1	3.2
+
+/mods/location		http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	2	3.2
+/mods/location/physicalLocation	CaAEP	http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	1	3.2
+
+    /mods/location		http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	2	3.2
+/mods/location/physicalLocation	CaAEU	http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	1	3.2
+/mods/location/physicalLocation/@authority	marcorg	http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	1	3.2
+/mods/location/holdingSimple		http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation		http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/form	electronic	http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/form/@authority	marcform	http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/electronicLocator	http://peel.library.ualberta.ca/newspapers/MRM/	http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/enumerationAndChronology	1926-1927	http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/enumerationAndChronology/@unitType	1	http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	1	3.2
+
+/mods/recordInfo		http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	1	3.2
+/mods/recordInfo/recordContentSource	CaOONLN	http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	2	3.2
+/mods/recordInfo/recordContentSource/@authority	marcorg	http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	1	3.2
+/mods/recordInfo/recordContentSource	sfarnel	http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	2	3.2
+/mods/recordInfo/recordContentSource/@authority	local:person	http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	1	3.2
+/mods/recordInfo/recordCreationDate	2010-08-31T10:23:43-0600	http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	1	3.2
+/mods/recordInfo/recordIdentifier	QMRM	http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	1	3.2
+/mods/recordInfo/recordChangeDate	2010-08-31T10:23:52-0600	http://peel.library.ualberta.ca/newspapers/MRM.html	newspaper	1	3.2
+

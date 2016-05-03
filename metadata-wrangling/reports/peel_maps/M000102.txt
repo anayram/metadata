@@ -1,0 +1,124 @@
+Path	Content	URL	Form or Genre	Occurrence	MODS version
+
+/mods/titleInfo		http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	1	3.3
+/mods/titleInfo/title	Turtle Mountain, Alberta, showing Frank Slide area	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	1	3.3
+/mods/titleInfo/subTitle	Topography from Geological Survey Maps Nos. 1223 & 1584	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	1	3.3
+
+/mods/name		http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	2	3.3
+/mods/name/@type	personal	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	1	3.3
+/mods/name/namePart	Allan, J. A.	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	1	3.3
+
+/mods/name		http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	2	3.3
+/mods/name/@type	corporate	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	1	3.3
+/mods/name/namePart	Geological Survey Division, Research Council of Alberta	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	1	3.3
+
+/mods/typeOfResource	cartographic	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	1	3.3
+
+/mods/genre	map	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	3	3.3
+/mods/genre/@authority	marcgt	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	1	3.3
+
+/mods/genre	Digital maps	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	3	3.3
+/mods/genre/@authority	lcgft	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	1	3.3
+
+/mods/genre	Topographic maps	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	3	3.3
+/mods/genre/@authority	lcgft	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	1	3.3
+
+/mods/originInfo		http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	1	3.3
+/mods/originInfo/place		http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	1	3.3
+/mods/originInfo/place/placeTerm	Edmonton	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	1	3.3
+/mods/originInfo/place/placeTerm/@type	text	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	1	3.3
+/mods/originInfo/publisher	Research Council of Alberta	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	1	3.3
+/mods/originInfo/dateIssued	1931	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	1	3.3
+
+/mods/language		http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	1	3.3
+/mods/language/languageTerm	English	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	1	3.3
+/mods/language/languageTerm/@type	text	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	1	3.3
+
+/mods/physicalDescription		http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	1	3.3
+/mods/physicalDescription/form		http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	1	3.3
+/mods/physicalDescription/extent	1 map : photocopy ; 50.7 x 46 cm. on sheet 61.7 x 50 cm.	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	1	3.3
+
+/mods/note	The only two marked coordinates are W 114?25' and 49?35' which intersect at a point on Turtle Mountain.	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	9	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	1	3.3
+
+/mods/note	Map notes small and large danger zones and suggested highway routes, as well as the old mine entry (1903) and the north and south edges of the slide.	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	9	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	1	3.3
+
+/mods/note	Township 7 Range 3 West of 5 meridian	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	9	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	1	3.3
+
+/mods/note	Township 7 Range 4 West of 5 meridian	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	9	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	1	3.3
+
+/mods/note	peelmaps	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	9	3.3
+/mods/note/@type	local:oaiset	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	1	3.3
+
+/mods/note	1	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	9	3.3
+/mods/note/@type	local:sheetcount	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	1	3.3
+
+/mods/note	61.7 x 50 cm.	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	9	3.3
+/mods/note/@type	local:sheetsize	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	1	3.3
+
+/mods/note	61.7	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	9	3.3
+/mods/note/@type	local:sheetlength	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	1	3.3
+
+/mods/note	50	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	9	3.3
+/mods/note/@type	local:sheetwidth	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	1	3.3
+
+	/mods/subject		http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	5	3.3
+/mods/subject/@authority	lcsh	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	1	3.3
+/mods/subject/@lang	eng	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	1	3.3
+/mods/subject/geographic	Frank (Alta.)	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	1	3.3
+
+	/mods/subject		http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	5	3.3
+/mods/subject/@authority	lcsh	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	1	3.3
+/mods/subject/@lang	eng	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	1	3.3
+/mods/subject/geographic	Turtle Mountain (Alta.)	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	1	3.3
+
+	/mods/subject		http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	5	3.3
+/mods/subject/@authority	lcsh	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	1	3.3
+/mods/subject/@lang	eng	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	1	3.3
+/mods/subject/geographic	Alberta	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	5	3.3
+/mods/subject/temporal	1931	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	5	3.3
+/mods/subject/cartographics		http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	1	3.3
+/mods/subject/cartographics/coordinates	w11425xx/n04932xx w11417xx/n04932xx w11417xx/n04927xx w11425xx/n04927xx	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	1	3.3
+/mods/subject/cartographics/scale	1:9,600	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	1	3.3
+
+/mods/classification	Alberta C-5:11	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	1	3.3
+
+/mods/identifier	189	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	5	3.3
+/mods/identifier/@type	local:mapsproject	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	1	3.3
+
+/mods/identifier	AAA-0196	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	5	3.3
+/mods/identifier/@type	local:mapsdb	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	1	3.3
+
+/mods/identifier	189.xml	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	5	3.3
+/mods/identifier/@type	local:mapsproject_filename	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	1	3.3
+
+
+                
+                /mods/identifier	M000102	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	5	3.3
+/mods/identifier/@type	local:peel3	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	1	3.3
+
+                /mods/identifier	N018701	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	5	3.3
+/mods/identifier/@type	local:old_peel_new	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	1	3.3
+
+                
+            /mods/location		http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	1	3.3
+/mods/location/physicalLocation	UA Cameron Staff Access-Maps	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	1	3.3
+/mods/location/url	http://peel.library.ualberta.ca/maps/M/00/01/M000102/M000102.tif	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	1	3.3
+/mods/location/url/@access	raw object	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	1	3.3
+/mods/location/url/@note	width='5868' height='7164'	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	1	3.3
+
+/mods/recordInfo		http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	1	3.3
+/mods/recordInfo/recordContentSource	mapsproject	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	2	3.3
+/mods/recordInfo/recordContentSource/@authority	local:project	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	1	3.3
+/mods/recordInfo/recordContentSource	sfarnel	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	2	3.3
+/mods/recordInfo/recordContentSource/@authority	local:person	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	1	3.3
+/mods/recordInfo/recordIdentifier	M000102	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	1	3.3
+/mods/recordInfo/recordChangeDate	2010-11-22T15:11:42-0700	http://peel.library.ualberta.ca/maps/M000102.html	map Digital maps Topographic maps 	1	3.3
+

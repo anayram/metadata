@@ -1,0 +1,137 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		fsalehi	PC005509	postcards	1	3.2
+	/mods/@version	3.2	fsalehi	PC005509	postcards	1	3.2
+	/mods/titleInfo		fsalehi	PC005509	postcards	1	3.2
+	/mods/titleInfo/@lang	english	fsalehi	PC005509	postcards	1	3.2
+	/mods/titleInfo/title	First Street, West, Calgary	fsalehi	PC005509	postcards	1	3.2
+	/mods/name		fsalehi	PC005509	postcards	1	3.2
+	/mods/name/@type	corporate	fsalehi	PC005509	postcards	1	3.2
+	/mods/name/namePart	Calgary Photo Supply Co.	fsalehi	PC005509	postcards	1	3.2
+	/mods/name/role		fsalehi	PC005509	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	fsalehi	PC005509	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC005509	postcards	1	3.2
+	/mods/typeOfResource	still image	fsalehi	PC005509	postcards	1	3.2
+	/mods/genre	postcards	fsalehi	PC005509	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	fsalehi	PC005509	postcards	1	3.2
+	/mods/originInfo		fsalehi	PC005509	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	fsalehi	PC005509	postcards	1	3.2
+	/mods/originInfo/publisher	Calgary Photo Supply Co., Calgary, Alberta	fsalehi	PC005509	postcards	1	3.2
+	/mods/originInfo/dateIssued	[ca. 1930]	fsalehi	PC005509	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	inferred	fsalehi	PC005509	postcards	1	3.2
+	/mods/originInfo/place		fsalehi	PC005509	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	Calgary	fsalehi	PC005509	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC005509	postcards	1	3.2
+	/mods/language		fsalehi	PC005509	postcards	1	3.2
+	/mods/language/languageTerm	English	fsalehi	PC005509	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	fsalehi	PC005509	postcards	1	3.2
+	/mods/physicalDescription		fsalehi	PC005509	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : b&w ; 9 x 14 cm.	fsalehi	PC005509	postcards	1	3.2
+	/mods/note	60	fsalehi	PC005509	postcards	5	3.2
+	/mods/note/@type	price	fsalehi	PC005509	postcards	1	3.2
+	/mods/note	false	fsalehi	PC005509	postcards	5	3.2
+	/mods/note/@type	notable	fsalehi	PC005509	postcards	1	3.2
+	/mods/note	false	fsalehi	PC005509	postcards	5	3.2
+	/mods/note/@type	imgprobs	fsalehi	PC005509	postcards	1	3.2
+	/mods/note	[Printer's no.] No.25	fsalehi	PC005509	postcards	5	3.2
+	/mods/note/@type	public_on_front	fsalehi	PC005509	postcards	1	3.2
+	/mods/note	View of Calgary, Alberta looking west from 1st Street.	fsalehi	PC005509	postcards	5	3.2
+	/mods/note/@type	public_description	fsalehi	PC005509	postcards	1	3.2
+	/mods/subject		fsalehi	PC005509	postcards	5	3.2
+	/mods/subject/geographic	Calgary, AB	fsalehi	PC005509	postcards	1	3.2
+	/mods/subject		fsalehi	PC005509	postcards	5	3.2
+	/mods/subject/hierarchicalGeographic		fsalehi	PC005509	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	fsalehi	PC005509	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	fsalehi	PC005509	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Calgary	fsalehi	PC005509	postcards	1	3.2
+	/mods/subject		fsalehi	PC005509	postcards	5	3.2
+	/mods/subject/genre	Postcards	fsalehi	PC005509	postcards	1	3.2
+	/mods/subject		fsalehi	PC005509	postcards	5	3.2
+	/mods/subject/topic	Cityscapes	fsalehi	PC005509	postcards	1	3.2
+	/mods/subject		fsalehi	PC005509	postcards	5	3.2
+	/mods/subject/topic	Commercial streets	fsalehi	PC005509	postcards	1	3.2
+	/mods/identifier	PC005509	fsalehi	PC005509	postcards	1	3.2
+	/mods/identifier/@type	local	fsalehi	PC005509	postcards	1	3.2
+	/mods/location		fsalehi	PC005509	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 6	fsalehi	PC005509	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC005509.html	fsalehi	PC005509	postcards	3	3.2
+	/mods/location/url/@access	object in context	fsalehi	PC005509	postcards	1	3.2
+	/mods/location/url/@usage	primary display	fsalehi	PC005509	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/005/web/PC005509.jpg	fsalehi	PC005509	postcards	3	3.2
+	/mods/location/url/@access	raw object	fsalehi	PC005509	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='494' 	fsalehi	PC005509	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/005/thumbs/PC005509.jpg	fsalehi	PC005509	postcards	3	3.2
+	/mods/location/url/@access	preview	fsalehi	PC005509	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='124'	fsalehi	PC005509	postcards	1	3.2
+	/mods/recordInfo		fsalehi	PC005509	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	fsalehi	PC005509	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC005509	fsalehi	PC005509	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	fsalehi	fsalehi	PC005509	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2009-04-07T09:09:59-0600	fsalehi	PC005509	postcards	1	3.2
+	/@mods	
+
+First Street, West, Calgary
+
+
+Calgary Photo Supply Co.
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+Calgary Photo Supply Co., Calgary, Alberta
+[ca. 1930]
+
+
+Calgary
+
+
+
+English
+
+
+1 postcard : b&w ; 9 x 14 cm.
+
+60
+false
+false
+[Printer's no.] No.25
+View of Calgary, Alberta looking west from 1st Street.
+
+Calgary, AB
+
+
+
+Canada
+Alberta
+Calgary
+
+
+
+Postcards
+
+
+Cityscapes
+
+
+Commercial streets
+
+PC005509
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 6
+http://peel.library.ualberta.ca/postcards/PC005509.html
+http://peel.library.ualberta.ca/pcimages/PC/005/web/PC005509.jpg
+http://peel.library.ualberta.ca/pcimages/PC/005/thumbs/PC005509.jpg
+
+
+
+
+2007-06-25T16:49:56-0600
+PC005509
+fsalehi
+2009-04-07T09:09:59-0600
+
+	fsalehi	PC005509	postcards	1	3.2
+	

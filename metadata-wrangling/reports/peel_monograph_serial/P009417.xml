@@ -1,0 +1,122 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.2
+	/mods/@version	3.2		1	3.2
+	/mods/titleInfo			1	3.2
+	/mods/titleInfo/title	Jasper Park tour to beautiful Maligne Lake		1	3.2
+	/mods/name			1	3.2
+	/mods/name/@type	corporate		1	3.2
+	/mods/name/namePart	Maligne Tours and Lodge (Jasper, Alta.)		1	3.2
+	/mods/typeOfResource	text		1	3.2
+	/mods/originInfo			1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	abc		1	3.2
+	/mods/originInfo/place/placeTerm/@authority	marccountry		1	3.2
+	/mods/originInfo/place/placeTerm/@type	code		1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	[Jasper, Alta.?]		1	3.2
+	/mods/originInfo/place/placeTerm/@type	text		1	3.2
+	/mods/originInfo/publisher	Maligne Tours and Lodge, Jasper Park		1	3.2
+	/mods/originInfo/dateIssued	[195-?]		2	3.2
+	/mods/originInfo/dateIssued	195u		2	3.2
+	/mods/originInfo/dateIssued/@encoding	marc		1	3.2
+	/mods/originInfo/issuance	monographic		1	3.2
+	/mods/language			1	3.2
+	/mods/language/languageTerm	eng		1	3.2
+	/mods/language/languageTerm/@authority	iso639-2b		1	3.2
+	/mods/language/languageTerm/@type	code		1	3.2
+	/mods/physicalDescription			1	3.2
+	/mods/physicalDescription/form	print		1	3.2
+	/mods/physicalDescription/form/@authority	marcform		1	3.2
+	/mods/physicalDescription/extent	1 fold. sheet ([6] p.) : col. ill., col. map ; 24 cm.		1	3.2
+	/mods/note	Cover title.		5	3.2
+	/mods/note	"Operated by Snowmobile Tours Ltd."		5	3.2
+	/mods/note	http://chelsea.library.ualberta.ca:8081/peel_master/select/?q=%28subjectAuthority%3A%22Maligne+Lake+%28Alta.%29--Description+and+travel%22%29+OR+%28subjectAuthority%3A%22Jasper+National+Park+%28Alta.%29--Description+and+travel%22%29&fl=id+authorAuthority+authorDates+subjectAuthority+authorityAuthority&rows=100		5	3.2
+	/mods/note/@type	solr		1	3.2
+	/mods/note	DOA: 1950 Spatial: Jasper National Park (Alta.)		5	3.2
+	/mods/note/@type	local		1	3.2
+	/mods/note	Cover title. Promotional pamphlet for a Jasper hotel.		5	3.2
+	/mods/note/@type	public		1	3.2
+	/mods/subject			3	3.2
+	/mods/subject/geographicCode	n-cn-ab		1	3.2
+	/mods/subject/geographicCode/@authority	marcgac		1	3.2
+	/mods/subject			3	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/geographic	Maligne Lake (Alta.)		1	3.2
+	/mods/subject/topic	Description and travel		1	3.2
+	/mods/subject			3	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/geographic	Jasper National Park (Alta.)		1	3.2
+	/mods/subject/topic	Description and travel		1	3.2
+	/mods/classification	F1079.J3 J37 1950z		1	3.2
+	/mods/classification/@authority	lcc		1	3.2
+	/mods/identifier	3838558		3	3.2
+	/mods/identifier/@type	local:neos		1	3.2
+	/mods/identifier	N008465		3	3.2
+	/mods/identifier/@type	local:peel_new		1	3.2
+	/mods/identifier	9417		3	3.2
+	/mods/identifier/@type	local:peel3		1	3.2
+	/mods/recordInfo			1	3.2
+	/mods/recordInfo/recordContentSource	RC		2	3.2
+	/mods/recordInfo/recordContentSource	RC		2	3.2
+	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.2
+	/mods/recordInfo/recordCreationDate	2005-10-05T12:00:00-0700		1	3.2
+	/mods/recordInfo/recordIdentifier	P009417		1	3.2
+	/mods/recordInfo/recordChangeDate	2010-01-09T17:58:57-0700		1	3.2
+	/@mods	
+
+Jasper Park tour to beautiful Maligne Lake
+
+
+Maligne Tours and Lodge (Jasper, Alta.)
+
+text
+
+
+abc
+
+
+[Jasper, Alta.?]
+
+Maligne Tours and Lodge, Jasper Park
+[195-?]
+195u
+monographic
+
+
+eng
+
+
+print
+1 fold. sheet ([6] p.) : col. ill., col. map ; 24 cm.
+
+Cover title.
+"Operated by Snowmobile Tours Ltd."
+http://chelsea.library.ualberta.ca:8081/peel_master/select/?q=%28subjectAuthority%3A%22Maligne+Lake+%28Alta.%29--Description+and+travel%22%29+OR+%28subjectAuthority%3A%22Jasper+National+Park+%28Alta.%29--Description+and+travel%22%29&fl=id+authorAuthority+authorDates+subjectAuthority+authorityAuthority&rows=100
+DOA: 1950 Spatial: Jasper National Park (Alta.)
+Cover title. Promotional pamphlet for a Jasper hotel.
+
+				n-cn-ab
+			
+
+				Maligne Lake (Alta.)
+			
+				Description and travel
+			
+
+				Jasper National Park (Alta.)
+			
+				Description and travel
+			
+F1079.J3 J37 1950z
+3838558
+N008465
+9417
+
+RC
+RC
+2005-10-05T12:00:00-0700
+P009417
+2010-01-09T17:58:57-0700
+
+		1	3.2
+	

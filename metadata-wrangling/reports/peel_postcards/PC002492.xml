@@ -1,0 +1,167 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		rschramm	PC002492	postcards	1	3.2
+	/mods/@version	3.2	rschramm	PC002492	postcards	1	3.2
+	/mods/titleInfo		rschramm	PC002492	postcards	1	3.2
+	/mods/titleInfo/@lang	english	rschramm	PC002492	postcards	1	3.2
+	/mods/titleInfo/title	Russell Block, Moose Jaw, Sask.	rschramm	PC002492	postcards	1	3.2
+	/mods/name		rschramm	PC002492	postcards	1	3.2
+	/mods/name/@type	corporate	rschramm	PC002492	postcards	1	3.2
+	/mods/name/namePart	Valentine & Sons Publishing Co., Ltd.	rschramm	PC002492	postcards	1	3.2
+	/mods/name/role		rschramm	PC002492	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	rschramm	PC002492	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	rschramm	PC002492	postcards	1	3.2
+	/mods/typeOfResource	still image	rschramm	PC002492	postcards	1	3.2
+	/mods/genre	postcards	rschramm	PC002492	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	rschramm	PC002492	postcards	1	3.2
+	/mods/originInfo		rschramm	PC002492	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	rschramm	PC002492	postcards	1	3.2
+	/mods/originInfo/publisher	The Valentine & Sons  Publishing Co., Ltd. Montreal and Toronto	rschramm	PC002492	postcards	1	3.2
+	/mods/originInfo/dateIssued	1910	rschramm	PC002492	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	approximate	rschramm	PC002492	postcards	1	3.2
+	/mods/originInfo/place		rschramm	PC002492	postcards	2	3.2
+	/mods/originInfo/place/placeTerm	Montreal	rschramm	PC002492	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	rschramm	PC002492	postcards	1	3.2
+	/mods/originInfo/place		rschramm	PC002492	postcards	2	3.2
+	/mods/originInfo/place/placeTerm	Toronto	rschramm	PC002492	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	rschramm	PC002492	postcards	1	3.2
+	/mods/language		rschramm	PC002492	postcards	1	3.2
+	/mods/language/languageTerm	English	rschramm	PC002492	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	rschramm	PC002492	postcards	1	3.2
+	/mods/physicalDescription		rschramm	PC002492	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : col.; 9 x 14 cm.	rschramm	PC002492	postcards	1	3.2
+	/mods/note	40	rschramm	PC002492	postcards	11	3.2
+	/mods/note/@type	price	rschramm	PC002492	postcards	1	3.2
+	/mods/note	false	rschramm	PC002492	postcards	11	3.2
+	/mods/note/@type	notable	rschramm	PC002492	postcards	1	3.2
+	/mods/note	false	rschramm	PC002492	postcards	11	3.2
+	/mods/note/@type	imgprobs	rschramm	PC002492	postcards	1	3.2
+	/mods/note	View of a street featuring Russell Block in Moose Jaw, Saskatchewan including storefronts and pedestrians.	rschramm	PC002492	postcards	11	3.2
+	/mods/note/@type	public_description	rschramm	PC002492	postcards	1	3.2
+	/mods/note	Miss M.E. Lage	rschramm	PC002492	postcards	11	3.2
+	/mods/note/@type	public_to	rschramm	PC002492	postcards	1	3.2
+	/mods/note	Addie	rschramm	PC002492	postcards	11	3.2
+	/mods/note/@type	public_from	rschramm	PC002492	postcards	1	3.2
+	/mods/note	Collimville, Conn., U.S.A.	rschramm	PC002492	postcards	11	3.2
+	/mods/note/@type	public_address	rschramm	PC002492	postcards	1	3.2
+	/mods/note	Oct. 9th, Dear Mildred: Am flying along a little west of Moose Jaw, Canada. Had fine nite with friends, left N.Y. now 8:45a.m. reached Montreal that eve. at 8:00 spent trees then sight seeing then started [---] again Tues, we 9:45, have been marching [w---] Have been sick but feeling better now. Quite cool here. Will write details of trip later. Love from Addie	rschramm	PC002492	postcards	11	3.2
+	/mods/note/@type	public_message	rschramm	PC002492	postcards	1	3.2
+	/mods/note	1910-10-09	rschramm	PC002492	postcards	11	3.2
+	/mods/note/@type	public_postmark_date	rschramm	PC002492	postcards	1	3.2
+	/mods/note	[Printer' no.] 109307	rschramm	PC002492	postcards	11	3.2
+	/mods/note/@type	public_on_front	rschramm	PC002492	postcards	1	3.2
+	/mods/note	Printed in Great Britain.	rschramm	PC002492	postcards	11	3.2
+	/mods/note/@type	public_on_back	rschramm	PC002492	postcards	1	3.2
+	/mods/subject		rschramm	PC002492	postcards	6	3.2
+	/mods/subject/geographic	Moose Jaw, SK	rschramm	PC002492	postcards	1	3.2
+	/mods/subject		rschramm	PC002492	postcards	6	3.2
+	/mods/subject/hierarchicalGeographic		rschramm	PC002492	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	rschramm	PC002492	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Saskatchewan	rschramm	PC002492	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Moose Jaw	rschramm	PC002492	postcards	1	3.2
+	/mods/subject		rschramm	PC002492	postcards	6	3.2
+	/mods/subject/genre	Postcards	rschramm	PC002492	postcards	1	3.2
+	/mods/subject		rschramm	PC002492	postcards	6	3.2
+	/mods/subject/topic	Commercial streets	rschramm	PC002492	postcards	1	3.2
+	/mods/subject		rschramm	PC002492	postcards	6	3.2
+	/mods/subject/topic	Stores & shops	rschramm	PC002492	postcards	1	3.2
+	/mods/subject		rschramm	PC002492	postcards	6	3.2
+	/mods/subject/topic	Buildings	rschramm	PC002492	postcards	1	3.2
+	/mods/identifier	PC002492	rschramm	PC002492	postcards	1	3.2
+	/mods/identifier/@type	local	rschramm	PC002492	postcards	1	3.2
+	/mods/location		rschramm	PC002492	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Sask. Box 1	rschramm	PC002492	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC002492.html	rschramm	PC002492	postcards	3	3.2
+	/mods/location/url/@access	object in context	rschramm	PC002492	postcards	1	3.2
+	/mods/location/url/@usage	primary display	rschramm	PC002492	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/002/web/PC002492.jpg	rschramm	PC002492	postcards	3	3.2
+	/mods/location/url/@access	raw object	rschramm	PC002492	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='510' 	rschramm	PC002492	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/002/thumbs/PC002492.jpg	rschramm	PC002492	postcards	3	3.2
+	/mods/location/url/@access	preview	rschramm	PC002492	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='128'	rschramm	PC002492	postcards	1	3.2
+	/mods/recordInfo		rschramm	PC002492	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	rschramm	PC002492	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC002492	rschramm	PC002492	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	rschramm	rschramm	PC002492	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2008-06-18T10:00:58-0600	rschramm	PC002492	postcards	1	3.2
+	/@mods	
+
+Russell Block, Moose Jaw, Sask.
+
+
+Valentine & Sons Publishing Co., Ltd.
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+The Valentine & Sons  Publishing Co., Ltd. Montreal and Toronto
+1910
+
+
+
+Montreal
+
+
+Toronto
+
+
+
+English
+
+
+1 postcard : col.; 9 x 14 cm.
+
+40
+false
+false
+View of a street featuring Russell Block in Moose Jaw, Saskatchewan including storefronts and pedestrians.
+Miss M.E. Lage
+Addie
+Collimville, Conn., U.S.A.
+Oct. 9th, Dear Mildred: Am flying along a little west of Moose Jaw, Canada. Had fine nite with friends, left N.Y. now 8:45a.m. reached Montreal that eve. at 8:00 spent trees then sight seeing then started [---] again Tues, we 9:45, have been marching [w---] Have been sick but feeling better now. Quite cool here. Will write details of trip later. Love from Addie
+1910-10-09
+[Printer' no.] 109307
+Printed in Great Britain.
+
+Moose Jaw, SK
+
+
+
+Canada
+Saskatchewan
+Moose Jaw
+
+
+
+Postcards
+
+
+Commercial streets
+
+
+Stores & shops
+
+
+Buildings
+
+PC002492
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Sask. Box 1
+http://peel.library.ualberta.ca/postcards/PC002492.html
+http://peel.library.ualberta.ca/pcimages/PC/002/web/PC002492.jpg
+http://peel.library.ualberta.ca/pcimages/PC/002/thumbs/PC002492.jpg
+
+
+
+
+2007-06-25T16:49:56-0600
+PC002492
+rschramm
+2008-06-18T10:00:58-0600
+
+	rschramm	PC002492	postcards	1	3.2
+	

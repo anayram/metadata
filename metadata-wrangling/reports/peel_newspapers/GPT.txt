@@ -1,0 +1,113 @@
+Path	Content	URL	Form or Genre	Occurrence	MODS version
+
+/mods/titleInfo		http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	3	3.2
+/mods/titleInfo/title	northern tribune	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+/mods/titleInfo/nonSort	The 	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+
+/mods/titleInfo		http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	3	3.2
+/mods/titleInfo/@type	abbreviated	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+/mods/titleInfo/title	North. trib	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+/mods/titleInfo/subTitle	(Gd. Prairie)	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+
+/mods/titleInfo		http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	3	3.2
+/mods/titleInfo/@type	uniform	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+/mods/titleInfo/title	Northern tribune (Grande Prairie, Alta.)	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+
+/mods/typeOfResource	text	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+
+/mods/genre	newspaper	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+/mods/genre/@authority	marcgt	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+
+/mods/originInfo		http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+/mods/originInfo/place		http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	2	3.2
+/mods/originInfo/place/placeTerm	abc	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@authority	marccountry	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@type	code	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+/mods/originInfo/place		http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	2	3.2
+/mods/originInfo/place/placeTerm	Grande Prairie, Alta	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@type	text	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+/mods/originInfo/dateIssued	1932-1939	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	3	3.2
+/mods/originInfo/dateIssued	1932	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	3	3.2
+/mods/originInfo/dateIssued/@encoding	marc	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+/mods/originInfo/dateIssued/@point	start	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+/mods/originInfo/dateIssued	1939	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	3	3.2
+/mods/originInfo/dateIssued/@encoding	marc	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+/mods/originInfo/dateIssued/@point	end	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+/mods/originInfo/issuance	continuing	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+
+/mods/language		http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+/mods/language/languageTerm	eng	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+/mods/language/languageTerm/@authority	iso639-2b	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+/mods/language/languageTerm/@type	code	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+
+/mods/physicalDescription		http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+/mods/physicalDescription/form	print	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+/mods/physicalDescription/form/@authority	marcform	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+/mods/physicalDescription/extent	v. : ill.	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+
+/mods/note	Weekly. Imprint varies. Published 30 June 1932 to 10 August 1939.	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	2	3.2
+/mods/note/@type	public	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+
+/mods/note	newspapers	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	2	3.2
+/mods/note/@type	local:oaiset	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+
+/mods/subject		http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic		http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/country	Canada	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/province	Alberta	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/city	Grande Prairie	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+
+/mods/classification	071/.1231	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+/mods/classification/@authority	ddc	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+/mods/classification/@edition	19	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+
+/mods/relatedItem		http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	2	3.2
+/mods/relatedItem/@type	succeeding	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+/mods/relatedItem/titleInfo		http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+/mods/relatedItem/titleInfo/title	Herald-tribune	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+/mods/relatedItem/originInfo		http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+/mods/relatedItem/originInfo/publisher	Grande Prairie, Alta. : s.n.	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+/mods/relatedItem/identifier	0847-6918	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+/mods/relatedItem/identifier/@type	issn	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+
+/mods/relatedItem		http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	2	3.2
+/mods/relatedItem/@type	succeeding	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+/mods/relatedItem/titleInfo		http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+/mods/relatedItem/titleInfo/title	Grande Prairie herald	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+/mods/relatedItem/originInfo		http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+/mods/relatedItem/originInfo/publisher	Grande Prairie, Alta. : Herald Printing Co.	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+/mods/relatedItem/identifier	0839-539X	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+/mods/relatedItem/identifier/@type	issn	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+
+/mods/identifier	0847-690X	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	3	3.2
+/mods/identifier/@type	issn	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+
+/mods/identifier	000008186003	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	3	3.2
+/mods/identifier/@type	local:amicus	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+
+/mods/identifier	GPT	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	3	3.2
+/mods/identifier/@type	local:newspaper	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+
+/mods/location		http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	2	3.2
+/mods/location/physicalLocation	CaBVIP	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+
+    /mods/location		http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	2	3.2
+/mods/location/physicalLocation	CaAEU	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+/mods/location/physicalLocation/@authority	marcorg	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+/mods/location/holdingSimple		http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation		http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/form	electronic	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/form/@authority	marcform	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/electronicLocator	http://peel.library.ualberta.ca/newspapers/GPT/	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/enumerationAndChronology	1932-1939	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/enumerationAndChronology/@unitType	1	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+
+/mods/recordInfo		http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+/mods/recordInfo/recordContentSource	CaOONLN	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	2	3.2
+/mods/recordInfo/recordContentSource/@authority	marcorg	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+/mods/recordInfo/recordContentSource	sfarnel	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	2	3.2
+/mods/recordInfo/recordContentSource/@authority	local:person	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+/mods/recordInfo/recordCreationDate	2010-08-31T09:35:11-0600	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+/mods/recordInfo/recordIdentifier	QGPT	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+/mods/recordInfo/recordChangeDate	2010-08-31T09:35:23-0600	http://peel.library.ualberta.ca/newspapers/GPT.html	newspaper	1	3.2
+

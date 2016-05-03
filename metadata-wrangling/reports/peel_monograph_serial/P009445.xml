@@ -1,0 +1,168 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.2
+	/mods/@version	3.2		1	3.2
+	/mods/titleInfo			2	3.2
+	/mods/titleInfo/title	record of the early education in Prince Albert		1	3.2
+	/mods/titleInfo/nonSort	A 		1	3.2
+	/mods/titleInfo			2	3.2
+	/mods/titleInfo/@type	alternative		1	3.2
+	/mods/titleInfo/title	Development of educational institutions in Prince Albert		1	3.2
+	/mods/name			4	3.2
+	/mods/name/@type	personal		1	3.2
+	/mods/name/namePart	Hooper, W. J. S.		1	3.2
+	/mods/name			4	3.2
+	/mods/name/@type	personal		1	3.2
+	/mods/name/namePart	Fournier, L. J.		1	3.2
+	/mods/name			4	3.2
+	/mods/name/@type	corporate		1	3.2
+	/mods/name/namePart	Prince Albert Golden Jubilee Committee (Prince Albert, Sask.)		1	3.2
+	/mods/name			4	3.2
+	/mods/name/@type	corporate		1	3.2
+	/mods/name/namePart	Prince Albert Cooperative Association (Prince Albert, Sask.)		1	3.2
+	/mods/typeOfResource	text		1	3.2
+	/mods/originInfo			1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	snc		1	3.2
+	/mods/originInfo/place/placeTerm/@authority	marccountry		1	3.2
+	/mods/originInfo/place/placeTerm/@type	code		1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	[Prince Albert, Sask.]		1	3.2
+	/mods/originInfo/place/placeTerm/@type	text		1	3.2
+	/mods/originInfo/publisher	[Prince Albert Golden Jubilee Committee]		1	3.2
+	/mods/originInfo/dateIssued	[1955]		1	3.2
+	/mods/originInfo/issuance	monographic		1	3.2
+	/mods/language			1	3.2
+	/mods/language/languageTerm	eng		1	3.2
+	/mods/language/languageTerm/@authority	iso639-2b		1	3.2
+	/mods/language/languageTerm/@type	code		1	3.2
+	/mods/physicalDescription			1	3.2
+	/mods/physicalDescription/form	print		1	3.2
+	/mods/physicalDescription/form/@authority	marcform		1	3.2
+	/mods/physicalDescription/extent	48 p. : ill., ports. ; 24 cm.		1	3.2
+	/mods/tableOfContents	Contents: Protestant section / W.J.S. Hooper - Roman Catholic section / L.J. Fournier.		1	3.2
+	/mods/note	Cover title: The development of educational institutions in Prince Albert.		5	3.2
+	/mods/note	Published under the auspices of the Prince Albert Golden Jubilee Committee and the Prince Albert Cooperative Association.		5	3.2
+	/mods/note	http://chelsea.library.ualberta.ca:8081/peel_master/select/?q=%28authorAuthority%3A%22Hooper%2C+W.+J.+S%22%29+OR+%28authorAuthority%3A%22Fournier%2C+L.+J%22%29+OR+%28authorAuthority%3A%22Prince+Albert+Golden+Jubilee+Committee+%28Prince+Albert%2C+Sask.%29%22%29+OR+%28authorAuthority%3A%22Prince+Albert+Cooperative+Association+%28Prince+Albert%2C+Sask.%29%22%29+OR+%28subjectAuthority%3A%22Education--Saskatchewan--Prince+Albert--History%22%29+OR+%28subjectAuthority%3A%22Schools--Saskatchewan--Prince+Albert--History%22%29+OR+%28subjectAuthority%3A%22Catholic+schools--Saskatchewan--Prince+Albert--History%22%29&fl=id+authorAuthority+authorDates+subjectAuthority+authorityAuthority&rows=100		5	3.2
+	/mods/note/@type	solr		1	3.2
+	/mods/note	DOA: 1854 Spatial: Prince Albert (Sask.)		5	3.2
+	/mods/note/@type	local		1	3.2
+	/mods/note	Cover title: <i>Development of educational institutions in Prince Albert</i>. Co-published by the Prince Albert Cooperative Association. Contains separate sections on Protestant (W.J.S. Hooper) and Roman Catholic (L.J. Fournier) schools.		5	3.2
+	/mods/note/@type	public		1	3.2
+	/mods/subject			3	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/topic	Education		2	3.2
+	/mods/subject/geographic	Saskatchewan		2	3.2
+	/mods/subject/geographic	Prince Albert		2	3.2
+	/mods/subject/topic	History		2	3.2
+	/mods/subject			3	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/topic	Schools		2	3.2
+	/mods/subject/geographic	Saskatchewan		2	3.2
+	/mods/subject/geographic	Prince Albert		2	3.2
+	/mods/subject/topic	History		2	3.2
+	/mods/subject			3	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/topic	Catholic schools		2	3.2
+	/mods/subject/geographic	Saskatchewan		2	3.2
+	/mods/subject/geographic	Prince Albert		2	3.2
+	/mods/subject/topic	History		2	3.2
+	/mods/classification	LA418.S2 H66 1955		1	3.2
+	/mods/classification/@authority	lcc		1	3.2
+	/mods/identifier	3979526		3	3.2
+	/mods/identifier/@type	local:neos		1	3.2
+	/mods/identifier	N008816		3	3.2
+	/mods/identifier/@type	local:peel_new		1	3.2
+	/mods/identifier	9445		3	3.2
+	/mods/identifier/@type	local:peel3		1	3.2
+	/mods/recordInfo			1	3.2
+	/mods/recordInfo/recordContentSource	fsalehi		2	3.2
+	/mods/recordInfo/recordContentSource	RC		2	3.2
+	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.2
+	/mods/recordInfo/recordCreationDate	2002-06-07T12:00:00-0700		1	3.2
+	/mods/recordInfo/recordIdentifier	P009445		1	3.2
+	/mods/recordInfo/recordChangeDate	2010-07-02T09:44:49-0600		1	3.2
+	/@mods	
+
+record of the early education in Prince Albert
+A 
+
+
+Development of educational institutions in Prince Albert
+
+
+Hooper, W. J. S.
+
+
+Fournier, L. J.
+
+
+Prince Albert Golden Jubilee Committee (Prince Albert, Sask.)
+
+
+Prince Albert Cooperative Association (Prince Albert, Sask.)
+
+text
+
+
+snc
+
+
+[Prince Albert, Sask.]
+
+[Prince Albert Golden Jubilee Committee]
+[1955]
+monographic
+
+
+eng
+
+
+print
+48 p. : ill., ports. ; 24 cm.
+
+Contents: Protestant section / W.J.S. Hooper - Roman Catholic section / L.J. Fournier.
+Cover title: The development of educational institutions in Prince Albert.
+Published under the auspices of the Prince Albert Golden Jubilee Committee and the Prince Albert Cooperative Association.
+http://chelsea.library.ualberta.ca:8081/peel_master/select/?q=%28authorAuthority%3A%22Hooper%2C+W.+J.+S%22%29+OR+%28authorAuthority%3A%22Fournier%2C+L.+J%22%29+OR+%28authorAuthority%3A%22Prince+Albert+Golden+Jubilee+Committee+%28Prince+Albert%2C+Sask.%29%22%29+OR+%28authorAuthority%3A%22Prince+Albert+Cooperative+Association+%28Prince+Albert%2C+Sask.%29%22%29+OR+%28subjectAuthority%3A%22Education--Saskatchewan--Prince+Albert--History%22%29+OR+%28subjectAuthority%3A%22Schools--Saskatchewan--Prince+Albert--History%22%29+OR+%28subjectAuthority%3A%22Catholic+schools--Saskatchewan--Prince+Albert--History%22%29&fl=id+authorAuthority+authorDates+subjectAuthority+authorityAuthority&rows=100
+DOA: 1854 Spatial: Prince Albert (Sask.)
+Cover title: <i>Development of educational institutions in Prince Albert</i>. Co-published by the Prince Albert Cooperative Association. Contains separate sections on Protestant (W.J.S. Hooper) and Roman Catholic (L.J. Fournier) schools.
+
+				Education
+			
+				Saskatchewan
+			
+				Prince Albert
+			
+				History
+			
+
+				Schools
+			
+				Saskatchewan
+			
+				Prince Albert
+			
+				History
+			
+
+				Catholic schools
+			
+				Saskatchewan
+			
+				Prince Albert
+			
+				History
+			
+LA418.S2 H66 1955
+3979526
+N008816
+9445
+
+fsalehi
+RC
+2002-06-07T12:00:00-0700
+P009445
+2010-07-02T09:44:49-0600
+
+		1	3.2
+	

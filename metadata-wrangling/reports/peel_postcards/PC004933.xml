@@ -1,0 +1,131 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		bstearns	PC004933	postcards	1	3.2
+	/mods/@version	3.2	bstearns	PC004933	postcards	1	3.2
+	/mods/titleInfo		bstearns	PC004933	postcards	1	3.2
+	/mods/titleInfo/@lang	english	bstearns	PC004933	postcards	1	3.2
+	/mods/titleInfo/title	[Prairie dog]	bstearns	PC004933	postcards	1	3.2
+	/mods/name		bstearns	PC004933	postcards	1	3.2
+	/mods/name/@type	personal	bstearns	PC004933	postcards	1	3.2
+	/mods/name/namePart	Morton	bstearns	PC004933	postcards	2	3.2
+	/mods/name/namePart/@type	family	bstearns	PC004933	postcards	1	3.2
+	/mods/name/namePart	W.J.	bstearns	PC004933	postcards	2	3.2
+	/mods/name/namePart/@type	given	bstearns	PC004933	postcards	1	3.2
+	/mods/name/role		bstearns	PC004933	postcards	1	3.2
+	/mods/name/role/roleTerm	Photographer	bstearns	PC004933	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	bstearns	PC004933	postcards	1	3.2
+	/mods/typeOfResource	still image	bstearns	PC004933	postcards	1	3.2
+	/mods/genre	postcards	bstearns	PC004933	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	bstearns	PC004933	postcards	1	3.2
+	/mods/originInfo		bstearns	PC004933	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	bstearns	PC004933	postcards	1	3.2
+	/mods/originInfo/publisher	W.J. Morton, Vulcan, Alta.	bstearns	PC004933	postcards	1	3.2
+	/mods/originInfo/dateIssued	after 1910	bstearns	PC004933	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	approximate	bstearns	PC004933	postcards	1	3.2
+	/mods/originInfo/place		bstearns	PC004933	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	Vulcan	bstearns	PC004933	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	bstearns	PC004933	postcards	1	3.2
+	/mods/language		bstearns	PC004933	postcards	1	3.2
+	/mods/language/languageTerm	English	bstearns	PC004933	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	bstearns	PC004933	postcards	1	3.2
+	/mods/physicalDescription		bstearns	PC004933	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : b&w ; 9 x 14 cm.	bstearns	PC004933	postcards	1	3.2
+	/mods/note	15	bstearns	PC004933	postcards	4	3.2
+	/mods/note/@type	price	bstearns	PC004933	postcards	1	3.2
+	/mods/note	false	bstearns	PC004933	postcards	4	3.2
+	/mods/note/@type	notable	bstearns	PC004933	postcards	1	3.2
+	/mods/note	false	bstearns	PC004933	postcards	4	3.2
+	/mods/note/@type	imgprobs	bstearns	PC004933	postcards	1	3.2
+	/mods/note	Close-up view of a prairie dog in the grass near Vulcan, Alberta.	bstearns	PC004933	postcards	4	3.2
+	/mods/note/@type	public_description	bstearns	PC004933	postcards	1	3.2
+	/mods/subject		bstearns	PC004933	postcards	4	3.2
+	/mods/subject/geographic	Vulcan, AB	bstearns	PC004933	postcards	1	3.2
+	/mods/subject		bstearns	PC004933	postcards	4	3.2
+	/mods/subject/hierarchicalGeographic		bstearns	PC004933	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	bstearns	PC004933	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	bstearns	PC004933	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Vulcan	bstearns	PC004933	postcards	1	3.2
+	/mods/subject		bstearns	PC004933	postcards	4	3.2
+	/mods/subject/genre	Postcards	bstearns	PC004933	postcards	1	3.2
+	/mods/subject		bstearns	PC004933	postcards	4	3.2
+	/mods/subject/topic	Prairie dogs	bstearns	PC004933	postcards	1	3.2
+	/mods/identifier	PC004933	bstearns	PC004933	postcards	1	3.2
+	/mods/identifier/@type	local	bstearns	PC004933	postcards	1	3.2
+	/mods/location		bstearns	PC004933	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 5	bstearns	PC004933	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC004933.html	bstearns	PC004933	postcards	3	3.2
+	/mods/location/url/@access	object in context	bstearns	PC004933	postcards	1	3.2
+	/mods/location/url/@usage	primary display	bstearns	PC004933	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/004/web/PC004933.jpg	bstearns	PC004933	postcards	3	3.2
+	/mods/location/url/@access	raw object	bstearns	PC004933	postcards	1	3.2
+	/mods/location/url/@note	width='506' height='800' 	bstearns	PC004933	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/004/thumbs/PC004933.jpg	bstearns	PC004933	postcards	3	3.2
+	/mods/location/url/@access	preview	bstearns	PC004933	postcards	1	3.2
+	/mods/location/url/@note	width='127' height='200'	bstearns	PC004933	postcards	1	3.2
+	/mods/recordInfo		bstearns	PC004933	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	bstearns	PC004933	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC004933	bstearns	PC004933	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	bstearns	bstearns	PC004933	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2009-10-30T13:17:24-0700	bstearns	PC004933	postcards	1	3.2
+	/@mods	
+
+[Prairie dog]
+
+
+Morton
+W.J.
+
+Photographer
+
+
+still image
+postcards
+
+monographic
+W.J. Morton, Vulcan, Alta.
+after 1910
+
+
+Vulcan
+
+
+
+English
+
+
+1 postcard : b&w ; 9 x 14 cm.
+
+15
+false
+false
+Close-up view of a prairie dog in the grass near Vulcan, Alberta.
+
+Vulcan, AB
+
+
+
+Canada
+Alberta
+Vulcan
+
+
+
+Postcards
+
+
+Prairie dogs
+
+PC004933
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 5
+http://peel.library.ualberta.ca/postcards/PC004933.html
+http://peel.library.ualberta.ca/pcimages/PC/004/web/PC004933.jpg
+http://peel.library.ualberta.ca/pcimages/PC/004/thumbs/PC004933.jpg
+
+
+2007-06-25T16:49:56-0600
+PC004933
+bstearns
+2009-10-30T13:17:24-0700
+
+	bstearns	PC004933	postcards	1	3.2
+	

@@ -1,0 +1,111 @@
+Path	Content	URL	Form or Genre	Occurrence	MODS version
+
+/mods/titleInfo		http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	2	3.2
+/mods/titleInfo/title	rebel	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	1	3.2
+/mods/titleInfo/nonSort	The 	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	1	3.2
+
+/mods/titleInfo		http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	2	3.2
+/mods/titleInfo/@type	uniform	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	1	3.2
+/mods/titleInfo/title	Rebel (Calgary, Alta.)	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	1	3.2
+
+/mods/typeOfResource	text	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	1	3.2
+
+/mods/genre	newspaper	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	1	3.2
+/mods/genre/@authority	marcgt	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	1	3.2
+
+/mods/originInfo		http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	1	3.2
+/mods/originInfo/place		http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	2	3.2
+/mods/originInfo/place/placeTerm	abc	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@authority	marccountry	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@type	code	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	1	3.2
+/mods/originInfo/place		http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	2	3.2
+/mods/originInfo/place/placeTerm	Calgary	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@type	text	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	1	3.2
+/mods/originInfo/publisher	J.J. Zubick	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	1	3.2
+/mods/originInfo/dateIssued	1937-1939	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	3	3.2
+/mods/originInfo/dateIssued	1937	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	3	3.2
+/mods/originInfo/dateIssued/@encoding	marc	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	1	3.2
+/mods/originInfo/dateIssued/@point	start	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	1	3.2
+/mods/originInfo/dateIssued	1939	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	3	3.2
+/mods/originInfo/dateIssued/@encoding	marc	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	1	3.2
+/mods/originInfo/dateIssued/@point	end	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	1	3.2
+/mods/originInfo/issuance	continuing	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	1	3.2
+
+/mods/language		http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	1	3.2
+/mods/language/languageTerm	eng	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	1	3.2
+/mods/language/languageTerm/@authority	iso639-2b	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	1	3.2
+/mods/language/languageTerm/@type	code	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	1	3.2
+
+/mods/physicalDescription		http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	1	3.2
+/mods/physicalDescription/form	print	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	1	3.2
+/mods/physicalDescription/form/@authority	marcform	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	1	3.2
+/mods/physicalDescription/extent	v. : ill.	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	1	3.2
+
+/mods/note	Monthly. Published 24 April 1937 to 1 April 1939.	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	2	3.2
+/mods/note/@type	public	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	1	3.2
+
+/mods/note	newspapers	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	2	3.2
+/mods/note/@type	local:oaiset	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	1	3.2
+
+/mods/subject		http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	4	3.2
+/mods/subject/geographicCode	n-cn-ab	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	1	3.2
+/mods/subject/geographicCode/@authority	marcgac	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	1	3.2
+
+/mods/subject		http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	4	3.2
+/mods/subject/@authority	csh	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	1	3.2
+/mods/subject/geographic	Alberta	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	1	3.2
+/mods/subject/topic	Politics and government	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	2	3.2
+/mods/subject/temporal	1935-1971	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	1	3.2
+/mods/subject/topic	Periodicals	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	2	3.2
+
+/mods/subject		http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	4	3.2
+/mods/subject/@authority	rvm	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	1	3.2
+/mods/subject/geographic	Alberta	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	1	3.2
+/mods/subject/topic	Politique et gouvernement	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	2	3.2
+/mods/subject/temporal	1935-1971	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	1	3.2
+/mods/subject/topic	Périodiques	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	2	3.2
+
+    /mods/subject		http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	4	3.2
+/mods/subject/hierarchicalGeographic		http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/country	Canada	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/province	Alberta	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/city	Calgary	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	1	3.2
+
+/mods/identifier	0820-1412	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	3	3.2
+/mods/identifier/@type	issn	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	1	3.2
+
+/mods/identifier	000001333013	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	3	3.2
+/mods/identifier/@type	local:amicus	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	1	3.2
+
+/mods/identifier	RBL	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	3	3.2
+/mods/identifier/@type	local:newspaper	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	1	3.2
+
+/mods/location		http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	4	3.2
+/mods/location/physicalLocation	CaOONL	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	1	3.2
+
+/mods/location		http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	4	3.2
+/mods/location/physicalLocation	CaOTUTF	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	1	3.2
+
+/mods/location		http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	4	3.2
+/mods/location/physicalLocation	CaOTY SC-SPCOLL	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	1	3.2
+
+    /mods/location		http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	4	3.2
+/mods/location/physicalLocation	CaAEU	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	1	3.2
+/mods/location/physicalLocation/@authority	marcorg	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	1	3.2
+/mods/location/holdingSimple		http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation		http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/form	electronic	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/form/@authority	marcform	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/electronicLocator	http://peel.library.ualberta.ca/newspapers/RBL/	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/enumerationAndChronology	1937-1939	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/enumerationAndChronology/@unitType	1	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	1	3.2
+
+/mods/recordInfo		http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	1	3.2
+/mods/recordInfo/recordContentSource	CaOONL	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	2	3.2
+/mods/recordInfo/recordContentSource/@authority	marcorg	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	1	3.2
+/mods/recordInfo/recordContentSource	sfarnel	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	2	3.2
+/mods/recordInfo/recordContentSource/@authority	local:person	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	1	3.2
+/mods/recordInfo/recordCreationDate	2010-03-08T14:33:09-0700	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	1	3.2
+/mods/recordInfo/recordIdentifier	QRBL	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	1	3.2
+/mods/recordInfo/recordChangeDate	2010-03-08T14:33:18-0700	http://peel.library.ualberta.ca/newspapers/RBL.html	newspaper	1	3.2
+

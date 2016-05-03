@@ -1,0 +1,144 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	history of the Science Association of the University of Alberta, 1919-1952		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/nonSort	The 		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Downs, A. W.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	compiler		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.2		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Morrison, I. F.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	compiler		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	[S.l.]		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	[s.n.]		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1952		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued/@qualifier	inferred		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1952		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued/@encoding	marc		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/issuance	monographic		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	eng		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@authority	iso639-2b		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	code		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	English		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	14 leaves ; 28 cm.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	[compiled by A.W. Downs with the assistance of I.F. Morrison].		6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	statement of responsibility		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	Caption title.		6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	Typescript.		6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	uahistory		6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	oaiset		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	DOA: 1919 Spatial: Edmonton (Alta.)		6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	local		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	Typescript. Caption title.		6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	public		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name/@type	corporate		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name/namePart	Science Association of the University of Alberta		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Science		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Canada		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Societies, etc		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1952		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	9069		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	8264		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel_new		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	1932004		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:neos		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	RC		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P009069		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordChangeDate	2010-04-04T15:27:07-0600		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+
+history of the Science Association of the University of Alberta, 1919-1952
+The 
+
+
+Downs, A. W.
+
+compiler
+
+
+
+Morrison, I. F.
+
+compiler
+
+
+text
+
+
+[S.l.]
+
+[s.n.]
+1952
+1952
+monographic
+
+
+eng
+English
+
+
+print
+14 leaves ; 28 cm.
+
+[compiled by A.W. Downs with the assistance of I.F. Morrison].
+Caption title.
+Typescript.
+uahistory
+DOA: 1919 Spatial: Edmonton (Alta.)
+Typescript. Caption title.
+
+				
+Science Association of the University of Alberta
+
+			
+
+				Science
+			
+				Canada
+			
+				Societies, etc
+			
+
+				1952
+			
+9069
+8264
+1932004
+
+Peel's Prairie Portal
+RC
+2003-01-01T12:00:00-0700
+P009069
+2010-04-04T15:27:07-0600
+
+		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

@@ -1,0 +1,118 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	Inaugural proceedings of the M.W. Grand Lodge of Alberta, A.F. and A.M. held at the city of Calgary, 12th October 1905		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	corporate		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA001254		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Freemasons. Alberta. Grand Lodge		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	[Alberta]?		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	[s.n.]		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1905		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued/@qualifier	inferred		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	English		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	39, [1] p.; 22 cm.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	The full set of proceedings - <i>Proceedings of the M.W. Grand Lodge of Alberta, A.F. and A.M.</i>, [Edmonton?]: [Grand Lodge of Alberta, A.F. and A.M.?], 1906- - is described separately in the bibliography.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	public		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			5	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	History, Local--Alberta--Edmonton		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			5	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	CanThes		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000597		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Calgary, Alberta--History		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			5	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS001534		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Freemasons		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			5	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS001534		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Francs-maçons		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			5	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1905		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@type	succeeding		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@href	P010569		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	2853		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	2850		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel-procite-id		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P002853		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordChangeDate	2010-12-08T11:21:06-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	RC		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+
+Inaugural proceedings of the M.W. Grand Lodge of Alberta, A.F. and A.M. held at the city of Calgary, 12th October 1905
+
+
+Freemasons. Alberta. Grand Lodge
+
+author
+
+
+text
+
+
+[Alberta]?
+
+[s.n.]
+1905
+
+
+English
+
+
+print
+39, [1] p.; 22 cm.
+
+The full set of proceedings - <i>Proceedings of the M.W. Grand Lodge of Alberta, A.F. and A.M.</i>, [Edmonton?]: [Grand Lodge of Alberta, A.F. and A.M.?], 1906- - is described separately in the bibliography.
+
+				History, Local--Alberta--Edmonton
+			
+
+				Calgary, Alberta--History
+			
+
+				Freemasons
+			
+
+				Francs-maçons
+			
+
+				1905
+			
+
+2853
+2850
+
+Peel's Prairie Portal
+2003-01-01T12:00:00-0700
+P002853
+2010-12-08T11:21:06-0700
+RC
+
+		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

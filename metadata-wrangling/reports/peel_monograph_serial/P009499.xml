@@ -1,0 +1,103 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.2
+	/mods/@version	3.2		1	3.2
+	/mods/titleInfo			1	3.2
+	/mods/titleInfo/title	This is your business		1	3.2
+	/mods/titleInfo/subTitle	The story of Saskatchewan's crown corporations		1	3.2
+	/mods/name			1	3.2
+	/mods/name/@type	corporate		1	3.2
+	/mods/name/namePart	Saskatchewan.		2	3.2
+	/mods/name/namePart	Government Finance Office of the Province of Saskatchewan		2	3.2
+	/mods/typeOfResource	text		1	3.2
+	/mods/originInfo			1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	snc		1	3.2
+	/mods/originInfo/place/placeTerm/@authority	marccountry		1	3.2
+	/mods/originInfo/place/placeTerm/@type	code		1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	Regina		1	3.2
+	/mods/originInfo/place/placeTerm/@type	text		1	3.2
+	/mods/originInfo/publisher	Government Finance Office of the Province of Saskatchewan		1	3.2
+	/mods/originInfo/dateIssued	1956		1	3.2
+	/mods/originInfo/issuance	monographic		1	3.2
+	/mods/language			1	3.2
+	/mods/language/languageTerm	eng		1	3.2
+	/mods/language/languageTerm/@authority	iso639-2b		1	3.2
+	/mods/language/languageTerm/@type	code		1	3.2
+	/mods/physicalDescription			1	3.2
+	/mods/physicalDescription/form	print		1	3.2
+	/mods/physicalDescription/form/@authority	marcform		1	3.2
+	/mods/physicalDescription/extent	32 p. : ill., maps, ports. ; 25 cm.		1	3.2
+	/mods/note	Produced for the Government Finance Office of the Province of Saskatchewan.		3	3.2
+	/mods/note	http://chelsea.library.ualberta.ca:8081/peel_master/select/?q=%28authorAuthority%3A%22Government+Finance+Office+of+the+Province+of+Saskatchewan%22%29+OR+%28subjectAuthority%3A%22Corporations%2C+Government--Saskatchewan%22%29&fl=id+authorAuthority+authorDates+subjectAuthority+authorityAuthority&rows=100		3	3.2
+	/mods/note/@type	solr		1	3.2
+	/mods/note	DOA: 1945 Spatial: Saskatchewan		3	3.2
+	/mods/note/@type	local		1	3.2
+	/mods/subject			1	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/topic	Corporations, Government		1	3.2
+	/mods/subject/geographic	Saskatchewan		1	3.2
+	/mods/classification	HD4010.S2 T49 1956		1	3.2
+	/mods/classification/@authority	lcc		1	3.2
+	/mods/identifier	3997535		3	3.2
+	/mods/identifier/@type	local:neos		1	3.2
+	/mods/identifier	N010020		3	3.2
+	/mods/identifier/@type	local:peel_new		1	3.2
+	/mods/identifier	9499		3	3.2
+	/mods/identifier/@type	local:peel3		1	3.2
+	/mods/recordInfo			1	3.2
+	/mods/recordInfo/recordContentSource	fsalehi		2	3.2
+	/mods/recordInfo/recordContentSource	RC		2	3.2
+	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.2
+	/mods/recordInfo/recordCreationDate	2007-10-25T12:00:00-0700		1	3.2
+	/mods/recordInfo/recordIdentifier	P009499		1	3.2
+	/mods/recordInfo/recordChangeDate	2010-08-15T08:20:51-0600		1	3.2
+	/@mods	
+
+This is your business
+The story of Saskatchewan's crown corporations
+
+
+Saskatchewan.
+Government Finance Office of the Province of Saskatchewan
+
+text
+
+
+snc
+
+
+Regina
+
+Government Finance Office of the Province of Saskatchewan
+1956
+monographic
+
+
+eng
+
+
+print
+32 p. : ill., maps, ports. ; 25 cm.
+
+Produced for the Government Finance Office of the Province of Saskatchewan.
+http://chelsea.library.ualberta.ca:8081/peel_master/select/?q=%28authorAuthority%3A%22Government+Finance+Office+of+the+Province+of+Saskatchewan%22%29+OR+%28subjectAuthority%3A%22Corporations%2C+Government--Saskatchewan%22%29&fl=id+authorAuthority+authorDates+subjectAuthority+authorityAuthority&rows=100
+DOA: 1945 Spatial: Saskatchewan
+
+				Corporations, Government
+			
+				Saskatchewan
+			
+HD4010.S2 T49 1956
+3997535
+N010020
+9499
+
+fsalehi
+RC
+2007-10-25T12:00:00-0700
+P009499
+2010-08-15T08:20:51-0600
+
+		1	3.2
+	

@@ -1,0 +1,169 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@schemaLocation	http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/nonSort	[	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	Gerd Kraut und seine Schlittenhunde]	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MANaN	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	corporate	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Oblates of Mary Immaculate	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language		periodical	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	French	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language		periodical	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	Cree	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	21 cm.	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject		periodical	7	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000412	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Bibliography	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject		periodical	7	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000412	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Bibliographie	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject		periodical	7	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	Other	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000642	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Canada, Northwestern	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject		periodical	7	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000840	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Children's literature	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject		periodical	7	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000840	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Littérature de jeunesse	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject		periodical	7	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:geographic	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Canada, Northwestern	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject		periodical	7	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1938	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem		periodical	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@type	host	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/genre	periodical	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/genre/@authority	marcgt	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/titleInfo		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/titleInfo/title	Missions de la Congrégation des missionnaires oblats de Marie Immaculée	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/originInfo		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/originInfo/issuance	continuing	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/originInfo/publisher	Maison Générale O.M.I.	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/originInfo/place		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/originInfo/place/placeTerm	Rome	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/detail		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/detail/number	265	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/detail/caption	no	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/extent		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/extent/@unit	page	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/extent/start	174	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/extent/end	174	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/date	1939-03	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/date/@point	start	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem		periodical	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@type	series	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/identifier	missions	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/identifier/@type	local:oai-set	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	1681	periodical	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel_new	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	8692	periodical	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal	periodical	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P008692	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2004-12-22T09:47:43-0700	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	LEM	periodical	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource/@authority	local:person	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+    
+        [
+        Gerd Kraut und seine Schlittenhunde]
+    
+    
+        Oblates of Mary Immaculate
+        
+            author
+        
+    
+    
+        French
+    
+    
+        Cree
+    
+    
+        21 cm.
+    
+    
+        Bibliography
+    
+    
+        Bibliographie
+    
+    
+        Canada, Northwestern
+    
+    
+        Children's literature
+    
+    
+        Littérature de jeunesse
+    
+    
+        Canada, Northwestern
+    
+    
+        1938
+    
+    
+        periodical
+        
+            Missions de la Congrégation des missionnaires oblats de Marie Immaculée
+        
+        
+            continuing
+            Maison Générale O.M.I.
+            
+                Rome
+            
+        
+        
+            
+                265
+                no
+            
+            
+                174
+                174
+            
+            1939-03
+        
+    
+    
+        missions
+    
+    1681
+    8692
+    
+        Peel's Prairie Portal
+        P008692
+        2004-12-22T09:47:43-0700
+        LEM
+    
+	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

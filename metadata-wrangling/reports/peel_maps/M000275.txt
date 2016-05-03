@@ -1,0 +1,383 @@
+Path	Content	URL	Form or Genre	Occurrence	MODS version
+
+/mods/titleInfo		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/titleInfo/title	Electoral Districts of Manitoba	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/name		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/name/@type	corporate	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/name/namePart	DMTS	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/typeOfResource	cartographic	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/genre	map	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	3	3.3
+/mods/genre/@authority	marcgt	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/genre	Digital maps	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	3	3.3
+/mods/genre/@authority	lcgft	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/genre	Thematic maps	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	3	3.3
+/mods/genre/@authority	lcgft	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/originInfo		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/originInfo/place		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/originInfo/place/placeTerm	Ottawa	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/originInfo/place/placeTerm/@type	text	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/originInfo/publisher	DMTS	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/originInfo/dateIssued	1924	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/language		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/language/languageTerm	English	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/language/languageTerm/@type	text	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/physicalDescription		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/physicalDescription/form		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/physicalDescription/extent	17 maps : blueline ; 40 x 56 cm. or smaller.	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/note	Districts are Brandon, Dauphin, Lisgar, Macdonald, Marquette, Neepawa, Nelson, Portage La Prairie, Provencher, Selkirk, Souris, Springfield, St. Boniface, Winnipeg North, Winnipeg North Centre, Winnipeg South and Winnipeg South Centre.	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	7	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/note	Each map defines the district according to the Representation Act of 1924 and gives its population from the census of 1921. Bordering districts are named as well.	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	7	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/note	peelmaps	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	7	3.3
+/mods/note/@type	local:oaiset	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/note	1	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	7	3.3
+/mods/note/@type	local:sheetcount	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/note	40 x 56 cm. or smaller.	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	7	3.3
+/mods/note/@type	local:sheetsize	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/note	40	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	7	3.3
+/mods/note/@type	local:sheetlength	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/note	56	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	7	3.3
+/mods/note/@type	local:sheetwidth	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	14	3.3
+/mods/subject/@authority	lcsh	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/subject/@lang	eng	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/subject/geographic	Manitoba	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/subject/topic	Population	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	14	3.3
+/mods/subject/@authority	lcsh	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/subject/@lang	eng	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/subject/name		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/subject/name/@type	personal	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/subject/name/namePart	Canada. Parliament	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/subject/topic	Election districts	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	14	3.3
+/mods/subject/geographic	Winnipeg (Man.)	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	14	3.3
+/mods/subject/geographic	Portage la Prairie (Man.)	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	14	3.3
+/mods/subject/geographic	St. Boniface (Man.)	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	14	3.3
+/mods/subject/geographic	Souris (Man.)	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	14	3.3
+/mods/subject/geographic	Springfield (Man.)	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	14	3.3
+/mods/subject/geographic	Selkirk (Man.)	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	14	3.3
+/mods/subject/geographic	Dauphin (Man.)	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	14	3.3
+/mods/subject/geographic	Neepawa (Man.)	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	14	3.3
+/mods/subject/geographic	Marquette (Man.)	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	14	3.3
+/mods/subject/geographic	Macdonald (Man.)	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	14	3.3
+/mods/subject/geographic	Brandon (Man.)	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	14	3.3
+/mods/subject/temporal	1924	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/classification	Manitoba F-3	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/relatedItem		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	17	3.3
+/mods/relatedItem/@type	constituent	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/titleInfo		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/titleInfo/title	Electoral District of Brandon	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/note	"In the Representation Act of 1924, the Electoral District of Brandon is defined as follows:- BRANDON consisting of townships seven (7) to twelve (12) inclusive in ranges eighteen (18) to twenty-nine (29) inclusive west of the first principle meridian."	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	2	3.3
+/mods/relatedItem/note/@type	public	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/note	"Population-Census of 1921, 38,500"	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	2	3.3
+/mods/relatedItem/note/@type	public	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject/cartographics		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject/cartographics/coordinates	w1012145/n0500128 w0994724/n0500128 w0994724/n0493409                    w1012145/n0493409	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject/cartographics/scale	1:792,000	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/relatedItem		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	17	3.3
+/mods/relatedItem/@type	constituent	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/titleInfo		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/titleInfo/title	Electoral District of Dauphin	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/note	"Population-Census of 1921, 38,607"	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/note/@type	public	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject/cartographics		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject/cartographics/coordinates	w101xxxx/n0514644 w0985024/n0514644 w0985024/n0505547                    w101xxxx/n0505547	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject/cartographics/scale	1:792,000	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/relatedItem		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	17	3.3
+/mods/relatedItem/@type	constituent	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/titleInfo		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/titleInfo/title	Electoral District of Lisgar	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/note	"Population-Census of 1921, 30,604"	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/note/@type	public	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject/cartographics		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject/cartographics/coordinates	w0992027/n0523035 w09722xx/n0523035 w09722xx/n049xxxx                    w0992227/n049xxxx	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject/cartographics/scale	1:792,000	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/relatedItem		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	17	3.3
+/mods/relatedItem/@type	constituent	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/titleInfo		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/titleInfo/title	Electoral District of Macdonald	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/note	"Population-Census of 1921, 31, 877"	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/note/@type	public	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject/cartographics		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject/cartographics/coordinates	w0994911/n0495135 w0970824/n0495135 w0970824/n0492135                    w0994911/n0492135	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject/cartographics/scale	1:792,000	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/relatedItem		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	17	3.3
+/mods/relatedItem/@type	constituent	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/titleInfo		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/titleInfo/title	Electoral District of Marquette	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/note	"Population-Census of 1921, 34,842"	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/note/@type	public	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject/cartographics		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject/cartographics/coordinates	w1012841/n0505613 w09945xx/n0505613 w09945xx/n05006xx                    w1012841/n05006xx	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject/cartographics/scale	1:792,000	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/relatedItem		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	17	3.3
+/mods/relatedItem/@type	constituent	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/titleInfo		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/titleInfo/title	Electoral District of Neepawa	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/note	"Population-Census of 1921, 29,941"	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/note/@type	public	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject/cartographics		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject/cartographics/coordinates	w0995017/n0505426 w0984611/n0505426 w0984611/n0494759                    w0995017/n0494759	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject/cartographics/scale	1:792,000	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/relatedItem		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	17	3.3
+/mods/relatedItem/@type	constituent	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/titleInfo		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/titleInfo/title	Electoral District of Nelson	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/note	"Population-Census of 1921, 20,868"	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/note/@type	public	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject/cartographics		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject/cartographics/coordinates	w1015432/n0552132 w0970715/n0552132 w0970715/n0514236                    w1015432/n0514236	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject/cartographics/scale	1:792,000	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/relatedItem		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	17	3.3
+/mods/relatedItem/@type	constituent	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/titleInfo		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/titleInfo/title	Electoral District of Portage la Prairie	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/note	"Population-Census of 1921, 35,461"	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/note/@type	public	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject/cartographics		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject/cartographics/coordinates	w0985212/n0514424 w0974536/n0514424 w0974536/n04948xx                    w0985212/n04948xx	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject/cartographics/scale	1:792,000	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/relatedItem		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	17	3.3
+/mods/relatedItem/@type	constituent	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/titleInfo		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/titleInfo/title	Electoral District of Provencher	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/note	"Population-Census of 1921, 29,439"	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/note/@type	public	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject/cartographics		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject/cartographics/coordinates	w0972623/n0494047 w0950900/n0494047 w0950900/n0490035                    w0972623/n0490035	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject/cartographics/scale	1:792,000	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/relatedItem		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	17	3.3
+/mods/relatedItem/@type	constituent	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/titleInfo		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/titleInfo/title	Electoral District of Selkirk	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/note	"Note. All Islands in L. Winnipeg are in the Electoral Dist. of Selkirk"	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	2	3.3
+/mods/relatedItem/note/@type	public	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/note	"Population-Census of 1921, 41,265"	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	2	3.3
+/mods/relatedItem/note/@type	public	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject/cartographics		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject/cartographics/coordinates	w09736xx/n0521348 w0963411/n0521348 w0963411/n0500336                    w09736xx/n0500336	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject/cartographics/scale	1:792,000	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/relatedItem		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	17	3.3
+/mods/relatedItem/@type	constituent	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/titleInfo		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/titleInfo/title	Electoral District of Souris	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/note	"Population-Census of 1921, 24,439"	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/note/@type	public	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject/cartographics		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject/cartographics/coordinates	w1011724/n0493336 w0984947/n0493336 w0984947/n049xxxx                    w1011724/n049xxxx	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject/cartographics/scale	1:792,000	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/relatedItem		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	17	3.3
+/mods/relatedItem/@type	constituent	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/titleInfo		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/titleInfo/title	Electoral District of Springfield	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/note	"Population-Census of 1921, 30,836"	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/note/@type	public	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject/cartographics		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject/cartographics/coordinates	w0972848/n0512736 w0950900/n0512736 w0950900/n0493748                    w0972848/n0493748	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject/cartographics/scale	1:792,000	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/relatedItem		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	17	3.3
+/mods/relatedItem/@type	constituent	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/titleInfo		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/titleInfo/title	Electoral District of St. Boniface	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/note	"Population-Census of 1921, 35,429"	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/note/@type	public	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject/cartographics		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject/cartographics/coordinates	w09730xx/n0495736 w09627xx/n0495736 w09627xx/n0493748                    w09730xx/n0493748	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject/cartographics/scale	1:792,000	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/relatedItem		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	17	3.3
+/mods/relatedItem/@type	constituent	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/titleInfo		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/titleInfo/title	Electoral District of Winnipeg North	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/note	"In the Representation Act of 1924, this Electoral District is Defined as Follows: 14. WINNIPEG NORTH consisting of those portions of sections fourteen (14) twenty-three (23), and twenty-four (24) in township eleven (11) in range two (2) east of the first meridian, and of the village of Brooklands as lie north of the main line of the Canadian Pacific Railway, and all that part of the city of Winnipeg west of the Red River lying north of the said main line.	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	2	3.3
+/mods/relatedItem/note/@type	public	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/note	"Population-Census of 1921, 52,473"	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	2	3.3
+/mods/relatedItem/note/@type	public	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject/cartographics		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject/cartographics/coordinates	w0970847/n0495304	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject/cartographics/scale	1:792,000	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/relatedItem		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	17	3.3
+/mods/relatedItem/@type	constituent	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/titleInfo		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/titleInfo/title	Electoral District of Winnipeg North Centre	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/note	"This Electoral District is Defined as Follows: 15. WINNIPEG NORTH CENTRE consisting of all that part of the city of Winnipeg west of the Red River bounded on the north by the main line of the Canadian Pacific Railway and on the south by a line described as commencing at the intersection of Sargent Avenue, with the west boundary of the city and following Sargent Avenue, Balmoral Street, Notre Dame Avenue, Portage avenue, Main street and Notre Dame Avenue to the left bank of the Red River, together with those portions of the sections eleven (11), fourteen (14) and twenty-three (23) in township eleven (11) in range two (2) east of the first principal meridian and of the village of Brooklands lying south of the said line of the Canadian Pacific Railway, and such and so much of the river lots on the north bank of the Assiniboine River as lie east of the west boundary of lot one (1) in the parish of St. James, west of the city of Winnipeg and north of the line of the southwestern branch of the said railway."	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	2	3.3
+/mods/relatedItem/note/@type	public	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/note	"Population-Census of 1921, 39,142"	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	2	3.3
+/mods/relatedItem/subject		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject/cartographics		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject/cartographics/coordinates	w0970847/n0495304	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject/cartographics/scale	1:792,000	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/relatedItem		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	17	3.3
+/mods/relatedItem/@type	constituent	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/titleInfo		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/titleInfo/title	Electoral District of Winnipeg South	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/note	"In the Representation of 1924, this Electoral District is Defined as follows: 16. WINNIPEG SOUTH consisting of all that part of the city of Winnipeg on the west side of the Red River lying south of the Assiniboine River together with that part of the town of Tuxedo lying north of the Canadian National Railway, the river lots fronting on the west bank of the Red River south of the city of Winnipeg and north of the south boundary of lot one hundred and twenty-three (123) in the Parish of St. Norbert; and such and so much of the river lots on the east bank of the Red River as lie north of the south boundary of river lot one hundred and twenty-five (125) in the said parish, west of the Seine River and south of the city of St. Boniface."	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	2	3.3
+/mods/relatedItem/note/@type	public	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/note	"Population-Census of 1921, 32, 943"	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	2	3.3
+/mods/relatedItem/note/@type	public	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject/cartographics		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject/cartographics/coordinates	w0970847/n0495304	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject/cartographics/scale	1:792,000	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/relatedItem		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	17	3.3
+/mods/relatedItem/@type	constituent	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/titleInfo		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/titleInfo/title	Electoral District of Winnipeg South Centre	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/note	"In the Representation of 1924, this Electoral District is Defined as follows: 17. WINNIPEG SOUTH CENTRE consisting of all that part of the city of Winnipeg west of the Red River lying between the north boundary of the electoral district of Winnipeg South and the south boundary of the electoral district of Winnipeg North Centre as above described, together with such and so much of the river lots on the north bank of the Assiniboine River as lie east of Sturgeon Creek and the west boundary of lot one (1) in the parish of St. James west of the city of Winnipeg, and south of the line of the southwestern branch of the Canadian Pacific Railway."	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	2	3.3
+/mods/relatedItem/note/@type	public	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/note	"Population-Census of 1921, 63,812"	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	2	3.3
+/mods/relatedItem/note/@type	public	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject/cartographics		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject/cartographics/coordinates	w0970847/n0495304	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/relatedItem/subject/cartographics/scale	1:792,000	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/identifier	2852	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	5	3.3
+/mods/identifier/@type	local:mapsproject	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/identifier	AAA-2940	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	5	3.3
+/mods/identifier/@type	local:mapsdb	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/identifier	2852a.xml	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	5	3.3
+/mods/identifier/@type	local:mapsproject_filename	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/identifier	M000275	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	5	3.3
+/mods/identifier/@type	local:peel3	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/identifier	N018902	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	5	3.3
+/mods/identifier/@type	local:old_peel_new	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/location		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/location/physicalLocation	UA Cameron Staff Access-Maps	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/location/url	http://peel.library.ualberta.ca/maps/M/00/02/M000275/M000275.1.tif	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	17	3.3
+/mods/location/url/@access	raw object1	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/location/url/@note	width='4016' height='3226'	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/location/url	http://peel.library.ualberta.ca/maps/M/00/02/M000275/M000275.2.tif	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	17	3.3
+/mods/location/url/@access	raw object2	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/location/url/@note	width='4252' height='3212'	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/location/url	http://peel.library.ualberta.ca/maps/M/00/02/M000275/M000275.3.tif	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	17	3.3
+/mods/location/url/@access	raw object3	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/location/url/@note	width='4252' height='3182'	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/location/url	http://peel.library.ualberta.ca/maps/M/00/02/M000275/M000275.4.tif	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	17	3.3
+/mods/location/url/@access	raw object4	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/location/url/@note	width='4252' height='3242'	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/location/url	http://peel.library.ualberta.ca/maps/M/00/02/M000275/M000275.5.tif	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	17	3.3
+/mods/location/url/@access	raw object5	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/location/url/@note	width='4252' height='3221'	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/location/url	http://peel.library.ualberta.ca/maps/M/00/02/M000275/M000275.6.tif	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	17	3.3
+/mods/location/url/@access	raw object6	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/location/url/@note	width='4252' height='3173'	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/location/url	http://peel.library.ualberta.ca/maps/M/00/02/M000275/M000275.7.tif	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	17	3.3
+/mods/location/url/@access	raw object7	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/location/url/@note	width='4252' height='3179'	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/location/url	http://peel.library.ualberta.ca/maps/M/00/02/M000275/M000275.8.tif	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	17	3.3
+/mods/location/url/@access	raw object8	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/location/url/@note	width='4252' height='3256'	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/location/url	http://peel.library.ualberta.ca/maps/M/00/02/M000275/M000275.9.tif	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	17	3.3
+/mods/location/url/@access	raw object9	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/location/url/@note	width='4252' height='3194'	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/location/url	http://peel.library.ualberta.ca/maps/M/00/02/M000275/M000275.10.tif	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	17	3.3
+/mods/location/url/@access	raw object10	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/location/url/@note	width='4252' height='3233'	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/location/url	http://peel.library.ualberta.ca/maps/M/00/02/M000275/M000275.11.tif	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	17	3.3
+/mods/location/url/@access	raw object11	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/location/url/@note	width='4252' height='3173'	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/location/url	http://peel.library.ualberta.ca/maps/M/00/02/M000275/M000275.12.tif	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	17	3.3
+/mods/location/url/@access	raw object12	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/location/url/@note	width='4252' height='3161'	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/location/url	http://peel.library.ualberta.ca/maps/M/00/02/M000275/M000275.13.tif	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	17	3.3
+/mods/location/url/@access	raw object13	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/location/url/@note	width='4252' height='3173'	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/location/url	http://peel.library.ualberta.ca/maps/M/00/02/M000275/M000275.14.tif	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	17	3.3
+/mods/location/url/@access	raw object14	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/location/url/@note	width='4961' height='3194'	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/location/url	http://peel.library.ualberta.ca/maps/M/00/02/M000275/M000275.15.tif	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	17	3.3
+/mods/location/url/@access	raw object15	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/location/url/@note	width='6378' height='3206'	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/location/url	http://peel.library.ualberta.ca/maps/M/00/02/M000275/M000275.16.tif	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	17	3.3
+/mods/location/url/@access	raw object16	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/location/url/@note	width='5433' height='3194'	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/location/url	http://peel.library.ualberta.ca/maps/M/00/02/M000275/M000275.17.tif	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	17	3.3
+/mods/location/url/@access	raw object17	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/location/url/@note	width='7087' height='4730'	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/recordInfo		http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/recordInfo/recordContentSource	mapsproject	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	2	3.3
+/mods/recordInfo/recordContentSource/@authority	local:project	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/recordInfo/recordContentSource	jhuck	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	2	3.3
+/mods/recordInfo/recordContentSource/@authority	local:person	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/recordInfo/recordIdentifier	M000275	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+/mods/recordInfo/recordChangeDate	2014-01-09T11:36:36-0700	http://peel.library.ualberta.ca/maps/M000275.html	map Digital maps Thematic maps 	1	3.3
+

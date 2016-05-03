@@ -1,0 +1,80 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+	/mods/@version	3.0		1	3.0
+	/mods/titleInfo			1	3.0
+	/mods/titleInfo/title	History in the making		1	3.0
+	/mods/titleInfo/subTitle	Canadian Co-operative Implements Limited		1	3.0
+	/mods/name			1	3.0
+	/mods/name/@ID	author.1		1	3.0
+	/mods/name/@type	corporate		1	3.0
+	/mods/name/namePart	Canadian Co-operative Implements Limited		1	3.0
+	/mods/typeOfResource	text		1	3.0
+	/mods/originInfo			1	3.0
+	/mods/originInfo/place			1	3.0
+	/mods/originInfo/place/placeTerm	Regina		1	3.0
+	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+	/mods/originInfo/publisher	Canadian Co-operative Implements Limited		1	3.0
+	/mods/originInfo/dateIssued	[ca. 1943]		1	3.0
+	/mods/language			1	3.0
+	/mods/language/languageTerm	English		1	3.0
+	/mods/language/languageTerm/@type	text		1	3.0
+	/mods/physicalDescription			1	3.0
+	/mods/physicalDescription/form	print		1	3.0
+	/mods/physicalDescription/form/@authority	marcform		1	3.0
+	/mods/physicalDescription/extent	7 p. : ill. ; 23 cm.		1	3.0
+	/mods/note	brief		3	3.0
+	/mods/note/@type	local:catlevel		1	3.0
+	/mods/note	DOA: 1940 Spatial: Canada, Western		3	3.0
+	/mods/note/@type	local		1	3.0
+	/mods/note	Cover title. Brief history of a western-Canadian farm implement co-operative.		3	3.0
+	/mods/note/@type	public		1	3.0
+	/mods/subject			1	3.0
+	/mods/identifier	N008845		2	3.0
+	/mods/identifier/@type	local:peel_new		1	3.0
+	/mods/identifier	9472		2	3.0
+	/mods/identifier/@type	local:peel3		1	3.0
+	/mods/recordInfo			1	3.0
+	/mods/recordInfo/recordContentSource	Peel's Prairie Provinces		2	3.0
+	/mods/recordInfo/recordContentSource	RC		2	3.0
+	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.0
+	/mods/recordInfo/recordCreationDate	2008-07-22T11:34:44-0600		1	3.0
+	/mods/recordInfo/recordIdentifier	P009472		1	3.0
+	/mods/recordInfo/recordChangeDate	2010-07-02T13:51:56-0600		1	3.0
+	/@mods	
+
+History in the making
+Canadian Co-operative Implements Limited
+
+
+Canadian Co-operative Implements Limited
+
+text
+
+
+Regina
+
+Canadian Co-operative Implements Limited
+[ca. 1943]
+
+
+English
+
+
+print
+7 p. : ill. ; 23 cm.
+
+brief
+DOA: 1940 Spatial: Canada, Western
+Cover title. Brief history of a western-Canadian farm implement co-operative.
+
+N008845
+9472
+
+Peel's Prairie Provinces
+RC
+2008-07-22T11:34:44-0600
+P009472
+2010-07-02T13:51:56-0600
+
+		1	3.0
+	

@@ -1,0 +1,90 @@
+Path	Content	URL	Form or Genre	Occurrence	MODS version
+
+    /mods/titleInfo		http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	1	3.3
+/mods/titleInfo/nonSort	An 	http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	1	3.3
+/mods/titleInfo/title	Ocean of Ice, Blackfoot Glacier	http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	1	3.3
+
+    /mods/name		http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	2	3.3
+/mods/name/@type	corporate	http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	1	3.3
+/mods/name/namePart	University of Lethbridge	http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	1	3.3
+/mods/name/role		http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	1	3.3
+/mods/name/role/roleTerm	digitizing institution	http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	1	3.3
+/mods/name/role/roleTerm/@type	text	http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	1	3.3
+
+    /mods/name		http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	2	3.3
+/mods/name/@type	personal	http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	1	3.3
+/mods/name/namePart	Thomas B. Magee, 1862-1930	http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	1	3.3
+/mods/name/role		http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	1	3.3
+/mods/name/role/roleTerm	photographer	http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	1	3.3
+/mods/name/role/roleTerm/@type	text	http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	1	3.3
+
+    /mods/originInfo		http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	1	3.3
+/mods/originInfo/publisher	N. A. Forsyth (Butte, Mont.)	http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	1	3.3
+/mods/originInfo/dateCaptured	2007-07-10	http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	1	3.3
+/mods/originInfo/dateCreated	1900	http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	2	3.3
+/mods/originInfo/dateCreated/@point	start	http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	1	3.3
+/mods/originInfo/dateCreated	1908	http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	2	3.3
+/mods/originInfo/dateCreated/@point	end	http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	1	3.3
+
+    /mods/language		http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	1	3.3
+/mods/language/languageTerm	eng	http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	1	3.3
+/mods/language/languageTerm/@authority	iso639-2b	http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	1	3.3
+/mods/language/languageTerm/@type	code	http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	1	3.3
+
+    /mods/note	A stereoscope card showing a view of the Blackfoot
+      Glacier.	http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	3	3.3
+/mods/note/@type	public_description	http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	1	3.3
+
+    /mods/subject		http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	5	3.3
+/mods/subject/geographic	Montana	http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	1	3.3
+
+    /mods/subject		http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	5	3.3
+/mods/subject/topic	Photography, stereoscopic	http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	1	3.3
+
+    /mods/subject		http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	5	3.3
+/mods/subject/topic	Glacier National Park (Agency: USA)	http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	1	3.3
+
+    /mods/subject		http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	5	3.3
+/mods/subject/topic	Glaciers	http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	1	3.3
+
+    /mods/subject		http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	5	3.3
+/mods/subject/topic	Mountains	http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	1	3.3
+
+    /mods/typeOfResource	still image	http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	1	3.3
+
+    /mods/genre	Stereoscope card	http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	1	3.3
+
+    /mods/physicalDescription		http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	1	3.3
+/mods/physicalDescription/extent	178mm x 89mm	http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	1	3.3
+
+    /mods/identifier	MGSTGP011.tif	http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	1	3.3
+
+    /mods/recordInfo		http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	1	3.3
+/mods/recordInfo/recordContentSource	University of Lethbridge Library	http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	1	3.3
+/mods/recordInfo/recordIdentifier	MGSTGP011	http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	1	3.3
+
+    /mods/relatedItem		http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	1	3.3
+/mods/relatedItem/@type	original	http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	1	3.3
+/mods/relatedItem/titleInfo		http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	1	3.3
+/mods/relatedItem/titleInfo/title	Magee Collection, University of Alberta Special Collections	http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	1	3.3
+
+    /mods/note	magee	http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	3	3.3
+/mods/note/@type	local:oaiset	http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	1	3.3
+
+/mods/note	images	http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	3	3.3
+/mods/note/@type	local:oaiset	http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	1	3.3
+
+/mods/location		http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	1	3.3
+/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Magee Photo Collection, Glacier Park Through the Stereoscope	http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	1	3.3
+/mods/location/url	http://peel.library.ualberta.ca/magee/MGSTGP011.html	http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	3	3.3
+/mods/location/url/@usage	primary display	http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	1	3.3
+/mods/location/url/@access	object in context	http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	1	3.3
+/mods/location/url	http://peel.library.ualberta.ca/peelimages/MG/web/MGSTGP011.jpg	http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	3	3.3
+/mods/location/url/@note	width='1000' height='500' 	http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	1	3.3
+/mods/location/url/@access	raw object	http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	1	3.3
+/mods/location/url	http://peel.library.ualberta.ca/peelimages/MG/thumbs/MGSTGP011.jpg	http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	3	3.3
+/mods/location/url/@note	width='200' height='100'	http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	1	3.3
+/mods/location/url/@access	preview	http://peel.library.ualberta.ca/magee/MGSTGP011.html	Stereoscope card	1	3.3
+
+    
+  

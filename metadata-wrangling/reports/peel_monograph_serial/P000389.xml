@@ -1,0 +1,132 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@schemaLocation	http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/nonSort	A 		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	collection of psalms and hymns		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/subTitle	Translated into the language of the York Indians of the diocese of Rupert's Land, North-West America		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA001241		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Mason, William		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	1813?-1893.		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart/@type	date		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	translator		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/description	1813?-1893. Methodist missionary, sent by Wesleyan Missionary Society of England to Rainy River, 1840; stationed at Rossville at Norway House, 1844-1854; in 1854 mission transferred to control of Canadian Wesleyan Church and Mason attached himself to the Church of England; ordained by Bishop David Anderson, June, 1854; in charge of mission at York Factory, 1854-1858 and 1862-1870; in England working on translation of the Bible, 1858-1862; retired to England, 1875; awarded D.D. by Archbishop of Canterbury, 1880 (M.E.J., <i>Dayspring in the far west</i>; Hodge, <i>Handbook of American Indians</i>; Pilling, <i>Bibliography of the Algonquian languages</i>; Canadian Church Historical Society offprint series no. 21, October 1960; <i>Crockford's clerical directory</i>).		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	London		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	[Society for Promoting Christian Knowledge]		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1859		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	Cree		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	163 p.; 11 cm.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	Text in Cree syllabics devised by James Evans. Also published, London: Society for Promoting Christian Knowledge, 1860 (163p.). 		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	public		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Native Languages--Devotional Literature		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS001985		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Hymns		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS001985		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Hymnes		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002131		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Indians of North America--Languages		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002131		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Langues indiennes d'Amérique--Amérique du Nord		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1859		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	175		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	214		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel2		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	389		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	389		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel-procite-id		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P000389		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+    
+        A 
+        collection of psalms and hymns
+        Translated into the language of the York Indians of the diocese of Rupert's Land, North-West America
+    
+    
+        Mason, William
+        1813?-1893.
+        
+            translator
+        
+        1813?-1893. Methodist missionary, sent by Wesleyan Missionary Society of England to Rainy River, 1840; stationed at Rossville at Norway House, 1844-1854; in 1854 mission transferred to control of Canadian Wesleyan Church and Mason attached himself to the Church of England; ordained by Bishop David Anderson, June, 1854; in charge of mission at York Factory, 1854-1858 and 1862-1870; in England working on translation of the Bible, 1858-1862; retired to England, 1875; awarded D.D. by Archbishop of Canterbury, 1880 (M.E.J., <i>Dayspring in the far west</i>; Hodge, <i>Handbook of American Indians</i>; Pilling, <i>Bibliography of the Algonquian languages</i>; Canadian Church Historical Society offprint series no. 21, October 1960; <i>Crockford's clerical directory</i>).
+    
+    text
+    
+        
+            London
+        
+        [Society for Promoting Christian Knowledge]
+        1859
+    
+    
+        Cree
+    
+    
+        print
+        163 p.; 11 cm.
+    
+    Text in Cree syllabics devised by James Evans. Also published, London: Society for Promoting Christian Knowledge, 1860 (163p.). 
+    
+        Native Languages--Devotional Literature
+    
+    
+        Hymns
+    
+    
+        Hymnes
+    
+    
+        Indians of North America--Languages
+    
+    
+        Langues indiennes d'Amérique--Amérique du Nord
+    
+    
+        1859
+    
+    175
+    214
+    389
+    389
+    
+        Peel's Prairie Portal
+        P000389
+        2003-01-01T12:00:00-0700
+    
+		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

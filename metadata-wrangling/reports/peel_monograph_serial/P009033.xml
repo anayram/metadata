@@ -1,0 +1,164 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	Those tumultuous years		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/subTitle	The goals of the President of the University of Alberta during the decade of the 1960s		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Campbell, Duncan D.		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	1919-.		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart/@type	date		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Johns, Walter H.		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	1908-		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart/@type	date		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	abc		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@authority	marccountry		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	code		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	[Edmonton]		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	University of Alberta		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1977		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/issuance	monographic		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	eng		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@authority	iso639-2b		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	code		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	English		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	67 p., [1] leaf of plates : port. ; 23 cm.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	uahistory		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	oaiset		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	DOA: 1960 Spatial: Edmonton (Alta.)		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	local		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	Foreword by T.C. Byrne. Contains excerpts from the speeches of Walter H. Johns, President of the University of Alberta.		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	public		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			5	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographicCode	n-cn---		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographicCode/@authority	marcgac		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			5	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name/namePart	Johns, Walter Hugh		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name/namePart	1908-.		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name/namePart/@type	date		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			5	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name/@type	corporate		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name/namePart	University of Alberta		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	History		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			5	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name/@type	corporate		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name/namePart	University of Alberta		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Administration		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			5	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1977		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/classification	LE 3 A62 C18 1977		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/classification/@authority	lcc		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	9033		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	8228		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel_new		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	142719		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:neos		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	RC		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P009033		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordChangeDate	2010-03-14T14:27:42-0600		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+
+Those tumultuous years
+The goals of the President of the University of Alberta during the decade of the 1960s
+
+
+Campbell, Duncan D.
+1919-.
+
+
+Johns, Walter H.
+1908-
+
+text
+
+
+abc
+
+
+[Edmonton]
+
+University of Alberta
+1977
+monographic
+
+
+eng
+English
+
+
+print
+67 p., [1] leaf of plates : port. ; 23 cm.
+
+uahistory
+DOA: 1960 Spatial: Edmonton (Alta.)
+Foreword by T.C. Byrne. Contains excerpts from the speeches of Walter H. Johns, President of the University of Alberta.
+
+				n-cn---
+			
+
+				
+Johns, Walter Hugh
+1908-.
+
+			
+
+				
+University of Alberta
+
+			
+				History
+			
+
+				
+University of Alberta
+
+			
+				Administration
+			
+
+				1977
+			
+LE 3 A62 C18 1977
+9033
+8228
+142719
+
+Peel's Prairie Portal
+RC
+2003-01-01T12:00:00-0700
+P009033
+2010-03-14T14:27:42-0600
+
+		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

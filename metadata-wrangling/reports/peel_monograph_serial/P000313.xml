@@ -1,0 +1,130 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@schemaLocation	http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	Oo tapw'atumoowin mena oo tipetotumoowin ootayumehaw		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/subTitle	The faith and duty of a Christian, translated into the language of the Cree Indians of the diocese of Rupert's Land, North-West America		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA001282		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Hunter, James		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	1817-1881.		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart/@type	date		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	translator		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/description	1817-1881. Church of England clergyman; with wife Jean Ross Hunter joined mission at The Pas, 1844; to Grand Rapids on Red River, 1851; to The Pas and completed translation of the Gospel of St Matthew and the Acts of the Apostles into Cree, 1852; to England, 1853; to Red River, 1855; commenced itinerant mission among Tinne tribes around Fort Simpson on the Mackenzie River, 1858; to England, 1865 (M.E.J., <i>Dayspring in the far west</i>).		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	[London]		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	Society for Promoting Christian Knowledge		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1855		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	Cree		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	vi, [5]-54 p.; 17.5 cm.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	Text in Roman characters. Remarks signed: "J.H." Also published in Cree syllabics, [London: Printed by William Mavor Watts for Society for Promoting Christian Knowledge, 1858?] (47p.). 		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	public		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Native Languages--Devotional Literature		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002131		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Indians of North America--Languages		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002131		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Langues indiennes d'Amérique--Amérique du Nord		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003883		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Religious literature		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003883		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Littérature religieuse		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1855		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	138		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	163		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel2		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	313		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	313		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel-procite-id		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P000313		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+    
+        Oo tapw'atumoowin mena oo tipetotumoowin ootayumehaw
+        The faith and duty of a Christian, translated into the language of the Cree Indians of the diocese of Rupert's Land, North-West America
+    
+    
+        Hunter, James
+        1817-1881.
+        
+            translator
+        
+        1817-1881. Church of England clergyman; with wife Jean Ross Hunter joined mission at The Pas, 1844; to Grand Rapids on Red River, 1851; to The Pas and completed translation of the Gospel of St Matthew and the Acts of the Apostles into Cree, 1852; to England, 1853; to Red River, 1855; commenced itinerant mission among Tinne tribes around Fort Simpson on the Mackenzie River, 1858; to England, 1865 (M.E.J., <i>Dayspring in the far west</i>).
+    
+    text
+    
+        
+            [London]
+        
+        Society for Promoting Christian Knowledge
+        1855
+    
+    
+        Cree
+    
+    
+        print
+        vi, [5]-54 p.; 17.5 cm.
+    
+    Text in Roman characters. Remarks signed: "J.H." Also published in Cree syllabics, [London: Printed by William Mavor Watts for Society for Promoting Christian Knowledge, 1858?] (47p.). 
+    
+        Native Languages--Devotional Literature
+    
+    
+        Indians of North America--Languages
+    
+    
+        Langues indiennes d'Amérique--Amérique du Nord
+    
+    
+        Religious literature
+    
+    
+        Littérature religieuse
+    
+    
+        1855
+    
+    138
+    163
+    313
+    313
+    
+        Peel's Prairie Portal
+        P000313
+        2003-01-01T12:00:00-0700
+    
+		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

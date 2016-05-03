@@ -1,0 +1,155 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		sfarnel	PC010348	postcards	1	3.2
+	/mods/@version	3.2	sfarnel	PC010348	postcards	1	3.2
+	/mods/titleInfo		sfarnel	PC010348	postcards	1	3.2
+	/mods/titleInfo/@lang	english	sfarnel	PC010348	postcards	1	3.2
+	/mods/titleInfo/title	Eighth Avenue, looking east, Calgary, Alberta	sfarnel	PC010348	postcards	1	3.2
+	/mods/name		sfarnel	PC010348	postcards	1	3.2
+	/mods/name/@type	personal	sfarnel	PC010348	postcards	1	3.2
+	/mods/name/namePart	Loveless	sfarnel	PC010348	postcards	2	3.2
+	/mods/name/namePart/@type	family	sfarnel	PC010348	postcards	1	3.2
+	/mods/name/namePart	Fred	sfarnel	PC010348	postcards	2	3.2
+	/mods/name/namePart/@type	given	sfarnel	PC010348	postcards	1	3.2
+	/mods/name/role		sfarnel	PC010348	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	sfarnel	PC010348	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	sfarnel	PC010348	postcards	1	3.2
+	/mods/typeOfResource	still image	sfarnel	PC010348	postcards	1	3.2
+	/mods/genre	postcards	sfarnel	PC010348	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	sfarnel	PC010348	postcards	1	3.2
+	/mods/originInfo		sfarnel	PC010348	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	sfarnel	PC010348	postcards	1	3.2
+	/mods/originInfo/publisher	Published by Fred Loveless, Calgary, Alberta.	sfarnel	PC010348	postcards	1	3.2
+	/mods/originInfo/dateIssued	1905	sfarnel	PC010348	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	inferred	sfarnel	PC010348	postcards	1	3.2
+	/mods/originInfo/place		sfarnel	PC010348	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	Calgary	sfarnel	PC010348	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	sfarnel	PC010348	postcards	1	3.2
+	/mods/language		sfarnel	PC010348	postcards	1	3.2
+	/mods/language/languageTerm	English	sfarnel	PC010348	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	sfarnel	PC010348	postcards	1	3.2
+	/mods/physicalDescription		sfarnel	PC010348	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : col. ; 9 x 14 cm.	sfarnel	PC010348	postcards	1	3.2
+	/mods/note	12	sfarnel	PC010348	postcards	7	3.2
+	/mods/note/@type	price	sfarnel	PC010348	postcards	1	3.2
+	/mods/note	false	sfarnel	PC010348	postcards	7	3.2
+	/mods/note/@type	notable	sfarnel	PC010348	postcards	1	3.2
+	/mods/note	true	sfarnel	PC010348	postcards	7	3.2
+	/mods/note/@type	imgprobs	sfarnel	PC010348	postcards	1	3.2
+	/mods/note	[printer's no.] 601,498	sfarnel	PC010348	postcards	7	3.2
+	/mods/note/@type	public_on_front	sfarnel	PC010348	postcards	1	3.2
+	/mods/note	Printed in Great Britain	sfarnel	PC010348	postcards	7	3.2
+	/mods/note/@type	public_on_back	sfarnel	PC010348	postcards	1	3.2
+	/mods/note	Souvenir Post Card	sfarnel	PC010348	postcards	7	3.2
+	/mods/note/@type	public_on_back	sfarnel	PC010348	postcards	1	3.2
+	/mods/note	8th Avenue looking East, Calgary, Alberta, with stores and shops on the either side or pedestrians on the sidewalk. A streetcar is visible in the road.	sfarnel	PC010348	postcards	7	3.2
+	/mods/note/@type	public_description	sfarnel	PC010348	postcards	1	3.2
+	/mods/subject		sfarnel	PC010348	postcards	7	3.2
+	/mods/subject/geographic	Calgary, AB	sfarnel	PC010348	postcards	1	3.2
+	/mods/subject		sfarnel	PC010348	postcards	7	3.2
+	/mods/subject/hierarchicalGeographic		sfarnel	PC010348	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	sfarnel	PC010348	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	sfarnel	PC010348	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Calgary	sfarnel	PC010348	postcards	1	3.2
+	/mods/subject		sfarnel	PC010348	postcards	7	3.2
+	/mods/subject/genre	Postcards	sfarnel	PC010348	postcards	1	3.2
+	/mods/subject		sfarnel	PC010348	postcards	7	3.2
+	/mods/subject/topic	Commercial streets	sfarnel	PC010348	postcards	1	3.2
+	/mods/subject		sfarnel	PC010348	postcards	7	3.2
+	/mods/subject/topic	Stores & shops	sfarnel	PC010348	postcards	1	3.2
+	/mods/subject		sfarnel	PC010348	postcards	7	3.2
+	/mods/subject/topic	Street railroads	sfarnel	PC010348	postcards	1	3.2
+	/mods/subject		sfarnel	PC010348	postcards	7	3.2
+	/mods/subject/topic	Pedestrians	sfarnel	PC010348	postcards	1	3.2
+	/mods/identifier	PC010348	sfarnel	PC010348	postcards	1	3.2
+	/mods/identifier/@type	local	sfarnel	PC010348	postcards	1	3.2
+	/mods/location		sfarnel	PC010348	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 1	sfarnel	PC010348	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC010348.html	sfarnel	PC010348	postcards	3	3.2
+	/mods/location/url/@access	object in context	sfarnel	PC010348	postcards	1	3.2
+	/mods/location/url/@usage	primary display	sfarnel	PC010348	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/010/web/PC010348.jpg	sfarnel	PC010348	postcards	3	3.2
+	/mods/location/url/@access	raw object	sfarnel	PC010348	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='531' 	sfarnel	PC010348	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/010/thumbs/PC010348.jpg	sfarnel	PC010348	postcards	3	3.2
+	/mods/location/url/@access	preview	sfarnel	PC010348	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='133'	sfarnel	PC010348	postcards	1	3.2
+	/mods/recordInfo		sfarnel	PC010348	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2009-01-19T16:18:42-0700	sfarnel	PC010348	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC010348	sfarnel	PC010348	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	sfarnel	sfarnel	PC010348	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2009-12-06T18:36:31-0700	sfarnel	PC010348	postcards	1	3.2
+	/@mods	
+
+Eighth Avenue, looking east, Calgary, Alberta
+
+
+Loveless
+Fred
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+Published by Fred Loveless, Calgary, Alberta.
+1905
+
+
+Calgary
+
+
+
+English
+
+
+1 postcard : col. ; 9 x 14 cm.
+
+12
+false
+true
+[printer's no.] 601,498
+Printed in Great Britain
+Souvenir Post Card
+8th Avenue looking East, Calgary, Alberta, with stores and shops on the either side or pedestrians on the sidewalk. A streetcar is visible in the road.
+
+Calgary, AB
+
+
+
+Canada
+Alberta
+Calgary
+
+
+
+Postcards
+
+
+Commercial streets
+
+
+Stores & shops
+
+
+Street railroads
+
+
+Pedestrians
+
+PC010348
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 1
+http://peel.library.ualberta.ca/postcards/PC010348.html
+http://peel.library.ualberta.ca/pcimages/PC/010/web/PC010348.jpg
+http://peel.library.ualberta.ca/pcimages/PC/010/thumbs/PC010348.jpg
+
+
+2009-01-19T16:18:42-0700
+PC010348
+sfarnel
+2009-12-06T18:36:31-0700
+
+	sfarnel	PC010348	postcards	1	3.2
+	

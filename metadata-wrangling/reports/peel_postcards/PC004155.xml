@@ -1,0 +1,159 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		rschramm	PC004155	postcards	1	3.2
+	/mods/@version	3.2	rschramm	PC004155	postcards	1	3.2
+	/mods/titleInfo		rschramm	PC004155	postcards	1	3.2
+	/mods/titleInfo/@lang	english	rschramm	PC004155	postcards	1	3.2
+	/mods/titleInfo/title	Central Park, Lethbridge, Alta.	rschramm	PC004155	postcards	1	3.2
+	/mods/name		rschramm	PC004155	postcards	1	3.2
+	/mods/name/@type	personal	rschramm	PC004155	postcards	1	3.2
+	/mods/name/namePart	Johnston	rschramm	PC004155	postcards	2	3.2
+	/mods/name/namePart/@type	family	rschramm	PC004155	postcards	1	3.2
+	/mods/name/namePart	J.J.	rschramm	PC004155	postcards	2	3.2
+	/mods/name/namePart/@type	given	rschramm	PC004155	postcards	1	3.2
+	/mods/name/role		rschramm	PC004155	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	rschramm	PC004155	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	rschramm	PC004155	postcards	1	3.2
+	/mods/typeOfResource	still image	rschramm	PC004155	postcards	1	3.2
+	/mods/genre	postcards	rschramm	PC004155	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	rschramm	PC004155	postcards	1	3.2
+	/mods/originInfo		rschramm	PC004155	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	rschramm	PC004155	postcards	1	3.2
+	/mods/originInfo/publisher	Published by J.J. Johnston, Lethbridge, Alta.	rschramm	PC004155	postcards	1	3.2
+	/mods/originInfo/dateIssued	1908	rschramm	PC004155	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	approximate	rschramm	PC004155	postcards	1	3.2
+	/mods/originInfo/place		rschramm	PC004155	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	Lethbridge	rschramm	PC004155	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	rschramm	PC004155	postcards	1	3.2
+	/mods/language		rschramm	PC004155	postcards	1	3.2
+	/mods/language/languageTerm	English	rschramm	PC004155	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	rschramm	PC004155	postcards	1	3.2
+	/mods/physicalDescription		rschramm	PC004155	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : b&w ; 9 x 14 cm.	rschramm	PC004155	postcards	1	3.2
+	/mods/note	10	rschramm	PC004155	postcards	11	3.2
+	/mods/note/@type	price	rschramm	PC004155	postcards	1	3.2
+	/mods/note	false	rschramm	PC004155	postcards	11	3.2
+	/mods/note/@type	notable	rschramm	PC004155	postcards	1	3.2
+	/mods/note	false	rschramm	PC004155	postcards	11	3.2
+	/mods/note/@type	imgprobs	rschramm	PC004155	postcards	1	3.2
+	/mods/note	View of Central Park in Lethbridge, Alberta with people walking in the park and sitting on benches.	rschramm	PC004155	postcards	11	3.2
+	/mods/note/@type	public_description	rschramm	PC004155	postcards	1	3.2
+	/mods/note	Mr. Robert Herbert	rschramm	PC004155	postcards	11	3.2
+	/mods/note/@type	public_to	rschramm	PC004155	postcards	1	3.2
+	/mods/note	Wil	rschramm	PC004155	postcards	11	3.2
+	/mods/note/@type	public_from	rschramm	PC004155	postcards	1	3.2
+	/mods/note	Brampton, Ont.	rschramm	PC004155	postcards	11	3.2
+	/mods/note/@type	public_address	rschramm	PC004155	postcards	1	3.2
+	/mods/note	Lethbridge, Hello Bob. We are well and growing that Alex says he would like to have a go with you now. I am going to see a Foot ball game on Park which you see on card. Wil. Box 665	rschramm	PC004155	postcards	11	3.2
+	/mods/note/@type	public_message	rschramm	PC004155	postcards	1	3.2
+	/mods/note	Lethbridge, Alta., 1908-07-01	rschramm	PC004155	postcards	11	3.2
+	/mods/note/@type	public_postmark_date	rschramm	PC004155	postcards	1	3.2
+	/mods/note	[Printer's no.] 432	rschramm	PC004155	postcards	11	3.2
+	/mods/note/@type	public_on_back	rschramm	PC004155	postcards	1	3.2
+	/mods/note	Printed in Saxony	rschramm	PC004155	postcards	11	3.2
+	/mods/note/@type	public_on_back	rschramm	PC004155	postcards	1	3.2
+	/mods/subject		rschramm	PC004155	postcards	5	3.2
+	/mods/subject/geographic	Lethbridge, AB	rschramm	PC004155	postcards	1	3.2
+	/mods/subject		rschramm	PC004155	postcards	5	3.2
+	/mods/subject/hierarchicalGeographic		rschramm	PC004155	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	rschramm	PC004155	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	rschramm	PC004155	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Lethbridge	rschramm	PC004155	postcards	1	3.2
+	/mods/subject		rschramm	PC004155	postcards	5	3.2
+	/mods/subject/genre	Postcards	rschramm	PC004155	postcards	1	3.2
+	/mods/subject		rschramm	PC004155	postcards	5	3.2
+	/mods/subject/topic	Parks	rschramm	PC004155	postcards	1	3.2
+	/mods/subject		rschramm	PC004155	postcards	5	3.2
+	/mods/subject/topic	Trees	rschramm	PC004155	postcards	1	3.2
+	/mods/identifier	PC004155	rschramm	PC004155	postcards	1	3.2
+	/mods/identifier/@type	local	rschramm	PC004155	postcards	1	3.2
+	/mods/location		rschramm	PC004155	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 2	rschramm	PC004155	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC004155.html	rschramm	PC004155	postcards	3	3.2
+	/mods/location/url/@access	object in context	rschramm	PC004155	postcards	1	3.2
+	/mods/location/url/@usage	primary display	rschramm	PC004155	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/004/web/PC004155.jpg	rschramm	PC004155	postcards	3	3.2
+	/mods/location/url/@access	raw object	rschramm	PC004155	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='506' 	rschramm	PC004155	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/004/thumbs/PC004155.jpg	rschramm	PC004155	postcards	3	3.2
+	/mods/location/url/@access	preview	rschramm	PC004155	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='127'	rschramm	PC004155	postcards	1	3.2
+	/mods/recordInfo		rschramm	PC004155	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	rschramm	PC004155	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC004155	rschramm	PC004155	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	rschramm	rschramm	PC004155	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2008-07-21T10:50:07-0600	rschramm	PC004155	postcards	1	3.2
+	/@mods	
+
+Central Park, Lethbridge, Alta.
+
+
+Johnston
+J.J.
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+Published by J.J. Johnston, Lethbridge, Alta.
+1908
+
+
+Lethbridge
+
+
+
+English
+
+
+1 postcard : b&w ; 9 x 14 cm.
+
+10
+false
+false
+View of Central Park in Lethbridge, Alberta with people walking in the park and sitting on benches.
+Mr. Robert Herbert
+Wil
+Brampton, Ont.
+Lethbridge, Hello Bob. We are well and growing that Alex says he would like to have a go with you now. I am going to see a Foot ball game on Park which you see on card. Wil. Box 665
+Lethbridge, Alta., 1908-07-01
+[Printer's no.] 432
+Printed in Saxony
+
+Lethbridge, AB
+
+
+
+Canada
+Alberta
+Lethbridge
+
+
+
+Postcards
+
+
+Parks
+
+
+Trees
+
+PC004155
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 2
+http://peel.library.ualberta.ca/postcards/PC004155.html
+http://peel.library.ualberta.ca/pcimages/PC/004/web/PC004155.jpg
+http://peel.library.ualberta.ca/pcimages/PC/004/thumbs/PC004155.jpg
+
+
+
+
+2007-06-25T16:49:56-0600
+PC004155
+rschramm
+2008-07-21T10:50:07-0600
+
+	rschramm	PC004155	postcards	1	3.2
+	

@@ -1,0 +1,168 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@schemaLocation	http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	Our northern waters		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/subTitle	A report presented to the Winnipeg Board of Trade, regarding the Hudson's Bay and Straits: Being a statement of their resources in minerals, fisheries, timber, furs, game, and other products: Also notes on the navigation of these waters, together with historical events, and meteorological and climatic data		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA003545		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Bell, Charles Napier		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	1854-1936.		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart/@type	date		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/description	1854-1936. From Ontario to Fort Garry as member of Wolseley expedition, fall 1870; after a year in Customs Department made hunting expedition in upper Saskatchewan region, summer 1872; customs clerk, 1874-1881; customs clerk with CPR, 1881-1886; secretary of Winnipeg Grain Exchange, 1887-1916; secretary-treasurer and later treasurer of Winnipeg Board of Trade, 1887-1919; active member of Historical and Scientific Society of Manitoba and other scientific societies (<i>Winnipeg Free Press</i>, August 3, 1936).		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	Winnipeg		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	Winnipeg Board of Trade		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1884		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	English		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	[1], 1 leaf, 78 p., [2] fold. leaves of maps.; 21.5 cm.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	"Errata" on inside of front cover. 		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	public		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	History, Local--Manitoba--Hudson Bay		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Communications--Hudson Bay Route		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000457		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Boards of trade		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000457		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Chambres de commerce		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	Other		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS001944		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Hudson Bay Region (Man.)--Transportation		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003107		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Natural resources		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003107		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Ressources naturelles		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003193		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Northwest Passage--Transportation		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS004534		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Trade routes		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS004534		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Routes commerciales		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			11	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1884		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	538		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	719		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel2		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	1200		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	1199		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel-procite-id		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P001200		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+    
+        Our northern waters
+        A report presented to the Winnipeg Board of Trade, regarding the Hudson's Bay and Straits: Being a statement of their resources in minerals, fisheries, timber, furs, game, and other products: Also notes on the navigation of these waters, together with historical events, and meteorological and climatic data
+    
+    
+        Bell, Charles Napier
+        1854-1936.
+        
+            author
+        
+        1854-1936. From Ontario to Fort Garry as member of Wolseley expedition, fall 1870; after a year in Customs Department made hunting expedition in upper Saskatchewan region, summer 1872; customs clerk, 1874-1881; customs clerk with CPR, 1881-1886; secretary of Winnipeg Grain Exchange, 1887-1916; secretary-treasurer and later treasurer of Winnipeg Board of Trade, 1887-1919; active member of Historical and Scientific Society of Manitoba and other scientific societies (<i>Winnipeg Free Press</i>, August 3, 1936).
+    
+    text
+    
+        
+            Winnipeg
+        
+        Winnipeg Board of Trade
+        1884
+    
+    
+        English
+    
+    
+        print
+        [1], 1 leaf, 78 p., [2] fold. leaves of maps.; 21.5 cm.
+    
+    "Errata" on inside of front cover. 
+    
+        History, Local--Manitoba--Hudson Bay
+    
+    
+        Communications--Hudson Bay Route
+    
+    
+        Boards of trade
+    
+    
+        Chambres de commerce
+    
+    
+        Hudson Bay Region (Man.)--Transportation
+    
+    
+        Natural resources
+    
+    
+        Ressources naturelles
+    
+    
+        Northwest Passage--Transportation
+    
+    
+        Trade routes
+    
+    
+        Routes commerciales
+    
+    
+        1884
+    
+    538
+    719
+    1200
+    1199
+    
+        Peel's Prairie Portal
+        P001200
+        2003-01-01T12:00:00-0700
+    
+		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

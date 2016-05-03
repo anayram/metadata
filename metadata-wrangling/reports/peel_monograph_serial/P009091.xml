@@ -1,0 +1,188 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods		bibliography	1	3.2
+	/mods/@version	3.2	bibliography	1	3.2
+	/mods/titleInfo		bibliography	2	3.2
+	/mods/titleInfo/title	Long way from home	bibliography	1	3.2
+	/mods/titleInfo/subTitle	The story of the sixties generation in Canada	bibliography	1	3.2
+	/mods/titleInfo		bibliography	2	3.2
+	/mods/titleInfo/@type	alternative	bibliography	1	3.2
+	/mods/titleInfo/title	Long way from home	bibliography	1	3.2
+	/mods/titleInfo/subTitle	The story of the 60s generation in Canada	bibliography	1	3.2
+	/mods/name		bibliography	1	3.2
+	/mods/name/@type	personal	bibliography	1	3.2
+	/mods/name/namePart	Kostash, Myrna.	bibliography	1	3.2
+	/mods/typeOfResource	text	bibliography	1	3.2
+	/mods/genre	bibliography	bibliography	1	3.2
+	/mods/genre/@authority	marcgt	bibliography	1	3.2
+	/mods/originInfo		bibliography	1	3.2
+	/mods/originInfo/place		bibliography	2	3.2
+	/mods/originInfo/place/placeTerm	onc	bibliography	1	3.2
+	/mods/originInfo/place/placeTerm/@authority	marccountry	bibliography	1	3.2
+	/mods/originInfo/place/placeTerm/@type	code	bibliography	1	3.2
+	/mods/originInfo/place		bibliography	2	3.2
+	/mods/originInfo/place/placeTerm	Toronto	bibliography	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	bibliography	1	3.2
+	/mods/originInfo/publisher	J. Lorimer	bibliography	1	3.2
+	/mods/originInfo/dateIssued	1980	bibliography	1	3.2
+	/mods/originInfo/issuance	monographic	bibliography	1	3.2
+	/mods/language		bibliography	1	3.2
+	/mods/language/languageTerm	eng	bibliography	1	3.2
+	/mods/language/languageTerm/@authority	iso639-2b	bibliography	1	3.2
+	/mods/language/languageTerm/@type	code	bibliography	1	3.2
+	/mods/physicalDescription		bibliography	1	3.2
+	/mods/physicalDescription/form	print	bibliography	1	3.2
+	/mods/physicalDescription/form/@authority	marcform	bibliography	1	3.2
+	/mods/physicalDescription/extent	xxxvii, 300 p., [14] leaves of plates : ill. ; 24 cm.	bibliography	1	3.2
+	/mods/note	Bibliography: p.296-300.	bibliography	5	3.2
+	/mods/note	uahistory	bibliography	5	3.2
+	/mods/note/@type	local:oaiset	bibliography	1	3.2
+	/mods/note	DOA: 1960 Spatial: Prairie Provinces	bibliography	5	3.2
+	/mods/note/@type	local	bibliography	1	3.2
+	/mods/note	main	bibliography	5	3.2
+	/mods/note/@type	local:frbr	bibliography	1	3.2
+	/mods/note	Although national in scope, the study includes many anecdotes about the 1960s in western Canada. Also published, sound recording, Vancouver: Library Services Branch, 1982; sound recording, Brantford, Ont.: WRMS, 1989; and, electronic resource, Saint-Lazare, Que.: Gibson Library Connections, 2008.	bibliography	5	3.2
+	/mods/note/@type	public	bibliography	1	3.2
+	/mods/subject		bibliography	5	3.2
+	/mods/subject/geographicCode	n-cn---	bibliography	1	3.2
+	/mods/subject/geographicCode/@authority	marcgac	bibliography	1	3.2
+	/mods/subject		bibliography	5	3.2
+	/mods/subject/@authority	lcsh	bibliography	1	3.2
+	/mods/subject/topic	Youth	bibliography	2	3.2
+	/mods/subject/geographic	Canada	bibliography	1	3.2
+	/mods/subject/topic	Attitudes	bibliography	2	3.2
+	/mods/subject		bibliography	5	3.2
+	/mods/subject/@authority	lcsh	bibliography	1	3.2
+	/mods/subject/topic	Youth	bibliography	2	3.2
+	/mods/subject/geographic	Canada	bibliography	1	3.2
+	/mods/subject/topic	Political activity	bibliography	2	3.2
+	/mods/subject		bibliography	5	3.2
+	/mods/subject/@authority	csh	bibliography	1	3.2
+	/mods/subject/geographic	Canada	bibliography	1	3.2
+	/mods/subject/topic	Social conditions	bibliography	1	3.2
+	/mods/subject/temporal	1945-1965	bibliography	1	3.2
+	/mods/subject		bibliography	5	3.2
+	/mods/subject/@authority	csh	bibliography	1	3.2
+	/mods/subject/geographic	Canada	bibliography	1	3.2
+	/mods/subject/topic	Social conditions	bibliography	1	3.2
+	/mods/subject/temporal	1965-	bibliography	1	3.2
+	/mods/classification	305.2/3/0971	bibliography	1	3.2
+	/mods/classification/@authority	ddc	bibliography	1	3.2
+	/mods/relatedItem		bibliography	3	3.2
+	/mods/relatedItem/@ID	t2	bibliography	1	3.2
+	/mods/relatedItem/@displayLabel	Sound recording (Library Services Branch)	bibliography	1	3.2
+	/mods/relatedItem/@type	otherFormat	bibliography	1	3.2
+	/mods/relatedItem/@href	N020476	bibliography	1	3.2
+	/mods/relatedItem		bibliography	3	3.2
+	/mods/relatedItem/@ID	t3	bibliography	1	3.2
+	/mods/relatedItem/@displayLabel	Sound recording (WRMS)	bibliography	1	3.2
+	/mods/relatedItem/@type	otherFormat	bibliography	1	3.2
+	/mods/relatedItem/@href	N020477	bibliography	1	3.2
+	/mods/relatedItem		bibliography	3	3.2
+	/mods/relatedItem/@ID	t4	bibliography	1	3.2
+	/mods/relatedItem/@displayLabel	Electronic resource	bibliography	1	3.2
+	/mods/relatedItem/@type	otherFormat	bibliography	1	3.2
+	/mods/relatedItem/@href	N020478	bibliography	1	3.2
+	/mods/identifier	0888623801	bibliography	3	3.2
+	/mods/identifier/@type	isbn	bibliography	1	3.2
+	/mods/identifier	322266	bibliography	3	3.2
+	/mods/identifier/@type	local:neos	bibliography	1	3.2
+	/mods/identifier	9091	bibliography	3	3.2
+	/mods/identifier/@type	local:peel3	bibliography	1	3.2
+	/mods/recordInfo		bibliography	1	3.2
+	/mods/recordInfo/recordContentSource	CaOTY	bibliography	4	3.2
+	/mods/recordInfo/recordContentSource/@authority	marcorg	bibliography	1	3.2
+	/mods/recordInfo/recordContentSource	RC	bibliography	4	3.2
+	/mods/recordInfo/recordContentSource/@authority	local:person	bibliography	1	3.2
+	/mods/recordInfo/recordContentSource	NLC	bibliography	4	3.2
+	/mods/recordInfo/recordContentSource/@authority	marcorg	bibliography	1	3.2
+	/mods/recordInfo/recordContentSource	RC	bibliography	4	3.2
+	/mods/recordInfo/recordContentSource/@authority	local:person	bibliography	1	3.2
+	/mods/recordInfo/recordCreationDate	2008-09-10T15:46:25-0600	bibliography	1	3.2
+	/mods/recordInfo/recordIdentifier	P009091	bibliography	1	3.2
+	/mods/recordInfo/recordChangeDate	2010-04-05T18:03:19-0600	bibliography	1	3.2
+	/@mods	
+
+Long way from home
+The story of the sixties generation in Canada
+
+
+Long way from home
+The story of the 60s generation in Canada
+
+
+Kostash, Myrna.
+
+text
+bibliography
+
+
+onc
+
+
+Toronto
+
+J. Lorimer
+1980
+monographic
+
+
+eng
+
+
+print
+xxxvii, 300 p., [14] leaves of plates : ill. ; 24 cm.
+
+Bibliography: p.296-300.
+uahistory
+DOA: 1960 Spatial: Prairie Provinces
+main
+Although national in scope, the study includes many anecdotes about the 1960s in western Canada. Also published, sound recording, Vancouver: Library Services Branch, 1982; sound recording, Brantford, Ont.: WRMS, 1989; and, electronic resource, Saint-Lazare, Que.: Gibson Library Connections, 2008.
+
+				n-cn---
+			
+
+				Youth
+			
+				Canada
+			
+				Attitudes
+			
+
+				Youth
+			
+				Canada
+			
+				Political activity
+			
+
+				Canada
+			
+				Social conditions
+			
+				1945-1965
+			
+
+				Canada
+			
+				Social conditions
+			
+				1965-
+			
+305.2/3/0971
+
+
+
+0888623801
+322266
+9091
+
+CaOTY
+RC
+NLC
+RC
+2008-09-10T15:46:25-0600
+P009091
+2010-04-05T18:03:19-0600
+
+	bibliography	1	3.2
+	

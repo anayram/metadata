@@ -1,0 +1,122 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+	/mods/@version	3.0		1	3.0
+	/mods/titleInfo			1	3.0
+	/mods/titleInfo/title	Alberta's schools of agriculture		1	3.0
+	/mods/titleInfo/subTitle	A brief history		1	3.0
+	/mods/name			2	3.0
+	/mods/name/@ID	author.1		1	3.0
+	/mods/name/@type	personal		1	3.0
+	/mods/name/namePart	Swindlehurst, Edward B.		2	3.0
+	/mods/name/namePart	1899-.		2	3.0
+	/mods/name/namePart/@type	date		1	3.0
+	/mods/name			2	3.0
+	/mods/name/@type	corporate		1	3.0
+	/mods/name/namePart	Alberta.		1	3.0
+	/mods/typeOfResource	text		1	3.0
+	/mods/originInfo			1	3.0
+	/mods/originInfo/place			2	3.0
+	/mods/originInfo/place/placeTerm	abc		1	3.0
+	/mods/originInfo/place/placeTerm/@authority	marccountry		1	3.0
+	/mods/originInfo/place/placeTerm/@type	code		1	3.0
+	/mods/originInfo/place			2	3.0
+	/mods/originInfo/place/placeTerm	[Edmonton]		1	3.0
+	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+	/mods/originInfo/publisher	[Government of Alberta]		1	3.0
+	/mods/originInfo/dateIssued	[1964?]		1	3.0
+	/mods/originInfo/dateIssued/@qualifier	inferred		1	3.0
+	/mods/originInfo/issuance	monographic		1	3.0
+	/mods/language			1	3.0
+	/mods/language/languageTerm	eng		2	3.0
+	/mods/language/languageTerm/@authority	iso639-2b		1	3.0
+	/mods/language/languageTerm/@type	code		1	3.0
+	/mods/language/languageTerm	English		2	3.0
+	/mods/language/languageTerm/@type	text		1	3.0
+	/mods/physicalDescription			1	3.0
+	/mods/physicalDescription/form	print		1	3.0
+	/mods/physicalDescription/form/@authority	marcform		1	3.0
+	/mods/physicalDescription/extent	119 p. : ill., port. ; 22 cm.		1	3.0
+	/mods/note	uahistory		2	3.0
+	/mods/note/@type	oaiset		1	3.0
+	/mods/note	DOA: 1911 Spatial: Alberta		2	3.0
+	/mods/note/@type	local		1	3.0
+	/mods/subject			3	3.0
+	/mods/subject/@lang	eng		1	3.0
+	/mods/subject/geographicCode	n-cn-ab		1	3.0
+	/mods/subject/geographicCode/@authority	marcgac		1	3.0
+	/mods/subject			3	3.0
+	/mods/subject/@authority	lcsh		1	3.0
+	/mods/subject/@lang	eng		1	3.0
+	/mods/subject/topic	Agricultural colleges		1	3.0
+	/mods/subject/geographic	Alberta.		1	3.0
+	/mods/subject			3	3.0
+	/mods/subject/@authority	peel:activity		1	3.0
+	/mods/subject/temporal	1965		1	3.0
+	/mods/identifier	9026		3	3.0
+	/mods/identifier/@type	local:peel3		1	3.0
+	/mods/identifier	8221		3	3.0
+	/mods/identifier/@type	local:peel_new		1	3.0
+	/mods/identifier	1956410		3	3.0
+	/mods/identifier/@type	local:neos		1	3.0
+	/mods/recordInfo			1	3.0
+	/mods/recordInfo/recordContentSource	RC		1	3.0
+	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.0
+	/mods/recordInfo/recordCreationDate	2008-09-10T14:55:55-0600		1	3.0
+	/mods/recordInfo/recordIdentifier	P009026		1	3.0
+	/mods/recordInfo/recordChangeDate	2010-03-14T10:46:37-0600		1	3.0
+	/@mods	
+
+Alberta's schools of agriculture
+A brief history
+
+
+Swindlehurst, Edward B.
+1899-.
+
+
+Alberta.
+
+text
+
+
+abc
+
+
+[Edmonton]
+
+[Government of Alberta]
+[1964?]
+monographic
+
+
+eng
+English
+
+
+print
+119 p. : ill., port. ; 22 cm.
+
+uahistory
+DOA: 1911 Spatial: Alberta
+
+				n-cn-ab
+			
+
+				Agricultural colleges
+			
+				Alberta.
+			
+
+				1965
+			
+9026
+8221
+1956410
+
+RC
+2008-09-10T14:55:55-0600
+P009026
+2010-03-14T10:46:37-0600
+
+		1	3.0
+	

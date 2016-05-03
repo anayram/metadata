@@ -1,0 +1,164 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@schemaLocation	http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/nonSort	The 		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	life and times of Louis Riel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA000271		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Davidson, William McCartney		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	1872-1942.		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart/@type	date		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/description	1872-1942. From Ontario to Calgary where he founded and published <i>The Albertan</i>, 1902-1926; M.L.A. for Calgary, 1917-1921; sold newpaper in 1926, but remained interested in journalism until his death (<i>Winnipeg Free Press</i>, March 24, 1942).		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	Calgary		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	The Albertan		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1952		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued/@qualifier	questionable		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	English		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	114 p., ports.; 23 cm.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	Originally published in serial form in  <i>The Albertan </i>, November, 1951. 		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	public		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			10	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Rebellions and Regimental Histories--Red River Rebellion		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			10	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Rebellions and Regimental Histories--Saskatchewan Rebellion		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			10	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000420		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Biography		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			10	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000420		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Biographies		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			10	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003813		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Red River Rebellion, 1869-70		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			10	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003813		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Rouge, Rébellion de la rivière, 1869-1870		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			10	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003910		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Riel Rebellion, 1885		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			10	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003910		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Riel, Rébellion de, 1885		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			10	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003919		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name/namePart	Riel, Louis, 1844-1885		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			10	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1885		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	2692		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	4240		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel2		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	1425		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	1423		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel-procite-id		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P001425		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+    
+        The 
+        life and times of Louis Riel
+    
+    
+        Davidson, William McCartney
+        1872-1942.
+        
+            author
+        
+        1872-1942. From Ontario to Calgary where he founded and published <i>The Albertan</i>, 1902-1926; M.L.A. for Calgary, 1917-1921; sold newpaper in 1926, but remained interested in journalism until his death (<i>Winnipeg Free Press</i>, March 24, 1942).
+    
+    text
+    
+        
+            Calgary
+        
+        The Albertan
+        1952
+    
+    
+        English
+    
+    
+        print
+        114 p., ports.; 23 cm.
+    
+    Originally published in serial form in  <i>The Albertan </i>, November, 1951. 
+    
+        Rebellions and Regimental Histories--Red River Rebellion
+    
+    
+        Rebellions and Regimental Histories--Saskatchewan Rebellion
+    
+    
+        Biography
+    
+    
+        Biographies
+    
+    
+        Red River Rebellion, 1869-70
+    
+    
+        Rouge, Rébellion de la rivière, 1869-1870
+    
+    
+        Riel Rebellion, 1885
+    
+    
+        Riel, Rébellion de, 1885
+    
+    
+        
+            Riel, Louis, 1844-1885
+        
+    
+    
+        1885
+    
+    2692
+    4240
+    1425
+    1423
+    
+        Peel's Prairie Portal
+        P001425
+        2003-01-01T12:00:00-0700
+    
+		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

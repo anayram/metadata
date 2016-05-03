@@ -1,0 +1,115 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.2
+	/mods/@version	3.2		1	3.2
+	/mods/titleInfo			1	3.2
+	/mods/titleInfo/title	Information to clergymen regarding the Solemnization of Marriage and the Vital Statistics acts		1	3.2
+	/mods/name			1	3.2
+	/mods/name/@type	corporate		1	3.2
+	/mods/name/@href	MA003419		1	3.2
+	/mods/name/namePart	Alberta.		2	3.2
+	/mods/name/namePart	Bureau of Vital Statistics.		2	3.2
+	/mods/typeOfResource	text		1	3.2
+	/mods/originInfo			1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	abc		1	3.2
+	/mods/originInfo/place/placeTerm/@authority	marccountry		1	3.2
+	/mods/originInfo/place/placeTerm/@type	code		1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	Edmonton		1	3.2
+	/mods/originInfo/place/placeTerm/@type	text		1	3.2
+	/mods/originInfo/publisher	Bureau of Vital Statistics, Department of Public Health		1	3.2
+	/mods/originInfo/dateIssued	[194-?]		5	3.2
+	/mods/originInfo/dateIssued	1940		5	3.2
+	/mods/originInfo/dateIssued/@encoding	marc		1	3.2
+	/mods/originInfo/dateIssued/@point	start		1	3.2
+	/mods/originInfo/dateIssued	1949		5	3.2
+	/mods/originInfo/dateIssued/@encoding	marc		1	3.2
+	/mods/originInfo/dateIssued/@point	end		1	3.2
+	/mods/originInfo/dateIssued	1940		5	3.2
+	/mods/originInfo/dateIssued/@encoding	marc		1	3.2
+	/mods/originInfo/dateIssued/@point	start		1	3.2
+	/mods/originInfo/dateIssued/@qualifier	questionable		1	3.2
+	/mods/originInfo/dateIssued	1949		5	3.2
+	/mods/originInfo/dateIssued/@encoding	marc		1	3.2
+	/mods/originInfo/dateIssued/@point	end		1	3.2
+	/mods/originInfo/dateIssued/@qualifier	questionable		1	3.2
+	/mods/originInfo/issuance	monographic		1	3.2
+	/mods/language			1	3.2
+	/mods/language/languageTerm	eng		1	3.2
+	/mods/language/languageTerm/@authority	iso639-2b		1	3.2
+	/mods/language/languageTerm/@type	code		1	3.2
+	/mods/physicalDescription			1	3.2
+	/mods/physicalDescription/form	print		1	3.2
+	/mods/physicalDescription/form/@authority	marcform		1	3.2
+	/mods/physicalDescription/extent	8 p. ; 15 cm.		1	3.2
+	/mods/note	http://chelsea.library.ualberta.ca:8081/peel_master/select/?q=%28authorAuthority%3A%22Alberta%22%29+OR+%28subjectAuthority%3A%22Marriage+law--Alberta%22%29&fl=id+authorAuthority+authorDates+subjectAuthority+authorityAuthority&rows=100		2	3.2
+	/mods/note/@type	solr		1	3.2
+	/mods/note	DOA: 1940 Spatial: Alberta		2	3.2
+	/mods/note/@type	local		1	3.2
+	/mods/subject			1	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/topic	Marriage law		1	3.2
+	/mods/subject/geographic	Alberta		1	3.2
+	/mods/identifier	3979523		3	3.2
+	/mods/identifier/@type	local:neos		1	3.2
+	/mods/identifier	N008806		3	3.2
+	/mods/identifier/@type	local:peel_new		1	3.2
+	/mods/identifier	9435		3	3.2
+	/mods/identifier/@type	local:peel3		1	3.2
+	/mods/recordInfo			1	3.2
+	/mods/recordInfo/recordContentSource	fsalehi		2	3.2
+	/mods/recordInfo/recordContentSource	RC		2	3.2
+	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.2
+	/mods/recordInfo/recordCreationDate	2007-09-07T12:00:00-0700		1	3.2
+	/mods/recordInfo/recordIdentifier	P009435		1	3.2
+	/mods/recordInfo/recordChangeDate	2010-07-01T10:13:07-0600		1	3.2
+	/@mods	
+
+Information to clergymen regarding the Solemnization of Marriage and the Vital Statistics acts
+
+
+Alberta.
+Bureau of Vital Statistics.
+
+text
+
+
+abc
+
+
+Edmonton
+
+Bureau of Vital Statistics, Department of Public Health
+[194-?]
+1940
+1949
+1940
+1949
+monographic
+
+
+eng
+
+
+print
+8 p. ; 15 cm.
+
+http://chelsea.library.ualberta.ca:8081/peel_master/select/?q=%28authorAuthority%3A%22Alberta%22%29+OR+%28subjectAuthority%3A%22Marriage+law--Alberta%22%29&fl=id+authorAuthority+authorDates+subjectAuthority+authorityAuthority&rows=100
+DOA: 1940 Spatial: Alberta
+
+				Marriage law
+			
+				Alberta
+			
+3979523
+N008806
+9435
+
+fsalehi
+RC
+2007-09-07T12:00:00-0700
+P009435
+2010-07-01T10:13:07-0600
+
+		1	3.2
+	

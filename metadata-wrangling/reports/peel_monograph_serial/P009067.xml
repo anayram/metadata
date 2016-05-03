@@ -1,0 +1,163 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	Frontiers of medicine		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/subTitle	A history of medical education and research at the University of Alberta		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Corbet, Elise A		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	abc		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@authority	marccountry		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	code		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	Edmonton		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	University of Alberta Press		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1990		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/issuance	monographic		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	eng		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@authority	iso639-2b		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	code		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	English		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	xx, 250 p., [64] p. of plates : ill. ; 24 cm.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	by Elise A. Corbet.		6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	statement of responsibility		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	Includes bibliographical references.		6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	uahistory		6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	oaiset		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	DOA: 1913 Spatial: Edmonton (Alta.)		6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	local		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	main		6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	local:frbr		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	Foreword by Douglas R. Wilson. Also published, electronic resource, Boulder, Colo.: NetLibrary, 2005 and, electronic resource, Saint-Lazare, Que.: Gibson Library Connections, 2008.		6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	public		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographicCode	n-cn-ab		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographicCode/@authority	marcgac		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name/@type	corporate		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name/namePart	University of Alberta		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name/namePart	Faculty of Medicine		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	History		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Medical education		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Alberta		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	History		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1990		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/classification	610/.7/11712334		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/classification/@authority	ddc		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/classification/@edition	20		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem			2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@ID	t2		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@displayLabel	Electronic resource (NetLibrary)		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@type	otherFormat		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@href	N020422		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem			2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@ID	t3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@displayLabel	Electronic resource (Gibson)		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@type	otherFormat		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@href	N020423		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	0888642318		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	isbn		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	9067		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	8262		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel_new		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	1361817		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:neos		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	RC		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P009067		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordChangeDate	2010-04-04T08:04:13-0600		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+
+Frontiers of medicine
+A history of medical education and research at the University of Alberta
+
+
+Corbet, Elise A
+
+text
+
+
+abc
+
+
+Edmonton
+
+University of Alberta Press
+1990
+monographic
+
+
+eng
+English
+
+
+print
+xx, 250 p., [64] p. of plates : ill. ; 24 cm.
+
+by Elise A. Corbet.
+Includes bibliographical references.
+uahistory
+DOA: 1913 Spatial: Edmonton (Alta.)
+main
+Foreword by Douglas R. Wilson. Also published, electronic resource, Boulder, Colo.: NetLibrary, 2005 and, electronic resource, Saint-Lazare, Que.: Gibson Library Connections, 2008.
+
+				n-cn-ab
+			
+
+				
+University of Alberta
+Faculty of Medicine
+
+			
+				History
+			
+
+				Medical education
+			
+				Alberta
+			
+				History
+			
+
+				1990
+			
+610/.7/11712334
+
+
+0888642318
+9067
+8262
+1361817
+
+Peel's Prairie Portal
+RC
+2003-01-01T12:00:00-0700
+P009067
+2010-04-04T08:04:13-0600
+
+		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

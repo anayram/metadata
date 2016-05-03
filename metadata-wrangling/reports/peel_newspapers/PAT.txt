@@ -1,0 +1,92 @@
+Path	Content	URL	Form or Genre	Occurrence	MODS version
+
+/mods/titleInfo		http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	3	3.2
+/mods/titleInfo/title	Prince Albert times	http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	1	3.2
+/mods/titleInfo/nonSort	The 	http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	1	3.2
+
+/mods/titleInfo		http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	3	3.2
+/mods/titleInfo/@type	alternative	http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	1	3.2
+/mods/titleInfo/title	The Saskatchewan times	http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	1	3.2
+
+/mods/titleInfo		http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	3	3.2
+/mods/titleInfo/@type	alternative	http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	1	3.2
+/mods/titleInfo/title	The Prince Albert times and Saskatchewan review	http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	1	3.2
+
+/mods/typeOfResource	text	http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	1	3.2
+
+/mods/genre	newspaper	http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	1	3.2
+/mods/genre/@authority	marcgt	http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	1	3.2
+
+/mods/originInfo		http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	1	3.2
+/mods/originInfo/place		http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	2	3.2
+/mods/originInfo/place/placeTerm	snc	http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@authority	marccountry	http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@type	code	http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	1	3.2
+/mods/originInfo/place		http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	2	3.2
+/mods/originInfo/place/placeTerm	Prince Albert, Sask	http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@type	text	http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	1	3.2
+/mods/originInfo/publisher	[J.D. Maveety]	http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	1	3.2
+/mods/originInfo/dateIssued	1882	http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	2	3.2
+/mods/originInfo/dateIssued/@encoding	marc	http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	1	3.2
+/mods/originInfo/dateIssued/@point	start	http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	1	3.2
+/mods/originInfo/dateIssued	1912	http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	2	3.2
+/mods/originInfo/dateIssued/@encoding	marc	http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	1	3.2
+/mods/originInfo/dateIssued/@point	end	http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	1	3.2
+/mods/originInfo/issuance	continuing	http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	1	3.2
+
+/mods/language		http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	1	3.2
+/mods/language/languageTerm	eng	http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	1	3.2
+/mods/language/languageTerm/@authority	iso639-2b	http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	1	3.2
+/mods/language/languageTerm/@type	code	http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	1	3.2
+
+/mods/physicalDescription		http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	1	3.2
+/mods/physicalDescription/form	microfilm	http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	1	3.2
+/mods/physicalDescription/form/@authority	marcform	http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	1	3.2
+/mods/physicalDescription/extent	v. : ill.	http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	1	3.2
+
+/mods/note	Title varies. Published 1882 to 30 June 1892 as <i>The Prince Albert times and Saskatchewan review</i>. Published 13 July 1892 to 1904 as <i>The Saskatchewan times</i>.	http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	2	3.2
+/mods/note/@type	public	http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	1	3.2
+
+/mods/note	newspapers	http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	2	3.2
+/mods/note/@type	local:oaiset	http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	1	3.2
+
+/mods/relatedItem		http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	1	3.2
+/mods/relatedItem/@type	preceding	http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	1	3.2
+/mods/relatedItem/titleInfo		http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	1	3.2
+/mods/relatedItem/titleInfo/title	Saskatchewan	http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	1	3.2
+
+    /mods/subject		http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic		http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/country	Canada	http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/province	Saskatchewan	http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/city	Prince Albert	http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	1	3.2
+
+/mods/identifier	000014944402	http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	2	3.2
+/mods/identifier/@type	local:amicus	http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	1	3.2
+
+/mods/identifier	PAT	http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	2	3.2
+/mods/identifier/@type	local:newspaper	http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	1	3.2
+
+/mods/location		http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	2	3.2
+/mods/location/physicalLocation	CaOKQ	http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	1	3.2
+
+    /mods/location		http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	2	3.2
+/mods/location/physicalLocation	CaAEU	http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	1	3.2
+/mods/location/physicalLocation/@authority	marcorg	http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	1	3.2
+/mods/location/holdingSimple		http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation		http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/form	electronic	http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/form/@authority	marcform	http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/electronicLocator	http://peel.library.ualberta.ca/newspapers/PAT/	http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/enumerationAndChronology	1905-1909	http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/enumerationAndChronology/@unitType	1	http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	1	3.2
+
+/mods/recordInfo		http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	1	3.2
+/mods/recordInfo/recordContentSource	CaOTU	http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	2	3.2
+/mods/recordInfo/recordContentSource/@authority	marcorg	http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	1	3.2
+/mods/recordInfo/recordContentSource	sfarnel	http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	2	3.2
+/mods/recordInfo/recordContentSource/@authority	local:person	http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	1	3.2
+/mods/recordInfo/recordCreationDate	2010-08-31T10:28:44-0600	http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	1	3.2
+/mods/recordInfo/recordIdentifier	QPAT	http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	1	3.2
+/mods/recordInfo/recordChangeDate	2010-08-31T10:28:53-0600	http://peel.library.ualberta.ca/newspapers/PAT.html	newspaper	1	3.2
+

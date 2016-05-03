@@ -1,0 +1,143 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		sdahl	PC000120	postcards	1	3.2
+	/mods/@version	3.2	sdahl	PC000120	postcards	1	3.2
+	/mods/titleInfo		sdahl	PC000120	postcards	1	3.2
+	/mods/titleInfo/@lang	english	sdahl	PC000120	postcards	1	3.2
+	/mods/titleInfo/title	Cattle judging, annual exhibition, Brandon, Man.	sdahl	PC000120	postcards	1	3.2
+	/mods/name		sdahl	PC000120	postcards	1	3.2
+	/mods/name/@type	personal	sdahl	PC000120	postcards	1	3.2
+	/mods/name/namePart	Farmer	sdahl	PC000120	postcards	2	3.2
+	/mods/name/namePart/@type	family	sdahl	PC000120	postcards	1	3.2
+	/mods/name/namePart	S. J.	sdahl	PC000120	postcards	2	3.2
+	/mods/name/namePart/@type	given	sdahl	PC000120	postcards	1	3.2
+	/mods/name/role		sdahl	PC000120	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	sdahl	PC000120	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	sdahl	PC000120	postcards	1	3.2
+	/mods/typeOfResource	still image	sdahl	PC000120	postcards	1	3.2
+	/mods/genre	postcards	sdahl	PC000120	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	sdahl	PC000120	postcards	1	3.2
+	/mods/originInfo		sdahl	PC000120	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	sdahl	PC000120	postcards	1	3.2
+	/mods/originInfo/publisher	Published by S. J. Farmer, Brandon, Man.	sdahl	PC000120	postcards	1	3.2
+	/mods/originInfo/dateIssued	ca. 1930	sdahl	PC000120	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	inferred	sdahl	PC000120	postcards	1	3.2
+	/mods/originInfo/place		sdahl	PC000120	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	Brandon	sdahl	PC000120	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	sdahl	PC000120	postcards	1	3.2
+	/mods/language		sdahl	PC000120	postcards	1	3.2
+	/mods/language/languageTerm	English	sdahl	PC000120	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	sdahl	PC000120	postcards	1	3.2
+	/mods/physicalDescription		sdahl	PC000120	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : b&w ; 9 x 14 cm.	sdahl	PC000120	postcards	1	3.2
+	/mods/note	40	sdahl	PC000120	postcards	4	3.2
+	/mods/note/@type	price	sdahl	PC000120	postcards	1	3.2
+	/mods/note	false	sdahl	PC000120	postcards	4	3.2
+	/mods/note/@type	notable	sdahl	PC000120	postcards	1	3.2
+	/mods/note	false	sdahl	PC000120	postcards	4	3.2
+	/mods/note/@type	imgprobs	sdahl	PC000120	postcards	1	3.2
+	/mods/note	A group of cattle breeders showing their cows and bulls at an annual exhibition.	sdahl	PC000120	postcards	4	3.2
+	/mods/note/@type	public_description	sdahl	PC000120	postcards	1	3.2
+	/mods/subject		sdahl	PC000120	postcards	6	3.2
+	/mods/subject/geographic	Brandon, MB	sdahl	PC000120	postcards	1	3.2
+	/mods/subject		sdahl	PC000120	postcards	6	3.2
+	/mods/subject/hierarchicalGeographic		sdahl	PC000120	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	sdahl	PC000120	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Manitoba	sdahl	PC000120	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Brandon	sdahl	PC000120	postcards	1	3.2
+	/mods/subject		sdahl	PC000120	postcards	6	3.2
+	/mods/subject/genre	Postcards	sdahl	PC000120	postcards	1	3.2
+	/mods/subject		sdahl	PC000120	postcards	6	3.2
+	/mods/subject/topic	Cattle	sdahl	PC000120	postcards	1	3.2
+	/mods/subject		sdahl	PC000120	postcards	6	3.2
+	/mods/subject/topic	Cattle breeders	sdahl	PC000120	postcards	1	3.2
+	/mods/subject		sdahl	PC000120	postcards	6	3.2
+	/mods/subject/topic	Agricultural exhibits	sdahl	PC000120	postcards	1	3.2
+	/mods/identifier	PC000120	sdahl	PC000120	postcards	1	3.2
+	/mods/identifier/@type	local	sdahl	PC000120	postcards	1	3.2
+	/mods/location		sdahl	PC000120	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 1	sdahl	PC000120	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC000120.html	sdahl	PC000120	postcards	3	3.2
+	/mods/location/url/@access	object in context	sdahl	PC000120	postcards	1	3.2
+	/mods/location/url/@usage	primary display	sdahl	PC000120	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/000/web/PC000120.jpg	sdahl	PC000120	postcards	3	3.2
+	/mods/location/url/@access	raw object	sdahl	PC000120	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='500' 	sdahl	PC000120	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/000/thumbs/PC000120.jpg	sdahl	PC000120	postcards	3	3.2
+	/mods/location/url/@access	preview	sdahl	PC000120	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='125'	sdahl	PC000120	postcards	1	3.2
+	/mods/recordInfo		sdahl	PC000120	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-20T16:05:12-0600	sdahl	PC000120	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC000120	sdahl	PC000120	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	sdahl	sdahl	PC000120	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2007-10-22T17:18:49-0600	sdahl	PC000120	postcards	1	3.2
+	/@mods	
+
+Cattle judging, annual exhibition, Brandon, Man.
+
+
+Farmer
+S. J.
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+Published by S. J. Farmer, Brandon, Man.
+ca. 1930
+
+
+Brandon
+
+
+
+English
+
+
+1 postcard : b&w ; 9 x 14 cm.
+
+40
+false
+false
+A group of cattle breeders showing their cows and bulls at an annual exhibition.
+
+Brandon, MB
+
+
+
+Canada
+Manitoba
+Brandon
+
+
+
+Postcards
+
+
+Cattle
+
+
+Cattle breeders
+
+
+Agricultural exhibits
+
+PC000120
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 1
+http://peel.library.ualberta.ca/postcards/PC000120.html
+http://peel.library.ualberta.ca/pcimages/PC/000/web/PC000120.jpg
+http://peel.library.ualberta.ca/pcimages/PC/000/thumbs/PC000120.jpg
+
+
+
+
+2007-06-20T16:05:12-0600
+PC000120
+sdahl
+2007-10-22T17:18:49-0600
+
+	sdahl	PC000120	postcards	1	3.2
+	

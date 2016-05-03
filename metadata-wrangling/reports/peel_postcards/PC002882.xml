@@ -1,0 +1,159 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		fsalehi	PC002882	postcards	1	3.2
+	/mods/@version	3.2	fsalehi	PC002882	postcards	1	3.2
+	/mods/titleInfo		fsalehi	PC002882	postcards	1	3.2
+	/mods/titleInfo/@lang	english	fsalehi	PC002882	postcards	1	3.2
+	/mods/titleInfo/title	2nd  Ave. Saskatoon 1911	fsalehi	PC002882	postcards	1	3.2
+	/mods/name		fsalehi	PC002882	postcards	1	3.2
+	/mods/name/@type	personal	fsalehi	PC002882	postcards	1	3.2
+	/mods/name/namePart	Dill	fsalehi	PC002882	postcards	2	3.2
+	/mods/name/namePart/@type	family	fsalehi	PC002882	postcards	1	3.2
+	/mods/name/namePart	Ralph	fsalehi	PC002882	postcards	2	3.2
+	/mods/name/namePart/@type	given	fsalehi	PC002882	postcards	1	3.2
+	/mods/name/role		fsalehi	PC002882	postcards	1	3.2
+	/mods/name/role/roleTerm	Photographer	fsalehi	PC002882	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC002882	postcards	1	3.2
+	/mods/typeOfResource	still image	fsalehi	PC002882	postcards	1	3.2
+	/mods/genre	postcards	fsalehi	PC002882	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	fsalehi	PC002882	postcards	1	3.2
+	/mods/originInfo		fsalehi	PC002882	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	fsalehi	PC002882	postcards	1	3.2
+	/mods/originInfo/publisher	Dill	fsalehi	PC002882	postcards	1	3.2
+	/mods/originInfo/dateIssued	1911	fsalehi	PC002882	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	approximate	fsalehi	PC002882	postcards	1	3.2
+	/mods/originInfo/place		fsalehi	PC002882	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	[Saskatoon]	fsalehi	PC002882	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC002882	postcards	1	3.2
+	/mods/language		fsalehi	PC002882	postcards	1	3.2
+	/mods/language/languageTerm	English	fsalehi	PC002882	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	fsalehi	PC002882	postcards	1	3.2
+	/mods/physicalDescription		fsalehi	PC002882	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : sepia ; 9 x 14 cm.	fsalehi	PC002882	postcards	1	3.2
+	/mods/note	125	fsalehi	PC002882	postcards	10	3.2
+	/mods/note/@type	price	fsalehi	PC002882	postcards	1	3.2
+	/mods/note	false	fsalehi	PC002882	postcards	10	3.2
+	/mods/note/@type	notable	fsalehi	PC002882	postcards	1	3.2
+	/mods/note	false	fsalehi	PC002882	postcards	10	3.2
+	/mods/note/@type	imgprobs	fsalehi	PC002882	postcards	1	3.2
+	/mods/note	Thomas Stevenson Esq.	fsalehi	PC002882	postcards	10	3.2
+	/mods/note/@type	public_to	fsalehi	PC002882	postcards	1	3.2
+	/mods/note	Tom Gerrard	fsalehi	PC002882	postcards	10	3.2
+	/mods/note/@type	public_from	fsalehi	PC002882	postcards	1	3.2
+	/mods/note	[---] White and Co Ltd., 32 York St., Hamilton, Ont	fsalehi	PC002882	postcards	10	3.2
+	/mods/note/@type	public_address	fsalehi	PC002882	postcards	1	3.2
+	/mods/note	[Return address] Box 1511 Saskatoon, Sask.	fsalehi	PC002882	postcards	10	3.2
+	/mods/note/@type	public_address	fsalehi	PC002882	postcards	1	3.2
+	/mods/note	Have not forgotten that I owe you a letter. Am now in the real Estate business and having a pretty busy time just now. Hope you are all well down there rem'ber me to all of Charles Sr & with kind regards. Yours Sincerely, Tom Gerrard.	fsalehi	PC002882	postcards	10	3.2
+	/mods/note/@type	public_message	fsalehi	PC002882	postcards	1	3.2
+	/mods/note	Saskatoon, Sask., 1911-07-10	fsalehi	PC002882	postcards	10	3.2
+	/mods/note/@type	public_postmark_date	fsalehi	PC002882	postcards	1	3.2
+	/mods/note	Photograph shows 2nd Avenue south, from the 21st Street intersection looking south. Businesses and buildings visible in the image include the Drinkle Building, Canadian Bank of Commerce, J.F. Cairns, and Northern Crown Bank.	fsalehi	PC002882	postcards	10	3.2
+	/mods/note/@type	public_description	fsalehi	PC002882	postcards	1	3.2
+	/mods/subject		fsalehi	PC002882	postcards	6	3.2
+	/mods/subject/geographic	Saskatoon, SK	fsalehi	PC002882	postcards	1	3.2
+	/mods/subject		fsalehi	PC002882	postcards	6	3.2
+	/mods/subject/hierarchicalGeographic		fsalehi	PC002882	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	fsalehi	PC002882	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Saskatchewan	fsalehi	PC002882	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Saskatoon	fsalehi	PC002882	postcards	1	3.2
+	/mods/subject		fsalehi	PC002882	postcards	6	3.2
+	/mods/subject/genre	Postcards	fsalehi	PC002882	postcards	1	3.2
+	/mods/subject		fsalehi	PC002882	postcards	6	3.2
+	/mods/subject/topic	Commercial streets	fsalehi	PC002882	postcards	1	3.2
+	/mods/subject		fsalehi	PC002882	postcards	6	3.2
+	/mods/subject/topic	Storefronts	fsalehi	PC002882	postcards	1	3.2
+	/mods/subject		fsalehi	PC002882	postcards	6	3.2
+	/mods/subject/topic	City & town life	fsalehi	PC002882	postcards	1	3.2
+	/mods/identifier	PC002882	fsalehi	PC002882	postcards	1	3.2
+	/mods/identifier/@type	local	fsalehi	PC002882	postcards	1	3.2
+	/mods/location		fsalehi	PC002882	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Sask. Box 1	fsalehi	PC002882	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC002882.html	fsalehi	PC002882	postcards	3	3.2
+	/mods/location/url/@access	object in context	fsalehi	PC002882	postcards	1	3.2
+	/mods/location/url/@usage	primary display	fsalehi	PC002882	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/002/web/PC002882.jpg	fsalehi	PC002882	postcards	3	3.2
+	/mods/location/url/@access	raw object	fsalehi	PC002882	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='491' 	fsalehi	PC002882	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/002/thumbs/PC002882.jpg	fsalehi	PC002882	postcards	3	3.2
+	/mods/location/url/@access	preview	fsalehi	PC002882	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='123'	fsalehi	PC002882	postcards	1	3.2
+	/mods/recordInfo		fsalehi	PC002882	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	fsalehi	PC002882	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC002882	fsalehi	PC002882	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	fsalehi	fsalehi	PC002882	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2009-07-28T12:20:11-0600	fsalehi	PC002882	postcards	1	3.2
+	/@mods	
+
+2nd  Ave. Saskatoon 1911
+
+
+Dill
+Ralph
+
+Photographer
+
+
+still image
+postcards
+
+monographic
+Dill
+1911
+
+
+[Saskatoon]
+
+
+
+English
+
+
+1 postcard : sepia ; 9 x 14 cm.
+
+125
+false
+false
+Thomas Stevenson Esq.
+Tom Gerrard
+[---] White and Co Ltd., 32 York St., Hamilton, Ont
+[Return address] Box 1511 Saskatoon, Sask.
+Have not forgotten that I owe you a letter. Am now in the real Estate business and having a pretty busy time just now. Hope you are all well down there rem'ber me to all of Charles Sr & with kind regards. Yours Sincerely, Tom Gerrard.
+Saskatoon, Sask., 1911-07-10
+Photograph shows 2nd Avenue south, from the 21st Street intersection looking south. Businesses and buildings visible in the image include the Drinkle Building, Canadian Bank of Commerce, J.F. Cairns, and Northern Crown Bank.
+
+Saskatoon, SK
+
+
+
+Canada
+Saskatchewan
+Saskatoon
+
+
+
+Postcards
+
+
+Commercial streets
+
+
+Storefronts
+
+
+City & town life
+
+PC002882
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Sask. Box 1
+http://peel.library.ualberta.ca/postcards/PC002882.html
+http://peel.library.ualberta.ca/pcimages/PC/002/web/PC002882.jpg
+http://peel.library.ualberta.ca/pcimages/PC/002/thumbs/PC002882.jpg
+
+
+2007-06-25T16:49:56-0600
+PC002882
+fsalehi
+2009-07-28T12:20:11-0600
+
+	fsalehi	PC002882	postcards	1	3.2
+	

@@ -1,0 +1,176 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	history of the Department of Pediatrics at the University of Alberta, 1919-1991		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/nonSort	A 		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Taylor, William C.		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	1924-.		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart/@type	date		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.2		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Armstrong, H. Brock		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Matthews, U. F. (Ursula F.)		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	editor		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.4		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	corporate		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	University of Alberta.		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Dept. of Pediatrics		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	abc		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@authority	marccountry		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	code		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	Edmonton		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	Department of Pediatrics, University of Alberta		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	c1993		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/issuance	monographic		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	eng		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@authority	iso639-2b		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	code		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	English		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	viii, 127 p. : ill., ports. ; 23 cm.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	collated by William C. Taylor and H. Brock Armstrong; edited by Ursula F. Matthews.		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	statement of responsibility		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	uahistory		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	oaiset		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	DOA: 1919 Spatial: Edmonton (Alta.)		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	local		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographicCode	n-cn-ab		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographicCode/@authority	marcgac		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name/@type	corporate		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name/namePart	University of Alberta		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name/namePart	Dept. of Pediatrics		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	History		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Pediatrics		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Study and teaching		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Alberta		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Edmonton		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	History		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1993		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	0888648774		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	isbn		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	9080		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	8275		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel_new		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	2152459		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:neos		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	RC		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P009080		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordChangeDate	2010-03-21T18:18:38-0600		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+
+history of the Department of Pediatrics at the University of Alberta, 1919-1991
+A 
+
+
+Taylor, William C.
+1924-.
+
+
+Armstrong, H. Brock
+
+
+Matthews, U. F. (Ursula F.)
+
+editor
+
+
+
+University of Alberta.
+Dept. of Pediatrics
+
+text
+
+
+abc
+
+
+Edmonton
+
+Department of Pediatrics, University of Alberta
+c1993
+monographic
+
+
+eng
+English
+
+
+print
+viii, 127 p. : ill., ports. ; 23 cm.
+
+collated by William C. Taylor and H. Brock Armstrong; edited by Ursula F. Matthews.
+uahistory
+DOA: 1919 Spatial: Edmonton (Alta.)
+
+				n-cn-ab
+			
+
+				
+University of Alberta
+Dept. of Pediatrics
+
+			
+				History
+			
+
+				Pediatrics
+			
+				Study and teaching
+			
+				Alberta
+			
+				Edmonton
+			
+				History
+			
+
+				1993
+			
+0888648774
+9080
+8275
+2152459
+
+Peel's Prairie Portal
+RC
+2003-01-01T12:00:00-0700
+P009080
+2010-03-21T18:18:38-0600
+
+		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

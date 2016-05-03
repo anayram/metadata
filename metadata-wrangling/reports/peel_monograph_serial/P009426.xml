@@ -1,0 +1,169 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods		novel	1	3.2
+	/mods/@version	3.2	novel	1	3.2
+	/mods/titleInfo		novel	1	3.2
+	/mods/titleInfo/title	doctor	novel	1	3.2
+	/mods/titleInfo/subTitle	A tale of the Rockies	novel	1	3.2
+	/mods/titleInfo/nonSort	The 	novel	1	3.2
+	/mods/name		novel	1	3.2
+	/mods/name/@type	personal	novel	1	3.2
+	/mods/name/namePart	Connor, Ralph.	novel	2	3.2
+	/mods/name/namePart	1860-1937	novel	2	3.2
+	/mods/name/namePart/@type	date	novel	1	3.2
+	/mods/typeOfResource	text	novel	1	3.2
+	/mods/genre	novel	novel	1	3.2
+	/mods/genre/@authority	marcgt	novel	1	3.2
+	/mods/originInfo		novel	1	3.2
+	/mods/originInfo/place		novel	2	3.2
+	/mods/originInfo/place/placeTerm	onc	novel	1	3.2
+	/mods/originInfo/place/placeTerm/@authority	marccountry	novel	1	3.2
+	/mods/originInfo/place/placeTerm/@type	code	novel	1	3.2
+	/mods/originInfo/place		novel	2	3.2
+	/mods/originInfo/place/placeTerm	Toronto	novel	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	novel	1	3.2
+	/mods/originInfo/publisher	Westminster	novel	1	3.2
+	/mods/originInfo/dateIssued	c1906	novel	2	3.2
+	/mods/originInfo/dateIssued	1906	novel	2	3.2
+	/mods/originInfo/dateIssued/@encoding	marc	novel	1	3.2
+	/mods/originInfo/issuance	monographic	novel	1	3.2
+	/mods/language		novel	1	3.2
+	/mods/language/languageTerm	eng	novel	1	3.2
+	/mods/language/languageTerm/@authority	iso639-2b	novel	1	3.2
+	/mods/language/languageTerm/@type	code	novel	1	3.2
+	/mods/physicalDescription		novel	1	3.2
+	/mods/physicalDescription/form	print	novel	1	3.2
+	/mods/physicalDescription/form/@authority	marcform	novel	1	3.2
+	/mods/physicalDescription/extent	399 p., [1] leaf of plates : ill. ; 20 cm.	novel	1	3.2
+	/mods/note	by Ralph Connor.	novel	6	3.2
+	/mods/note/@type	statement of responsibility	novel	1	3.2
+	/mods/note	Novel.	novel	6	3.2
+	/mods/note	Published in England under title: The doctor of Crow's Nest. London : Hodder, 1906. Cf. Watters.	novel	6	3.2
+	/mods/note	http://chelsea.library.ualberta.ca:8081/peel_master/select/?q=%28authorAuthority%3A%22Connor%2C+Ralph%22%29+OR+%28subjectAuthority%3A%22Canadian+fiction+%28English%29%2C+CIHM%22%29+OR+%28subjectAuthority%3A%22Roman+canadien-anglais%2C+ICMH%22%29&fl=id+authorAuthority+authorDates+subjectAuthority+authorityAuthority&rows=100	novel	6	3.2
+	/mods/note/@type	solr	novel	1	3.2
+	/mods/note	main	novel	6	3.2
+	/mods/note/@type	local:frbr	novel	1	3.2
+	/mods/note	Novel. Two estranged brothers – one a missionary and the other a physician – meet and reconcile while working in the Canadian Rockies. Also published, New York: F.H. Revell, c1906; New York, Grosset & Dunlap, [ca. 1911]; and, electronic resource, Toronto: C.N.I.B., 2001. Published in England under the title <i>The doctor of Crows Nest</i>, London: Hodder and Stoughton, 1906.	novel	6	3.2
+	/mods/note/@type	public	novel	1	3.2
+	/mods/subject		novel	2	3.2
+	/mods/subject/topic	Canadian fiction (English), CIHM	novel	1	3.2
+	/mods/subject		novel	2	3.2
+	/mods/subject/topic	Roman canadien-anglais, ICMH	novel	1	3.2
+	/mods/classification	C813/.52	novel	1	3.2
+	/mods/classification/@authority	ddc	novel	1	3.2
+	/mods/classification/@edition	20	novel	1	3.2
+	/mods/relatedItem		novel	5	3.2
+	/mods/relatedItem/@type	otherFormat	novel	1	3.2
+	/mods/relatedItem/titleInfo		novel	1	3.2
+	/mods/relatedItem/titleInfo/title	CIHM/ICMH microfiche series ; no. 78862	novel	1	3.2
+	/mods/relatedItem/physicalDescription		novel	1	3.2
+	/mods/relatedItem/physicalDescription/form	microfiche	novel	1	3.2
+	/mods/relatedItem/physicalDescription/form/@authority	marcform	novel	1	3.2
+	/mods/relatedItem/physicalDescription/extent	5 microfiches (215 fr.) : ill.	novel	1	3.2
+	/mods/relatedItem/identifier	78862	novel	1	3.2
+	/mods/relatedItem/identifier/@type	cihm	novel	1	3.2
+	/mods/relatedItem		novel	5	3.2
+	/mods/relatedItem/@ID	t2	novel	1	3.2
+	/mods/relatedItem/@displayLabel	F.H. Revell ed.	novel	1	3.2
+	/mods/relatedItem/@type	otherVersion	novel	1	3.2
+	/mods/relatedItem/@href	N015559	novel	1	3.2
+	/mods/relatedItem		novel	5	3.2
+	/mods/relatedItem/@ID	t3	novel	1	3.2
+	/mods/relatedItem/@displayLabel	Grosset & Dunlap ed.	novel	1	3.2
+	/mods/relatedItem/@type	otherVersion	novel	1	3.2
+	/mods/relatedItem/@href	N015561	novel	1	3.2
+	/mods/relatedItem		novel	5	3.2
+	/mods/relatedItem/@ID	t4	novel	1	3.2
+	/mods/relatedItem/@displayLabel	Electronic resource	novel	1	3.2
+	/mods/relatedItem/@type	otherFormat	novel	1	3.2
+	/mods/relatedItem/@href	N015563	novel	1	3.2
+	/mods/relatedItem		novel	5	3.2
+	/mods/relatedItem/@ID	t5	novel	1	3.2
+	/mods/relatedItem/@displayLabel	The doctor of Crows Nest	novel	1	3.2
+	/mods/relatedItem/@type	otherVersion	novel	1	3.2
+	/mods/relatedItem/@href	N015564	novel	1	3.2
+	/mods/identifier	0665788622	novel	4	3.2
+	/mods/identifier/@type	isbn	novel	1	3.2
+	/mods/identifier	3235344	novel	4	3.2
+	/mods/identifier/@type	local:neos	novel	1	3.2
+	/mods/identifier	N008477	novel	4	3.2
+	/mods/identifier/@type	local:peel_new	novel	1	3.2
+	/mods/identifier	9426	novel	4	3.2
+	/mods/identifier/@type	local:peel3	novel	1	3.2
+	/mods/recordInfo		novel	1	3.2
+	/mods/recordInfo/recordContentSource	RC	novel	2	3.2
+	/mods/recordInfo/recordContentSource	RC	novel	2	3.2
+	/mods/recordInfo/recordContentSource/@authority	local:person	novel	1	3.2
+	/mods/recordInfo/recordCreationDate	1996-12-17T12:00:00-0700	novel	1	3.2
+	/mods/recordInfo/recordIdentifier	P009426	novel	1	3.2
+	/mods/recordInfo/recordChangeDate	2010-01-10T19:15:02-0700	novel	1	3.2
+	/@mods	
+
+doctor
+A tale of the Rockies
+The 
+
+
+Connor, Ralph.
+1860-1937
+
+text
+novel
+
+
+onc
+
+
+Toronto
+
+Westminster
+c1906
+1906
+monographic
+
+
+eng
+
+
+print
+399 p., [1] leaf of plates : ill. ; 20 cm.
+
+by Ralph Connor.
+Novel.
+Published in England under title: The doctor of Crow's Nest. London : Hodder, 1906. Cf. Watters.
+http://chelsea.library.ualberta.ca:8081/peel_master/select/?q=%28authorAuthority%3A%22Connor%2C+Ralph%22%29+OR+%28subjectAuthority%3A%22Canadian+fiction+%28English%29%2C+CIHM%22%29+OR+%28subjectAuthority%3A%22Roman+canadien-anglais%2C+ICMH%22%29&fl=id+authorAuthority+authorDates+subjectAuthority+authorityAuthority&rows=100
+main
+Novel. Two estranged brothers – one a missionary and the other a physician – meet and reconcile while working in the Canadian Rockies. Also published, New York: F.H. Revell, c1906; New York, Grosset & Dunlap, [ca. 1911]; and, electronic resource, Toronto: C.N.I.B., 2001. Published in England under the title <i>The doctor of Crows Nest</i>, London: Hodder and Stoughton, 1906.
+
+				Canadian fiction (English), CIHM
+			
+
+				Roman canadien-anglais, ICMH
+			
+C813/.52
+
+
+CIHM/ICMH microfiche series ; no. 78862
+
+
+microfiche
+5 microfiches (215 fr.) : ill.
+
+78862
+
+
+
+
+
+0665788622
+3235344
+N008477
+9426
+
+RC
+RC
+1996-12-17T12:00:00-0700
+P009426
+2010-01-10T19:15:02-0700
+
+	novel	1	3.2
+	

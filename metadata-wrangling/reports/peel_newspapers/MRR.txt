@@ -1,0 +1,99 @@
+Path	Content	URL	Form or Genre	Occurrence	MODS version
+
+/mods/titleInfo		http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	2	3.2
+/mods/titleInfo/title	mirror	http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	1	3.2
+/mods/titleInfo/nonSort	The 	http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	1	3.2
+
+/mods/titleInfo		http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	2	3.2
+/mods/titleInfo/@type	uniform	http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	1	3.2
+/mods/titleInfo/title	Mirror (Edmonton, Alta.)	http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	1	3.2
+
+/mods/typeOfResource	text	http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	1	3.2
+
+/mods/genre	newspaper	http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	1	3.2
+/mods/genre/@authority	marcgt	http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	1	3.2
+
+/mods/originInfo		http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	1	3.2
+/mods/originInfo/place		http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	2	3.2
+/mods/originInfo/place/placeTerm	abc	http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@authority	marccountry	http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@type	code	http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	1	3.2
+/mods/originInfo/place		http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	2	3.2
+/mods/originInfo/place/placeTerm	Edmonton	http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@type	text	http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	1	3.2
+/mods/originInfo/publisher	s.n.	http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	1	3.2
+/mods/originInfo/dateIssued	1912	http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	3	3.2
+/mods/originInfo/dateIssued	1912	http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	3	3.2
+/mods/originInfo/dateIssued/@encoding	iso8601	http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	1	3.2
+/mods/originInfo/dateIssued/@point	start	http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	1	3.2
+/mods/originInfo/dateIssued	1912	http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	3	3.2
+/mods/originInfo/dateIssued/@encoding	iso8601	http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	1	3.2
+/mods/originInfo/dateIssued/@point	end	http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	1	3.2
+/mods/originInfo/issuance	continuing	http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	1	3.2
+
+/mods/language		http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	1	3.2
+/mods/language/languageTerm	eng	http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	1	3.2
+/mods/language/languageTerm/@authority	iso639-2b	http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	1	3.2
+/mods/language/languageTerm/@type	code	http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	1	3.2
+
+/mods/physicalDescription		http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	1	3.2
+/mods/physicalDescription/form	print	http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	1	3.2
+/mods/physicalDescription/form/@authority	marcform	http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	1	3.2
+/mods/physicalDescription/extent	v. : ill.	http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	1	3.2
+
+/mods/note	Weekly. Published 23 August to 9 November 1912. Published 16 November 1912 to [11 January 1913?] under the title <i>Edmonton Saturday Mirror</i>.	http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	2	3.2
+/mods/note/@type	public	http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	1	3.2
+
+/mods/note	newspapers	http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	2	3.2
+/mods/note/@type	local:oaiset	http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	1	3.2
+
+/mods/subject		http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic		http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/country	Canada	http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/province	Alberta	http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/city	Edmonton	http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	1	3.2
+
+/mods/relatedItem		http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	3	3.2
+/mods/relatedItem/@type	otherFormat	http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	1	3.2
+/mods/relatedItem/titleInfo		http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	1	3.2
+/mods/relatedItem/titleInfo/title	Mirror (Edmonton, Alta.)	http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	1	3.2
+/mods/relatedItem/originInfo		http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	1	3.2
+/mods/relatedItem/originInfo/publisher	[S.l. : s.n.]	http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	1	3.2
+
+/mods/relatedItem		http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	3	3.2
+/mods/relatedItem/@type	otherFormat	http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	1	3.2
+/mods/relatedItem/titleInfo		http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	1	3.2
+/mods/relatedItem/titleInfo/title	Mirror (Edmonton, Alta.)	http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	1	3.2
+/mods/relatedItem/originInfo		http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	1	3.2
+/mods/relatedItem/originInfo/publisher	[S.l. : s.n.]	http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	1	3.2
+
+/mods/relatedItem		http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	3	3.2
+/mods/relatedItem/@displayLabel	Continued by	http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	1	3.2
+/mods/relatedItem/@type	succeeding	http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	1	3.2
+/mods/relatedItem/@href		http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	1	3.2
+/mods/relatedItem/titleInfo		http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	1	3.2
+/mods/relatedItem/titleInfo/title	Edmonton Saturday mirror	http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	1	3.2
+/mods/relatedItem/originInfo		http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	1	3.2
+/mods/relatedItem/originInfo/publisher	[Edmonton : Gertrude Balmer Watt, 1912-1913]	http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	1	3.2
+
+/mods/identifier	000008267355	http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	3	3.2
+/mods/identifier/@type	local:amicus	http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	1	3.2
+
+/mods/identifier	MRR	http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	3	3.2
+/mods/identifier/@type	local:newspaper	http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	1	3.2
+
+/mods/identifier	N020289	http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	3	3.2
+/mods/identifier/@type	local:peel_new	http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	1	3.2
+
+/mods/location		http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	1	3.2
+/mods/location/physicalLocation	CaACG	http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	1	3.2
+
+/mods/recordInfo		http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	1	3.2
+/mods/recordInfo/recordContentSource	CaOONLN	http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	2	3.2
+/mods/recordInfo/recordContentSource/@authority	marcorg	http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	1	3.2
+/mods/recordInfo/recordContentSource	sfarnel	http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	2	3.2
+/mods/recordInfo/recordContentSource/@authority	local:person	http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	1	3.2
+/mods/recordInfo/recordCreationDate	2010-02-11T08:57:35-0700	http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	1	3.2
+/mods/recordInfo/recordIdentifier	QMRR	http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	1	3.2
+/mods/recordInfo/recordChangeDate	2010-02-11T08:58:14-0700	http://peel.library.ualberta.ca/newspapers/MRR.html	newspaper	1	3.2
+

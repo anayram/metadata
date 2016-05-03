@@ -1,0 +1,154 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		fsalehi	PC005472	postcards	1	3.2
+	/mods/@version	3.2	fsalehi	PC005472	postcards	1	3.2
+	/mods/titleInfo		fsalehi	PC005472	postcards	1	3.2
+	/mods/titleInfo/@lang	english	fsalehi	PC005472	postcards	1	3.2
+	/mods/titleInfo/title	Eighth Avenue looking east, Calgary, Alta.	fsalehi	PC005472	postcards	1	3.2
+	/mods/name		fsalehi	PC005472	postcards	1	3.2
+	/mods/name/@type	personal	fsalehi	PC005472	postcards	1	3.2
+	/mods/name/namePart	Osborne	fsalehi	PC005472	postcards	2	3.2
+	/mods/name/namePart/@type	family	fsalehi	PC005472	postcards	1	3.2
+	/mods/name/namePart	F.E.	fsalehi	PC005472	postcards	2	3.2
+	/mods/name/namePart/@type	given	fsalehi	PC005472	postcards	1	3.2
+	/mods/name/role		fsalehi	PC005472	postcards	1	3.2
+	/mods/name/role/roleTerm	Stationer	fsalehi	PC005472	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC005472	postcards	1	3.2
+	/mods/typeOfResource	still image	fsalehi	PC005472	postcards	1	3.2
+	/mods/genre	postcards	fsalehi	PC005472	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	fsalehi	PC005472	postcards	1	3.2
+	/mods/originInfo		fsalehi	PC005472	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	fsalehi	PC005472	postcards	1	3.2
+	/mods/originInfo/publisher	F.E. Osborne, Stationer, Calgary, Alta.	fsalehi	PC005472	postcards	1	3.2
+	/mods/originInfo/dateIssued	before 1920	fsalehi	PC005472	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	inferred	fsalehi	PC005472	postcards	1	3.2
+	/mods/originInfo/place		fsalehi	PC005472	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	Calgary	fsalehi	PC005472	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC005472	postcards	1	3.2
+	/mods/language		fsalehi	PC005472	postcards	1	3.2
+	/mods/language/languageTerm	English	fsalehi	PC005472	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	fsalehi	PC005472	postcards	1	3.2
+	/mods/physicalDescription		fsalehi	PC005472	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : sepia ; 9 x 14 cm.	fsalehi	PC005472	postcards	1	3.2
+	/mods/note	40	fsalehi	PC005472	postcards	6	3.2
+	/mods/note/@type	price	fsalehi	PC005472	postcards	1	3.2
+	/mods/note	false	fsalehi	PC005472	postcards	6	3.2
+	/mods/note/@type	notable	fsalehi	PC005472	postcards	1	3.2
+	/mods/note	true	fsalehi	PC005472	postcards	6	3.2
+	/mods/note/@type	imgprobs	fsalehi	PC005472	postcards	1	3.2
+	/mods/note	[Printer's no.] No. 646	fsalehi	PC005472	postcards	6	3.2
+	/mods/note/@type	public_on_back	fsalehi	PC005472	postcards	1	3.2
+	/mods/note	Printed in Saxony	fsalehi	PC005472	postcards	6	3.2
+	/mods/note/@type	public_on_back	fsalehi	PC005472	postcards	1	3.2
+	/mods/note	View of two ladies crossing 8th Avenue in Calgary, Alberta while a street car approaches. Other pedestrians are visible as are the storefronts in the background.	fsalehi	PC005472	postcards	6	3.2
+	/mods/note/@type	public_description	fsalehi	PC005472	postcards	1	3.2
+	/mods/subject		fsalehi	PC005472	postcards	7	3.2
+	/mods/subject/geographic	Calgary, AB	fsalehi	PC005472	postcards	1	3.2
+	/mods/subject		fsalehi	PC005472	postcards	7	3.2
+	/mods/subject/hierarchicalGeographic		fsalehi	PC005472	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	fsalehi	PC005472	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	fsalehi	PC005472	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Calgary	fsalehi	PC005472	postcards	1	3.2
+	/mods/subject		fsalehi	PC005472	postcards	7	3.2
+	/mods/subject/genre	Postcards	fsalehi	PC005472	postcards	1	3.2
+	/mods/subject		fsalehi	PC005472	postcards	7	3.2
+	/mods/subject/topic	Pedestrians	fsalehi	PC005472	postcards	1	3.2
+	/mods/subject		fsalehi	PC005472	postcards	7	3.2
+	/mods/subject/topic	Street railroads	fsalehi	PC005472	postcards	1	3.2
+	/mods/subject		fsalehi	PC005472	postcards	7	3.2
+	/mods/subject/topic	Commercial streets	fsalehi	PC005472	postcards	1	3.2
+	/mods/subject		fsalehi	PC005472	postcards	7	3.2
+	/mods/subject/topic	Storefronts	fsalehi	PC005472	postcards	1	3.2
+	/mods/identifier	PC005472	fsalehi	PC005472	postcards	1	3.2
+	/mods/identifier/@type	local	fsalehi	PC005472	postcards	1	3.2
+	/mods/location		fsalehi	PC005472	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 6	fsalehi	PC005472	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC005472.html	fsalehi	PC005472	postcards	3	3.2
+	/mods/location/url/@access	object in context	fsalehi	PC005472	postcards	1	3.2
+	/mods/location/url/@usage	primary display	fsalehi	PC005472	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/005/web/PC005472.jpg	fsalehi	PC005472	postcards	3	3.2
+	/mods/location/url/@access	raw object	fsalehi	PC005472	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='508' 	fsalehi	PC005472	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/005/thumbs/PC005472.jpg	fsalehi	PC005472	postcards	3	3.2
+	/mods/location/url/@access	preview	fsalehi	PC005472	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='127'	fsalehi	PC005472	postcards	1	3.2
+	/mods/recordInfo		fsalehi	PC005472	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	fsalehi	PC005472	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC005472	fsalehi	PC005472	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	fsalehi	fsalehi	PC005472	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2009-03-18T14:09:39-0700	fsalehi	PC005472	postcards	1	3.2
+	/@mods	
+
+Eighth Avenue looking east, Calgary, Alta.
+
+
+Osborne
+F.E.
+
+Stationer
+
+
+still image
+postcards
+
+monographic
+F.E. Osborne, Stationer, Calgary, Alta.
+before 1920
+
+
+Calgary
+
+
+
+English
+
+
+1 postcard : sepia ; 9 x 14 cm.
+
+40
+false
+true
+[Printer's no.] No. 646
+Printed in Saxony
+View of two ladies crossing 8th Avenue in Calgary, Alberta while a street car approaches. Other pedestrians are visible as are the storefronts in the background.
+
+Calgary, AB
+
+
+
+Canada
+Alberta
+Calgary
+
+
+
+Postcards
+
+
+Pedestrians
+
+
+Street railroads
+
+
+Commercial streets
+
+
+Storefronts
+
+PC005472
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 6
+http://peel.library.ualberta.ca/postcards/PC005472.html
+http://peel.library.ualberta.ca/pcimages/PC/005/web/PC005472.jpg
+http://peel.library.ualberta.ca/pcimages/PC/005/thumbs/PC005472.jpg
+
+
+
+
+2007-06-25T16:49:56-0600
+PC005472
+fsalehi
+2009-03-18T14:09:39-0700
+
+	fsalehi	PC005472	postcards	1	3.2
+	

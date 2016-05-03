@@ -1,0 +1,163 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		rschramm	PC003849	postcards	1	3.2
+	/mods/@version	3.2	rschramm	PC003849	postcards	1	3.2
+	/mods/titleInfo		rschramm	PC003849	postcards	1	3.2
+	/mods/titleInfo/@lang	english	rschramm	PC003849	postcards	1	3.2
+	/mods/titleInfo/title	[Lacombe, Alta.]	rschramm	PC003849	postcards	1	3.2
+	/mods/name		rschramm	PC003849	postcards	1	3.2
+	/mods/name/@type	personal	rschramm	PC003849	postcards	1	3.2
+	/mods/name/namePart	Scales	rschramm	PC003849	postcards	2	3.2
+	/mods/name/namePart/@type	family	rschramm	PC003849	postcards	1	3.2
+	/mods/name/namePart	John	rschramm	PC003849	postcards	2	3.2
+	/mods/name/namePart/@type	given	rschramm	PC003849	postcards	1	3.2
+	/mods/name/role		rschramm	PC003849	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	rschramm	PC003849	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	rschramm	PC003849	postcards	1	3.2
+	/mods/typeOfResource	still image	rschramm	PC003849	postcards	1	3.2
+	/mods/genre	postcards	rschramm	PC003849	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	rschramm	PC003849	postcards	1	3.2
+	/mods/originInfo		rschramm	PC003849	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	rschramm	PC003849	postcards	1	3.2
+	/mods/originInfo/publisher	John Scales Lacombe	rschramm	PC003849	postcards	1	3.2
+	/mods/originInfo/dateIssued	1912	rschramm	PC003849	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	approximate	rschramm	PC003849	postcards	1	3.2
+	/mods/originInfo/place		rschramm	PC003849	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	Lacombe	rschramm	PC003849	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	rschramm	PC003849	postcards	1	3.2
+	/mods/language		rschramm	PC003849	postcards	1	3.2
+	/mods/language/languageTerm	English	rschramm	PC003849	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	rschramm	PC003849	postcards	1	3.2
+	/mods/physicalDescription		rschramm	PC003849	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : sepia ; 9 x 14 cm.	rschramm	PC003849	postcards	1	3.2
+	/mods/note	150	rschramm	PC003849	postcards	9	3.2
+	/mods/note/@type	price	rschramm	PC003849	postcards	1	3.2
+	/mods/note	false	rschramm	PC003849	postcards	9	3.2
+	/mods/note/@type	notable	rschramm	PC003849	postcards	1	3.2
+	/mods/note	false	rschramm	PC003849	postcards	9	3.2
+	/mods/note/@type	imgprobs	rschramm	PC003849	postcards	1	3.2
+	/mods/note	Street with store fronts, horse-drawn wagons, and telegraph poles. The street is unpaved, and people can be seen on the wagons, in the street and on the sidewalks in front of the stores.	rschramm	PC003849	postcards	9	3.2
+	/mods/note/@type	public_description	rschramm	PC003849	postcards	1	3.2
+	/mods/note	Chester M. Pratt Esq	rschramm	PC003849	postcards	9	3.2
+	/mods/note/@type	public_to	rschramm	PC003849	postcards	1	3.2
+	/mods/note	W.H.H.	rschramm	PC003849	postcards	9	3.2
+	/mods/note/@type	public_from	rschramm	PC003849	postcards	1	3.2
+	/mods/note	1014 Exchange Bldg, Boston, Mass.	rschramm	PC003849	postcards	9	3.2
+	/mods/note/@type	public_address	rschramm	PC003849	postcards	1	3.2
+	/mods/note	Lacombe Aug 26. A picture of the town. Every thing fine. Off for the Rocky Mt. House to-day for a week. Hope you [have] a good vacation. Regards to Grace & the office. W.H.H.	rschramm	PC003849	postcards	9	3.2
+	/mods/note/@type	public_message	rschramm	PC003849	postcards	1	3.2
+	/mods/note	Edmonton, Alta., 1912-	rschramm	PC003849	postcards	9	3.2
+	/mods/note/@type	public_postmark_date	rschramm	PC003849	postcards	1	3.2
+	/mods/subject		rschramm	PC003849	postcards	7	3.2
+	/mods/subject/geographic	Lacombe, AB	rschramm	PC003849	postcards	1	3.2
+	/mods/subject		rschramm	PC003849	postcards	7	3.2
+	/mods/subject/hierarchicalGeographic		rschramm	PC003849	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	rschramm	PC003849	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	rschramm	PC003849	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Lacombe	rschramm	PC003849	postcards	1	3.2
+	/mods/subject		rschramm	PC003849	postcards	7	3.2
+	/mods/subject/genre	Postcards	rschramm	PC003849	postcards	1	3.2
+	/mods/subject		rschramm	PC003849	postcards	7	3.2
+	/mods/subject/topic	Commercial streets	rschramm	PC003849	postcards	1	3.2
+	/mods/subject		rschramm	PC003849	postcards	7	3.2
+	/mods/subject/topic	Stores & shops	rschramm	PC003849	postcards	1	3.2
+	/mods/subject		rschramm	PC003849	postcards	7	3.2
+	/mods/subject/topic	Storefronts	rschramm	PC003849	postcards	1	3.2
+	/mods/subject		rschramm	PC003849	postcards	7	3.2
+	/mods/subject/topic	City & town life	rschramm	PC003849	postcards	1	3.2
+	/mods/identifier	PC003849	rschramm	PC003849	postcards	1	3.2
+	/mods/identifier/@type	local	rschramm	PC003849	postcards	1	3.2
+	/mods/location		rschramm	PC003849	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 2	rschramm	PC003849	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC003849.html	rschramm	PC003849	postcards	3	3.2
+	/mods/location/url/@access	object in context	rschramm	PC003849	postcards	1	3.2
+	/mods/location/url/@usage	primary display	rschramm	PC003849	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/003/web/PC003849.jpg	rschramm	PC003849	postcards	3	3.2
+	/mods/location/url/@access	raw object	rschramm	PC003849	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='487' 	rschramm	PC003849	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/003/thumbs/PC003849.jpg	rschramm	PC003849	postcards	3	3.2
+	/mods/location/url/@access	preview	rschramm	PC003849	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='122'	rschramm	PC003849	postcards	1	3.2
+	/mods/recordInfo		rschramm	PC003849	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	rschramm	PC003849	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC003849	rschramm	PC003849	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	rschramm	rschramm	PC003849	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2008-07-16T10:00:40-0600	rschramm	PC003849	postcards	1	3.2
+	/@mods	
+
+[Lacombe, Alta.]
+
+
+Scales
+John
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+John Scales Lacombe
+1912
+
+
+Lacombe
+
+
+
+English
+
+
+1 postcard : sepia ; 9 x 14 cm.
+
+150
+false
+false
+Street with store fronts, horse-drawn wagons, and telegraph poles. The street is unpaved, and people can be seen on the wagons, in the street and on the sidewalks in front of the stores.
+Chester M. Pratt Esq
+W.H.H.
+1014 Exchange Bldg, Boston, Mass.
+Lacombe Aug 26. A picture of the town. Every thing fine. Off for the Rocky Mt. House to-day for a week. Hope you [have] a good vacation. Regards to Grace & the office. W.H.H.
+Edmonton, Alta., 1912-
+
+Lacombe, AB
+
+
+
+Canada
+Alberta
+Lacombe
+
+
+
+Postcards
+
+
+Commercial streets
+
+
+Stores & shops
+
+
+Storefronts
+
+
+City & town life
+
+PC003849
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 2
+http://peel.library.ualberta.ca/postcards/PC003849.html
+http://peel.library.ualberta.ca/pcimages/PC/003/web/PC003849.jpg
+http://peel.library.ualberta.ca/pcimages/PC/003/thumbs/PC003849.jpg
+
+
+
+
+2007-06-25T16:49:56-0600
+PC003849
+rschramm
+2008-07-16T10:00:40-0600
+
+	rschramm	PC003849	postcards	1	3.2
+	

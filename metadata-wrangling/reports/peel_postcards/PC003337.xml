@@ -1,0 +1,163 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		rschramm	PC003337	postcards	1	3.2
+	/mods/@version	3.2	rschramm	PC003337	postcards	1	3.2
+	/mods/titleInfo		rschramm	PC003337	postcards	1	3.2
+	/mods/titleInfo/@lang	english	rschramm	PC003337	postcards	1	3.2
+	/mods/titleInfo/title	Windsor Ave Coronation Alta	rschramm	PC003337	postcards	1	3.2
+	/mods/name		rschramm	PC003337	postcards	1	3.2
+	/mods/name/@type	personal	rschramm	PC003337	postcards	1	3.2
+	/mods/name/namePart	McCurlie	rschramm	PC003337	postcards	2	3.2
+	/mods/name/namePart/@type	family	rschramm	PC003337	postcards	1	3.2
+	/mods/name/namePart	F.	rschramm	PC003337	postcards	2	3.2
+	/mods/name/namePart/@type	given	rschramm	PC003337	postcards	1	3.2
+	/mods/name/role		rschramm	PC003337	postcards	1	3.2
+	/mods/name/role/roleTerm	Photographer	rschramm	PC003337	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	rschramm	PC003337	postcards	1	3.2
+	/mods/typeOfResource	still image	rschramm	PC003337	postcards	1	3.2
+	/mods/genre	postcards	rschramm	PC003337	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	rschramm	PC003337	postcards	1	3.2
+	/mods/originInfo		rschramm	PC003337	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	rschramm	PC003337	postcards	1	3.2
+	/mods/originInfo/dateIssued	1912	rschramm	PC003337	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	approximate	rschramm	PC003337	postcards	1	3.2
+	/mods/originInfo/publisher	F. McCurlie, Castor, Alta.	rschramm	PC003337	postcards	1	3.2
+	/mods/originInfo/place		rschramm	PC003337	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	Castor	rschramm	PC003337	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	rschramm	PC003337	postcards	1	3.2
+	/mods/language		rschramm	PC003337	postcards	1	3.2
+	/mods/language/languageTerm	English	rschramm	PC003337	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	rschramm	PC003337	postcards	1	3.2
+	/mods/physicalDescription		rschramm	PC003337	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : b&w ; 9 x 14 cm.	rschramm	PC003337	postcards	1	3.2
+	/mods/note	125	rschramm	PC003337	postcards	9	3.2
+	/mods/note/@type	price	rschramm	PC003337	postcards	1	3.2
+	/mods/note	false	rschramm	PC003337	postcards	9	3.2
+	/mods/note/@type	notable	rschramm	PC003337	postcards	1	3.2
+	/mods/note	true	rschramm	PC003337	postcards	9	3.2
+	/mods/note/@type	imgprobs	rschramm	PC003337	postcards	1	3.2
+	/mods/note	A view of Windsor Avenue in Coronation, Alberta. Numerous figures are shown standing and walking on the sidewalks. Various shops are depicted, including Begert & Webb, Calders Drug Store, J. C. bonsall Farm Machinery.	rschramm	PC003337	postcards	9	3.2
+	/mods/note/@type	public_description	rschramm	PC003337	postcards	1	3.2
+	/mods/note	McKenzie	rschramm	PC003337	postcards	9	3.2
+	/mods/note/@type	public_to	rschramm	PC003337	postcards	1	3.2
+	/mods/note	IHH	rschramm	PC003337	postcards	9	3.2
+	/mods/note/@type	public_from	rschramm	PC003337	postcards	1	3.2
+	/mods/note	? College St., Port Arthur, Ont.	rschramm	PC003337	postcards	9	3.2
+	/mods/note/@type	public_address	rschramm	PC003337	postcards	1	3.2
+	/mods/note	How is this for a prosperous town. 6 months old. IHH	rschramm	PC003337	postcards	9	3.2
+	/mods/note/@type	public_message	rschramm	PC003337	postcards	1	3.2
+	/mods/note	Coronation, Alta., 1912-06-03	rschramm	PC003337	postcards	9	3.2
+	/mods/note/@type	public_postmark_date	rschramm	PC003337	postcards	1	3.2
+	/mods/subject		rschramm	PC003337	postcards	7	3.2
+	/mods/subject/geographic	Cornation, AB	rschramm	PC003337	postcards	1	3.2
+	/mods/subject		rschramm	PC003337	postcards	7	3.2
+	/mods/subject/hierarchicalGeographic		rschramm	PC003337	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	rschramm	PC003337	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	rschramm	PC003337	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Coronation	rschramm	PC003337	postcards	1	3.2
+	/mods/subject		rschramm	PC003337	postcards	7	3.2
+	/mods/subject/genre	Postcards	rschramm	PC003337	postcards	1	3.2
+	/mods/subject		rschramm	PC003337	postcards	7	3.2
+	/mods/subject/topic	Commercial streets	rschramm	PC003337	postcards	1	3.2
+	/mods/subject		rschramm	PC003337	postcards	7	3.2
+	/mods/subject/topic	Stores & shops	rschramm	PC003337	postcards	1	3.2
+	/mods/subject		rschramm	PC003337	postcards	7	3.2
+	/mods/subject/topic	City & town life	rschramm	PC003337	postcards	1	3.2
+	/mods/subject		rschramm	PC003337	postcards	7	3.2
+	/mods/subject/topic	Carts & wagons	rschramm	PC003337	postcards	1	3.2
+	/mods/identifier	PC003337	rschramm	PC003337	postcards	1	3.2
+	/mods/identifier/@type	local	rschramm	PC003337	postcards	1	3.2
+	/mods/location		rschramm	PC003337	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 1	rschramm	PC003337	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC003337.html	rschramm	PC003337	postcards	3	3.2
+	/mods/location/url/@access	object in context	rschramm	PC003337	postcards	1	3.2
+	/mods/location/url/@usage	primary display	rschramm	PC003337	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/003/web/PC003337.jpg	rschramm	PC003337	postcards	3	3.2
+	/mods/location/url/@access	raw object	rschramm	PC003337	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='485' 	rschramm	PC003337	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/003/thumbs/PC003337.jpg	rschramm	PC003337	postcards	3	3.2
+	/mods/location/url/@access	preview	rschramm	PC003337	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='121'	rschramm	PC003337	postcards	1	3.2
+	/mods/recordInfo		rschramm	PC003337	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	rschramm	PC003337	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC003337	rschramm	PC003337	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	rschramm	rschramm	PC003337	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2008-07-04T10:14:10-0600	rschramm	PC003337	postcards	1	3.2
+	/@mods	
+
+Windsor Ave Coronation Alta
+
+
+McCurlie
+F.
+
+Photographer
+
+
+still image
+postcards
+
+monographic
+1912
+F. McCurlie, Castor, Alta.
+
+
+Castor
+
+
+
+English
+
+
+1 postcard : b&w ; 9 x 14 cm.
+
+125
+false
+true
+A view of Windsor Avenue in Coronation, Alberta. Numerous figures are shown standing and walking on the sidewalks. Various shops are depicted, including Begert & Webb, Calders Drug Store, J. C. bonsall Farm Machinery.
+McKenzie
+IHH
+? College St., Port Arthur, Ont.
+How is this for a prosperous town. 6 months old. IHH
+Coronation, Alta., 1912-06-03
+
+Cornation, AB
+
+
+
+Canada
+Alberta
+Coronation
+
+
+
+Postcards
+
+
+Commercial streets
+
+
+Stores & shops
+
+
+City & town life
+
+
+Carts & wagons
+
+PC003337
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 1
+http://peel.library.ualberta.ca/postcards/PC003337.html
+http://peel.library.ualberta.ca/pcimages/PC/003/web/PC003337.jpg
+http://peel.library.ualberta.ca/pcimages/PC/003/thumbs/PC003337.jpg
+
+
+
+
+2007-06-25T16:49:56-0600
+PC003337
+rschramm
+2008-07-04T10:14:10-0600
+
+	rschramm	PC003337	postcards	1	3.2
+	

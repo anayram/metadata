@@ -1,0 +1,119 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.2
+	/mods/@version	3.2		1	3.2
+	/mods/titleInfo			1	3.2
+	/mods/titleInfo/title	Biography of Edmund Richard Abell		1	3.2
+	/mods/name			1	3.2
+	/mods/name/@type	personal		1	3.2
+	/mods/name/namePart	Wilder, Annie A		1	3.2
+	/mods/typeOfResource	text		1	3.2
+	/mods/originInfo			1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	lau		1	3.2
+	/mods/originInfo/place/placeTerm/@authority	marccountry		1	3.2
+	/mods/originInfo/place/placeTerm/@type	code		1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	[S.l.]		1	3.2
+	/mods/originInfo/place/placeTerm/@type	text		1	3.2
+	/mods/originInfo/publisher	[s.n.]		1	3.2
+	/mods/originInfo/dateIssued	1938		1	3.2
+	/mods/originInfo/issuance	monographic		1	3.2
+	/mods/language			1	3.2
+	/mods/language/languageTerm	eng		1	3.2
+	/mods/language/languageTerm/@authority	iso639-2b		1	3.2
+	/mods/language/languageTerm/@type	code		1	3.2
+	/mods/physicalDescription			1	3.2
+	/mods/physicalDescription/form	print		1	3.2
+	/mods/physicalDescription/form/@authority	marcform		1	3.2
+	/mods/physicalDescription/extent	118 p. : ill., ports. ; 22 cm.		1	3.2
+	/mods/note	"Material furnished from notes and letters of Edmund Richard Abell, now in the possession of his daughter, Annie A. Wilder, biography compiled by her."		4	3.2
+	/mods/note	http://chelsea.library.ualberta.ca:8081/peel_master/select/?q=%28authorAuthority%3A%22Wilder%2C+Annie+A%22%29+OR+%28subjectAuthority%3A%22Engineers--Northwest%2C+Canadian%22%29+OR+%28subjectAuthority%3A%22Hudson%27s+Bay+Company%22%29+OR+%28subjectAuthority%3A%22Abell%2C+Edmund+Richard%22%29&fl=id+authorAuthority+authorDates+subjectAuthority+authorityAuthority&rows=100		4	3.2
+	/mods/note/@type	solr		1	3.2
+	/mods/note	DOA: 1865 Spatial: Northwest, Canadian		4	3.2
+	/mods/note/@type	local		1	3.2
+	/mods/note	Printed by W.H. Kentzel & Son, Covington, Louisiana. Biography of a chief engineer to the Hudson’s Bay Company. Abell is identified on page 16 as the man “who designed and managed the first steamboats ever to be operated in Northwest Canada.”		4	3.2
+	/mods/note/@type	public		1	3.2
+	/mods/subject			3	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/topic	Engineers		1	3.2
+	/mods/subject/geographic	Northwest, Canadian		1	3.2
+	/mods/subject			3	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/name			1	3.2
+	/mods/subject/name/@type	personal		1	3.2
+	/mods/subject/name/namePart	Hudson's Bay Company		1	3.2
+	/mods/subject			3	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/name			1	3.2
+	/mods/subject/name/@type	personal		1	3.2
+	/mods/subject/name/namePart	Abell, Edmund Richard		1	3.2
+	/mods/identifier	3979519		3	3.2
+	/mods/identifier/@type	local:neos		1	3.2
+	/mods/identifier	N008866		3	3.2
+	/mods/identifier/@type	local:peel_new		1	3.2
+	/mods/identifier	9489		3	3.2
+	/mods/identifier/@type	local:peel3		1	3.2
+	/mods/recordInfo			1	3.2
+	/mods/recordInfo/recordContentSource	fsalehi		2	3.2
+	/mods/recordInfo/recordContentSource	RC		2	3.2
+	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.2
+	/mods/recordInfo/recordCreationDate	2007-08-25T12:00:00-0700		1	3.2
+	/mods/recordInfo/recordIdentifier	P009489		1	3.2
+	/mods/recordInfo/recordChangeDate	2010-07-02T10:56:19-0600		1	3.2
+	/@mods	
+
+Biography of Edmund Richard Abell
+
+
+Wilder, Annie A
+
+text
+
+
+lau
+
+
+[S.l.]
+
+[s.n.]
+1938
+monographic
+
+
+eng
+
+
+print
+118 p. : ill., ports. ; 22 cm.
+
+"Material furnished from notes and letters of Edmund Richard Abell, now in the possession of his daughter, Annie A. Wilder, biography compiled by her."
+http://chelsea.library.ualberta.ca:8081/peel_master/select/?q=%28authorAuthority%3A%22Wilder%2C+Annie+A%22%29+OR+%28subjectAuthority%3A%22Engineers--Northwest%2C+Canadian%22%29+OR+%28subjectAuthority%3A%22Hudson%27s+Bay+Company%22%29+OR+%28subjectAuthority%3A%22Abell%2C+Edmund+Richard%22%29&fl=id+authorAuthority+authorDates+subjectAuthority+authorityAuthority&rows=100
+DOA: 1865 Spatial: Northwest, Canadian
+Printed by W.H. Kentzel & Son, Covington, Louisiana. Biography of a chief engineer to the Hudson’s Bay Company. Abell is identified on page 16 as the man “who designed and managed the first steamboats ever to be operated in Northwest Canada.”
+
+				Engineers
+			
+				Northwest, Canadian
+			
+
+				
+Hudson's Bay Company
+
+			
+
+				
+Abell, Edmund Richard
+
+			
+3979519
+N008866
+9489
+
+fsalehi
+RC
+2007-08-25T12:00:00-0700
+P009489
+2010-07-02T10:56:19-0600
+
+		1	3.2
+	

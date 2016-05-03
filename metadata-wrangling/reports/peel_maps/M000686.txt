@@ -1,0 +1,101 @@
+Path	Content	URL	Form or Genre	Occurrence	MODS version
+
+/mods/titleInfo		http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	1	3.3
+/mods/titleInfo/title	Dominion Lands Agency District of Calgary	http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	1	3.3
+
+/mods/name		http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	1	3.3
+/mods/name/@type	corporate	http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	1	3.3
+/mods/name/namePart	Dominion Lands Lithographic Office	http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	1	3.3
+
+/mods/typeOfResource	cartographic	http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	1	3.3
+
+/mods/genre	map	http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	2	3.3
+/mods/genre/@authority	marcgt	http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	1	3.3
+
+/mods/genre	Digital maps	http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	2	3.3
+/mods/genre/@authority	lcgft	http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	1	3.3
+
+/mods/originInfo		http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	1	3.3
+/mods/originInfo/place		http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	1	3.3
+/mods/originInfo/place/placeTerm	Ottawa	http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	1	3.3
+/mods/originInfo/place/placeTerm/@type	text	http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	1	3.3
+/mods/originInfo/publisher	Dominion Lands Lithographic Office	http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	1	3.3
+/mods/originInfo/dateIssued	19uu	http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	1	3.3
+/mods/originInfo/dateIssued/@qualifier	approximate	http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	1	3.3
+
+/mods/language		http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	1	3.3
+/mods/language/languageTerm	English	http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	1	3.3
+/mods/language/languageTerm/@type	text	http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	1	3.3
+
+/mods/physicalDescription		http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	1	3.3
+/mods/physicalDescription/form		http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	1	3.3
+/mods/physicalDescription/extent	1 map : mounted on linen ; 46.2 x 48.5 cm. on sheet 56.3 x 59 cm.	http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	1	3.3
+
+/mods/note	Shows surveyed land and emphasizes geographical features of southern Alberta. Marks Blackfeet and Sarcee Indian reserves.	http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	8	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	1	3.3
+
+/mods/note	Land shown is between fourth and fifth meridian and Rs. 1-8 W 5th M., and Tps. 13-42.	http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	8	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	1	3.3
+
+/mods/note	Later editions are published by Department of Lands and Mines (Alberta).	http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	8	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	1	3.3
+
+/mods/note	peelmaps	http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	8	3.3
+/mods/note/@type	local:oaiset	http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	1	3.3
+
+/mods/note	1	http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	8	3.3
+/mods/note/@type	local:sheetcount	http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	1	3.3
+
+/mods/note	56.3 x 59 cm.	http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	8	3.3
+/mods/note/@type	local:sheetsize	http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	1	3.3
+
+/mods/note	56.3	http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	8	3.3
+/mods/note/@type	local:sheetlength	http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	1	3.3
+
+/mods/note	59	http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	8	3.3
+/mods/note/@type	local:sheetwidth	http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	1	3.3
+
+	/mods/subject		http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	2	3.3
+/mods/subject/@authority	lcsh	http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	1	3.3
+/mods/subject/@lang	eng	http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	1	3.3
+/mods/subject/geographic	Alberta	http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	2	3.3
+/mods/subject/cartographics		http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	1	3.3
+/mods/subject/cartographics/coordinates	w11530xx/n05239xx			w1100000/n05239xx			w1100000/n05000xx			w11440xx/n05000xx	http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	1	3.3
+/mods/subject/cartographics/scale	1:792,000	http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	1	3.3
+
+/mods/classification	Alberta G-5	http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	1	3.3
+
+/mods/identifier	633	http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	5	3.3
+/mods/identifier/@type	local:mapsproject	http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	1	3.3
+
+/mods/identifier	AAA-0689	http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	5	3.3
+/mods/identifier/@type	local:mapsdb	http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	1	3.3
+
+/mods/identifier	633.xml	http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	5	3.3
+/mods/identifier/@type	local:mapsproject_filename	http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	1	3.3
+
+
+                
+                /mods/identifier	M000686	http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	5	3.3
+/mods/identifier/@type	local:peel3	http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	1	3.3
+
+                /mods/identifier	N019392	http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	5	3.3
+/mods/identifier/@type	local:old_peel_new	http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	1	3.3
+
+                
+            /mods/location		http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	1	3.3
+/mods/location/physicalLocation	UA Cameron Staff Access-Maps	http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	1	3.3
+/mods/location/url	http://peel.library.ualberta.ca/maps/M/00/06/M000686/M000686.tif	http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	1	3.3
+/mods/location/url/@access	raw object	http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	1	3.3
+/mods/location/url/@note	width='7087' height='6467'	http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	1	3.3
+
+/mods/recordInfo		http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	1	3.3
+/mods/recordInfo/recordContentSource	mapsproject	http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	2	3.3
+/mods/recordInfo/recordContentSource/@authority	local:project	http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	1	3.3
+/mods/recordInfo/recordContentSource	sfarnel	http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	2	3.3
+/mods/recordInfo/recordContentSource/@authority	local:person	http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	1	3.3
+/mods/recordInfo/recordIdentifier	M000686	http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	1	3.3
+/mods/recordInfo/recordChangeDate	2010-11-26T13:49:32-0700	http://peel.library.ualberta.ca/maps/M000686.html	map Digital maps 	1	3.3
+

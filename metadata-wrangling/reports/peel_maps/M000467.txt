@@ -1,0 +1,106 @@
+Path	Content	URL	Form or Genre	Occurrence	MODS version
+
+/mods/titleInfo		http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	1	3.3
+/mods/titleInfo/title	Brownlee's Land Map of the Provisional District of Assiniboia, North-West Territories, Canada	http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	1	3.3
+/mods/titleInfo/subTitle	Published by authority of The North-West Council	http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	1	3.3
+
+/mods/name		http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	2	3.3
+/mods/name/@type	corporate	http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	1	3.3
+/mods/name/namePart	J. H. Brownlee	http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	1	3.3
+
+/mods/name		http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	2	3.3
+/mods/name/@type	corporate	http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	1	3.3
+/mods/name/namePart	The North-West Council	http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	1	3.3
+
+/mods/typeOfResource	cartographic	http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	1	3.3
+
+/mods/genre	map	http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	2	3.3
+/mods/genre/@authority	marcgt	http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	1	3.3
+
+/mods/genre	Digital maps	http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	2	3.3
+/mods/genre/@authority	lcgft	http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	1	3.3
+
+/mods/originInfo		http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	1	3.3
+/mods/originInfo/place		http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	1	3.3
+/mods/originInfo/place/placeTerm	Regina	http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	1	3.3
+/mods/originInfo/place/placeTerm/@type	text	http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	1	3.3
+/mods/originInfo/publisher	The North-West Council	http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	1	3.3
+/mods/originInfo/dateIssued	1888	http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	1	3.3
+
+/mods/language		http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	1	3.3
+/mods/language/languageTerm	English	http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	1	3.3
+/mods/language/languageTerm/@type	text	http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	1	3.3
+
+/mods/physicalDescription		http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	1	3.3
+/mods/physicalDescription/form		http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	1	3.3
+/mods/physicalDescription/extent	1 map : col., mounted on linen ; 47.5 x 99.4 cm. on sheet 51.8 x 102.5 cm.	http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	1	3.3
+
+/mods/note	Printed by The Canada Bank Note Co., Montreal.	http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	7	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	1	3.3
+
+/mods/note	Districts bordered in red; shows also post offices, schools, Mounted Police posts, government and other trails and telegraph lines.	http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	7	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	1	3.3
+
+/mods/note	peelmaps	http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	7	3.3
+/mods/note/@type	local:oaiset	http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	1	3.3
+
+/mods/note	1	http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	7	3.3
+/mods/note/@type	local:sheetcount	http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	1	3.3
+
+/mods/note	51.8 x 102.5 cm.	http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	7	3.3
+/mods/note/@type	local:sheetsize	http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	1	3.3
+
+/mods/note	51.8	http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	7	3.3
+/mods/note/@type	local:sheetlength	http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	1	3.3
+
+/mods/note	102.5	http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	7	3.3
+/mods/note/@type	local:sheetwidth	http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	1	3.3
+
+	/mods/subject		http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	3	3.3
+/mods/subject/@authority	lcsh	http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	1	3.3
+/mods/subject/@lang	eng	http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	1	3.3
+/mods/subject/geographic	Saskatchewan	http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	1	3.3
+/mods/subject/topic	Political and administrative divisions	http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	3	3.3
+/mods/subject/temporal	1888	http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	3	3.3
+/mods/subject/cartographics		http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	1	3.3
+/mods/subject/cartographics/coordinates	w11140xx/n052xxxx w101xxxx/n052xxxx w10120xx/n049xxxx w11130xx/n049xxxx	http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	1	3.3
+/mods/subject/cartographics/scale	ca. 1:760,000	http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	1	3.3
+
+/mods/classification	Prairie Provinces F-18	http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	1	3.3
+
+/mods/identifier	3167	http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	5	3.3
+/mods/identifier/@type	local:mapsproject	http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	1	3.3
+
+/mods/identifier	AAA-3262	http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	5	3.3
+/mods/identifier/@type	local:mapsdb	http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	1	3.3
+
+/mods/identifier	3167.xml	http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	5	3.3
+/mods/identifier/@type	local:mapsproject_filename	http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	1	3.3
+
+
+                
+                /mods/identifier	M000467	http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	5	3.3
+/mods/identifier/@type	local:peel3	http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	1	3.3
+
+                /mods/identifier	N019139	http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	5	3.3
+/mods/identifier/@type	local:old_peel_new	http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	1	3.3
+
+                
+            /mods/location		http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	1	3.3
+/mods/location/physicalLocation	UA Cameron Staff Access-Maps	http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	1	3.3
+/mods/location/url	http://peel.library.ualberta.ca/maps/M/00/04/M000467/M000467.tif	http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	1	3.3
+/mods/location/url/@access	raw object	http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	1	3.3
+/mods/location/url/@note	width='12155' height='8740'	http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	1	3.3
+
+/mods/recordInfo		http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	1	3.3
+/mods/recordInfo/recordContentSource	mapsproject	http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	2	3.3
+/mods/recordInfo/recordContentSource/@authority	local:project	http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	1	3.3
+/mods/recordInfo/recordContentSource	sfarnel	http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	2	3.3
+/mods/recordInfo/recordContentSource/@authority	local:person	http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	1	3.3
+/mods/recordInfo/recordIdentifier	M000467	http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	1	3.3
+/mods/recordInfo/recordChangeDate	2010-11-26T13:35:33-0700	http://peel.library.ualberta.ca/maps/M000467.html	map Digital maps 	1	3.3
+

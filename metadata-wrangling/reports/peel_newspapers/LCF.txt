@@ -1,0 +1,91 @@
+Path	Content	URL	Form or Genre	Occurrence	MODS version
+
+/mods/titleInfo			periodical	2	3.2
+/mods/titleInfo/title	canadien-français		periodical	1	3.2
+/mods/titleInfo/subTitle	organe de la Société St Jean-Baptiste d'Edmonton et de tous les canadiens de langue française de l'Alberta		periodical	1	3.2
+/mods/titleInfo/nonSort	Le 		periodical	1	3.2
+
+/mods/titleInfo			periodical	2	3.2
+/mods/titleInfo/@type	alternative		periodical	1	3.2
+/mods/titleInfo/title	Canadien-français		periodical	1	3.2
+
+/mods/name			periodical	1	3.2
+/mods/name/@type	corporate		periodical	1	3.2
+/mods/name/namePart	Société Saint Jean-Baptiste d'Edmonton		periodical	1	3.2
+
+/mods/typeOfResource	text		periodical	1	3.2
+
+/mods/genre	periodical		periodical	1	3.2
+/mods/genre/@authority	marcgt		periodical	1	3.2
+
+/mods/originInfo			periodical	1	3.2
+/mods/originInfo/place			periodical	2	3.2
+/mods/originInfo/place/placeTerm	abc		periodical	1	3.2
+/mods/originInfo/place/placeTerm/@authority	marccountry		periodical	1	3.2
+/mods/originInfo/place/placeTerm/@type	code		periodical	1	3.2
+/mods/originInfo/place			periodical	2	3.2
+/mods/originInfo/place/placeTerm	Edmonton		periodical	1	3.2
+/mods/originInfo/place/placeTerm/@type	text		periodical	1	3.2
+/mods/originInfo/publisher	La Société		periodical	1	3.2
+/mods/originInfo/dateIssued	[1915]-		periodical	3	3.2
+/mods/originInfo/dateIssued	1915		periodical	3	3.2
+/mods/originInfo/dateIssued/@encoding	marc		periodical	1	3.2
+/mods/originInfo/dateIssued/@point	start		periodical	1	3.2
+/mods/originInfo/dateIssued	9999		periodical	3	3.2
+/mods/originInfo/dateIssued/@encoding	marc		periodical	1	3.2
+/mods/originInfo/dateIssued/@point	end		periodical	1	3.2
+/mods/originInfo/issuance	continuing		periodical	1	3.2
+/mods/originInfo/frequency	Monthly		periodical	1	3.2
+
+/mods/language			periodical	1	3.2
+/mods/language/languageTerm	fre		periodical	1	3.2
+/mods/language/languageTerm/@authority	iso639-2b		periodical	1	3.2
+/mods/language/languageTerm/@type	code		periodical	1	3.2
+
+/mods/physicalDescription			periodical	1	3.2
+/mods/physicalDescription/form	print		periodical	1	3.2
+/mods/physicalDescription/form/@authority	marcform		periodical	1	3.2
+/mods/physicalDescription/extent	v. : ill. ; 24 cm.		periodical	1	3.2
+
+/mods/note	Title from caption.		periodical	2	3.2
+
+/mods/note	newspapers		periodical	2	3.2
+/mods/note/@type	local:oaiset		periodical	1	3.2
+
+/mods/subject			periodical	4	3.2
+/mods/subject/geographicCode	n-cn---		periodical	2	3.2
+/mods/subject/geographicCode/@authority	marcgac		periodical	1	3.2
+/mods/subject/geographicCode	n-cn-ab		periodical	2	3.2
+/mods/subject/geographicCode/@authority	marcgac		periodical	1	3.2
+
+/mods/subject			periodical	4	3.2
+/mods/subject/@authority	lcsh		periodical	1	3.2
+/mods/subject/topic	French-Canadians		periodical	2	3.2
+/mods/subject/topic	Periodicals		periodical	2	3.2
+
+/mods/subject			periodical	4	3.2
+/mods/subject/@authority	lcsh		periodical	1	3.2
+/mods/subject/topic	French-Canadians		periodical	2	3.2
+/mods/subject/geographic	Alberta		periodical	1	3.2
+/mods/subject/topic	Periodicals		periodical	2	3.2
+
+    /mods/subject			periodical	4	3.2
+/mods/subject/hierarchicalGeographic			periodical	1	3.2
+/mods/subject/hierarchicalGeographic/country	Canada		periodical	1	3.2
+/mods/subject/hierarchicalGeographic/province	Alberta		periodical	1	3.2
+
+/mods/identifier	562683		periodical	2	3.2
+/mods/identifier/@type	local:neos		periodical	1	3.2
+
+/mods/identifier	LCF		periodical	2	3.2
+/mods/identifier/@type	local:newspaper		periodical	1	3.2
+
+/mods/recordInfo			periodical	1	3.2
+/mods/recordInfo/recordContentSource	neos		periodical	2	3.2
+/mods/recordInfo/recordContentSource/@authority	marcorg		periodical	1	3.2
+/mods/recordInfo/recordContentSource	sfarnel		periodical	2	3.2
+/mods/recordInfo/recordContentSource/@authority	local:person		periodical	1	3.2
+/mods/recordInfo/recordCreationDate	2010-01-15T11:35:40-0700		periodical	1	3.2
+/mods/recordInfo/recordIdentifier	QLCF		periodical	1	3.2
+/mods/recordInfo/recordChangeDate	2010-01-15T11:35:46-0700		periodical	1	3.2
+

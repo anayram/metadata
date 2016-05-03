@@ -1,0 +1,151 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		fsalehi	PC003490	postcards	1	3.2
+	/mods/@version	3.2	fsalehi	PC003490	postcards	1	3.2
+	/mods/titleInfo		fsalehi	PC003490	postcards	1	3.2
+	/mods/titleInfo/@lang	english	fsalehi	PC003490	postcards	1	3.2
+	/mods/titleInfo/title	Red Deer River Drumheller, Alta.	fsalehi	PC003490	postcards	1	3.2
+	/mods/name		fsalehi	PC003490	postcards	2	3.2
+	/mods/name/@type	personal	fsalehi	PC003490	postcards	1	3.2
+	/mods/name/namePart	Home	fsalehi	PC003490	postcards	2	3.2
+	/mods/name/namePart/@type	family	fsalehi	PC003490	postcards	1	3.2
+	/mods/name/namePart	Crawford	fsalehi	PC003490	postcards	2	3.2
+	/mods/name/namePart/@type	given	fsalehi	PC003490	postcards	1	3.2
+	/mods/name/role		fsalehi	PC003490	postcards	1	3.2
+	/mods/name/role/roleTerm	Photographer	fsalehi	PC003490	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC003490	postcards	1	3.2
+	/mods/name		fsalehi	PC003490	postcards	2	3.2
+	/mods/name/@type	corporate	fsalehi	PC003490	postcards	1	3.2
+	/mods/name/namePart	Sommerville's Drug Store	fsalehi	PC003490	postcards	1	3.2
+	/mods/name/role		fsalehi	PC003490	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	fsalehi	PC003490	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC003490	postcards	1	3.2
+	/mods/typeOfResource	still image	fsalehi	PC003490	postcards	1	3.2
+	/mods/genre	postcards	fsalehi	PC003490	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	fsalehi	PC003490	postcards	1	3.2
+	/mods/originInfo		fsalehi	PC003490	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	fsalehi	PC003490	postcards	1	3.2
+	/mods/originInfo/publisher	Photo by Home Crawford Drumheller, Alberta; Sommerville's Drug Store	fsalehi	PC003490	postcards	1	3.2
+	/mods/originInfo/dateIssued	19-	fsalehi	PC003490	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	inferred	fsalehi	PC003490	postcards	1	3.2
+	/mods/originInfo/place		fsalehi	PC003490	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	Drumheller	fsalehi	PC003490	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC003490	postcards	1	3.2
+	/mods/language		fsalehi	PC003490	postcards	1	3.2
+	/mods/language/languageTerm	English	fsalehi	PC003490	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	fsalehi	PC003490	postcards	1	3.2
+	/mods/physicalDescription		fsalehi	PC003490	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : b&w ; 9 x 14 cm.	fsalehi	PC003490	postcards	1	3.2
+	/mods/note	30	fsalehi	PC003490	postcards	4	3.2
+	/mods/note/@type	price	fsalehi	PC003490	postcards	1	3.2
+	/mods/note	false	fsalehi	PC003490	postcards	4	3.2
+	/mods/note/@type	notable	fsalehi	PC003490	postcards	1	3.2
+	/mods/note	true	fsalehi	PC003490	postcards	4	3.2
+	/mods/note/@type	imgprobs	fsalehi	PC003490	postcards	1	3.2
+	/mods/note	Scene along the banks of the Red River.	fsalehi	PC003490	postcards	4	3.2
+	/mods/note/@type	public_description	fsalehi	PC003490	postcards	1	3.2
+	/mods/subject		fsalehi	PC003490	postcards	5	3.2
+	/mods/subject/geographic	Drumheller, AB	fsalehi	PC003490	postcards	1	3.2
+	/mods/subject		fsalehi	PC003490	postcards	5	3.2
+	/mods/subject/hierarchicalGeographic		fsalehi	PC003490	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	fsalehi	PC003490	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	fsalehi	PC003490	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Drumheller	fsalehi	PC003490	postcards	1	3.2
+	/mods/subject		fsalehi	PC003490	postcards	5	3.2
+	/mods/subject/genre	Postcards	fsalehi	PC003490	postcards	1	3.2
+	/mods/subject		fsalehi	PC003490	postcards	5	3.2
+	/mods/subject/topic	Rivers	fsalehi	PC003490	postcards	1	3.2
+	/mods/subject		fsalehi	PC003490	postcards	5	3.2
+	/mods/subject/name		fsalehi	PC003490	postcards	1	3.2
+	/mods/subject/name/namePart	Red Deer River (Alta. and Sask.)	fsalehi	PC003490	postcards	1	3.2
+	/mods/identifier	PC003490	fsalehi	PC003490	postcards	1	3.2
+	/mods/identifier/@type	local	fsalehi	PC003490	postcards	1	3.2
+	/mods/location		fsalehi	PC003490	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 1	fsalehi	PC003490	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC003490.html	fsalehi	PC003490	postcards	3	3.2
+	/mods/location/url/@access	object in context	fsalehi	PC003490	postcards	1	3.2
+	/mods/location/url/@usage	primary display	fsalehi	PC003490	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/003/web/PC003490.jpg	fsalehi	PC003490	postcards	3	3.2
+	/mods/location/url/@access	raw object	fsalehi	PC003490	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='510' 	fsalehi	PC003490	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/003/thumbs/PC003490.jpg	fsalehi	PC003490	postcards	3	3.2
+	/mods/location/url/@access	preview	fsalehi	PC003490	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='128'	fsalehi	PC003490	postcards	1	3.2
+	/mods/recordInfo		fsalehi	PC003490	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	fsalehi	PC003490	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC003490	fsalehi	PC003490	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	fsalehi	fsalehi	PC003490	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2009-10-21T12:28:59-0600	fsalehi	PC003490	postcards	1	3.2
+	/@mods	
+
+Red Deer River Drumheller, Alta.
+
+
+Home
+Crawford
+
+Photographer
+
+
+
+Sommerville's Drug Store
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+Photo by Home Crawford Drumheller, Alberta; Sommerville's Drug Store
+19-
+
+
+Drumheller
+
+
+
+English
+
+
+1 postcard : b&w ; 9 x 14 cm.
+
+30
+false
+true
+Scene along the banks of the Red River.
+
+Drumheller, AB
+
+
+
+Canada
+Alberta
+Drumheller
+
+
+
+Postcards
+
+
+Rivers
+
+
+
+Red Deer River (Alta. and Sask.)
+
+
+PC003490
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 1
+http://peel.library.ualberta.ca/postcards/PC003490.html
+http://peel.library.ualberta.ca/pcimages/PC/003/web/PC003490.jpg
+http://peel.library.ualberta.ca/pcimages/PC/003/thumbs/PC003490.jpg
+
+
+2007-06-25T16:49:56-0600
+PC003490
+fsalehi
+2009-10-21T12:28:59-0600
+
+	fsalehi	PC003490	postcards	1	3.2
+	

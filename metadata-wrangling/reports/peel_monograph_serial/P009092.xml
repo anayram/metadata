@@ -1,0 +1,158 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods		bibliography	1	3.2
+	/mods/@version	3.2	bibliography	1	3.2
+	/mods/titleInfo		bibliography	1	3.2
+	/mods/titleInfo/title	Restless energy	bibliography	1	3.2
+	/mods/titleInfo/subTitle	A biography of William Rowan, 1891-1957	bibliography	1	3.2
+	/mods/name		bibliography	1	3.2
+	/mods/name/@type	personal	bibliography	1	3.2
+	/mods/name/namePart	Ainley, Marianne Gosztonyi	bibliography	2	3.2
+	/mods/name/namePart	1937-	bibliography	2	3.2
+	/mods/name/namePart/@type	date	bibliography	1	3.2
+	/mods/typeOfResource	text	bibliography	1	3.2
+	/mods/genre	bibliography	bibliography	1	3.2
+	/mods/genre/@authority	marcgt	bibliography	1	3.2
+	/mods/originInfo		bibliography	1	3.2
+	/mods/originInfo/place		bibliography	2	3.2
+	/mods/originInfo/place/placeTerm	quc	bibliography	1	3.2
+	/mods/originInfo/place/placeTerm/@authority	marccountry	bibliography	1	3.2
+	/mods/originInfo/place/placeTerm/@type	code	bibliography	1	3.2
+	/mods/originInfo/place		bibliography	2	3.2
+	/mods/originInfo/place/placeTerm	Montreal	bibliography	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	bibliography	1	3.2
+	/mods/originInfo/publisher	Véhicule Press	bibliography	1	3.2
+	/mods/originInfo/dateIssued	1993	bibliography	1	3.2
+	/mods/originInfo/issuance	monographic	bibliography	1	3.2
+	/mods/language		bibliography	1	3.2
+	/mods/language/languageTerm	eng	bibliography	1	3.2
+	/mods/language/languageTerm/@authority	iso639-2b	bibliography	1	3.2
+	/mods/language/languageTerm/@type	code	bibliography	1	3.2
+	/mods/physicalDescription		bibliography	1	3.2
+	/mods/physicalDescription/form	print	bibliography	1	3.2
+	/mods/physicalDescription/form/@authority	marcform	bibliography	1	3.2
+	/mods/physicalDescription/extent	368 p. : ill. ; 25 cm.	bibliography	1	3.2
+	/mods/note	Includes bibliographical references and index.	bibliography	4	3.2
+	/mods/note	uahistory	bibliography	4	3.2
+	/mods/note/@type	local:oaiset	bibliography	1	3.2
+	/mods/note	DOA: 1920 Spatial: Edmonton (Alta.)	bibliography	4	3.2
+	/mods/note/@type	local	bibliography	1	3.2
+	/mods/note	Biography of an University of Alberta botanist.	bibliography	4	3.2
+	/mods/note/@type	public	bibliography	1	3.2
+	/mods/subject		bibliography	5	3.2
+	/mods/subject/geographicCode	n-cn---	bibliography	1	3.2
+	/mods/subject/geographicCode/@authority	marcgac	bibliography	1	3.2
+	/mods/subject		bibliography	5	3.2
+	/mods/subject/@authority	lcsh	bibliography	1	3.2
+	/mods/subject/name		bibliography	1	3.2
+	/mods/subject/name/@type	personal	bibliography	1	3.2
+	/mods/subject/name/namePart	Rowan, William	bibliography	2	3.2
+	/mods/subject/name/namePart	1891-1957	bibliography	2	3.2
+	/mods/subject/name/namePart/@type	date	bibliography	1	3.2
+	/mods/subject		bibliography	5	3.2
+	/mods/subject/@authority	lcsh	bibliography	1	3.2
+	/mods/subject/topic	Ornithologists	bibliography	2	3.2
+	/mods/subject/geographic	Canada	bibliography	1	3.2
+	/mods/subject/topic	Biography	bibliography	2	3.2
+	/mods/subject		bibliography	5	3.2
+	/mods/subject/@authority	lcsh	bibliography	1	3.2
+	/mods/subject/topic	Conservationists	bibliography	2	3.2
+	/mods/subject/geographic	Canada	bibliography	1	3.2
+	/mods/subject/topic	Biography	bibliography	2	3.2
+	/mods/subject		bibliography	5	3.2
+	/mods/subject/@authority	lcsh	bibliography	1	3.2
+	/mods/subject/topic	Educators	bibliography	2	3.2
+	/mods/subject/geographic	Canada	bibliography	1	3.2
+	/mods/subject/topic	Biography	bibliography	2	3.2
+	/mods/classification	598/.092	bibliography	1	3.2
+	/mods/classification/@authority	ddc	bibliography	1	3.2
+	/mods/classification/@edition	20	bibliography	1	3.2
+	/mods/identifier	1550650270 :	bibliography	3	3.2
+	/mods/identifier/@type	isbn	bibliography	1	3.2
+	/mods/identifier	2130552	bibliography	3	3.2
+	/mods/identifier/@type	local:neos	bibliography	1	3.2
+	/mods/identifier	9092	bibliography	3	3.2
+	/mods/identifier/@type	local:peel3	bibliography	1	3.2
+	/mods/recordInfo		bibliography	1	3.2
+	/mods/recordInfo/recordContentSource	CaOONL	bibliography	2	3.2
+	/mods/recordInfo/recordContentSource/@authority	marcorg	bibliography	1	3.2
+	/mods/recordInfo/recordContentSource	RC	bibliography	2	3.2
+	/mods/recordInfo/recordContentSource/@authority	local:person	bibliography	1	3.2
+	/mods/recordInfo/recordCreationDate	2008-09-10T15:48:19-0600	bibliography	1	3.2
+	/mods/recordInfo/recordIdentifier	P009092	bibliography	1	3.2
+	/mods/recordInfo/recordChangeDate	2010-03-27T08:49:22-0600	bibliography	1	3.2
+	/@mods	
+
+Restless energy
+A biography of William Rowan, 1891-1957
+
+
+Ainley, Marianne Gosztonyi
+1937-
+
+text
+bibliography
+
+
+quc
+
+
+Montreal
+
+Véhicule Press
+1993
+monographic
+
+
+eng
+
+
+print
+368 p. : ill. ; 25 cm.
+
+Includes bibliographical references and index.
+uahistory
+DOA: 1920 Spatial: Edmonton (Alta.)
+Biography of an University of Alberta botanist.
+
+				n-cn---
+			
+
+				
+Rowan, William
+1891-1957
+
+			
+
+				Ornithologists
+			
+				Canada
+			
+				Biography
+			
+
+				Conservationists
+			
+				Canada
+			
+				Biography
+			
+
+				Educators
+			
+				Canada
+			
+				Biography
+			
+598/.092
+1550650270 :
+2130552
+9092
+
+CaOONL
+RC
+2008-09-10T15:48:19-0600
+P009092
+2010-03-27T08:49:22-0600
+
+	bibliography	1	3.2
+	

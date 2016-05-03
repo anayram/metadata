@@ -1,0 +1,75 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods		journal issue	1	
+	/mods/titleInfo		journal issue	1	
+	/mods/titleInfo/title	Evergreen and gold	journal issue	1	
+	/mods/titleInfo/subTitle	the annual publication of the students of the University of Alberta	journal issue	1	
+	/mods/name		journal issue	1	
+	/mods/name/@type	corporate	journal issue	1	
+	/mods/name/namePart	University of Alberta	journal issue	1	
+	/mods/name/role		journal issue	1	
+	/mods/name/role/roleTerm	creator	journal issue	1	
+	/mods/name/role/roleTerm/@authority	marcrelator	journal issue	1	
+	/mods/name/role/roleTerm/@type	text	journal issue	1	
+	/mods/typeOfResource	text	journal issue	1	
+	/mods/language		journal issue	1	
+	/mods/language/languageTerm	English	journal issue	1	
+	/mods/classification	LE 3 A65E	journal issue	1	
+	/mods/classification/@authority	lcc	journal issue	1	
+	/mods/originInfo		journal issue	1	
+	/mods/originInfo/dateIssued	1925/1926	journal issue	1	
+	/mods/relatedItem		journal issue	1	
+	/mods/relatedItem/@type	host	journal issue	1	
+	/mods/relatedItem/identifier	9022	journal issue	1	
+	/mods/relatedItem/identifier/@type	local	journal issue	1	
+	/mods/part		journal issue	1	
+	/mods/part/detail		journal issue	1	
+	/mods/part/detail/@type	volume	journal issue	1	
+	/mods/part/detail/number	6	journal issue	1	
+	/mods/part/date	1925/1926	journal issue	1	
+	/mods/genre	journal issue	journal issue	1	
+	/mods/identifier	9022.6	journal issue	1	
+	/mods/identifier/@type	local:peel3	journal issue	1	
+	/mods/recordInfo		journal issue	1	
+	/mods/recordInfo/recordIdentifier	P009022.6	journal issue	1	
+	/mods/recordInfo/recordOrigin		journal issue	1	
+	/mods/recordInfo/recordOrigin/peel3	9022.6	journal issue	1	
+	/mods/recordInfo/recordOrigin/peelnew	6776	journal issue	1	
+	/@mods	
+
+		Evergreen and gold
+		the annual publication of the students of the University of Alberta
+	
+
+		University of Alberta
+		
+			creator
+		
+	
+text
+
+		English
+	
+LE 3 A65E
+
+1925/1926
+
+
+9022
+
+
+			
+				6
+			
+			1925/1926
+		
+journal issue
+9022.6
+
+			P009022.6
+			
+				9022.6
+				6776
+			
+		
+	journal issue	1	
+	

@@ -1,0 +1,162 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	Economic survey of the city of Edmonton		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	corporate		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA002949		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Alberta. Department of Economic Affairs		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.2		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	corporate		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA002950		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Alberta. Industrial Development Branch		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	Edmonton		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	[Department of Economic Affairs]		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1950		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued/@qualifier	inferred		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	English		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	104 p., maps.; 33 cm.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	Historical highlights, population statistics, law enforcement and regulations, as well as lists of clubs, societies, social services, businesses, schools, hotels, and unions in Edmonton.		5	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	public		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	sponsored		5	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	local:oaiset		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	sponsored.boardofgovernors		5	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	local:oaiset		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	boardofgovernors		5	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	local:sponsorcode		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	Mr. Ove Minsos, Member of the Board, 2010-2014		5	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	local:dedicationinfo		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000910		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Cities and towns		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000910		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Villes		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	Other		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS001242		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Edmonton, Alberta--Economic conditions		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	Other		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS001247		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Edmonton, Alberta--History		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	Other		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS001259		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Edmonton, Alberta--Statistics		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1950		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@type	host		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/titleInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/titleInfo/title	University of Alberta Board of Governors Collection		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/note	University of Alberta Board of Governors		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/note/@type	local:sponsor		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	7166		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	7158		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel-procite-id		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	jhuck		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P007166		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordChangeDate	2014-05-08T11:39:19-0600		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+
+Economic survey of the city of Edmonton
+
+
+Alberta. Department of Economic Affairs
+
+author
+
+
+
+Alberta. Industrial Development Branch
+
+author
+
+
+text
+
+
+Edmonton
+
+[Department of Economic Affairs]
+1950
+
+
+English
+
+
+print
+104 p., maps.; 33 cm.
+
+Historical highlights, population statistics, law enforcement and regulations, as well as lists of clubs, societies, social services, businesses, schools, hotels, and unions in Edmonton.
+sponsored
+sponsored.boardofgovernors
+boardofgovernors
+Mr. Ove Minsos, Member of the Board, 2010-2014
+
+				Cities and towns
+			
+
+				Villes
+			
+
+				Edmonton, Alberta--Economic conditions
+			
+
+				Edmonton, Alberta--History
+			
+
+				Edmonton, Alberta--Statistics
+			
+
+				1950
+			
+
+
+University of Alberta Board of Governors Collection
+
+University of Alberta Board of Governors
+
+7166
+7158
+
+Peel's Prairie Portal
+jhuck
+2003-01-01T12:00:00-0700
+P007166
+2014-05-08T11:39:19-0600
+
+		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

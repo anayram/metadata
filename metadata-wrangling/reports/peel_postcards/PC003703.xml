@@ -1,0 +1,170 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		fsalehi	PC003703	postcards	1	3.2
+	/mods/@version	3.2	fsalehi	PC003703	postcards	1	3.2
+	/mods/titleInfo		fsalehi	PC003703	postcards	1	3.2
+	/mods/titleInfo/@lang	english	fsalehi	PC003703	postcards	1	3.2
+	/mods/titleInfo/title	View of Gleichen, Alta.	fsalehi	PC003703	postcards	1	3.2
+	/mods/name		fsalehi	PC003703	postcards	2	3.2
+	/mods/name/@type	corporate	fsalehi	PC003703	postcards	1	3.2
+	/mods/name/namePart	C. S. Co., Ltd.	fsalehi	PC003703	postcards	1	3.2
+	/mods/name/role		fsalehi	PC003703	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	fsalehi	PC003703	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC003703	postcards	1	3.2
+	/mods/name		fsalehi	PC003703	postcards	2	3.2
+	/mods/name/@type	personal	fsalehi	PC003703	postcards	1	3.2
+	/mods/name/namePart	Wilkie	fsalehi	PC003703	postcards	1	3.2
+	/mods/name/namePart/@type	family	fsalehi	PC003703	postcards	1	3.2
+	/mods/name/role		fsalehi	PC003703	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	fsalehi	PC003703	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC003703	postcards	1	3.2
+	/mods/typeOfResource	still image	fsalehi	PC003703	postcards	1	3.2
+	/mods/genre	postcards	fsalehi	PC003703	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	fsalehi	PC003703	postcards	1	3.2
+	/mods/originInfo		fsalehi	PC003703	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	fsalehi	PC003703	postcards	1	3.2
+	/mods/originInfo/publisher	C. S. Co., Ltd., Winnipeg; Published by Wilkie, Gleichen, Alta.	fsalehi	PC003703	postcards	1	3.2
+	/mods/originInfo/dateIssued	ca. 1909	fsalehi	PC003703	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	inferred	fsalehi	PC003703	postcards	1	3.2
+	/mods/originInfo/place		fsalehi	PC003703	postcards	2	3.2
+	/mods/originInfo/place/placeTerm	Winnipeg	fsalehi	PC003703	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC003703	postcards	1	3.2
+	/mods/originInfo/place		fsalehi	PC003703	postcards	2	3.2
+	/mods/originInfo/place/placeTerm	Gleichen	fsalehi	PC003703	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC003703	postcards	1	3.2
+	/mods/language		fsalehi	PC003703	postcards	1	3.2
+	/mods/language/languageTerm	English	fsalehi	PC003703	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	fsalehi	PC003703	postcards	1	3.2
+	/mods/physicalDescription		fsalehi	PC003703	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : sepia ; 9 x 14 cm.	fsalehi	PC003703	postcards	1	3.2
+	/mods/note	35	fsalehi	PC003703	postcards	5	3.2
+	/mods/note/@type	price	fsalehi	PC003703	postcards	1	3.2
+	/mods/note	false	fsalehi	PC003703	postcards	5	3.2
+	/mods/note/@type	notable	fsalehi	PC003703	postcards	1	3.2
+	/mods/note	false	fsalehi	PC003703	postcards	5	3.2
+	/mods/note/@type	imgprobs	fsalehi	PC003703	postcards	1	3.2
+	/mods/note	[printer's] No. 298	fsalehi	PC003703	postcards	5	3.2
+	/mods/note/@type	public_on_back	fsalehi	PC003703	postcards	1	3.2
+	/mods/note	Bird's eye view of a commercial street in Gleichen, Alberta. Street scene features numerous human figures, stores and horse-drawn carriages.	fsalehi	PC003703	postcards	5	3.2
+	/mods/note/@type	public_description	fsalehi	PC003703	postcards	1	3.2
+	/mods/subject		fsalehi	PC003703	postcards	8	3.2
+	/mods/subject/geographic	Gleichen, AB	fsalehi	PC003703	postcards	1	3.2
+	/mods/subject		fsalehi	PC003703	postcards	8	3.2
+	/mods/subject/hierarchicalGeographic		fsalehi	PC003703	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	fsalehi	PC003703	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	fsalehi	PC003703	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Gleichen	fsalehi	PC003703	postcards	1	3.2
+	/mods/subject		fsalehi	PC003703	postcards	8	3.2
+	/mods/subject/genre	Postcards	fsalehi	PC003703	postcards	1	3.2
+	/mods/subject		fsalehi	PC003703	postcards	8	3.2
+	/mods/subject/topic	Commercial streets	fsalehi	PC003703	postcards	1	3.2
+	/mods/subject		fsalehi	PC003703	postcards	8	3.2
+	/mods/subject/topic	Stores & shops	fsalehi	PC003703	postcards	1	3.2
+	/mods/subject		fsalehi	PC003703	postcards	8	3.2
+	/mods/subject/topic	City & town life	fsalehi	PC003703	postcards	1	3.2
+	/mods/subject		fsalehi	PC003703	postcards	8	3.2
+	/mods/subject/topic	Carriages & coaches	fsalehi	PC003703	postcards	1	3.2
+	/mods/subject		fsalehi	PC003703	postcards	8	3.2
+	/mods/subject/topic	Business districts	fsalehi	PC003703	postcards	1	3.2
+	/mods/identifier	PC003703	fsalehi	PC003703	postcards	1	3.2
+	/mods/identifier/@type	local	fsalehi	PC003703	postcards	1	3.2
+	/mods/location		fsalehi	PC003703	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 1	fsalehi	PC003703	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC003703.html	fsalehi	PC003703	postcards	3	3.2
+	/mods/location/url/@access	object in context	fsalehi	PC003703	postcards	1	3.2
+	/mods/location/url/@usage	primary display	fsalehi	PC003703	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/003/web/PC003703.jpg	fsalehi	PC003703	postcards	3	3.2
+	/mods/location/url/@access	raw object	fsalehi	PC003703	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='520' 	fsalehi	PC003703	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/003/thumbs/PC003703.jpg	fsalehi	PC003703	postcards	3	3.2
+	/mods/location/url/@access	preview	fsalehi	PC003703	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='130'	fsalehi	PC003703	postcards	1	3.2
+	/mods/recordInfo		fsalehi	PC003703	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	fsalehi	PC003703	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC003703	fsalehi	PC003703	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	fsalehi	fsalehi	PC003703	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2008-03-05T14:28:20-0700	fsalehi	PC003703	postcards	1	3.2
+	/@mods	
+
+View of Gleichen, Alta.
+
+
+C. S. Co., Ltd.
+
+Publisher
+
+
+
+Wilkie
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+C. S. Co., Ltd., Winnipeg; Published by Wilkie, Gleichen, Alta.
+ca. 1909
+
+Winnipeg
+
+
+Gleichen
+
+
+
+English
+
+
+1 postcard : sepia ; 9 x 14 cm.
+
+35
+false
+false
+[printer's] No. 298
+Bird's eye view of a commercial street in Gleichen, Alberta. Street scene features numerous human figures, stores and horse-drawn carriages.
+
+Gleichen, AB
+
+
+
+Canada
+Alberta
+Gleichen
+
+
+
+Postcards
+
+
+Commercial streets
+
+
+Stores & shops
+
+
+City & town life
+
+
+Carriages & coaches
+
+
+Business districts
+
+PC003703
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 1
+http://peel.library.ualberta.ca/postcards/PC003703.html
+http://peel.library.ualberta.ca/pcimages/PC/003/web/PC003703.jpg
+http://peel.library.ualberta.ca/pcimages/PC/003/thumbs/PC003703.jpg
+
+
+
+
+2007-06-25T16:49:56-0600
+PC003703
+fsalehi
+2008-03-05T14:28:20-0700
+
+	fsalehi	PC003703	postcards	1	3.2
+	

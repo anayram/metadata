@@ -1,0 +1,105 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	Study group features		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA003228		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Aberhart, William		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	1878-1943.		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart/@type	date		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/description	1878-1943. From Ontario to Calgary, 1910; taught public and high school in Calgary, 1910-1935; taught Sunday school class which became the Prophetic Bible Institute, opened in 1927; leader of the Social Credit party and premier of Alberta 1935-1943 (<i>Edmonton Bulletin</i>, May 24, 1943; Wallace, <i>Dictionary of Canadian biography</i>).		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	Calgary		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	[Calgary Prophetic Bible Institute]		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1932-1933		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	English		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	[12] p.; 22 cm.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	Originally issued as separate leaflets published from 1932 to 1933. Titles in the series: 1. "The present methods of business"; 2. "The social credit concept"; 3. "Purchasing power in the hands of the consumers"; 4. "The necessary flow of credit or; where will all the money come from?"; and 5. "The perfect cycle." Numbers 1-4, 2 pages each; number 5, 4 pages. These leaflets, popularly known as the "white leaflets," were widely distributed and important in propagating the social credit theory. For a description of the role these leaflets played, <i>see </i>John A. Irving, <i>The Social Credit movement in Alberta </i>(Toronto: University of Toronto Press, 1959), pages 52-53. <i>See also </i>Peel <xref>5659</xref> and <xref>5660</xref>.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	public		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Politics and Government--Alberta		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000165		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Alberta--Politics and government		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1932		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	3325		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel2		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	5597		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	5591		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel-procite-id		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P005597		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordChangeDate	2012-04-23T07:27:22-0600		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	RC		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+
+Study group features
+
+
+Aberhart, William
+1878-1943.
+
+author
+
+1878-1943. From Ontario to Calgary, 1910; taught public and high school in Calgary, 1910-1935; taught Sunday school class which became the Prophetic Bible Institute, opened in 1927; leader of the Social Credit party and premier of Alberta 1935-1943 (<i>Edmonton Bulletin</i>, May 24, 1943; Wallace, <i>Dictionary of Canadian biography</i>).
+
+text
+
+
+Calgary
+
+[Calgary Prophetic Bible Institute]
+1932-1933
+
+
+English
+
+
+print
+[12] p.; 22 cm.
+
+Originally issued as separate leaflets published from 1932 to 1933. Titles in the series: 1. "The present methods of business"; 2. "The social credit concept"; 3. "Purchasing power in the hands of the consumers"; 4. "The necessary flow of credit or; where will all the money come from?"; and 5. "The perfect cycle." Numbers 1-4, 2 pages each; number 5, 4 pages. These leaflets, popularly known as the "white leaflets," were widely distributed and important in propagating the social credit theory. For a description of the role these leaflets played, <i>see </i>John A. Irving, <i>The Social Credit movement in Alberta </i>(Toronto: University of Toronto Press, 1959), pages 52-53. <i>See also </i>Peel <xref>5659</xref> and <xref>5660</xref>.
+
+				Politics and Government--Alberta
+			
+
+				Alberta--Politics and government
+			
+
+				1932
+			
+3325
+5597
+5591
+
+Peel's Prairie Portal
+2003-01-01T12:00:00-0700
+P005597
+2012-04-23T07:27:22-0600
+RC
+
+		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

@@ -1,0 +1,271 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.3		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@schemaLocation	http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	Alberta horse, cattle and sheep brands		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA001365		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	corporate		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Alberta. Department of Agriculture		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo			1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	Edmonton		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	Department of Agriculture		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1937		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	English		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription			1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	[various pagings] illus.; 20 cm.		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	Also published, Alberta. Brand Office, <i>Alberta horse, cattle and sheep brands: Also tattoo marks for fur-bearing animals and poultry </i>, Edmonton: Queen's Printer, 1947 (503, cxxxp.).		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	public		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			9	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	Other		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000508		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Brands		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			9	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000508		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Livestock brands		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			9	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000508		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Bétail--Marques		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			9	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002621		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Livestock		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			9	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002621		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Bétail		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			9	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	Other		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003778		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Ranches--Laws, legislation, regulations, etc.		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			9	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003778		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Ranches--Law and legislation		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			9	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003778		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Ranchs--Droit--Législation		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			9	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1937		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem			4	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@ID	relatedItem.1		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@type	constituent		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part			1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/detail			2	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/detail/@type	volume		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/detail/number			1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/detail/caption			1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/detail			2	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/detail/@type	issue		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/detail/number			1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/detail/caption	Suppl.		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/date	1914		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/date/@encoding	iso8601		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/recordInfo			1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/recordInfo/recordIdentifier	N007375		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem			4	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@ID	relatedItem.2		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@type	constituent		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part			1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/detail			2	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/detail/@type	volume		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/detail/number			1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/detail/caption			1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/detail			2	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/detail/@type	issue		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/detail/number			1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/detail/caption			1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/date	1915		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/date/@encoding	iso8601		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/recordInfo			1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/recordInfo/recordIdentifier	N007376		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem			4	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@ID	relatedItem.3		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@type	constituent		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part			1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/detail			2	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/detail/@type	volume		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/detail/number			1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/detail/caption			1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/detail			2	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/detail/@type	issue		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/detail/number			1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/detail/caption			1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/date	1916/1917/1918		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/date/@encoding	iso8601		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/recordInfo			1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/recordInfo/recordIdentifier	N007377		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem			4	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@ID	relatedItem.4		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@type	constituent		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part			1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/detail			2	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/detail/@type	volume		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/detail/number			1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/detail/caption			1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/detail			2	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/detail/@type	issue		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/detail/number			1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/detail/caption			1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/date	1919/1920		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/date/@encoding	iso8601		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/recordInfo			1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/recordInfo/recordIdentifier	N007378		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	6064		2	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	6058		2	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel-procite-id		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo			1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P006064		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+	
+		Alberta horse, cattle and sheep brands
+	
+	
+		Alberta. Department of Agriculture
+		
+			author
+		
+	
+	text
+	
+		
+			Edmonton
+		
+		Department of Agriculture
+		1937
+	
+	
+		English
+	
+	
+		print
+		[various pagings] illus.; 20 cm.
+	
+	Also published, Alberta. Brand Office, <i>Alberta horse, cattle and sheep brands: Also tattoo marks for fur-bearing animals and poultry </i>, Edmonton: Queen's Printer, 1947 (503, cxxxp.).
+	
+		Brands
+	
+	
+		Livestock brands
+	
+	
+		Bétail--Marques
+	
+	
+		Livestock
+	
+	
+		Bétail
+	
+	
+		Ranches--Laws, legislation, regulations, etc.
+	
+	
+		Ranches--Law and legislation
+	
+	
+		Ranchs--Droit--Législation
+	
+	
+		1937
+	
+	
+		
+			
+				
+				
+			
+			
+				
+				Suppl.
+			
+			1914
+		
+		
+			N007375
+		
+	
+	
+		
+			
+				
+				
+			
+			
+				
+				
+			
+			1915
+		
+		
+			N007376
+		
+	
+	
+		
+			
+				
+				
+			
+			
+				
+				
+			
+			1916/1917/1918
+		
+		
+			N007377
+		
+	
+	
+		
+			
+				
+				
+			
+			
+				
+				
+			
+			1919/1920
+		
+		
+			N007378
+		
+	
+	6064
+	6058
+	
+		Peel's Prairie Portal
+		P006064
+		2003-01-01T12:00:00-0700
+	
+		1	3.3
+http://peel.library.ualberta.ca/bibliography/.html	

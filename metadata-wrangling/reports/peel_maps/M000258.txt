@@ -1,0 +1,118 @@
+Path	Content	URL	Form or Genre	Occurrence	MODS version
+
+/mods/titleInfo		http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	1	3.3
+/mods/titleInfo/title	Part of Oiseau River mineralized area, township 17, range 15, east of principal meridian, southeast Manitoba	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	1	3.3
+
+/mods/name		http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	2	3.3
+/mods/name/@type	corporate	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	1	3.3
+/mods/name/namePart	Geological Survey of Canada	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	1	3.3
+
+/mods/name		http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	2	3.3
+/mods/name/@type	personal	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	1	3.3
+/mods/name/namePart	Wright, J. F.	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	1	3.3
+
+/mods/typeOfResource	cartographic	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	1	3.3
+
+/mods/genre	map	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	3	3.3
+/mods/genre/@authority	marcgt	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	1	3.3
+
+/mods/genre	Digital maps	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	3	3.3
+/mods/genre/@authority	lcgft	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	1	3.3
+
+/mods/genre	Geological maps	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	3	3.3
+/mods/genre/@authority	lcgft	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	1	3.3
+
+/mods/originInfo		http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	1	3.3
+/mods/originInfo/place		http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	1	3.3
+/mods/originInfo/place/placeTerm	Ottawa	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	1	3.3
+/mods/originInfo/place/placeTerm/@type	text	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	1	3.3
+/mods/originInfo/publisher	Geological Survey of Canada	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	1	3.3
+/mods/originInfo/dateIssued	1924	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	1	3.3
+
+/mods/language		http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	1	3.3
+/mods/language/languageTerm	English	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	1	3.3
+/mods/language/languageTerm/@type	text	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	1	3.3
+
+/mods/physicalDescription		http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	1	3.3
+/mods/physicalDescription/form		http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	1	3.3
+/mods/physicalDescription/extent	1 map : col. ; 16 x 31.6 cm. on sheet 24.1 x 42.9 cm.	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	1	3.3
+
+/mods/note	Fig. 1 to accompany report by J.F. Wright in Summary Report, Part B, 1924.	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	7	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	1	3.3
+
+/mods/note	Part of NTS 52L.	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	7	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	1	3.3
+
+/mods/note	peelmaps	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	7	3.3
+/mods/note/@type	local:oaiset	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	1	3.3
+
+/mods/note	1	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	7	3.3
+/mods/note/@type	local:sheetcount	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	1	3.3
+
+/mods/note	24.1 x 42.9 cm.	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	7	3.3
+/mods/note/@type	local:sheetsize	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	1	3.3
+
+/mods/note	24.1	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	7	3.3
+/mods/note/@type	local:sheetlength	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	1	3.3
+
+/mods/note	42.9	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	7	3.3
+/mods/note/@type	local:sheetwidth	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	1	3.3
+
+	/mods/subject		http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	5	3.3
+/mods/subject/@authority	lcsh	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	1	3.3
+/mods/subject/@lang	eng	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	1	3.3
+/mods/subject/topic	Geology	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	1	3.3
+/mods/subject/geographic	Manitoba	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	1	3.3
+
+	/mods/subject		http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	5	3.3
+/mods/subject/@authority	lcsh	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	1	3.3
+/mods/subject/@lang	eng	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	1	3.3
+/mods/subject/geographic	Bird River (Ont. and Man.)	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	1	3.3
+
+	/mods/subject		http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	5	3.3
+/mods/subject/@authority	lcsh	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	1	3.3
+/mods/subject/@lang	eng	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	1	3.3
+/mods/subject/geographic	Manitoba	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	5	3.3
+/mods/subject/temporal	1924	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	5	3.3
+/mods/subject/cartographics		http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	1	3.3
+/mods/subject/cartographics/coordinates	w0954046/n0502446	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	1	3.3
+/mods/subject/cartographics/scale	ca. 1:16,000	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	1	3.3
+
+/mods/classification	Manitoba C-34	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	1	3.3
+
+/mods/identifier	2800	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	5	3.3
+/mods/identifier/@type	local:mapsproject	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	1	3.3
+
+/mods/identifier	AAA-2888	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	5	3.3
+/mods/identifier/@type	local:mapsdb	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	1	3.3
+
+/mods/identifier	2800.xml	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	5	3.3
+/mods/identifier/@type	local:mapsproject_filename	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	1	3.3
+
+
+                
+                /mods/identifier	M000258	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	5	3.3
+/mods/identifier/@type	local:peel3	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	1	3.3
+
+                /mods/identifier	N018885	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	5	3.3
+/mods/identifier/@type	local:old_peel_new	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	1	3.3
+
+                
+            /mods/location		http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	1	3.3
+/mods/location/physicalLocation	UA Cameron Staff Access-Maps	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	1	3.3
+/mods/location/url	http://peel.library.ualberta.ca/maps/M/00/02/M000258/M000258.tif	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	1	3.3
+/mods/location/url/@access	raw object	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	1	3.3
+/mods/location/url/@note	width='5315' height='2918'	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	1	3.3
+
+/mods/recordInfo		http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	1	3.3
+/mods/recordInfo/recordContentSource	mapsproject	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	2	3.3
+/mods/recordInfo/recordContentSource/@authority	local:project	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	1	3.3
+/mods/recordInfo/recordContentSource	sfarnel	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	2	3.3
+/mods/recordInfo/recordContentSource/@authority	local:person	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	1	3.3
+/mods/recordInfo/recordIdentifier	M000258	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	1	3.3
+/mods/recordInfo/recordChangeDate	2010-11-24T08:58:00-0700	http://peel.library.ualberta.ca/maps/M000258.html	map Digital maps Geological maps 	1	3.3
+

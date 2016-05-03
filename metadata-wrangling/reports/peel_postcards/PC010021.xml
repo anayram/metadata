@@ -1,0 +1,173 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		fsalehi	PC010021	postcards	1	3.2
+	/mods/@version	3.2	fsalehi	PC010021	postcards	1	3.2
+	/mods/titleInfo		fsalehi	PC010021	postcards	1	3.2
+	/mods/titleInfo/@lang	english	fsalehi	PC010021	postcards	1	3.2
+	/mods/titleInfo/title	Upper Hot Springs, Banff, Canadian Rockies	fsalehi	PC010021	postcards	1	3.2
+	/mods/name		fsalehi	PC010021	postcards	1	3.2
+	/mods/name/@type	corporate	fsalehi	PC010021	postcards	1	3.2
+	/mods/name/namePart	The Valentine & Sons Publishing Co., Ltd.	fsalehi	PC010021	postcards	1	3.2
+	/mods/name/role		fsalehi	PC010021	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	fsalehi	PC010021	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC010021	postcards	1	3.2
+	/mods/typeOfResource	still image	fsalehi	PC010021	postcards	1	3.2
+	/mods/genre	postcards	fsalehi	PC010021	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	fsalehi	PC010021	postcards	1	3.2
+	/mods/originInfo		fsalehi	PC010021	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	fsalehi	PC010021	postcards	1	3.2
+	/mods/originInfo/publisher	The Valentine & Son Publishing Co., Ltd., Montreal and Toronto	fsalehi	PC010021	postcards	1	3.2
+	/mods/originInfo/dateIssued	19-	fsalehi	PC010021	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	inferred	fsalehi	PC010021	postcards	1	3.2
+	/mods/originInfo/place		fsalehi	PC010021	postcards	2	3.2
+	/mods/originInfo/place/placeTerm	Montreal	fsalehi	PC010021	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC010021	postcards	1	3.2
+	/mods/originInfo/place		fsalehi	PC010021	postcards	2	3.2
+	/mods/originInfo/place/placeTerm	Toronto	fsalehi	PC010021	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC010021	postcards	1	3.2
+	/mods/language		fsalehi	PC010021	postcards	1	3.2
+	/mods/language/languageTerm	English	fsalehi	PC010021	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	fsalehi	PC010021	postcards	1	3.2
+	/mods/physicalDescription		fsalehi	PC010021	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : col. ; 9 x 14 cm.	fsalehi	PC010021	postcards	1	3.2
+	/mods/note	8	fsalehi	PC010021	postcards	5	3.2
+	/mods/note/@type	price	fsalehi	PC010021	postcards	1	3.2
+	/mods/note	false	fsalehi	PC010021	postcards	5	3.2
+	/mods/note/@type	notable	fsalehi	PC010021	postcards	1	3.2
+	/mods/note	true	fsalehi	PC010021	postcards	5	3.2
+	/mods/note/@type	imgprobs	fsalehi	PC010021	postcards	1	3.2
+	/mods/note	[printer's no.] 109950 (JV)	fsalehi	PC010021	postcards	5	3.2
+	/mods/note/@type	public_on_front	fsalehi	PC010021	postcards	1	3.2
+	/mods/note	Overlooking view of Upper Hot Springs bathhouse and Bow Valley.	fsalehi	PC010021	postcards	5	3.2
+	/mods/note/@type	public_description	fsalehi	PC010021	postcards	1	3.2
+	/mods/subject		fsalehi	PC010021	postcards	10	3.2
+	/mods/subject/geographic	Banff, AB	fsalehi	PC010021	postcards	1	3.2
+	/mods/subject		fsalehi	PC010021	postcards	10	3.2
+	/mods/subject/hierarchicalGeographic		fsalehi	PC010021	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	fsalehi	PC010021	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	fsalehi	PC010021	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city		fsalehi	PC010021	postcards	1	3.2
+	/mods/subject		fsalehi	PC010021	postcards	10	3.2
+	/mods/subject/genre	Postcards	fsalehi	PC010021	postcards	1	3.2
+	/mods/subject		fsalehi	PC010021	postcards	10	3.2
+	/mods/subject/topic	Bathhouses	fsalehi	PC010021	postcards	1	3.2
+	/mods/subject		fsalehi	PC010021	postcards	10	3.2
+	/mods/subject/topic	Springs	fsalehi	PC010021	postcards	1	3.2
+	/mods/subject		fsalehi	PC010021	postcards	10	3.2
+	/mods/subject/topic	Valleys	fsalehi	PC010021	postcards	1	3.2
+	/mods/subject		fsalehi	PC010021	postcards	10	3.2
+	/mods/subject/topic	Mountains	fsalehi	PC010021	postcards	1	3.2
+	/mods/subject		fsalehi	PC010021	postcards	10	3.2
+	/mods/subject/topic	Carriages & coaches	fsalehi	PC010021	postcards	1	3.2
+	/mods/subject		fsalehi	PC010021	postcards	10	3.2
+	/mods/subject/name		fsalehi	PC010021	postcards	1	3.2
+	/mods/subject/name/namePart	Banff National Park (Alta.)	fsalehi	PC010021	postcards	1	3.2
+	/mods/subject		fsalehi	PC010021	postcards	10	3.2
+	/mods/subject/name		fsalehi	PC010021	postcards	1	3.2
+	/mods/subject/name/namePart	Bow River Valley (Alta.)	fsalehi	PC010021	postcards	1	3.2
+	/mods/identifier	PC010021	fsalehi	PC010021	postcards	1	3.2
+	/mods/identifier/@type	local	fsalehi	PC010021	postcards	1	3.2
+	/mods/location		fsalehi	PC010021	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 1	fsalehi	PC010021	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC010021.html	fsalehi	PC010021	postcards	3	3.2
+	/mods/location/url/@access	object in context	fsalehi	PC010021	postcards	1	3.2
+	/mods/location/url/@usage	primary display	fsalehi	PC010021	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/010/web/PC010021.jpg	fsalehi	PC010021	postcards	3	3.2
+	/mods/location/url/@access	raw object	fsalehi	PC010021	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='544' 	fsalehi	PC010021	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/010/thumbs/PC010021.jpg	fsalehi	PC010021	postcards	3	3.2
+	/mods/location/url/@access	preview	fsalehi	PC010021	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='136'	fsalehi	PC010021	postcards	1	3.2
+	/mods/recordInfo		fsalehi	PC010021	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2009-01-19T16:18:42-0700	fsalehi	PC010021	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC010021	fsalehi	PC010021	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	fsalehi	fsalehi	PC010021	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2009-04-23T12:50:50-0600	fsalehi	PC010021	postcards	1	3.2
+	/@mods	
+
+Upper Hot Springs, Banff, Canadian Rockies
+
+
+The Valentine & Sons Publishing Co., Ltd.
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+The Valentine & Son Publishing Co., Ltd., Montreal and Toronto
+19-
+
+
+
+Montreal
+
+
+Toronto
+
+
+
+English
+
+
+1 postcard : col. ; 9 x 14 cm.
+
+8
+false
+true
+[printer's no.] 109950 (JV)
+Overlooking view of Upper Hot Springs bathhouse and Bow Valley.
+
+Banff, AB
+
+
+
+Canada
+Alberta
+
+
+
+
+Postcards
+
+
+Bathhouses
+
+
+Springs
+
+
+Valleys
+
+
+Mountains
+
+
+Carriages & coaches
+
+
+
+Banff National Park (Alta.)
+
+
+
+
+Bow River Valley (Alta.)
+
+
+PC010021
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 1
+http://peel.library.ualberta.ca/postcards/PC010021.html
+http://peel.library.ualberta.ca/pcimages/PC/010/web/PC010021.jpg
+http://peel.library.ualberta.ca/pcimages/PC/010/thumbs/PC010021.jpg
+
+
+2009-01-19T16:18:42-0700
+PC010021
+fsalehi
+2009-04-23T12:50:50-0600
+
+	fsalehi	PC010021	postcards	1	3.2
+	

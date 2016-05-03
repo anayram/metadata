@@ -1,0 +1,100 @@
+Path	Content	URL	Form or Genre	Occurrence	MODS version
+
+    /mods/titleInfo		http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	2	3.2
+/mods/titleInfo/title	Métis	http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	1	3.2
+/mods/titleInfo/nonSort	Le 	http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	1	3.2
+
+    /mods/titleInfo		http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	2	3.2
+/mods/titleInfo/@type	uniform	http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	1	3.2
+/mods/titleInfo/title	Métis (Winnipeg, Man. : 1871)	http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	1	3.2
+
+
+    /mods/typeOfResource	text	http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	1	3.2
+
+/mods/genre	newspaper	http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	1	3.2
+/mods/genre/@authority	marcgt	http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	1	3.2
+
+/mods/originInfo		http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	1	3.2
+/mods/originInfo/place		http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	2	3.2
+/mods/originInfo/place/placeTerm	onc	http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@authority	marccountry	http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@type	code	http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	1	3.2
+/mods/originInfo/place		http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	2	3.2
+/mods/originInfo/place/placeTerm	St. Boniface [i.e. Winnipeg], Man.	http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@type	text	http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	1	3.2
+/mods/originInfo/publisher	[s.n.]	http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	1	3.2
+/mods/originInfo/dateIssued	1871-1881	http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	3	3.2
+/mods/originInfo/dateIssued	1871	http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	3	3.2
+/mods/originInfo/dateIssued/@encoding	marc	http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	1	3.2
+/mods/originInfo/dateIssued/@point	start	http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	1	3.2
+/mods/originInfo/dateIssued	1881	http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	3	3.2
+/mods/originInfo/dateIssued/@encoding	marc	http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	1	3.2
+/mods/originInfo/dateIssued/@point	end	http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	1	3.2
+/mods/originInfo/issuance	continuing	http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	1	3.2
+/mods/originInfo/frequency	Weekly	http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	1	3.2
+
+/mods/language		http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	1	3.2
+/mods/language/languageTerm	fre	http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	1	3.2
+/mods/language/languageTerm/@authority	iso639-2b	http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	1	3.2
+/mods/language/languageTerm/@type	code	http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	1	3.2
+
+/mods/physicalDescription		http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	1	3.2
+/mods/physicalDescription/form	print	http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	1	3.2
+/mods/physicalDescription/form/@authority	marcform	http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	1	3.2
+/mods/physicalDescription/extent	v. : ill.	http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	1	3.2
+
+/mods/note	Microfilm. [Ottawa] : Canadian Library Association Newspaper Microfilming Project, 1948. 2 microfilm reels ; 35 mm.	http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	3	3.2
+/mods/note/@type	reproduction	http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	1	3.2
+
+/mods/note	Weekly. Issued 1871 to 1881.	http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	3	3.2
+/mods/note/@type	public	http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	1	3.2
+
+/mods/note	newspapers	http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	3	3.2
+/mods/note/@type	local:oaiset	http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	1	3.2
+
+/mods/subject		http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	2	3.2
+/mods/subject/hierarchicalGeographic		http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/country	Canada	http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/province	Manitoba	http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	1	3.2
+
+/mods/subject		http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	2	3.2
+/mods/subject/hierarchicalGeographic		http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/country	Canada	http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/region	Northwestern Canada	http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	1	3.2
+
+/mods/relatedItem		http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	1	3.2
+/mods/relatedItem/@type	succeeding	http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	1	3.2
+/mods/relatedItem/titleInfo		http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	1	3.2
+/mods/relatedItem/titleInfo/title	Manitoba (1881)	http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	1	3.2
+/mods/relatedItem/identifier	1181-1439	http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	1	3.2
+/mods/relatedItem/identifier/@type	issn	http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	1	3.2
+
+/mods/identifier	1181-1412	http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	3	3.2
+/mods/identifier/@type	issn	http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	1	3.2
+
+/mods/identifier	358808	http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	3	3.2
+/mods/identifier/@type	local:neos	http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	1	3.2
+
+/mods/identifier	MTM	http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	3	3.2
+/mods/identifier/@type	local:newspaper	http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	1	3.2
+
+        /mods/location		http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	1	3.2
+/mods/location/physicalLocation	CaAEU	http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	1	3.2
+/mods/location/physicalLocation/@authority	marcorg	http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	1	3.2
+/mods/location/holdingSimple		http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation		http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/form	electronic	http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/form/@authority	marcform	http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/electronicLocator	http://peel.library.ualberta.ca/newspapers/MTM/	http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/enumerationAndChronology	1871-1881	http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/enumerationAndChronology/@unitType	1	http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	1	3.2
+
+/mods/recordInfo		http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	1	3.2
+/mods/recordInfo/recordContentSource	neos	http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	2	3.2
+/mods/recordInfo/recordContentSource/@authority	marcorg	http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	1	3.2
+/mods/recordInfo/recordContentSource	sfarnel	http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	2	3.2
+/mods/recordInfo/recordContentSource/@authority	local:person	http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	1	3.2
+/mods/recordInfo/recordCreationDate	2010-08-24T16:43:14-0600	http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	1	3.2
+/mods/recordInfo/recordIdentifier	QMTM	http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	1	3.2
+/mods/recordInfo/recordChangeDate	2010-08-24T16:43:30-0600	http://peel.library.ualberta.ca/newspapers/MTM.html	newspaper	1	3.2
+

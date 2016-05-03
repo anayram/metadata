@@ -1,0 +1,129 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods		bibliography	1	3.2
+	/mods/@version	3.2	bibliography	1	3.2
+	/mods/titleInfo		bibliography	2	3.2
+	/mods/titleInfo/title	inquiry into labor-management relations with reference to governmental position therein	bibliography	1	3.2
+	/mods/titleInfo/subTitle	A report prepared for the provincial government of the Province of Manitoba	bibliography	1	3.2
+	/mods/titleInfo/nonSort	An 	bibliography	1	3.2
+	/mods/titleInfo		bibliography	2	3.2
+	/mods/titleInfo/@type	alternative	bibliography	1	3.2
+	/mods/titleInfo/title	Labor-government-management relations	bibliography	1	3.2
+	/mods/name		bibliography	2	3.2
+	/mods/name/@type	personal	bibliography	1	3.2
+	/mods/name/namePart	Lougheed, William Foster	bibliography	2	3.2
+	/mods/name/namePart	1910-	bibliography	2	3.2
+	/mods/name/namePart/@type	date	bibliography	1	3.2
+	/mods/name		bibliography	2	3.2
+	/mods/name/@type	corporate	bibliography	1	3.2
+	/mods/name/namePart	Manitoba	bibliography	1	3.2
+	/mods/typeOfResource	text	bibliography	1	3.2
+	/mods/genre	bibliography	bibliography	1	3.2
+	/mods/genre/@authority	marcgt	bibliography	1	3.2
+	/mods/originInfo		bibliography	1	3.2
+	/mods/originInfo/place		bibliography	2	3.2
+	/mods/originInfo/place/placeTerm	mbc	bibliography	1	3.2
+	/mods/originInfo/place/placeTerm/@authority	marccountry	bibliography	1	3.2
+	/mods/originInfo/place/placeTerm/@type	code	bibliography	1	3.2
+	/mods/originInfo/place		bibliography	2	3.2
+	/mods/originInfo/place/placeTerm	Winnipeg	bibliography	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	bibliography	1	3.2
+	/mods/originInfo/publisher	Government of Manitoba	bibliography	1	3.2
+	/mods/originInfo/dateIssued	1943	bibliography	1	3.2
+	/mods/originInfo/issuance	monographic	bibliography	1	3.2
+	/mods/language		bibliography	1	3.2
+	/mods/language/languageTerm	English	bibliography	1	3.2
+	/mods/language/languageTerm/@authority	iso639-2b	bibliography	1	3.2
+	/mods/physicalDescription		bibliography	1	3.2
+	/mods/physicalDescription/form	print	bibliography	1	3.2
+	/mods/physicalDescription/form/@authority	marcform	bibliography	1	3.2
+	/mods/physicalDescription/extent	xi, 172 p. : tables ; 24 cm.	bibliography	1	3.2
+	/mods/note	Preface signed: W. F. Lougheed.	bibliography	4	3.2
+	/mods/note	Bibliography: p. [169]-172.	bibliography	4	3.2
+	/mods/note	DOA: 1943 Spatial: Manitoba Australia Great Britain United States New Zealand Sweden	bibliography	4	3.2
+	/mods/note/@type	local	bibliography	1	3.2
+	/mods/note	Cover title: <i>Labor-government-management relations</i>. Summary of labour laws in Canada and other jurisdictions, compiled to assist the Manitoba government in reviewing its own legislation.	bibliography	4	3.2
+	/mods/note/@type	public	bibliography	1	3.2
+	/mods/subject		bibliography	2	3.2
+	/mods/subject/@authority	lcsh	bibliography	1	3.2
+	/mods/subject/topic	Industrial relations	bibliography	1	3.2
+	/mods/subject		bibliography	2	3.2
+	/mods/subject/@authority	lcsh	bibliography	1	3.2
+	/mods/subject/topic	Labor laws and legislation	bibliography	1	3.2
+	/mods/classification	HD6971 L67	bibliography	1	3.2
+	/mods/classification/@authority	lcc	bibliography	1	3.2
+	/mods/identifier	44036318	bibliography	4	3.2
+	/mods/identifier/@type	lccn	bibliography	1	3.2
+	/mods/identifier	628494	bibliography	4	3.2
+	/mods/identifier/@type	local:neos	bibliography	1	3.2
+	/mods/identifier	N008860	bibliography	4	3.2
+	/mods/identifier/@type	local:peel_new	bibliography	1	3.2
+	/mods/identifier	9485	bibliography	4	3.2
+	/mods/identifier/@type	local:peel3	bibliography	1	3.2
+	/mods/recordInfo		bibliography	1	3.2
+	/mods/recordInfo/recordContentSource	LC	bibliography	2	3.2
+	/mods/recordInfo/recordContentSource/@authority	marcorg	bibliography	1	3.2
+	/mods/recordInfo/recordContentSource	RC	bibliography	2	3.2
+	/mods/recordInfo/recordContentSource/@authority	local:person	bibliography	1	3.2
+	/mods/recordInfo/recordCreationDate	2008-07-10T14:23:43-0600	bibliography	1	3.2
+	/mods/recordInfo/recordIdentifier	P009485	bibliography	1	3.2
+	/mods/recordInfo/recordChangeDate	2010-07-02T10:40:40-0600	bibliography	1	3.2
+	/@mods	
+
+inquiry into labor-management relations with reference to governmental position therein
+A report prepared for the provincial government of the Province of Manitoba
+An 
+
+
+Labor-government-management relations
+
+
+Lougheed, William Foster
+1910-
+
+
+Manitoba
+
+text
+bibliography
+
+
+mbc
+
+
+Winnipeg
+
+Government of Manitoba
+1943
+monographic
+
+
+English
+
+
+print
+xi, 172 p. : tables ; 24 cm.
+
+Preface signed: W. F. Lougheed.
+Bibliography: p. [169]-172.
+DOA: 1943 Spatial: Manitoba Australia Great Britain United States New Zealand Sweden
+Cover title: <i>Labor-government-management relations</i>. Summary of labour laws in Canada and other jurisdictions, compiled to assist the Manitoba government in reviewing its own legislation.
+
+				Industrial relations
+			
+
+				Labor laws and legislation
+			
+HD6971 L67
+44036318
+628494
+N008860
+9485
+
+LC
+RC
+2008-07-10T14:23:43-0600
+P009485
+2010-07-02T10:40:40-0600
+
+	bibliography	1	3.2
+	

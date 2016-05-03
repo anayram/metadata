@@ -1,0 +1,98 @@
+Path	Content	URL	Form or Genre	Occurrence	MODS version
+
+/mods/titleInfo		http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	2	3.2
+/mods/titleInfo/title	Daily Manitoban	http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	1	3.2
+
+/mods/titleInfo		http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	2	3.2
+/mods/titleInfo/@type	uniform	http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	1	3.2
+/mods/titleInfo/title	Daily Manitoban (Winnipeg, Man.)	http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	1	3.2
+
+/mods/typeOfResource	text	http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	1	3.2
+
+/mods/genre	newspaper	http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	1	3.2
+/mods/genre/@authority	marcgt	http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	1	3.2
+
+/mods/originInfo		http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	1	3.2
+/mods/originInfo/place		http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	2	3.2
+/mods/originInfo/place/placeTerm	xx	http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@authority	marccountry	http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@type	code	http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	1	3.2
+/mods/originInfo/place		http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	2	3.2
+/mods/originInfo/place/placeTerm	S.l	http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@type	text	http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	1	3.2
+/mods/originInfo/publisher	s.n.]	http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	1	3.2
+/mods/originInfo/dateIssued	1885	http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	2	3.2
+/mods/originInfo/dateIssued/@encoding	marc	http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	1	3.2
+/mods/originInfo/dateIssued/@point	start	http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	1	3.2
+/mods/originInfo/dateIssued	1887	http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	2	3.2
+/mods/originInfo/dateIssued/@encoding	marc	http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	1	3.2
+/mods/originInfo/dateIssued/@point	end	http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	1	3.2
+/mods/originInfo/issuance	continuing	http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	1	3.2
+
+/mods/language		http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	1	3.2
+/mods/language/languageTerm	eng	http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	1	3.2
+/mods/language/languageTerm/@authority	iso639-2b	http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	1	3.2
+/mods/language/languageTerm/@type	code	http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	1	3.2
+
+/mods/physicalDescription		http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	1	3.2
+/mods/physicalDescription/form	microfilm	http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	1	3.2
+/mods/physicalDescription/form/@authority	marcform	http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	1	3.2
+
+/mods/note	Original is daily edition of: Weekly Manitoban.	http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	3	3.2
+
+/mods/note	Original issued: Winnipeg, Man. : Acton Burrows, 1885-1887. Daily.	http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	3	3.2
+/mods/note/@type	original version	http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	1	3.2
+
+/mods/note	newspapers	http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	3	3.2
+/mods/note/@type	local:oaiset	http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	1	3.2
+
+/mods/subject		http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic		http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/country	Canada	http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/province	Manitoba	http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/city	Winnipeg	http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	1	3.2
+
+/mods/relatedItem		http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	4	3.2
+/mods/relatedItem/@type	original	http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	1	3.2
+/mods/relatedItem/originInfo		http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	1	3.2
+/mods/relatedItem/originInfo/publisher	Winnipeg, Man. : Acton Burrows, 1885-1887.	http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	1	3.2
+
+/mods/relatedItem		http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	4	3.2
+/mods/relatedItem/@type	preceding	http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	1	3.2
+/mods/relatedItem/titleInfo		http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	1	3.2
+/mods/relatedItem/titleInfo/title	Daily sun (Winnipeg, Man.)	http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	1	3.2
+/mods/relatedItem/originInfo		http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	1	3.2
+/mods/relatedItem/originInfo/publisher	[S.l. : s.n.]	http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	1	3.2
+
+/mods/relatedItem		http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	4	3.2
+/mods/relatedItem/@type	preceding	http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	1	3.2
+/mods/relatedItem/titleInfo		http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	1	3.2
+/mods/relatedItem/titleInfo/title	Winnipeg daily times	http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	1	3.2
+/mods/relatedItem/originInfo		http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	1	3.2
+/mods/relatedItem/originInfo/publisher	[Ottawa, Ont. : Canadian Library Association]	http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	1	3.2
+
+/mods/relatedItem		http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	4	3.2
+/mods/relatedItem/@type	succeeding	http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	1	3.2
+/mods/relatedItem/titleInfo		http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	1	3.2
+/mods/relatedItem/titleInfo/title	Morning call	http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	1	3.2
+/mods/relatedItem/originInfo		http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	1	3.2
+/mods/relatedItem/originInfo/publisher	[S.l. : s.n.]	http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	1	3.2
+
+/mods/identifier	000007506281	http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	2	3.2
+/mods/identifier/@type	local:amicus	http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	1	3.2
+
+/mods/identifier	DMB	http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	2	3.2
+/mods/identifier/@type	local:newspaper	http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	1	3.2
+
+/mods/location		http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	1	3.2
+/mods/location/physicalLocation	CaMWP	http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	1	3.2
+
+/mods/recordInfo		http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	1	3.2
+/mods/recordInfo/recordContentSource	CaOONLN	http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	2	3.2
+/mods/recordInfo/recordContentSource/@authority	marcorg	http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	1	3.2
+/mods/recordInfo/recordContentSource	sfarnel	http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	2	3.2
+/mods/recordInfo/recordContentSource/@authority	local:person	http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	1	3.2
+/mods/recordInfo/recordCreationDate	2010-01-15T11:47:39-0700	http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	1	3.2
+/mods/recordInfo/recordIdentifier	QDMB	http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	1	3.2
+/mods/recordInfo/recordChangeDate	2010-01-15T11:48:57-0700	http://peel.library.ualberta.ca/newspapers/DMB.html	newspaper	1	3.2
+

@@ -1,0 +1,158 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		bstearns	PC003705	postcards	1	3.2
+	/mods/@version	3.2	bstearns	PC003705	postcards	1	3.2
+	/mods/titleInfo		bstearns	PC003705	postcards	1	3.2
+	/mods/titleInfo/@lang	english	bstearns	PC003705	postcards	1	3.2
+	/mods/titleInfo/title	Canadian Bank of Commerce, Gleichen, Alta.	bstearns	PC003705	postcards	1	3.2
+	/mods/name		bstearns	PC003705	postcards	2	3.2
+	/mods/name/@type	corporate	bstearns	PC003705	postcards	1	3.2
+	/mods/name/namePart	C. S. Co., Ltd	bstearns	PC003705	postcards	1	3.2
+	/mods/name/role		bstearns	PC003705	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	bstearns	PC003705	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	bstearns	PC003705	postcards	1	3.2
+	/mods/name		bstearns	PC003705	postcards	2	3.2
+	/mods/name/@type	personal	bstearns	PC003705	postcards	1	3.2
+	/mods/name/namePart	Wilkie	bstearns	PC003705	postcards	1	3.2
+	/mods/name/namePart/@type	family	bstearns	PC003705	postcards	1	3.2
+	/mods/name/role		bstearns	PC003705	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	bstearns	PC003705	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	bstearns	PC003705	postcards	1	3.2
+	/mods/typeOfResource	still image	bstearns	PC003705	postcards	1	3.2
+	/mods/genre	postcards	bstearns	PC003705	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	bstearns	PC003705	postcards	1	3.2
+	/mods/originInfo		bstearns	PC003705	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	bstearns	PC003705	postcards	1	3.2
+	/mods/originInfo/publisher	C. S. Co., Ltd., Winnipeg; Published by Wilkie, Gleichen, Alta.	bstearns	PC003705	postcards	1	3.2
+	/mods/originInfo/dateIssued	1910	bstearns	PC003705	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	inferred	bstearns	PC003705	postcards	1	3.2
+	/mods/originInfo/place		bstearns	PC003705	postcards	2	3.2
+	/mods/originInfo/place/placeTerm	Winnipeg	bstearns	PC003705	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	bstearns	PC003705	postcards	1	3.2
+	/mods/originInfo/place		bstearns	PC003705	postcards	2	3.2
+	/mods/originInfo/place/placeTerm	Gleichen	bstearns	PC003705	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	bstearns	PC003705	postcards	1	3.2
+	/mods/language		bstearns	PC003705	postcards	1	3.2
+	/mods/language/languageTerm	English	bstearns	PC003705	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	bstearns	PC003705	postcards	1	3.2
+	/mods/physicalDescription		bstearns	PC003705	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : sepia ; 14 x 9 cm.	bstearns	PC003705	postcards	1	3.2
+	/mods/note	40	bstearns	PC003705	postcards	5	3.2
+	/mods/note/@type	price	bstearns	PC003705	postcards	1	3.2
+	/mods/note	false	bstearns	PC003705	postcards	5	3.2
+	/mods/note/@type	notable	bstearns	PC003705	postcards	1	3.2
+	/mods/note	true	bstearns	PC003705	postcards	5	3.2
+	/mods/note/@type	imgprobs	bstearns	PC003705	postcards	1	3.2
+	/mods/note	[printer's] No. 294	bstearns	PC003705	postcards	5	3.2
+	/mods/note/@type	public_description	bstearns	PC003705	postcards	1	3.2
+	/mods/note	Front and right side view of The Canadian Bank of Commerce, Gleichen, Alberta.	bstearns	PC003705	postcards	5	3.2
+	/mods/note/@type	public_description	bstearns	PC003705	postcards	1	3.2
+	/mods/subject		bstearns	PC003705	postcards	5	3.2
+	/mods/subject/geographic	Gleichen, AB	bstearns	PC003705	postcards	1	3.2
+	/mods/subject		bstearns	PC003705	postcards	5	3.2
+	/mods/subject/hierarchicalGeographic		bstearns	PC003705	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	bstearns	PC003705	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	bstearns	PC003705	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Gleichen	bstearns	PC003705	postcards	1	3.2
+	/mods/subject		bstearns	PC003705	postcards	5	3.2
+	/mods/subject/genre	Postcards	bstearns	PC003705	postcards	1	3.2
+	/mods/subject		bstearns	PC003705	postcards	5	3.2
+	/mods/subject/topic	Banks	bstearns	PC003705	postcards	1	3.2
+	/mods/subject		bstearns	PC003705	postcards	5	3.2
+	/mods/subject/name		bstearns	PC003705	postcards	1	3.2
+	/mods/subject/name/namePart	Canadian Bank of Commerce (Gleichen, Alta.)	bstearns	PC003705	postcards	1	3.2
+	/mods/identifier	PC003705	bstearns	PC003705	postcards	1	3.2
+	/mods/identifier/@type	local	bstearns	PC003705	postcards	1	3.2
+	/mods/location		bstearns	PC003705	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 1	bstearns	PC003705	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC003705.html	bstearns	PC003705	postcards	3	3.2
+	/mods/location/url/@access	object in context	bstearns	PC003705	postcards	1	3.2
+	/mods/location/url/@usage	primary display	bstearns	PC003705	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/003/web/PC003705.jpg	bstearns	PC003705	postcards	3	3.2
+	/mods/location/url/@access	raw object	bstearns	PC003705	postcards	1	3.2
+	/mods/location/url/@note	width='512' height='800' 	bstearns	PC003705	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/003/thumbs/PC003705.jpg	bstearns	PC003705	postcards	3	3.2
+	/mods/location/url/@access	preview	bstearns	PC003705	postcards	1	3.2
+	/mods/location/url/@note	width='128' height='200'	bstearns	PC003705	postcards	1	3.2
+	/mods/recordInfo		bstearns	PC003705	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	bstearns	PC003705	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC003705	bstearns	PC003705	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	bstearns	bstearns	PC003705	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2009-12-03T23:26:03-0700	bstearns	PC003705	postcards	1	3.2
+	/@mods	
+
+Canadian Bank of Commerce, Gleichen, Alta.
+
+
+C. S. Co., Ltd
+
+Publisher
+
+
+
+Wilkie
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+C. S. Co., Ltd., Winnipeg; Published by Wilkie, Gleichen, Alta.
+1910
+
+
+
+Winnipeg
+
+
+Gleichen
+
+
+
+English
+
+
+1 postcard : sepia ; 14 x 9 cm.
+
+40
+false
+true
+[printer's] No. 294
+Front and right side view of The Canadian Bank of Commerce, Gleichen, Alberta.
+
+Gleichen, AB
+
+
+
+Canada
+Alberta
+Gleichen
+
+
+
+Postcards
+
+
+Banks
+
+
+
+Canadian Bank of Commerce (Gleichen, Alta.)
+
+
+PC003705
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 1
+http://peel.library.ualberta.ca/postcards/PC003705.html
+http://peel.library.ualberta.ca/pcimages/PC/003/web/PC003705.jpg
+http://peel.library.ualberta.ca/pcimages/PC/003/thumbs/PC003705.jpg
+
+
+2007-06-25T16:49:56-0600
+PC003705
+bstearns
+2009-12-03T23:26:03-0700
+
+	bstearns	PC003705	postcards	1	3.2
+	

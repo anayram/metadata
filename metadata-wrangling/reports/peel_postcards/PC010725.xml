@@ -1,0 +1,156 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		bstearns	PC010725	postcards	1	3.2
+	/mods/@version	3.2	bstearns	PC010725	postcards	1	3.2
+	/mods/titleInfo		bstearns	PC010725	postcards	1	3.2
+	/mods/titleInfo/@lang	english	bstearns	PC010725	postcards	1	3.2
+	/mods/titleInfo/title	C.P.R. Bridge Lethbridge Alta.	bstearns	PC010725	postcards	1	3.2
+	/mods/name		bstearns	PC010725	postcards	1	3.2
+	/mods/name/@type	personal	bstearns	PC010725	postcards	1	3.2
+	/mods/name/namePart	Cross	bstearns	PC010725	postcards	2	3.2
+	/mods/name/namePart/@type	family	bstearns	PC010725	postcards	1	3.2
+	/mods/name/namePart	A.E.	bstearns	PC010725	postcards	2	3.2
+	/mods/name/namePart/@type	given	bstearns	PC010725	postcards	1	3.2
+	/mods/name/role		bstearns	PC010725	postcards	1	3.2
+	/mods/name/role/roleTerm	Photographer	bstearns	PC010725	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	bstearns	PC010725	postcards	1	3.2
+	/mods/typeOfResource	still image	bstearns	PC010725	postcards	1	3.2
+	/mods/genre	postcards	bstearns	PC010725	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	bstearns	PC010725	postcards	1	3.2
+	/mods/originInfo		bstearns	PC010725	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	bstearns	PC010725	postcards	1	3.2
+	/mods/originInfo/dateIssued	after 1909	bstearns	PC010725	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	inferred	bstearns	PC010725	postcards	1	3.2
+	/mods/originInfo/place		bstearns	PC010725	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	[Lethbridge]	bstearns	PC010725	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	bstearns	PC010725	postcards	1	3.2
+	/mods/language		bstearns	PC010725	postcards	1	3.2
+	/mods/language/languageTerm	English	bstearns	PC010725	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	bstearns	PC010725	postcards	1	3.2
+	/mods/physicalDescription		bstearns	PC010725	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : b&w ; 9 x 14 cm.	bstearns	PC010725	postcards	1	3.2
+	/mods/note	20	bstearns	PC010725	postcards	6	3.2
+	/mods/note/@type	price	bstearns	PC010725	postcards	1	3.2
+	/mods/note	false	bstearns	PC010725	postcards	6	3.2
+	/mods/note/@type	notable	bstearns	PC010725	postcards	1	3.2
+	/mods/note	true	bstearns	PC010725	postcards	6	3.2
+	/mods/note/@type	imgprobs	bstearns	PC010725	postcards	1	3.2
+	/mods/note	Written in ms.:[1 mile 97 feet long 314 feet high]	bstearns	PC010725	postcards	6	3.2
+	/mods/note/@type	public_on_front	bstearns	PC010725	postcards	1	3.2
+	/mods/note	[photographer's no.] 30	bstearns	PC010725	postcards	6	3.2
+	/mods/note/@type	public_on_front	bstearns	PC010725	postcards	1	3.2
+	/mods/note	A mid-distance view of the trestles of the C.P.R. Viaduct (also known as the High Level Bridge) in Lethbridge.	bstearns	PC010725	postcards	6	3.2
+	/mods/note/@type	public_description	bstearns	PC010725	postcards	1	3.2
+	/mods/subject		bstearns	PC010725	postcards	7	3.2
+	/mods/subject/geographic	Lethbridge, AB	bstearns	PC010725	postcards	1	3.2
+	/mods/subject		bstearns	PC010725	postcards	7	3.2
+	/mods/subject/hierarchicalGeographic		bstearns	PC010725	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	bstearns	PC010725	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	bstearns	PC010725	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city		bstearns	PC010725	postcards	1	3.2
+	/mods/subject		bstearns	PC010725	postcards	7	3.2
+	/mods/subject/genre	Postcards	bstearns	PC010725	postcards	1	3.2
+	/mods/subject		bstearns	PC010725	postcards	7	3.2
+	/mods/subject/topic	Railroad bridges	bstearns	PC010725	postcards	1	3.2
+	/mods/subject		bstearns	PC010725	postcards	7	3.2
+	/mods/subject/topic	Trestles	bstearns	PC010725	postcards	1	3.2
+	/mods/subject		bstearns	PC010725	postcards	7	3.2
+	/mods/subject/name		bstearns	PC010725	postcards	1	3.2
+	/mods/subject/name/namePart	C. P. R. Viaduct (Lethbridge, Alta.)	bstearns	PC010725	postcards	1	3.2
+	/mods/subject		bstearns	PC010725	postcards	7	3.2
+	/mods/subject/name		bstearns	PC010725	postcards	1	3.2
+	/mods/subject/name/namePart	High Level Bridge (Lethbridge, Alta.)	bstearns	PC010725	postcards	1	3.2
+	/mods/identifier	PC010725	bstearns	PC010725	postcards	1	3.2
+	/mods/identifier/@type	local	bstearns	PC010725	postcards	1	3.2
+	/mods/location		bstearns	PC010725	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 2	bstearns	PC010725	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC010725.html	bstearns	PC010725	postcards	3	3.2
+	/mods/location/url/@access	object in context	bstearns	PC010725	postcards	1	3.2
+	/mods/location/url/@usage	primary display	bstearns	PC010725	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/010/web/PC010725.jpg	bstearns	PC010725	postcards	3	3.2
+	/mods/location/url/@access	raw object	bstearns	PC010725	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='564' 	bstearns	PC010725	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/010/thumbs/PC010725.jpg	bstearns	PC010725	postcards	3	3.2
+	/mods/location/url/@access	preview	bstearns	PC010725	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='141'	bstearns	PC010725	postcards	1	3.2
+	/mods/recordInfo		bstearns	PC010725	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2009-01-19T16:18:42-0700	bstearns	PC010725	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC010725	bstearns	PC010725	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	bstearns	bstearns	PC010725	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2009-12-08T14:25:43-0700	bstearns	PC010725	postcards	1	3.2
+	/@mods	
+
+C.P.R. Bridge Lethbridge Alta.
+
+
+Cross
+A.E.
+
+Photographer
+
+
+still image
+postcards
+
+monographic
+after 1909
+
+
+[Lethbridge]
+
+
+
+English
+
+
+1 postcard : b&w ; 9 x 14 cm.
+
+20
+false
+true
+Written in ms.:[1 mile 97 feet long 314 feet high]
+[photographer's no.] 30
+A mid-distance view of the trestles of the C.P.R. Viaduct (also known as the High Level Bridge) in Lethbridge.
+
+Lethbridge, AB
+
+
+
+Canada
+Alberta
+
+
+
+
+Postcards
+
+
+Railroad bridges
+
+
+Trestles
+
+
+
+C. P. R. Viaduct (Lethbridge, Alta.)
+
+
+
+
+High Level Bridge (Lethbridge, Alta.)
+
+
+PC010725
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 2
+http://peel.library.ualberta.ca/postcards/PC010725.html
+http://peel.library.ualberta.ca/pcimages/PC/010/web/PC010725.jpg
+http://peel.library.ualberta.ca/pcimages/PC/010/thumbs/PC010725.jpg
+
+
+2009-01-19T16:18:42-0700
+PC010725
+bstearns
+2009-12-08T14:25:43-0700
+
+	bstearns	PC010725	postcards	1	3.2
+	

@@ -1,0 +1,161 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		fsalehi	PC014245	postcards	1	3.3
+	/mods/@version	3.3	fsalehi	PC014245	postcards	1	3.3
+	/mods/titleInfo		fsalehi	PC014245	postcards	1	3.3
+	/mods/titleInfo/@lang	english	fsalehi	PC014245	postcards	1	3.3
+	/mods/titleInfo/title	The Bow Valley, Banff, Alberta with C.P.R. Hotel.	fsalehi	PC014245	postcards	1	3.3
+	/mods/name		fsalehi	PC014245	postcards	1	3.3
+	/mods/name/@type	corporate	fsalehi	PC014245	postcards	1	3.3
+	/mods/name/namePart	Gowen Sutton Co. Ltd.	fsalehi	PC014245	postcards	1	3.3
+	/mods/name/role		fsalehi	PC014245	postcards	1	3.3
+	/mods/name/role/roleTerm	Publisher	fsalehi	PC014245	postcards	1	3.3
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC014245	postcards	1	3.3
+	/mods/typeOfResource	still image	fsalehi	PC014245	postcards	1	3.3
+	/mods/genre	postcards	fsalehi	PC014245	postcards	1	3.3
+	/mods/genre/@authority	gmgpc	fsalehi	PC014245	postcards	1	3.3
+	/mods/originInfo		fsalehi	PC014245	postcards	1	3.3
+	/mods/originInfo/issuance	monographic	fsalehi	PC014245	postcards	1	3.3
+	/mods/originInfo/publisher	Published by the Gowen Sutton Co. Ltd., Vancouver, B.C.	fsalehi	PC014245	postcards	1	3.3
+	/mods/originInfo/dateIssued	after 1921	fsalehi	PC014245	postcards	1	3.3
+	/mods/originInfo/dateIssued/@qualifier	inferred	fsalehi	PC014245	postcards	1	3.3
+	/mods/originInfo/place		fsalehi	PC014245	postcards	1	3.3
+	/mods/originInfo/place/placeTerm	Vancouver	fsalehi	PC014245	postcards	1	3.3
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC014245	postcards	1	3.3
+	/mods/language		fsalehi	PC014245	postcards	1	3.3
+	/mods/language/languageTerm	English	fsalehi	PC014245	postcards	1	3.3
+	/mods/language/languageTerm/@type	text	fsalehi	PC014245	postcards	1	3.3
+	/mods/physicalDescription		fsalehi	PC014245	postcards	1	3.3
+	/mods/physicalDescription/extent	1 postcard : sepia ; 9 x 14 cm.	fsalehi	PC014245	postcards	1	3.3
+	/mods/note	7	fsalehi	PC014245	postcards	5	3.3
+	/mods/note/@type	price	fsalehi	PC014245	postcards	1	3.3
+	/mods/note	false	fsalehi	PC014245	postcards	5	3.3
+	/mods/note/@type	notable	fsalehi	PC014245	postcards	1	3.3
+	/mods/note	false	fsalehi	PC014245	postcards	5	3.3
+	/mods/note/@type	imgprobs	fsalehi	PC014245	postcards	1	3.3
+	/mods/note	[printer's no.] 144	fsalehi	PC014245	postcards	5	3.3
+	/mods/note/@type	public_on_front	fsalehi	PC014245	postcards	1	3.3
+	/mods/note	View of Banff Springs Hotel and the Bow River Valley, Banff, Alberta.	fsalehi	PC014245	postcards	5	3.3
+	/mods/note/@type	public_description	fsalehi	PC014245	postcards	1	3.3
+	/mods/subject		fsalehi	PC014245	postcards	9	3.3
+	/mods/subject/geographic	Banff, MB	fsalehi	PC014245	postcards	1	3.3
+	/mods/subject		fsalehi	PC014245	postcards	9	3.3
+	/mods/subject/hierarchicalGeographic		fsalehi	PC014245	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/country	Canada	fsalehi	PC014245	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/province	Alberta	fsalehi	PC014245	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/city		fsalehi	PC014245	postcards	1	3.3
+	/mods/subject		fsalehi	PC014245	postcards	9	3.3
+	/mods/subject/genre	Postcards	fsalehi	PC014245	postcards	1	3.3
+	/mods/subject		fsalehi	PC014245	postcards	9	3.3
+	/mods/subject/topic	Hotels	fsalehi	PC014245	postcards	1	3.3
+	/mods/subject		fsalehi	PC014245	postcards	9	3.3
+	/mods/subject/topic	Mountains	fsalehi	PC014245	postcards	1	3.3
+	/mods/subject		fsalehi	PC014245	postcards	9	3.3
+	/mods/subject/topic	Valleys	fsalehi	PC014245	postcards	1	3.3
+	/mods/subject		fsalehi	PC014245	postcards	9	3.3
+	/mods/subject/topic	Rivers	fsalehi	PC014245	postcards	1	3.3
+	/mods/subject		fsalehi	PC014245	postcards	9	3.3
+	/mods/subject/name		fsalehi	PC014245	postcards	1	3.3
+	/mods/subject/name/namePart	Banff Springs Hotel	fsalehi	PC014245	postcards	1	3.3
+	/mods/subject		fsalehi	PC014245	postcards	9	3.3
+	/mods/subject/name		fsalehi	PC014245	postcards	1	3.3
+	/mods/subject/name/namePart	Bow River Valley (Alta.)	fsalehi	PC014245	postcards	1	3.3
+	/mods/identifier	PC014245	fsalehi	PC014245	postcards	1	3.3
+	/mods/identifier/@type	local	fsalehi	PC014245	postcards	1	3.3
+	/mods/location		fsalehi	PC014245	postcards	1	3.3
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 4 (set 2)	fsalehi	PC014245	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC014245.html	fsalehi	PC014245	postcards	3	3.3
+	/mods/location/url/@access	object in context	fsalehi	PC014245	postcards	1	3.3
+	/mods/location/url/@usage	primary display	fsalehi	PC014245	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/014/web/PC014245.jpg	fsalehi	PC014245	postcards	3	3.3
+	/mods/location/url/@access	raw object	fsalehi	PC014245	postcards	1	3.3
+	/mods/location/url/@note	width='1108' height='690' 	fsalehi	PC014245	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/014/thumbs/PC014245.jpg	fsalehi	PC014245	postcards	3	3.3
+	/mods/location/url/@access	preview	fsalehi	PC014245	postcards	1	3.3
+	/mods/location/url/@note	width='200' height='125'	fsalehi	PC014245	postcards	1	3.3
+	/mods/recordInfo		fsalehi	PC014245	postcards	1	3.3
+	/mods/recordInfo/recordCreationDate	2009-01-23T14:03:01-0700	fsalehi	PC014245	postcards	1	3.3
+	/mods/recordInfo/recordIdentifier	PC014245	fsalehi	PC014245	postcards	1	3.3
+	/mods/recordInfo/recordContentSource	fsalehi	fsalehi	PC014245	postcards	1	3.3
+	/mods/recordInfo/recordChangeDate	2009-12-17T15:06:55-0700	fsalehi	PC014245	postcards	1	3.3
+	/@mods	
+
+The Bow Valley, Banff, Alberta with C.P.R. Hotel.
+
+
+Gowen Sutton Co. Ltd.
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+Published by the Gowen Sutton Co. Ltd., Vancouver, B.C.
+after 1921
+
+
+Vancouver
+
+
+
+English
+
+
+1 postcard : sepia ; 9 x 14 cm.
+
+7
+false
+false
+[printer's no.] 144
+View of Banff Springs Hotel and the Bow River Valley, Banff, Alberta.
+
+Banff, MB
+
+
+
+Canada
+Alberta
+
+
+
+
+Postcards
+
+
+Hotels
+
+
+Mountains
+
+
+Valleys
+
+
+Rivers
+
+
+
+Banff Springs Hotel
+
+
+
+
+Bow River Valley (Alta.)
+
+
+PC014245
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 4 (set 2)
+http://peel.library.ualberta.ca/postcards/PC014245.html
+http://peel.library.ualberta.ca/pcimages/PC/014/web/PC014245.jpg
+http://peel.library.ualberta.ca/pcimages/PC/014/thumbs/PC014245.jpg
+
+
+2009-01-23T14:03:01-0700
+PC014245
+fsalehi
+2009-12-17T15:06:55-0700
+
+	fsalehi	PC014245	postcards	1	3.3
+	

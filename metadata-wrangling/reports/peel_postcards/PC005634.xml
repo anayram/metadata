@@ -1,0 +1,143 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		fsalehi	PC005634	postcards	1	3.2
+	/mods/@version	3.2	fsalehi	PC005634	postcards	1	3.2
+	/mods/titleInfo		fsalehi	PC005634	postcards	1	3.2
+	/mods/titleInfo/@lang	english	fsalehi	PC005634	postcards	1	3.2
+	/mods/titleInfo/title	Carnegie Public  Library, Calgary	fsalehi	PC005634	postcards	1	3.2
+	/mods/name		fsalehi	PC005634	postcards	1	3.2
+	/mods/name/@type	personal	fsalehi	PC005634	postcards	1	3.2
+	/mods/name/namePart	Oliver	fsalehi	PC005634	postcards	1	3.2
+	/mods/name/namePart/@type	family	fsalehi	PC005634	postcards	1	3.2
+	/mods/name/role		fsalehi	PC005634	postcards	1	3.2
+	/mods/name/role/roleTerm	Photographer	fsalehi	PC005634	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC005634	postcards	1	3.2
+	/mods/typeOfResource	still image	fsalehi	PC005634	postcards	1	3.2
+	/mods/genre	postcards	fsalehi	PC005634	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	fsalehi	PC005634	postcards	1	3.2
+	/mods/originInfo		fsalehi	PC005634	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	fsalehi	PC005634	postcards	1	3.2
+	/mods/originInfo/dateIssued	1916	fsalehi	PC005634	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	inferred	fsalehi	PC005634	postcards	1	3.2
+	/mods/language		fsalehi	PC005634	postcards	1	3.2
+	/mods/language/languageTerm	English	fsalehi	PC005634	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	fsalehi	PC005634	postcards	1	3.2
+	/mods/physicalDescription		fsalehi	PC005634	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : b&w ; 9 x 14 cm.	fsalehi	PC005634	postcards	1	3.2
+	/mods/note	40	fsalehi	PC005634	postcards	4	3.2
+	/mods/note/@type	price	fsalehi	PC005634	postcards	1	3.2
+	/mods/note	false	fsalehi	PC005634	postcards	4	3.2
+	/mods/note/@type	notable	fsalehi	PC005634	postcards	1	3.2
+	/mods/note	false	fsalehi	PC005634	postcards	4	3.2
+	/mods/note/@type	imgprobs	fsalehi	PC005634	postcards	1	3.2
+	/mods/note	Front and right side view of the Carnegie public library building, now known as Memorial Park branch library.	fsalehi	PC005634	postcards	4	3.2
+	/mods/note/@type	public_description	fsalehi	PC005634	postcards	1	3.2
+	/mods/subject		fsalehi	PC005634	postcards	7	3.2
+	/mods/subject/geographic	Calgary, AB	fsalehi	PC005634	postcards	1	3.2
+	/mods/subject		fsalehi	PC005634	postcards	7	3.2
+	/mods/subject/hierarchicalGeographic		fsalehi	PC005634	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	fsalehi	PC005634	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	fsalehi	PC005634	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Calgary	fsalehi	PC005634	postcards	1	3.2
+	/mods/subject		fsalehi	PC005634	postcards	7	3.2
+	/mods/subject/genre	Postcards	fsalehi	PC005634	postcards	1	3.2
+	/mods/subject		fsalehi	PC005634	postcards	7	3.2
+	/mods/subject/topic	Public libraries	fsalehi	PC005634	postcards	1	3.2
+	/mods/subject		fsalehi	PC005634	postcards	7	3.2
+	/mods/subject/name		fsalehi	PC005634	postcards	1	3.2
+	/mods/subject/name/namePart	Central Memorial Park (Calgary, Alta.)	fsalehi	PC005634	postcards	1	3.2
+	/mods/subject		fsalehi	PC005634	postcards	7	3.2
+	/mods/subject/name		fsalehi	PC005634	postcards	1	3.2
+	/mods/subject/name/namePart	Calgary Public Library	fsalehi	PC005634	postcards	1	3.2
+	/mods/subject		fsalehi	PC005634	postcards	7	3.2
+	/mods/subject/name		fsalehi	PC005634	postcards	1	3.2
+	/mods/subject/name/namePart	Memorial Park Branch	fsalehi	PC005634	postcards	1	3.2
+	/mods/identifier	PC005634	fsalehi	PC005634	postcards	1	3.2
+	/mods/identifier/@type	local	fsalehi	PC005634	postcards	1	3.2
+	/mods/location		fsalehi	PC005634	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 6	fsalehi	PC005634	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC005634.html	fsalehi	PC005634	postcards	3	3.2
+	/mods/location/url/@access	object in context	fsalehi	PC005634	postcards	1	3.2
+	/mods/location/url/@usage	primary display	fsalehi	PC005634	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/005/web/PC005634.jpg	fsalehi	PC005634	postcards	3	3.2
+	/mods/location/url/@access	raw object	fsalehi	PC005634	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='498' 	fsalehi	PC005634	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/005/thumbs/PC005634.jpg	fsalehi	PC005634	postcards	3	3.2
+	/mods/location/url/@access	preview	fsalehi	PC005634	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='125'	fsalehi	PC005634	postcards	1	3.2
+	/mods/recordInfo		fsalehi	PC005634	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	fsalehi	PC005634	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC005634	fsalehi	PC005634	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	fsalehi	fsalehi	PC005634	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2009-11-16T15:24:52-0700	fsalehi	PC005634	postcards	1	3.2
+	/@mods	
+
+Carnegie Public  Library, Calgary
+
+
+Oliver
+
+Photographer
+
+
+still image
+postcards
+
+monographic
+1916
+
+
+English
+
+
+1 postcard : b&w ; 9 x 14 cm.
+
+40
+false
+false
+Front and right side view of the Carnegie public library building, now known as Memorial Park branch library.
+
+Calgary, AB
+
+
+
+Canada
+Alberta
+Calgary
+
+
+
+Postcards
+
+
+Public libraries
+
+
+
+Central Memorial Park (Calgary, Alta.)
+
+
+
+
+Calgary Public Library
+
+
+
+
+Memorial Park Branch
+
+
+PC005634
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 6
+http://peel.library.ualberta.ca/postcards/PC005634.html
+http://peel.library.ualberta.ca/pcimages/PC/005/web/PC005634.jpg
+http://peel.library.ualberta.ca/pcimages/PC/005/thumbs/PC005634.jpg
+
+
+2007-06-25T16:49:56-0600
+PC005634
+fsalehi
+2009-11-16T15:24:52-0700
+
+	fsalehi	PC005634	postcards	1	3.2
+	

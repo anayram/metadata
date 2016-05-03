@@ -1,0 +1,120 @@
+Path	Content	URL	Form or Genre	Occurrence	MODS version
+
+/mods/titleInfo		http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	2	3.2
+/mods/titleInfo/title	Carlstadt news	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+
+/mods/titleInfo		http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	2	3.2
+/mods/titleInfo/@type	abbreviated	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+/mods/titleInfo/title	Carlst. news	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+
+/mods/typeOfResource	text	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+
+/mods/genre	newspaper	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+/mods/genre/@authority	marcgt	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+
+/mods/originInfo		http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+/mods/originInfo/place		http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	2	3.2
+/mods/originInfo/place/placeTerm	abc	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@authority	marccountry	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@type	code	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+/mods/originInfo/place		http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	2	3.2
+/mods/originInfo/place/placeTerm	Carlstadt, Alta	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@type	text	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+/mods/originInfo/publisher	Calvin Goss	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+/mods/originInfo/dateIssued	1912-1915	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	3	3.2
+/mods/originInfo/dateIssued	1912	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	3	3.2
+/mods/originInfo/dateIssued/@encoding	iso8601	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+/mods/originInfo/dateIssued/@point	start	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+/mods/originInfo/dateIssued	1915	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	3	3.2
+/mods/originInfo/dateIssued/@encoding	iso8601	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+/mods/originInfo/dateIssued/@point	end	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+/mods/originInfo/issuance	continuing	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+
+/mods/language		http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+/mods/language/languageTerm	eng	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+/mods/language/languageTerm/@authority	iso639-2b	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+/mods/language/languageTerm/@type	code	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+
+/mods/physicalDescription		http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+/mods/physicalDescription/form	print	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+/mods/physicalDescription/form/@authority	marcform	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+
+/mods/note	Imprint varies: Aug. 8, 1912-Oct. 1, 1913, W.D. MacKay; Oct.15, 1913-May 6, 1914, C.C. Stuart; May 14, 1914-Feb. 18, 1915, H.S. Ketchum; Feb. 25, 1915-June 24, 1915, W.D. MacKay.	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	3	3.2
+
+/mods/note	Weekly. Imprint varies. Published 1 August 1912 to 24 June 1915. Originally issued - 28 December 1911 to 25 July 1912 - under the title <i>Carlstadt progress</i>.	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	3	3.2
+/mods/note/@type	public	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+
+/mods/note	newspapers	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	3	3.2
+/mods/note/@type	local:oaiset	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+
+/mods/subject		http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic		http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/country	Canada	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/province	Alberta	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/city	Carlstadt	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+
+/mods/classification	071/.1234	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+/mods/classification/@authority	ddc	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+/mods/classification/@edition	19	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+
+/mods/relatedItem		http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	3	3.2
+/mods/relatedItem/@type	otherFormat	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+/mods/relatedItem/titleInfo		http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+/mods/relatedItem/titleInfo/title	Carlstadt news	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+/mods/relatedItem/originInfo		http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+/mods/relatedItem/originInfo/publisher	[Calgary] : Glenbow Museum, 1987-	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+/mods/relatedItem/identifier	0710-4197	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	4	3.2
+/mods/relatedItem/identifier/@type	issn	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+/mods/relatedItem/identifier	(CaOONL) 890305161	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	4	3.2
+/mods/relatedItem/identifier/@type	local	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+/mods/relatedItem/identifier	(OCoLC)ocm19105549	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	4	3.2
+/mods/relatedItem/identifier/@type	local	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+/mods/relatedItem/identifier	(DLC)cn 89030516	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	4	3.2
+/mods/relatedItem/identifier/@type	local	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+
+/mods/relatedItem		http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	3	3.2
+/mods/relatedItem/@displayLabel	Continues	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+/mods/relatedItem/@type	preceding	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+/mods/relatedItem/@href	QCSP	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+/mods/relatedItem/titleInfo		http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+/mods/relatedItem/titleInfo/title	Carlstadt progress	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+
+/mods/relatedItem		http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	3	3.2
+/mods/relatedItem/@displayLabel	Continued by	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+/mods/relatedItem/@type	succeeding	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+/mods/relatedItem/@href	QADN	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+/mods/relatedItem/titleInfo		http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+/mods/relatedItem/titleInfo/title	Alderson news	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+
+/mods/identifier	0710-4197	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	3	3.2
+/mods/identifier/@type	issn	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+
+/mods/identifier	000008168828	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	3	3.2
+/mods/identifier/@type	local:amicus	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+
+/mods/identifier	CSN	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	3	3.2
+/mods/identifier/@type	local:newspaper	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+
+/mods/location		http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	2	3.2
+/mods/location/physicalLocation	CaAEP	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+
+    /mods/location		http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	2	3.2
+/mods/location/physicalLocation	CaAEU	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+/mods/location/physicalLocation/@authority	marcorg	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+/mods/location/holdingSimple		http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation		http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/form	electronic	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/form/@authority	marcform	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/electronicLocator	http://peel.library.ualberta.ca/newspapers/CSN/	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/enumerationAndChronology	1912-1915	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/enumerationAndChronology/@unitType	1	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+
+/mods/recordInfo		http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+/mods/recordInfo/recordContentSource	CaOONLN	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	2	3.2
+/mods/recordInfo/recordContentSource/@authority	marcorg	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+/mods/recordInfo/recordContentSource	sfarnel	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	2	3.2
+/mods/recordInfo/recordContentSource/@authority	local:person	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+/mods/recordInfo/recordCreationDate	2010-01-13T16:03:58-0700	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+/mods/recordInfo/recordIdentifier	QCSN	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+/mods/recordInfo/recordChangeDate	2010-01-13T16:04:04-0700	http://peel.library.ualberta.ca/newspapers/CSN.html	newspaper	1	3.2
+

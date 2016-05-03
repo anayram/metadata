@@ -1,0 +1,145 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		bstearns	PC004767	postcards	1	3.2
+	/mods/@version	3.2	bstearns	PC004767	postcards	1	3.2
+	/mods/titleInfo		bstearns	PC004767	postcards	1	3.2
+	/mods/titleInfo/@lang	english	bstearns	PC004767	postcards	1	3.2
+	/mods/titleInfo/title	[Man sitting on horse]	bstearns	PC004767	postcards	1	3.2
+	/mods/name		bstearns	PC004767	postcards	1	3.2
+	/mods/name/@type	personal	bstearns	PC004767	postcards	1	3.2
+	/mods/name/namePart	Glasgow	bstearns	PC004767	postcards	2	3.2
+	/mods/name/namePart/@type	family	bstearns	PC004767	postcards	1	3.2
+	/mods/name/namePart	L.O.	bstearns	PC004767	postcards	2	3.2
+	/mods/name/namePart/@type	given	bstearns	PC004767	postcards	1	3.2
+	/mods/name/role		bstearns	PC004767	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	bstearns	PC004767	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	bstearns	PC004767	postcards	1	3.2
+	/mods/typeOfResource	still image	bstearns	PC004767	postcards	1	3.2
+	/mods/genre	postcards	bstearns	PC004767	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	bstearns	PC004767	postcards	1	3.2
+	/mods/originInfo		bstearns	PC004767	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	bstearns	PC004767	postcards	1	3.2
+	/mods/originInfo/publisher	L.O. Glasgow, Mt. House, Alberta, Canada	bstearns	PC004767	postcards	1	3.2
+	/mods/originInfo/dateIssued	1913	bstearns	PC004767	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	approximate	bstearns	PC004767	postcards	1	3.2
+	/mods/originInfo/place		bstearns	PC004767	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	Rocky Mountain House	bstearns	PC004767	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	bstearns	PC004767	postcards	1	3.2
+	/mods/language		bstearns	PC004767	postcards	1	3.2
+	/mods/language/languageTerm	English	bstearns	PC004767	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	bstearns	PC004767	postcards	1	3.2
+	/mods/physicalDescription		bstearns	PC004767	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : sepia ; 9 x 14 cm.	bstearns	PC004767	postcards	1	3.2
+	/mods/note	50	bstearns	PC004767	postcards	7	3.2
+	/mods/note/@type	price	bstearns	PC004767	postcards	1	3.2
+	/mods/note	false	bstearns	PC004767	postcards	7	3.2
+	/mods/note/@type	notable	bstearns	PC004767	postcards	1	3.2
+	/mods/note	true	bstearns	PC004767	postcards	7	3.2
+	/mods/note/@type	imgprobs	bstearns	PC004767	postcards	1	3.2
+	/mods/note	Miss Lulu Powell	bstearns	PC004767	postcards	7	3.2
+	/mods/note/@type	public_to	bstearns	PC004767	postcards	1	3.2
+	/mods/note	Mountain House	bstearns	PC004767	postcards	7	3.2
+	/mods/note/@type	public_address	bstearns	PC004767	postcards	1	3.2
+	/mods/note	July 1st 1913, At Derby Town picnic.	bstearns	PC004767	postcards	7	3.2
+	/mods/note/@type	public_message	bstearns	PC004767	postcards	1	3.2
+	/mods/note	A photograph of a man sitting on a horse holding the reins in one hand.	bstearns	PC004767	postcards	7	3.2
+	/mods/note/@type	public_description	bstearns	PC004767	postcards	1	3.2
+	/mods/subject		bstearns	PC004767	postcards	5	3.2
+	/mods/subject/geographic	Rocky Mountain House, AB	bstearns	PC004767	postcards	1	3.2
+	/mods/subject		bstearns	PC004767	postcards	5	3.2
+	/mods/subject/hierarchicalGeographic		bstearns	PC004767	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	bstearns	PC004767	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	bstearns	PC004767	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Rocky Mountain House	bstearns	PC004767	postcards	1	3.2
+	/mods/subject		bstearns	PC004767	postcards	5	3.2
+	/mods/subject/genre	Postcards	bstearns	PC004767	postcards	1	3.2
+	/mods/subject		bstearns	PC004767	postcards	5	3.2
+	/mods/subject/topic	Horses	bstearns	PC004767	postcards	1	3.2
+	/mods/subject		bstearns	PC004767	postcards	5	3.2
+	/mods/subject/topic	Horseback riding	bstearns	PC004767	postcards	1	3.2
+	/mods/identifier	PC004767	bstearns	PC004767	postcards	1	3.2
+	/mods/identifier/@type	local	bstearns	PC004767	postcards	1	3.2
+	/mods/location		bstearns	PC004767	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 4	bstearns	PC004767	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC004767.html	bstearns	PC004767	postcards	3	3.2
+	/mods/location/url/@access	object in context	bstearns	PC004767	postcards	1	3.2
+	/mods/location/url/@usage	primary display	bstearns	PC004767	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/004/web/PC004767.jpg	bstearns	PC004767	postcards	3	3.2
+	/mods/location/url/@access	raw object	bstearns	PC004767	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='503' 	bstearns	PC004767	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/004/thumbs/PC004767.jpg	bstearns	PC004767	postcards	3	3.2
+	/mods/location/url/@access	preview	bstearns	PC004767	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='126'	bstearns	PC004767	postcards	1	3.2
+	/mods/recordInfo		bstearns	PC004767	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	bstearns	PC004767	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC004767	bstearns	PC004767	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	bstearns	bstearns	PC004767	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2009-10-30T13:07:57-0700	bstearns	PC004767	postcards	1	3.2
+	/@mods	
+
+[Man sitting on horse]
+
+
+Glasgow
+L.O.
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+L.O. Glasgow, Mt. House, Alberta, Canada
+1913
+
+
+Rocky Mountain House
+
+
+
+English
+
+
+1 postcard : sepia ; 9 x 14 cm.
+
+50
+false
+true
+Miss Lulu Powell
+Mountain House
+July 1st 1913, At Derby Town picnic.
+A photograph of a man sitting on a horse holding the reins in one hand.
+
+Rocky Mountain House, AB
+
+
+
+Canada
+Alberta
+Rocky Mountain House
+
+
+
+Postcards
+
+
+Horses
+
+
+Horseback riding
+
+PC004767
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 4
+http://peel.library.ualberta.ca/postcards/PC004767.html
+http://peel.library.ualberta.ca/pcimages/PC/004/web/PC004767.jpg
+http://peel.library.ualberta.ca/pcimages/PC/004/thumbs/PC004767.jpg
+
+
+2007-06-25T16:49:56-0600
+PC004767
+bstearns
+2009-10-30T13:07:57-0700
+
+	bstearns	PC004767	postcards	1	3.2
+	

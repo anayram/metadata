@@ -1,0 +1,109 @@
+Path	Content	URL	Form or Genre	Occurrence	MODS version
+
+/mods/titleInfo		http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	2	3.2
+/mods/titleInfo/title	Raymond rustler	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+/mods/titleInfo/nonSort	The 	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+
+/mods/titleInfo		http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	2	3.2
+/mods/titleInfo/@type	alternative	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+/mods/titleInfo/title	Rustler	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+
+/mods/typeOfResource	text	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+
+/mods/genre	newspaper	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+/mods/genre/@authority	marcgt	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+
+/mods/originInfo		http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+/mods/originInfo/place		http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	2	3.2
+/mods/originInfo/place/placeTerm	abc	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@authority	marccountry	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@type	code	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+/mods/originInfo/place		http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	2	3.2
+/mods/originInfo/place/placeTerm	Raymond, Alta	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@type	text	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+/mods/originInfo/dateIssued	1907-[1911]	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	3	3.2
+/mods/originInfo/dateIssued	1907	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	3	3.2
+/mods/originInfo/dateIssued/@encoding	marc	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+/mods/originInfo/dateIssued/@point	start	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+/mods/originInfo/dateIssued	1911	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	3	3.2
+/mods/originInfo/dateIssued/@encoding	marc	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+/mods/originInfo/dateIssued/@point	end	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+/mods/originInfo/issuance	continuing	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+
+/mods/language		http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+/mods/language/languageTerm	eng	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+/mods/language/languageTerm/@authority	iso639-2b	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+/mods/language/languageTerm/@type	code	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+
+/mods/physicalDescription		http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+/mods/physicalDescription/form	print	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+/mods/physicalDescription/form/@authority	marcform	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+/mods/physicalDescription/extent	v. : ill.	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+
+/mods/note	Weekly. Imprint varies. Published October 1907 to [June?] 1911.	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	2	3.2
+/mods/note/@type	public	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+
+/mods/note	newspapers	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	2	3.2
+/mods/note/@type	local:oaiset	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+
+/mods/subject		http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic		http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/country	Canada	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/province	Alberta	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/city	Raymond	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+
+    /mods/relatedItem		http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	3	3.2
+/mods/relatedItem/@displayLabel	Continues	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+/mods/relatedItem/@type	preceding	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+/mods/relatedItem/@href	RMC	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+/mods/relatedItem/titleInfo		http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+/mods/relatedItem/titleInfo/title	Chronicle (Raymond, Alta.)	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+/mods/relatedItem/originInfo		http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+/mods/relatedItem/originInfo/publisher	[Raymond, Alta. : R.O. Matheson, 1903-1907]	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+
+    /mods/relatedItem		http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	3	3.2
+/mods/relatedItem/@displayLabel	Continued by	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+/mods/relatedItem/@type	succeeding	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+/mods/relatedItem/@href	RML	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+/mods/relatedItem/titleInfo		http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+/mods/relatedItem/titleInfo/title	Raymond leader	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+/mods/relatedItem/originInfo		http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+/mods/relatedItem/originInfo/publisher	[Raymond, Alta. : W.S. Berryessa, 1911-1917]	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+
+    /mods/relatedItem		http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	3	3.2
+/mods/relatedItem/@displayLabel	Continued by	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+/mods/relatedItem/@type	succeeding	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+/mods/relatedItem/titleInfo		http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+/mods/relatedItem/titleInfo/title	Recorder (Raymond, Alta.)	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+/mods/relatedItem/originInfo		http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+/mods/relatedItem/originInfo/publisher	[Raymond, Alta. : David C. Peterson, 1917-1922]	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+
+/mods/identifier	000008238810	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	2	3.2
+/mods/identifier/@type	local:amicus	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+
+/mods/identifier	RRS	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	2	3.2
+/mods/identifier/@type	local:newspaper	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+
+/mods/location		http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	2	3.2
+/mods/location/physicalLocation	CaAEP	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+
+    /mods/location		http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	2	3.2
+/mods/location/physicalLocation	CaAEU	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+/mods/location/physicalLocation/@authority	marcorg	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+/mods/location/holdingSimple		http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation		http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/form	electronic	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/form/@authority	marcform	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/electronicLocator	http://peel.library.ualberta.ca/newspapers/RRS/	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/enumerationAndChronology	1909-1911	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/enumerationAndChronology/@unitType	1	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+
+/mods/recordInfo		http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+/mods/recordInfo/recordContentSource	CaOONLN	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	2	3.2
+/mods/recordInfo/recordContentSource/@authority	marcorg	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+/mods/recordInfo/recordContentSource	sfarnel	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	2	3.2
+/mods/recordInfo/recordContentSource/@authority	local:person	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+/mods/recordInfo/recordCreationDate	2010-08-31T10:34:08-0600	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+/mods/recordInfo/recordIdentifier	QRRS	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+/mods/recordInfo/recordChangeDate	2010-08-31T10:34:21-0600	http://peel.library.ualberta.ca/newspapers/RRS.html	newspaper	1	3.2
+

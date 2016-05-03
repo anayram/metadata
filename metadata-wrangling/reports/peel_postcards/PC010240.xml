@@ -1,0 +1,127 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		bstearns	PC010240	postcards	1	3.2
+	/mods/@version	3.2	bstearns	PC010240	postcards	1	3.2
+	/mods/titleInfo		bstearns	PC010240	postcards	1	3.2
+	/mods/titleInfo/@lang	english	bstearns	PC010240	postcards	1	3.2
+	/mods/titleInfo/title	Sixth Avenue, Calgary, Alta.	bstearns	PC010240	postcards	1	3.2
+	/mods/name		bstearns	PC010240	postcards	1	3.2
+	/mods/name/@type	corporate	bstearns	PC010240	postcards	1	3.2
+	/mods/name/namePart	Linton Bros.	bstearns	PC010240	postcards	1	3.2
+	/mods/name/role		bstearns	PC010240	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	bstearns	PC010240	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	bstearns	PC010240	postcards	1	3.2
+	/mods/typeOfResource	still image	bstearns	PC010240	postcards	1	3.2
+	/mods/genre	postcards	bstearns	PC010240	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	bstearns	PC010240	postcards	1	3.2
+	/mods/originInfo		bstearns	PC010240	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	bstearns	PC010240	postcards	1	3.2
+	/mods/originInfo/publisher	Linton Bros., Calgary, Canada	bstearns	PC010240	postcards	1	3.2
+	/mods/originInfo/dateIssued	1910	bstearns	PC010240	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	inferred	bstearns	PC010240	postcards	1	3.2
+	/mods/originInfo/place		bstearns	PC010240	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	Calgary	bstearns	PC010240	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	bstearns	PC010240	postcards	1	3.2
+	/mods/language		bstearns	PC010240	postcards	1	3.2
+	/mods/language/languageTerm	English	bstearns	PC010240	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	bstearns	PC010240	postcards	1	3.2
+	/mods/physicalDescription		bstearns	PC010240	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : col. ; 9 x 14 cm.	bstearns	PC010240	postcards	1	3.2
+	/mods/note	20	bstearns	PC010240	postcards	4	3.2
+	/mods/note/@type	price	bstearns	PC010240	postcards	1	3.2
+	/mods/note	false	bstearns	PC010240	postcards	4	3.2
+	/mods/note/@type	notable	bstearns	PC010240	postcards	1	3.2
+	/mods/note	true	bstearns	PC010240	postcards	4	3.2
+	/mods/note/@type	imgprobs	bstearns	PC010240	postcards	1	3.2
+	/mods/note	View of a tree-lined residential street.	bstearns	PC010240	postcards	4	3.2
+	/mods/note/@type	public_description	bstearns	PC010240	postcards	1	3.2
+	/mods/subject		bstearns	PC010240	postcards	4	3.2
+	/mods/subject/geographic	Calgary, AB	bstearns	PC010240	postcards	1	3.2
+	/mods/subject		bstearns	PC010240	postcards	4	3.2
+	/mods/subject/hierarchicalGeographic		bstearns	PC010240	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	bstearns	PC010240	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	bstearns	PC010240	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Calgary	bstearns	PC010240	postcards	1	3.2
+	/mods/subject		bstearns	PC010240	postcards	4	3.2
+	/mods/subject/genre	Postcards	bstearns	PC010240	postcards	1	3.2
+	/mods/subject		bstearns	PC010240	postcards	4	3.2
+	/mods/subject/topic	Residential streets	bstearns	PC010240	postcards	1	3.2
+	/mods/identifier	PC010240	bstearns	PC010240	postcards	1	3.2
+	/mods/identifier/@type	local	bstearns	PC010240	postcards	1	3.2
+	/mods/location		bstearns	PC010240	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 1	bstearns	PC010240	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC010240.html	bstearns	PC010240	postcards	3	3.2
+	/mods/location/url/@access	object in context	bstearns	PC010240	postcards	1	3.2
+	/mods/location/url/@usage	primary display	bstearns	PC010240	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/010/web/PC010240.jpg	bstearns	PC010240	postcards	3	3.2
+	/mods/location/url/@access	raw object	bstearns	PC010240	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='529' 	bstearns	PC010240	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/010/thumbs/PC010240.jpg	bstearns	PC010240	postcards	3	3.2
+	/mods/location/url/@access	preview	bstearns	PC010240	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='132'	bstearns	PC010240	postcards	1	3.2
+	/mods/recordInfo		bstearns	PC010240	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2009-01-19T16:18:42-0700	bstearns	PC010240	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC010240	bstearns	PC010240	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	bstearns	bstearns	PC010240	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2009-12-07T23:23:17-0700	bstearns	PC010240	postcards	1	3.2
+	/@mods	
+
+Sixth Avenue, Calgary, Alta.
+
+
+Linton Bros.
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+Linton Bros., Calgary, Canada
+1910
+
+
+Calgary
+
+
+
+English
+
+
+1 postcard : col. ; 9 x 14 cm.
+
+20
+false
+true
+View of a tree-lined residential street.
+
+Calgary, AB
+
+
+
+Canada
+Alberta
+Calgary
+
+
+
+Postcards
+
+
+Residential streets
+
+PC010240
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 1
+http://peel.library.ualberta.ca/postcards/PC010240.html
+http://peel.library.ualberta.ca/pcimages/PC/010/web/PC010240.jpg
+http://peel.library.ualberta.ca/pcimages/PC/010/thumbs/PC010240.jpg
+
+
+2009-01-19T16:18:42-0700
+PC010240
+bstearns
+2009-12-07T23:23:17-0700
+
+	bstearns	PC010240	postcards	1	3.2
+	

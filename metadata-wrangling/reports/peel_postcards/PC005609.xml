@@ -1,0 +1,139 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		rschramm	PC005609	postcards	1	3.2
+	/mods/@version	3.2	rschramm	PC005609	postcards	1	3.2
+	/mods/titleInfo		rschramm	PC005609	postcards	1	3.2
+	/mods/titleInfo/@lang	english	rschramm	PC005609	postcards	1	3.2
+	/mods/titleInfo/title	2nd St. East looking North, Calgary, Alta.	rschramm	PC005609	postcards	1	3.2
+	/mods/name		rschramm	PC005609	postcards	1	3.2
+	/mods/name/@type	corporate	rschramm	PC005609	postcards	1	3.2
+	/mods/name/namePart	The Fair	rschramm	PC005609	postcards	1	3.2
+	/mods/name/role		rschramm	PC005609	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	rschramm	PC005609	postcards	1	3.2
+	/mods/typeOfResource	still image	rschramm	PC005609	postcards	1	3.2
+	/mods/genre	postcards	rschramm	PC005609	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	rschramm	PC005609	postcards	1	3.2
+	/mods/originInfo		rschramm	PC005609	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	rschramm	PC005609	postcards	1	3.2
+	/mods/originInfo/publisher	Pub. by The Fair	rschramm	PC005609	postcards	1	3.2
+	/mods/originInfo/dateIssued	after 1910	rschramm	PC005609	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	inferred	rschramm	PC005609	postcards	1	3.2
+	/mods/originInfo/place		rschramm	PC005609	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	[Calgary]	rschramm	PC005609	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	rschramm	PC005609	postcards	1	3.2
+	/mods/language		rschramm	PC005609	postcards	1	3.2
+	/mods/language/languageTerm	English	rschramm	PC005609	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	rschramm	PC005609	postcards	1	3.2
+	/mods/physicalDescription		rschramm	PC005609	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : b&w ; 9 x 14 cm.	rschramm	PC005609	postcards	1	3.2
+	/mods/note	40	rschramm	PC005609	postcards	6	3.2
+	/mods/note/@type	price	rschramm	PC005609	postcards	1	3.2
+	/mods/note	false	rschramm	PC005609	postcards	6	3.2
+	/mods/note/@type	notable	rschramm	PC005609	postcards	1	3.2
+	/mods/note	false	rschramm	PC005609	postcards	6	3.2
+	/mods/note/@type	imgprobs	rschramm	PC005609	postcards	1	3.2
+	/mods/note	View of 2nd Street in Calgary, Alberta. The street rails are visible in the street.	rschramm	PC005609	postcards	6	3.2
+	/mods/note/@type	public_description	rschramm	PC005609	postcards	1	3.2
+	/mods/note	Printed in Germany	rschramm	PC005609	postcards	6	3.2
+	/mods/note/@type	public_to	rschramm	PC005609	postcards	1	3.2
+	/mods/note	[Printer's no.] 2322	rschramm	PC005609	postcards	6	3.2
+	/mods/note/@type	public_on_front	rschramm	PC005609	postcards	1	3.2
+	/mods/subject		rschramm	PC005609	postcards	5	3.2
+	/mods/subject/geographic	Calgary, AB	rschramm	PC005609	postcards	1	3.2
+	/mods/subject		rschramm	PC005609	postcards	5	3.2
+	/mods/subject/hierarchicalGeographic		rschramm	PC005609	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	rschramm	PC005609	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	rschramm	PC005609	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Calgary	rschramm	PC005609	postcards	1	3.2
+	/mods/subject		rschramm	PC005609	postcards	5	3.2
+	/mods/subject/genre	Postcards	rschramm	PC005609	postcards	1	3.2
+	/mods/subject		rschramm	PC005609	postcards	5	3.2
+	/mods/subject/topic	Street railroads	rschramm	PC005609	postcards	1	3.2
+	/mods/subject		rschramm	PC005609	postcards	5	3.2
+	/mods/subject/topic	Commercial streets	rschramm	PC005609	postcards	1	3.2
+	/mods/identifier	PC005609	rschramm	PC005609	postcards	1	3.2
+	/mods/identifier/@type	local	rschramm	PC005609	postcards	1	3.2
+	/mods/location		rschramm	PC005609	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 6	rschramm	PC005609	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC005609.html	rschramm	PC005609	postcards	3	3.2
+	/mods/location/url/@access	object in context	rschramm	PC005609	postcards	1	3.2
+	/mods/location/url/@usage	primary display	rschramm	PC005609	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/005/web/PC005609.jpg	rschramm	PC005609	postcards	3	3.2
+	/mods/location/url/@access	raw object	rschramm	PC005609	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='512' 	rschramm	PC005609	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/005/thumbs/PC005609.jpg	rschramm	PC005609	postcards	3	3.2
+	/mods/location/url/@access	preview	rschramm	PC005609	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='128'	rschramm	PC005609	postcards	1	3.2
+	/mods/recordInfo		rschramm	PC005609	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	rschramm	PC005609	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC005609	rschramm	PC005609	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	rschramm	rschramm	PC005609	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2008-06-12T09:24:35-0600	rschramm	PC005609	postcards	1	3.2
+	/@mods	
+
+2nd St. East looking North, Calgary, Alta.
+
+
+The Fair
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+Pub. by The Fair
+after 1910
+
+
+[Calgary]
+
+
+
+English
+
+
+1 postcard : b&w ; 9 x 14 cm.
+
+40
+false
+false
+View of 2nd Street in Calgary, Alberta. The street rails are visible in the street.
+Printed in Germany
+[Printer's no.] 2322
+
+Calgary, AB
+
+
+
+Canada
+Alberta
+Calgary
+
+
+
+Postcards
+
+
+Street railroads
+
+
+Commercial streets
+
+PC005609
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 6
+http://peel.library.ualberta.ca/postcards/PC005609.html
+http://peel.library.ualberta.ca/pcimages/PC/005/web/PC005609.jpg
+http://peel.library.ualberta.ca/pcimages/PC/005/thumbs/PC005609.jpg
+
+
+
+
+2007-06-25T16:49:56-0600
+PC005609
+rschramm
+2008-06-12T09:24:35-0600
+
+	rschramm	PC005609	postcards	1	3.2
+	

@@ -1,0 +1,108 @@
+Path	Content	URL	Form or Genre	Occurrence	MODS version
+
+/mods/titleInfo		http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	1	3.3
+/mods/titleInfo/title	Growth of street railway trackage in Winnipeg and suburbs, 1882-1914	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/typeOfResource	cartographic	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/genre	map	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	3	3.3
+/mods/genre/@authority	marcgt	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/genre	Digital maps	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	3	3.3
+/mods/genre/@authority	lcgft	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/genre	Thematic maps	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	3	3.3
+/mods/genre/@authority	lcgft	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/originInfo		http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	1	3.3
+/mods/originInfo/place		http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	1	3.3
+/mods/originInfo/place/placeTerm	S.l.	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	1	3.3
+/mods/originInfo/place/placeTerm/@type	text	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	1	3.3
+/mods/originInfo/publisher	s.n.	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	1	3.3
+/mods/originInfo/dateIssued	19uu	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	1	3.3
+/mods/originInfo/dateIssued/@qualifier	approximate	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/language		http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	1	3.3
+/mods/language/languageTerm	English	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	1	3.3
+/mods/language/languageTerm/@type	text	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/physicalDescription		http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	1	3.3
+/mods/physicalDescription/form		http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	1	3.3
+/mods/physicalDescription/extent	1 map ; 24.5 x 24 cm. on sheet 28 x 36.3 cm.	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/note	Growth of trackage is marked by and divided into the following time periods: 1882, 1883-1900, 1901-1907, and 1908-1914.	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	8	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/note	Main avenues and streets are marked.	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	8	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/note	"Map 5."	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	8	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/note	peelmaps	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	8	3.3
+/mods/note/@type	local:oaiset	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/note	1	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	8	3.3
+/mods/note/@type	local:sheetcount	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/note	28 x 36.3 cm.	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	8	3.3
+/mods/note/@type	local:sheetsize	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/note	28	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	8	3.3
+/mods/note/@type	local:sheetlength	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/note	36.3	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	8	3.3
+/mods/note/@type	local:sheetwidth	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	4	3.3
+/mods/subject/@authority	lcsh	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	1	3.3
+/mods/subject/@lang	eng	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	1	3.3
+/mods/subject/topic	Street-railroads	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	2	3.3
+/mods/subject/geographic	Manitoba	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	2	3.3
+/mods/subject/geographic	Winnipeg	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	2	3.3
+/mods/subject/topic	History	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	2	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	4	3.3
+/mods/subject/@authority	lcsh	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	1	3.3
+/mods/subject/@lang	eng	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	1	3.3
+/mods/subject/geographic	Winnipeg (Man.)	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	4	3.3
+/mods/subject/temporal	1914	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	4	3.3
+/mods/subject/cartographics		http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	1	3.3
+/mods/subject/cartographics/coordinates	w0970847/n0495304	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	1	3.3
+/mods/subject/cartographics/scale	ca. 1:39,000	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/classification	Manitoba-Cities and towns-Winnipeg 35	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/identifier	3189	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	5	3.3
+/mods/identifier/@type	local:mapsproject	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/identifier	AAA-3284	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	5	3.3
+/mods/identifier/@type	local:mapsdb	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/identifier	3189.xml	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	5	3.3
+/mods/identifier/@type	local:mapsproject_filename	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/identifier	M000480	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	5	3.3
+/mods/identifier/@type	local:peel3	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/identifier	N019159	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	5	3.3
+/mods/identifier/@type	local:old_peel_new	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/location		http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	1	3.3
+/mods/location/physicalLocation	UA Cameron Staff Access-Maps	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	1	3.3
+/mods/location/url	http://peel.library.ualberta.ca/maps/M/00/04/M000480/M000480.tif	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	1	3.3
+/mods/location/url/@access	raw object	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	1	3.3
+/mods/location/url/@note	width='4488' height='3338'	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/recordInfo		http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	1	3.3
+/mods/recordInfo/recordContentSource	mapsproject	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	2	3.3
+/mods/recordInfo/recordContentSource/@authority	local:project	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	1	3.3
+/mods/recordInfo/recordContentSource	jhuck	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	2	3.3
+/mods/recordInfo/recordContentSource/@authority	local:person	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	1	3.3
+/mods/recordInfo/recordIdentifier	M000480	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	1	3.3
+/mods/recordInfo/recordChangeDate	2014-01-13T20:46:01-0700	http://peel.library.ualberta.ca/maps/M000480.html	map Digital maps Thematic maps 	1	3.3
+

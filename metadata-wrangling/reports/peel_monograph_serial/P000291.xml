@@ -1,0 +1,149 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@schemaLocation	http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	Journal of the Reverend Peter Jacobs		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/subTitle	Indian Wesleyan missionary, from Rice Lake to the Hudson's Bay Territory, and returning: Commencing May 1852: With a brief account of his life and a short history of the Wesleyan mission to that country		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA001295		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Jacobs, Peter		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	1808-1858.		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart/@type	date		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/description	1808-1858. Travelled Lake Superior under a presiding Methodist elder, 1838-1839; at Fort Alexander, 1840-1841; "received on trial" at Norway House, 1842; ordained Methodist minister in England, 1843; at Lac la Pluie, 1844-1849; travelled in England and Canada West, 1850-1851; tour in HBC territory and Canada West, 1852; at Saugeen and Rama, 1853-1856; no post, then expelled, 1858 (Cornish, <i>Cyclopædia of Methodism</i>).		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	Toronto		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	Anson Green		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1853		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	English		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	iv, [5]-32, [1] p., port.; 25 cm.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	Text in double columns. The journey took him to Fort Garry and York Factory. Also published, 2nd edition, Boston: Press of George C. Rand, 1853 (32p.); 2nd edition, Boston: Press of George C. Rand, 1853 (55p.); New York: Published for the author by Carlton & Phillips, 1855 (70p.); New York: The Author, 1857 (96p.); with illustrations by F.E. Wyman, New York: The Author, 1858 (96, 6p.). 		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	public		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	The Spiritual Life--Methodist Church		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS001124		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Diaries		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS001124		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Journaux intimes		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	Other		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002306		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name/namePart	Jacobs, Peter, 1808-1858		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002705		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Manitoba--Description and travel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002846		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Methodist Church--Missions		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002846		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Église méthodiste--Missions		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1852		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	130		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	155		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel2		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	291		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	291		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel-procite-id		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P000291		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+    
+        Journal of the Reverend Peter Jacobs
+        Indian Wesleyan missionary, from Rice Lake to the Hudson's Bay Territory, and returning: Commencing May 1852: With a brief account of his life and a short history of the Wesleyan mission to that country
+    
+    
+        Jacobs, Peter
+        1808-1858.
+        
+            author
+        
+        1808-1858. Travelled Lake Superior under a presiding Methodist elder, 1838-1839; at Fort Alexander, 1840-1841; "received on trial" at Norway House, 1842; ordained Methodist minister in England, 1843; at Lac la Pluie, 1844-1849; travelled in England and Canada West, 1850-1851; tour in HBC territory and Canada West, 1852; at Saugeen and Rama, 1853-1856; no post, then expelled, 1858 (Cornish, <i>Cyclopædia of Methodism</i>).
+    
+    text
+    
+        
+            Toronto
+        
+        Anson Green
+        1853
+    
+    
+        English
+    
+    
+        print
+        iv, [5]-32, [1] p., port.; 25 cm.
+    
+    Text in double columns. The journey took him to Fort Garry and York Factory. Also published, 2nd edition, Boston: Press of George C. Rand, 1853 (32p.); 2nd edition, Boston: Press of George C. Rand, 1853 (55p.); New York: Published for the author by Carlton & Phillips, 1855 (70p.); New York: The Author, 1857 (96p.); with illustrations by F.E. Wyman, New York: The Author, 1858 (96, 6p.). 
+    
+        The Spiritual Life--Methodist Church
+    
+    
+        Diaries
+    
+    
+        Journaux intimes
+    
+    
+        
+            Jacobs, Peter, 1808-1858
+        
+    
+    
+        Manitoba--Description and travel
+    
+    
+        Methodist Church--Missions
+    
+    
+        Église méthodiste--Missions
+    
+    
+        1852
+    
+    130
+    155
+    291
+    291
+    
+        Peel's Prairie Portal
+        P000291
+        2003-01-01T12:00:00-0700
+    
+		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

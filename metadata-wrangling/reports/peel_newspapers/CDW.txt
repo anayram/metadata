@@ -1,0 +1,97 @@
+Path	Content	URL	Form or Genre	Occurrence	MODS version
+
+/mods/titleInfo		http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	1	3.2
+/mods/titleInfo/title	courrier de l'Ouest	http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	1	3.2
+/mods/titleInfo/nonSort	Le 	http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	1	3.2
+
+/mods/typeOfResource	text	http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	1	3.2
+
+/mods/genre	newspaper	http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	1	3.2
+/mods/genre/@authority	marcgt	http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	1	3.2
+
+/mods/originInfo		http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	1	3.2
+/mods/originInfo/place		http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	2	3.2
+/mods/originInfo/place/placeTerm	abc	http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@authority	marccountry	http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@type	code	http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	1	3.2
+/mods/originInfo/place		http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	2	3.2
+/mods/originInfo/place/placeTerm	[Edmonton]	http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@type	text	http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	1	3.2
+/mods/originInfo/publisher	[La Compagnie de Publication du Courrier de l'Ouest]	http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	1	3.2
+/mods/originInfo/dateIssued	1905	http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	2	3.2
+/mods/originInfo/dateIssued/@encoding	iso8601	http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	1	3.2
+/mods/originInfo/dateIssued/@point	start	http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	1	3.2
+/mods/originInfo/dateIssued	1916-01-06	http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	2	3.2
+/mods/originInfo/dateIssued/@encoding	iso8601	http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	1	3.2
+/mods/originInfo/dateIssued/@point	end	http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	1	3.2
+/mods/originInfo/issuance	continuing	http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	1	3.2
+/mods/originInfo/frequency	Weekly	http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	1	3.2
+
+/mods/language		http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	1	3.2
+/mods/language/languageTerm	fre	http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	1	3.2
+/mods/language/languageTerm/@authority	iso639-2b	http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	1	3.2
+/mods/language/languageTerm/@type	code	http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	1	3.2
+
+/mods/physicalDescription		http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	1	3.2
+/mods/physicalDescription/form	print	http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	1	3.2
+/mods/physicalDescription/form/@authority	marcform	http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	1	3.2
+/mods/physicalDescription/extent	v. : ill.	http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	1	3.2
+
+/mods/note	newspapers	http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	3	3.2
+/mods/note/@type	local:oaiset	http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	1	3.2
+
+/mods/note	DOA: 1905 Spatial: Alberta	http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	3	3.2
+/mods/note/@type	local	http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	1	3.2
+
+/mods/note	Weekly. Published from 1905 to 6 January 1916 in Edmonton, Alberta, this newspaper was "the only French language newspaper in Western Canada at the time of its first publication" (<i>Alberta's Online Encyclopedia</i>).	http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	3	3.2
+/mods/note/@type	public	http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	1	3.2
+
+
+/mods/subject		http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	3	3.2
+/mods/subject/@authority	lcsh	http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	1	3.2
+/mods/subject/topic	French-Canadians	http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	1	3.2
+/mods/subject/geographic	Alberta	http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	1	3.2
+
+/mods/subject		http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	3	3.2
+/mods/subject/@authority	rvm	http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	1	3.2
+/mods/subject/topic	Canadiens français	http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	1	3.2
+/mods/subject/geographic	Alberta	http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	1	3.2
+
+/mods/subject		http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	3	3.2
+/mods/subject/hierarchicalGeographic		http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/country	Canada	http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/province	Alberta	http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/city	Edmonton	http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	1	3.2
+
+/mods/identifier	0847-7361	http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	4	3.2
+/mods/identifier/@type	issn	http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	1	3.2
+
+/mods/identifier	1988803	http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	4	3.2
+/mods/identifier/@type	local:neos	http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	1	3.2
+
+/mods/identifier	CDW	http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	4	3.2
+/mods/identifier/@type	local:newspaper	http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	1	3.2
+
+    /mods/identifier	N017957	http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	4	3.2
+/mods/identifier/@type	local:peel_new	http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	1	3.2
+
+    /mods/location		http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	1	3.2
+/mods/location/physicalLocation	CaAEU	http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	1	3.2
+/mods/location/physicalLocation/@authority	marcorg	http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	1	3.2
+/mods/location/holdingSimple		http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation		http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/form	electronic	http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/form/@authority	marcform	http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/electronicLocator	http://peel.library.ualberta.ca/newspapers/CDW/	http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/enumerationAndChronology	1905-1915	http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/enumerationAndChronology/@unitType	1	http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	1	3.2
+
+    /mods/recordInfo		http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	1	3.2
+/mods/recordInfo/recordContentSource	AEU	http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	2	3.2
+/mods/recordInfo/recordContentSource/@authority	marcorg	http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	1	3.2
+/mods/recordInfo/recordContentSource	RC	http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	2	3.2
+/mods/recordInfo/recordContentSource/@authority	local:person	http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	1	3.2
+/mods/recordInfo/recordCreationDate	2009-03-24T13:06:59-0700	http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	1	3.2
+/mods/recordInfo/recordIdentifier	QCDW	http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	1	3.2
+/mods/recordInfo/recordChangeDate	2009-04-02T06:36:20-0700	http://peel.library.ualberta.ca/newspapers/CDW.html	newspaper	1	3.2
+

@@ -1,0 +1,163 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		sfarnel	PC007205	postcards	1	3.2
+	/mods/@version	3.2	sfarnel	PC007205	postcards	1	3.2
+	/mods/titleInfo		sfarnel	PC007205	postcards	1	3.2
+	/mods/titleInfo/@lang	english	sfarnel	PC007205	postcards	1	3.2
+	/mods/titleInfo/title	Century old Concord Stage Coach at Homestead Hotel, Banff	sfarnel	PC007205	postcards	1	3.2
+	/mods/name		sfarnel	PC007205	postcards	1	3.2
+	/mods/name/@type	personal	sfarnel	PC007205	postcards	1	3.2
+	/mods/name/namePart	Harmon	sfarnel	PC007205	postcards	2	3.2
+	/mods/name/namePart/@type	family	sfarnel	PC007205	postcards	1	3.2
+	/mods/name/namePart	Byron	sfarnel	PC007205	postcards	2	3.2
+	/mods/name/namePart/@type	given	sfarnel	PC007205	postcards	1	3.2
+	/mods/name/role		sfarnel	PC007205	postcards	1	3.2
+	/mods/name/role/roleTerm	Photographer	sfarnel	PC007205	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	sfarnel	PC007205	postcards	1	3.2
+	/mods/typeOfResource	still image	sfarnel	PC007205	postcards	1	3.2
+	/mods/genre	postcards	sfarnel	PC007205	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	sfarnel	PC007205	postcards	1	3.2
+	/mods/originInfo		sfarnel	PC007205	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	sfarnel	PC007205	postcards	1	3.2
+	/mods/originInfo/publisher	Photographed and Copyrighted by Byron Harmon, Banff, Canada.	sfarnel	PC007205	postcards	1	3.2
+	/mods/originInfo/dateIssued	before 1942	sfarnel	PC007205	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	inferred	sfarnel	PC007205	postcards	1	3.2
+	/mods/originInfo/place		sfarnel	PC007205	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	Banff	sfarnel	PC007205	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	sfarnel	PC007205	postcards	1	3.2
+	/mods/language		sfarnel	PC007205	postcards	1	3.2
+	/mods/language/languageTerm	English	sfarnel	PC007205	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	sfarnel	PC007205	postcards	1	3.2
+	/mods/physicalDescription		sfarnel	PC007205	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : sepia ; 9 x 14 cm.	sfarnel	PC007205	postcards	1	3.2
+	/mods/note	80	sfarnel	PC007205	postcards	6	3.2
+	/mods/note/@type	price	sfarnel	PC007205	postcards	1	3.2
+	/mods/note	false	sfarnel	PC007205	postcards	6	3.2
+	/mods/note/@type	notable	sfarnel	PC007205	postcards	1	3.2
+	/mods/note	false	sfarnel	PC007205	postcards	6	3.2
+	/mods/note/@type	imgprobs	sfarnel	PC007205	postcards	1	3.2
+	/mods/note	Along the Line of the Canadian Pacific Railway.	sfarnel	PC007205	postcards	6	3.2
+	/mods/note/@type	public_on_back	sfarnel	PC007205	postcards	1	3.2
+	/mods/note	Made in Canada	sfarnel	PC007205	postcards	6	3.2
+	/mods/note/@type	public_on_back	sfarnel	PC007205	postcards	1	3.2
+	/mods/note	This old postcard shows an Abbot-Downing Concord Coach in front of the Homestead Hotel in Banff , Canada. This Concord Coach is now in the collection of the Wells Fargo Bank.	sfarnel	PC007205	postcards	6	3.2
+	/mods/note/@type	public_description	sfarnel	PC007205	postcards	1	3.2
+	/mods/subject		sfarnel	PC007205	postcards	8	3.2
+	/mods/subject/geographic	Banff, AB	sfarnel	PC007205	postcards	1	3.2
+	/mods/subject		sfarnel	PC007205	postcards	8	3.2
+	/mods/subject/hierarchicalGeographic		sfarnel	PC007205	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	sfarnel	PC007205	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	sfarnel	PC007205	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Banff	sfarnel	PC007205	postcards	1	3.2
+	/mods/subject		sfarnel	PC007205	postcards	8	3.2
+	/mods/subject/genre	Postcards	sfarnel	PC007205	postcards	1	3.2
+	/mods/subject		sfarnel	PC007205	postcards	8	3.2
+	/mods/subject/topic	Stagecoaches	sfarnel	PC007205	postcards	1	3.2
+	/mods/subject		sfarnel	PC007205	postcards	8	3.2
+	/mods/subject/topic	Hotels	sfarnel	PC007205	postcards	1	3.2
+	/mods/subject		sfarnel	PC007205	postcards	8	3.2
+	/mods/subject/topic	Horse teams	sfarnel	PC007205	postcards	1	3.2
+	/mods/subject		sfarnel	PC007205	postcards	8	3.2
+	/mods/subject/name		sfarnel	PC007205	postcards	1	3.2
+	/mods/subject/name/namePart	Banff National Park (Alta.)	sfarnel	PC007205	postcards	1	3.2
+	/mods/subject		sfarnel	PC007205	postcards	8	3.2
+	/mods/subject/name		sfarnel	PC007205	postcards	1	3.2
+	/mods/subject/name/namePart	Homestead Hotel (Banff, Alta.)	sfarnel	PC007205	postcards	1	3.2
+	/mods/identifier	PC007205	sfarnel	PC007205	postcards	1	3.2
+	/mods/identifier/@type	local	sfarnel	PC007205	postcards	1	3.2
+	/mods/location		sfarnel	PC007205	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 10	sfarnel	PC007205	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC007205.html	sfarnel	PC007205	postcards	3	3.2
+	/mods/location/url/@access	object in context	sfarnel	PC007205	postcards	1	3.2
+	/mods/location/url/@usage	primary display	sfarnel	PC007205	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/007/web/PC007205.jpg	sfarnel	PC007205	postcards	3	3.2
+	/mods/location/url/@access	raw object	sfarnel	PC007205	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='509' 	sfarnel	PC007205	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/007/thumbs/PC007205.jpg	sfarnel	PC007205	postcards	3	3.2
+	/mods/location/url/@access	preview	sfarnel	PC007205	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='127'	sfarnel	PC007205	postcards	1	3.2
+	/mods/recordInfo		sfarnel	PC007205	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	sfarnel	PC007205	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC007205	sfarnel	PC007205	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	sfarnel	sfarnel	PC007205	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2009-12-06T16:51:46-0700	sfarnel	PC007205	postcards	1	3.2
+	/@mods	
+
+Century old Concord Stage Coach at Homestead Hotel, Banff
+
+
+Harmon
+Byron
+
+Photographer
+
+
+still image
+postcards
+
+monographic
+Photographed and Copyrighted by Byron Harmon, Banff, Canada.
+before 1942
+
+
+Banff
+
+
+
+English
+
+
+1 postcard : sepia ; 9 x 14 cm.
+
+80
+false
+false
+Along the Line of the Canadian Pacific Railway.
+Made in Canada
+This old postcard shows an Abbot-Downing Concord Coach in front of the Homestead Hotel in Banff , Canada. This Concord Coach is now in the collection of the Wells Fargo Bank.
+
+Banff, AB
+
+
+
+Canada
+Alberta
+Banff
+
+
+
+Postcards
+
+
+Stagecoaches
+
+
+Hotels
+
+
+Horse teams
+
+
+
+Banff National Park (Alta.)
+
+
+
+
+Homestead Hotel (Banff, Alta.)
+
+
+PC007205
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 10
+http://peel.library.ualberta.ca/postcards/PC007205.html
+http://peel.library.ualberta.ca/pcimages/PC/007/web/PC007205.jpg
+http://peel.library.ualberta.ca/pcimages/PC/007/thumbs/PC007205.jpg
+
+
+2007-06-25T16:49:56-0600
+PC007205
+sfarnel
+2009-12-06T16:51:46-0700
+
+	sfarnel	PC007205	postcards	1	3.2
+	

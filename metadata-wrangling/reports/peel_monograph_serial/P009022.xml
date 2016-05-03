@@ -1,0 +1,924 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods		yearbook	1	
+	/mods/@version		yearbook	1	
+	/mods/titleInfo		yearbook	1	
+	/mods/titleInfo/title	Evergreen and gold	yearbook	1	
+	/mods/titleInfo/subTitle	The annual publication of the students of the University of Alberta	yearbook	1	
+	/mods/name		yearbook	1	
+	/mods/name/@type	corporate	yearbook	1	
+	/mods/name/namePart	University of Alberta	yearbook	1	
+	/mods/typeOfResource	text	yearbook	1	
+	/mods/genre	yearbook	yearbook	1	
+	/mods/originInfo		yearbook	1	
+	/mods/originInfo/place		yearbook	1	
+	/mods/originInfo/place/placeTerm	Edmonton	yearbook	1	
+	/mods/originInfo/place/placeTerm/@type	text	yearbook	1	
+	/mods/originInfo/publisher	University of Alberta	yearbook	1	
+	/mods/originInfo/dateIssued	1921-1984	yearbook	1	
+	/mods/originInfo/issuance	continuing	yearbook	1	
+	/mods/originInfo/frequency	Annual	yearbook	1	
+	/mods/language		yearbook	1	
+	/mods/language/languageTerm	English	yearbook	1	
+	/mods/physicalDescription		yearbook	1	
+	/mods/physicalDescription/form	print	yearbook	1	
+	/mods/physicalDescription/form/@authority	marcform	yearbook	1	
+	/mods/physicalDescription/extent	52 v. : ill. ; 32 cm.	yearbook	1	
+	/mods/note	Annual. Volume 52 has the subtitle <i>Special anniversary issue</i>. Publication suspended from 1972 to 1982. Yearbook of the University of Alberta.	yearbook	1	
+	/mods/note/@type	public	yearbook	1	
+	/mods/subject		yearbook	2	
+	/mods/subject/@authority	lcsh	yearbook	1	
+	/mods/subject/@lang	eng	yearbook	1	
+	/mods/subject/name		yearbook	1	
+	/mods/subject/name/@type	personal	yearbook	1	
+	/mods/subject/name/namePart	University of Alberta	yearbook	1	
+	/mods/subject/topic	Periodicals	yearbook	1	
+	/mods/subject		yearbook	2	
+	/mods/subject/@authority	lcsh	yearbook	1	
+	/mods/subject/@lang	eng	yearbook	1	
+	/mods/subject/topic	College students	yearbook	2	
+	/mods/subject/topic	Periodicals	yearbook	2	
+	/mods/classification	LE 3 A65E	yearbook	1	
+	/mods/classification/@authority	lcc	yearbook	1	
+	/mods/relatedItem		yearbook	33	
+	/mods/relatedItem/@type	constituent	yearbook	1	
+	/mods/relatedItem/genre	journal issue	yearbook	1	
+	/mods/relatedItem/part		yearbook	1	
+	/mods/relatedItem/part/detail		yearbook	1	
+	/mods/relatedItem/part/detail/@type	volume	yearbook	1	
+	/mods/relatedItem/part/detail/number	1	yearbook	1	
+	/mods/relatedItem/part/extent		yearbook	1	
+	/mods/relatedItem/part/extent/@unit	pages	yearbook	1	
+	/mods/relatedItem/part/date	1921	yearbook	1	
+	/mods/relatedItem/recordInfo		yearbook	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9022.1	yearbook	1	
+	/mods/relatedItem		yearbook	33	
+	/mods/relatedItem/@type	constituent	yearbook	1	
+	/mods/relatedItem/genre	journal issue	yearbook	1	
+	/mods/relatedItem/part		yearbook	1	
+	/mods/relatedItem/part/detail		yearbook	1	
+	/mods/relatedItem/part/detail/@type	volume	yearbook	1	
+	/mods/relatedItem/part/detail/number	2	yearbook	1	
+	/mods/relatedItem/part/extent		yearbook	1	
+	/mods/relatedItem/part/extent/@unit	pages	yearbook	1	
+	/mods/relatedItem/part/date	1922	yearbook	1	
+	/mods/relatedItem/recordInfo		yearbook	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9022.2	yearbook	1	
+	/mods/relatedItem		yearbook	33	
+	/mods/relatedItem/@type	constituent	yearbook	1	
+	/mods/relatedItem/genre	journal issue	yearbook	1	
+	/mods/relatedItem/part		yearbook	1	
+	/mods/relatedItem/part/detail		yearbook	1	
+	/mods/relatedItem/part/detail/@type	volume	yearbook	1	
+	/mods/relatedItem/part/detail/number	3	yearbook	1	
+	/mods/relatedItem/part/extent		yearbook	1	
+	/mods/relatedItem/part/extent/@unit	pages	yearbook	1	
+	/mods/relatedItem/part/date	1922/1923	yearbook	1	
+	/mods/relatedItem/recordInfo		yearbook	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9022.3	yearbook	1	
+	/mods/relatedItem		yearbook	33	
+	/mods/relatedItem/@type	constituent	yearbook	1	
+	/mods/relatedItem/genre	journal issue	yearbook	1	
+	/mods/relatedItem/part		yearbook	1	
+	/mods/relatedItem/part/detail		yearbook	1	
+	/mods/relatedItem/part/detail/@type	volume	yearbook	1	
+	/mods/relatedItem/part/detail/number	4	yearbook	1	
+	/mods/relatedItem/part/extent		yearbook	1	
+	/mods/relatedItem/part/extent/@unit	pages	yearbook	1	
+	/mods/relatedItem/part/date	1923/1924	yearbook	1	
+	/mods/relatedItem/recordInfo		yearbook	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9022.4	yearbook	1	
+	/mods/relatedItem		yearbook	33	
+	/mods/relatedItem/@type	constituent	yearbook	1	
+	/mods/relatedItem/genre	journal issue	yearbook	1	
+	/mods/relatedItem/part		yearbook	1	
+	/mods/relatedItem/part/detail		yearbook	1	
+	/mods/relatedItem/part/detail/@type	volume	yearbook	1	
+	/mods/relatedItem/part/detail/number	5	yearbook	1	
+	/mods/relatedItem/part/extent		yearbook	1	
+	/mods/relatedItem/part/extent/@unit	pages	yearbook	1	
+	/mods/relatedItem/part/date	1924/1925	yearbook	1	
+	/mods/relatedItem/recordInfo		yearbook	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9022.5	yearbook	1	
+	/mods/relatedItem		yearbook	33	
+	/mods/relatedItem/@type	constituent	yearbook	1	
+	/mods/relatedItem/genre	journal issue	yearbook	1	
+	/mods/relatedItem/part		yearbook	1	
+	/mods/relatedItem/part/detail		yearbook	1	
+	/mods/relatedItem/part/detail/@type	volume	yearbook	1	
+	/mods/relatedItem/part/detail/number	6	yearbook	1	
+	/mods/relatedItem/part/extent		yearbook	1	
+	/mods/relatedItem/part/extent/@unit	pages	yearbook	1	
+	/mods/relatedItem/part/date	1925/1926	yearbook	1	
+	/mods/relatedItem/recordInfo		yearbook	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9022.6	yearbook	1	
+	/mods/relatedItem		yearbook	33	
+	/mods/relatedItem/@type	constituent	yearbook	1	
+	/mods/relatedItem/genre	journal issue	yearbook	1	
+	/mods/relatedItem/part		yearbook	1	
+	/mods/relatedItem/part/detail		yearbook	1	
+	/mods/relatedItem/part/detail/@type	volume	yearbook	1	
+	/mods/relatedItem/part/detail/number	7	yearbook	1	
+	/mods/relatedItem/part/extent		yearbook	1	
+	/mods/relatedItem/part/extent/@unit	pages	yearbook	1	
+	/mods/relatedItem/part/date	1926/1927	yearbook	1	
+	/mods/relatedItem/recordInfo		yearbook	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9022.7	yearbook	1	
+	/mods/relatedItem		yearbook	33	
+	/mods/relatedItem/@type	constituent	yearbook	1	
+	/mods/relatedItem/genre	journal issue	yearbook	1	
+	/mods/relatedItem/part		yearbook	1	
+	/mods/relatedItem/part/detail		yearbook	1	
+	/mods/relatedItem/part/detail/@type	volume	yearbook	1	
+	/mods/relatedItem/part/detail/number	8	yearbook	1	
+	/mods/relatedItem/part/extent		yearbook	1	
+	/mods/relatedItem/part/extent/@unit	pages	yearbook	1	
+	/mods/relatedItem/part/date	1927/1928	yearbook	1	
+	/mods/relatedItem/recordInfo		yearbook	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9022.8	yearbook	1	
+	/mods/relatedItem		yearbook	33	
+	/mods/relatedItem/@type	constituent	yearbook	1	
+	/mods/relatedItem/genre	journal issue	yearbook	1	
+	/mods/relatedItem/part		yearbook	1	
+	/mods/relatedItem/part/detail		yearbook	1	
+	/mods/relatedItem/part/detail/@type	volume	yearbook	1	
+	/mods/relatedItem/part/detail/number	9	yearbook	1	
+	/mods/relatedItem/part/extent		yearbook	1	
+	/mods/relatedItem/part/extent/@unit	pages	yearbook	1	
+	/mods/relatedItem/part/date	1928/1929	yearbook	1	
+	/mods/relatedItem/recordInfo		yearbook	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9022.9	yearbook	1	
+	/mods/relatedItem		yearbook	33	
+	/mods/relatedItem/@type	constituent	yearbook	1	
+	/mods/relatedItem/genre	journal issue	yearbook	1	
+	/mods/relatedItem/part		yearbook	1	
+	/mods/relatedItem/part/detail		yearbook	1	
+	/mods/relatedItem/part/detail/@type	volume	yearbook	1	
+	/mods/relatedItem/part/detail/number	10	yearbook	1	
+	/mods/relatedItem/part/extent		yearbook	1	
+	/mods/relatedItem/part/extent/@unit	pages	yearbook	1	
+	/mods/relatedItem/part/date	1929/1930	yearbook	1	
+	/mods/relatedItem/recordInfo		yearbook	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9022.10	yearbook	1	
+	/mods/relatedItem		yearbook	33	
+	/mods/relatedItem/@type	constituent	yearbook	1	
+	/mods/relatedItem/genre	journal issue	yearbook	1	
+	/mods/relatedItem/part		yearbook	1	
+	/mods/relatedItem/part/detail		yearbook	1	
+	/mods/relatedItem/part/detail/@type	volume	yearbook	1	
+	/mods/relatedItem/part/detail/number	11	yearbook	1	
+	/mods/relatedItem/part/extent		yearbook	1	
+	/mods/relatedItem/part/extent/@unit	pages	yearbook	1	
+	/mods/relatedItem/part/date	1930/1931	yearbook	1	
+	/mods/relatedItem/recordInfo		yearbook	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9022.11	yearbook	1	
+	/mods/relatedItem		yearbook	33	
+	/mods/relatedItem/@type	constituent	yearbook	1	
+	/mods/relatedItem/genre	journal issue	yearbook	1	
+	/mods/relatedItem/part		yearbook	1	
+	/mods/relatedItem/part/detail		yearbook	1	
+	/mods/relatedItem/part/detail/@type	volume	yearbook	1	
+	/mods/relatedItem/part/detail/number	12	yearbook	1	
+	/mods/relatedItem/part/extent		yearbook	1	
+	/mods/relatedItem/part/extent/@unit	pages	yearbook	1	
+	/mods/relatedItem/part/date	1931/1932	yearbook	1	
+	/mods/relatedItem/recordInfo		yearbook	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9022.12	yearbook	1	
+	/mods/relatedItem		yearbook	33	
+	/mods/relatedItem/@type	constituent	yearbook	1	
+	/mods/relatedItem/genre	journal issue	yearbook	1	
+	/mods/relatedItem/part		yearbook	1	
+	/mods/relatedItem/part/detail		yearbook	1	
+	/mods/relatedItem/part/detail/@type	volume	yearbook	1	
+	/mods/relatedItem/part/detail/number	13	yearbook	1	
+	/mods/relatedItem/part/extent		yearbook	1	
+	/mods/relatedItem/part/extent/@unit	pages	yearbook	1	
+	/mods/relatedItem/part/date	1932/1933	yearbook	1	
+	/mods/relatedItem/recordInfo		yearbook	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9022.13	yearbook	1	
+	/mods/relatedItem		yearbook	33	
+	/mods/relatedItem/@type	constituent	yearbook	1	
+	/mods/relatedItem/genre	journal issue	yearbook	1	
+	/mods/relatedItem/part		yearbook	1	
+	/mods/relatedItem/part/detail		yearbook	1	
+	/mods/relatedItem/part/detail/@type	volume	yearbook	1	
+	/mods/relatedItem/part/detail/number	14	yearbook	1	
+	/mods/relatedItem/part/extent		yearbook	1	
+	/mods/relatedItem/part/extent/@unit	pages	yearbook	1	
+	/mods/relatedItem/part/date	1934	yearbook	1	
+	/mods/relatedItem/recordInfo		yearbook	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9022.14	yearbook	1	
+	/mods/relatedItem		yearbook	33	
+	/mods/relatedItem/@type	constituent	yearbook	1	
+	/mods/relatedItem/genre	journal issue	yearbook	1	
+	/mods/relatedItem/part		yearbook	1	
+	/mods/relatedItem/part/detail		yearbook	1	
+	/mods/relatedItem/part/detail/@type	volume	yearbook	1	
+	/mods/relatedItem/part/detail/number	15	yearbook	1	
+	/mods/relatedItem/part/extent		yearbook	1	
+	/mods/relatedItem/part/extent/@unit	pages	yearbook	1	
+	/mods/relatedItem/part/date	1935	yearbook	1	
+	/mods/relatedItem/recordInfo		yearbook	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9022.15	yearbook	1	
+	/mods/relatedItem		yearbook	33	
+	/mods/relatedItem/@type	constituent	yearbook	1	
+	/mods/relatedItem/genre	journal issue	yearbook	1	
+	/mods/relatedItem/part		yearbook	1	
+	/mods/relatedItem/part/detail		yearbook	1	
+	/mods/relatedItem/part/detail/@type	volume	yearbook	1	
+	/mods/relatedItem/part/detail/number	16	yearbook	1	
+	/mods/relatedItem/part/extent		yearbook	1	
+	/mods/relatedItem/part/extent/@unit	pages	yearbook	1	
+	/mods/relatedItem/part/date	1936	yearbook	1	
+	/mods/relatedItem/recordInfo		yearbook	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9022.16	yearbook	1	
+	/mods/relatedItem		yearbook	33	
+	/mods/relatedItem/@type	constituent	yearbook	1	
+	/mods/relatedItem/genre	journal issue	yearbook	1	
+	/mods/relatedItem/part		yearbook	1	
+	/mods/relatedItem/part/detail		yearbook	1	
+	/mods/relatedItem/part/detail/@type	volume	yearbook	1	
+	/mods/relatedItem/part/detail/number	17	yearbook	1	
+	/mods/relatedItem/part/extent		yearbook	1	
+	/mods/relatedItem/part/extent/@unit	pages	yearbook	1	
+	/mods/relatedItem/part/date	1937	yearbook	1	
+	/mods/relatedItem/recordInfo		yearbook	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9022.17	yearbook	1	
+	/mods/relatedItem		yearbook	33	
+	/mods/relatedItem/@type	constituent	yearbook	1	
+	/mods/relatedItem/genre	journal issue	yearbook	1	
+	/mods/relatedItem/part		yearbook	1	
+	/mods/relatedItem/part/detail		yearbook	1	
+	/mods/relatedItem/part/detail/@type	volume	yearbook	1	
+	/mods/relatedItem/part/detail/number	18	yearbook	1	
+	/mods/relatedItem/part/extent		yearbook	1	
+	/mods/relatedItem/part/extent/@unit	pages	yearbook	1	
+	/mods/relatedItem/part/date	1938	yearbook	1	
+	/mods/relatedItem/recordInfo		yearbook	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9022.18	yearbook	1	
+	/mods/relatedItem		yearbook	33	
+	/mods/relatedItem/@type	constituent	yearbook	1	
+	/mods/relatedItem/genre	journal issue	yearbook	1	
+	/mods/relatedItem/part		yearbook	1	
+	/mods/relatedItem/part/detail		yearbook	1	
+	/mods/relatedItem/part/detail/@type	volume	yearbook	1	
+	/mods/relatedItem/part/detail/number	19	yearbook	1	
+	/mods/relatedItem/part/extent		yearbook	1	
+	/mods/relatedItem/part/extent/@unit	pages	yearbook	1	
+	/mods/relatedItem/part/date	1939	yearbook	1	
+	/mods/relatedItem/recordInfo		yearbook	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9022.19	yearbook	1	
+	/mods/relatedItem		yearbook	33	
+	/mods/relatedItem/@type	constituent	yearbook	1	
+	/mods/relatedItem/genre	journal issue	yearbook	1	
+	/mods/relatedItem/part		yearbook	1	
+	/mods/relatedItem/part/detail		yearbook	1	
+	/mods/relatedItem/part/detail/@type	volume	yearbook	1	
+	/mods/relatedItem/part/detail/number	20	yearbook	1	
+	/mods/relatedItem/part/extent		yearbook	1	
+	/mods/relatedItem/part/extent/@unit	pages	yearbook	1	
+	/mods/relatedItem/part/date	1940	yearbook	1	
+	/mods/relatedItem/recordInfo		yearbook	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9022.20	yearbook	1	
+	/mods/relatedItem		yearbook	33	
+	/mods/relatedItem/@type	constituent	yearbook	1	
+	/mods/relatedItem/genre	journal issue	yearbook	1	
+	/mods/relatedItem/part		yearbook	1	
+	/mods/relatedItem/part/detail		yearbook	1	
+	/mods/relatedItem/part/detail/@type	volume	yearbook	1	
+	/mods/relatedItem/part/detail/number	21	yearbook	1	
+	/mods/relatedItem/part/extent		yearbook	1	
+	/mods/relatedItem/part/extent/@unit	pages	yearbook	1	
+	/mods/relatedItem/part/date	1941	yearbook	1	
+	/mods/relatedItem/recordInfo		yearbook	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9022.21	yearbook	1	
+	/mods/relatedItem		yearbook	33	
+	/mods/relatedItem/@type	constituent	yearbook	1	
+	/mods/relatedItem/genre	journal issue	yearbook	1	
+	/mods/relatedItem/part		yearbook	1	
+	/mods/relatedItem/part/detail		yearbook	1	
+	/mods/relatedItem/part/detail/@type	volume	yearbook	1	
+	/mods/relatedItem/part/detail/number	22	yearbook	1	
+	/mods/relatedItem/part/extent		yearbook	1	
+	/mods/relatedItem/part/extent/@unit	pages	yearbook	1	
+	/mods/relatedItem/part/date	1942	yearbook	1	
+	/mods/relatedItem/recordInfo		yearbook	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9022.22	yearbook	1	
+	/mods/relatedItem		yearbook	33	
+	/mods/relatedItem/@type	constituent	yearbook	1	
+	/mods/relatedItem/genre	journal issue	yearbook	1	
+	/mods/relatedItem/part		yearbook	1	
+	/mods/relatedItem/part/detail		yearbook	1	
+	/mods/relatedItem/part/detail/@type	volume	yearbook	1	
+	/mods/relatedItem/part/detail/number	23	yearbook	1	
+	/mods/relatedItem/part/extent		yearbook	1	
+	/mods/relatedItem/part/extent/@unit	pages	yearbook	1	
+	/mods/relatedItem/part/date	1943	yearbook	1	
+	/mods/relatedItem/recordInfo		yearbook	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9022.23	yearbook	1	
+	/mods/relatedItem		yearbook	33	
+	/mods/relatedItem/@type	constituent	yearbook	1	
+	/mods/relatedItem/genre	journal issue	yearbook	1	
+	/mods/relatedItem/part		yearbook	1	
+	/mods/relatedItem/part/detail		yearbook	1	
+	/mods/relatedItem/part/detail/@type	volume	yearbook	1	
+	/mods/relatedItem/part/detail/number	24	yearbook	1	
+	/mods/relatedItem/part/extent		yearbook	1	
+	/mods/relatedItem/part/extent/@unit	pages	yearbook	1	
+	/mods/relatedItem/part/date	1944	yearbook	1	
+	/mods/relatedItem/recordInfo		yearbook	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9022.24	yearbook	1	
+	/mods/relatedItem		yearbook	33	
+	/mods/relatedItem/@type	constituent	yearbook	1	
+	/mods/relatedItem/genre	journal issue	yearbook	1	
+	/mods/relatedItem/part		yearbook	1	
+	/mods/relatedItem/part/detail		yearbook	1	
+	/mods/relatedItem/part/detail/@type	volume	yearbook	1	
+	/mods/relatedItem/part/detail/number	25	yearbook	1	
+	/mods/relatedItem/part/extent		yearbook	1	
+	/mods/relatedItem/part/extent/@unit	pages	yearbook	1	
+	/mods/relatedItem/part/date	1945	yearbook	1	
+	/mods/relatedItem/recordInfo		yearbook	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9022.25	yearbook	1	
+	/mods/relatedItem		yearbook	33	
+	/mods/relatedItem/@type	constituent	yearbook	1	
+	/mods/relatedItem/genre	journal issue	yearbook	1	
+	/mods/relatedItem/part		yearbook	1	
+	/mods/relatedItem/part/detail		yearbook	1	
+	/mods/relatedItem/part/detail/@type	volume	yearbook	1	
+	/mods/relatedItem/part/detail/number	26	yearbook	1	
+	/mods/relatedItem/part/extent		yearbook	1	
+	/mods/relatedItem/part/extent/@unit	pages	yearbook	1	
+	/mods/relatedItem/part/date	1946	yearbook	1	
+	/mods/relatedItem/recordInfo		yearbook	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9022.26	yearbook	1	
+	/mods/relatedItem		yearbook	33	
+	/mods/relatedItem/@type	constituent	yearbook	1	
+	/mods/relatedItem/genre	journal issue	yearbook	1	
+	/mods/relatedItem/part		yearbook	1	
+	/mods/relatedItem/part/detail		yearbook	1	
+	/mods/relatedItem/part/detail/@type	volume	yearbook	1	
+	/mods/relatedItem/part/detail/number	26	yearbook	1	
+	/mods/relatedItem/part/extent		yearbook	1	
+	/mods/relatedItem/part/extent/@unit	pages	yearbook	1	
+	/mods/relatedItem/part/date	1946 January	yearbook	1	
+	/mods/relatedItem/recordInfo		yearbook	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9022.26.Jan	yearbook	1	
+	/mods/relatedItem		yearbook	33	
+	/mods/relatedItem/@type	constituent	yearbook	1	
+	/mods/relatedItem/genre	journal issue	yearbook	1	
+	/mods/relatedItem/part		yearbook	1	
+	/mods/relatedItem/part/detail		yearbook	1	
+	/mods/relatedItem/part/detail/@type	volume	yearbook	1	
+	/mods/relatedItem/part/detail/number	27	yearbook	1	
+	/mods/relatedItem/part/extent		yearbook	1	
+	/mods/relatedItem/part/extent/@unit	pages	yearbook	1	
+	/mods/relatedItem/part/date	1947	yearbook	1	
+	/mods/relatedItem/recordInfo		yearbook	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9022.27	yearbook	1	
+	/mods/relatedItem		yearbook	33	
+	/mods/relatedItem/@type	constituent	yearbook	1	
+	/mods/relatedItem/genre	journal issue	yearbook	1	
+	/mods/relatedItem/part		yearbook	1	
+	/mods/relatedItem/part/detail		yearbook	1	
+	/mods/relatedItem/part/detail/@type	volume	yearbook	1	
+	/mods/relatedItem/part/detail/number	28	yearbook	1	
+	/mods/relatedItem/part/extent		yearbook	1	
+	/mods/relatedItem/part/extent/@unit	pages	yearbook	1	
+	/mods/relatedItem/part/date	1948	yearbook	1	
+	/mods/relatedItem/recordInfo		yearbook	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9022.28	yearbook	1	
+	/mods/relatedItem		yearbook	33	
+	/mods/relatedItem/@type	constituent	yearbook	1	
+	/mods/relatedItem/genre	journal issue	yearbook	1	
+	/mods/relatedItem/part		yearbook	1	
+	/mods/relatedItem/part/detail		yearbook	1	
+	/mods/relatedItem/part/detail/@type	volume	yearbook	1	
+	/mods/relatedItem/part/detail/number	29	yearbook	1	
+	/mods/relatedItem/part/extent		yearbook	1	
+	/mods/relatedItem/part/extent/@unit	pages	yearbook	1	
+	/mods/relatedItem/part/date	1949	yearbook	1	
+	/mods/relatedItem/recordInfo		yearbook	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9022.28	yearbook	1	
+	/mods/relatedItem		yearbook	33	
+	/mods/relatedItem/@type	constituent	yearbook	1	
+	/mods/relatedItem/genre	journal issue	yearbook	1	
+	/mods/relatedItem/part		yearbook	1	
+	/mods/relatedItem/part/detail		yearbook	1	
+	/mods/relatedItem/part/detail/@type	volume	yearbook	1	
+	/mods/relatedItem/part/detail/number	30	yearbook	1	
+	/mods/relatedItem/part/extent		yearbook	1	
+	/mods/relatedItem/part/extent/@unit	pages	yearbook	1	
+	/mods/relatedItem/part/date	1950	yearbook	1	
+	/mods/relatedItem/recordInfo		yearbook	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9022.30	yearbook	1	
+	/mods/relatedItem		yearbook	33	
+	/mods/relatedItem/@type	constituent	yearbook	1	
+	/mods/relatedItem/genre	journal issue	yearbook	1	
+	/mods/relatedItem/part		yearbook	1	
+	/mods/relatedItem/part/detail		yearbook	1	
+	/mods/relatedItem/part/detail/@type	volume	yearbook	1	
+	/mods/relatedItem/part/detail/number	31	yearbook	1	
+	/mods/relatedItem/part/extent		yearbook	1	
+	/mods/relatedItem/part/extent/@unit	pages	yearbook	1	
+	/mods/relatedItem/part/date	1951	yearbook	1	
+	/mods/relatedItem/recordInfo		yearbook	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9022.31	yearbook	1	
+	/mods/relatedItem		yearbook	33	
+	/mods/relatedItem/@type	constituent	yearbook	1	
+	/mods/relatedItem/genre	journal issue	yearbook	1	
+	/mods/relatedItem/part		yearbook	1	
+	/mods/relatedItem/part/detail		yearbook	1	
+	/mods/relatedItem/part/detail/@type	volume	yearbook	1	
+	/mods/relatedItem/part/detail/number	32	yearbook	1	
+	/mods/relatedItem/part/extent		yearbook	1	
+	/mods/relatedItem/part/extent/@unit	pages	yearbook	1	
+	/mods/relatedItem/part/date	1952	yearbook	1	
+	/mods/relatedItem/recordInfo		yearbook	1	
+	/mods/relatedItem/recordInfo/recordIdentifier	9022.32	yearbook	1	
+	/mods/identifier	9022	yearbook	1	
+	/mods/identifier/@type	local:peel3	yearbook	1	
+	/mods/recordInfo		yearbook	1	
+	/mods/recordInfo/recordContentSource	sfarnel	yearbook	1	
+	/mods/recordInfo/recordContentSource/@authority	local:person	yearbook	1	
+	/mods/recordInfo/recordCreationDate	841203	yearbook	1	
+	/mods/recordInfo/recordCreationDate/@encoding	marc	yearbook	1	
+	/mods/recordInfo/recordIdentifier	P009022	yearbook	1	
+	/mods/recordInfo/recordChangeDate	2011-11-30T15:16:54-0700	yearbook	1	
+	/@mods	
+
+Evergreen and gold
+The annual publication of the students of the University of Alberta
+
+
+University of Alberta
+
+text
+yearbook
+
+
+Edmonton
+
+University of Alberta
+1921-1984
+continuing
+Annual
+
+
+English
+
+
+print
+52 v. : ill. ; 32 cm.
+
+Annual. Volume 52 has the subtitle <i>Special anniversary issue</i>. Publication suspended from 1972 to 1982. Yearbook of the University of Alberta.
+
+				
+University of Alberta
+
+			
+				Periodicals
+			
+
+				College students
+			
+				Periodicals
+			
+LE 3 A65E
+
+journal issue
+
+
+1
+
+
+1921
+
+
+9022.1
+
+
+
+journal issue
+
+
+2
+
+
+1922
+
+
+9022.2
+
+
+
+journal issue
+
+
+3
+
+
+1922/1923
+
+
+9022.3
+
+
+
+journal issue
+
+
+4
+
+
+1923/1924
+
+
+9022.4
+
+
+
+journal issue
+
+
+5
+
+
+1924/1925
+
+
+9022.5
+
+
+
+journal issue
+
+
+6
+
+
+1925/1926
+
+
+9022.6
+
+
+
+journal issue
+
+
+7
+
+
+1926/1927
+
+
+9022.7
+
+
+
+journal issue
+
+
+8
+
+
+1927/1928
+
+
+9022.8
+
+
+
+journal issue
+
+
+9
+
+
+1928/1929
+
+
+9022.9
+
+
+
+journal issue
+
+
+10
+
+
+1929/1930
+
+
+9022.10
+
+
+
+journal issue
+
+
+11
+
+
+1930/1931
+
+
+9022.11
+
+
+
+journal issue
+
+
+12
+
+
+1931/1932
+
+
+9022.12
+
+
+
+journal issue
+
+
+13
+
+
+1932/1933
+
+
+9022.13
+
+
+
+journal issue
+
+
+14
+
+
+1934
+
+
+9022.14
+
+
+
+journal issue
+
+
+15
+
+
+1935
+
+
+9022.15
+
+
+
+journal issue
+
+
+16
+
+
+1936
+
+
+9022.16
+
+
+
+journal issue
+
+
+17
+
+
+1937
+
+
+9022.17
+
+
+
+journal issue
+
+
+18
+
+
+1938
+
+
+9022.18
+
+
+
+journal issue
+
+
+19
+
+
+1939
+
+
+9022.19
+
+
+
+journal issue
+
+
+20
+
+
+1940
+
+
+9022.20
+
+
+
+journal issue
+
+
+21
+
+
+1941
+
+
+9022.21
+
+
+
+journal issue
+
+
+22
+
+
+1942
+
+
+9022.22
+
+
+
+journal issue
+
+
+23
+
+
+1943
+
+
+9022.23
+
+
+
+journal issue
+
+
+24
+
+
+1944
+
+
+9022.24
+
+
+
+journal issue
+
+
+25
+
+
+1945
+
+
+9022.25
+
+
+
+journal issue
+
+
+26
+
+
+1946
+
+
+9022.26
+
+
+
+journal issue
+
+
+26
+
+
+1946 January
+
+
+9022.26.Jan
+
+
+
+journal issue
+
+
+27
+
+
+1947
+
+
+9022.27
+
+
+
+journal issue
+
+
+28
+
+
+1948
+
+
+9022.28
+
+
+
+journal issue
+
+
+29
+
+
+1949
+
+
+9022.28
+
+
+
+journal issue
+
+
+30
+
+
+1950
+
+
+9022.30
+
+
+
+journal issue
+
+
+31
+
+
+1951
+
+
+9022.31
+
+
+
+journal issue
+
+
+32
+
+
+1952
+
+
+9022.32
+
+
+9022
+
+sfarnel
+841203
+P009022
+2011-11-30T15:16:54-0700
+
+	yearbook	1	
+	

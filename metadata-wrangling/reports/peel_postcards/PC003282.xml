@@ -1,0 +1,131 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		fsalehi	PC003282	postcards	1	3.2
+	/mods/@version	3.2	fsalehi	PC003282	postcards	1	3.2
+	/mods/titleInfo		fsalehi	PC003282	postcards	1	3.2
+	/mods/titleInfo/@lang	english	fsalehi	PC003282	postcards	1	3.2
+	/mods/titleInfo/title	Cayley, Alta	fsalehi	PC003282	postcards	1	3.2
+	/mods/name		fsalehi	PC003282	postcards	1	3.2
+	/mods/name/@type	corporate	fsalehi	PC003282	postcards	1	3.2
+	/mods/name/namePart	Rumsey & Co	fsalehi	PC003282	postcards	1	3.2
+	/mods/name/role		fsalehi	PC003282	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	fsalehi	PC003282	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC003282	postcards	1	3.2
+	/mods/typeOfResource	still image	fsalehi	PC003282	postcards	1	3.2
+	/mods/genre	postcards	fsalehi	PC003282	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	fsalehi	PC003282	postcards	1	3.2
+	/mods/originInfo		fsalehi	PC003282	postcards	1	3.2
+	/mods/originInfo/place		fsalehi	PC003282	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	Toronto	fsalehi	PC003282	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC003282	postcards	1	3.2
+	/mods/originInfo/publisher	Real Photo Published by Rumsey & Co., Toronto, Can.	fsalehi	PC003282	postcards	1	3.2
+	/mods/originInfo/dateIssued	after 1908	fsalehi	PC003282	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	inferred	fsalehi	PC003282	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	fsalehi	PC003282	postcards	1	3.2
+	/mods/language		fsalehi	PC003282	postcards	1	3.2
+	/mods/language/languageTerm	English	fsalehi	PC003282	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	fsalehi	PC003282	postcards	1	3.2
+	/mods/physicalDescription		fsalehi	PC003282	postcards	1	3.2
+	/mods/physicalDescription/form		fsalehi	PC003282	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : sepia ; 9 x 14 cm.	fsalehi	PC003282	postcards	1	3.2
+	/mods/note	40	fsalehi	PC003282	postcards	4	3.2
+	/mods/note/@type	price	fsalehi	PC003282	postcards	1	3.2
+	/mods/note	false	fsalehi	PC003282	postcards	4	3.2
+	/mods/note/@type	notable	fsalehi	PC003282	postcards	1	3.2
+	/mods/note	false	fsalehi	PC003282	postcards	4	3.2
+	/mods/note/@type	imgprobs	fsalehi	PC003282	postcards	1	3.2
+	/mods/note	Distant view of portion of town showing businesses and elevators.	fsalehi	PC003282	postcards	4	3.2
+	/mods/note/@type	public_description	fsalehi	PC003282	postcards	1	3.2
+	/mods/subject		fsalehi	PC003282	postcards	4	3.2
+	/mods/subject/geographic	Cayley, AB	fsalehi	PC003282	postcards	1	3.2
+	/mods/subject		fsalehi	PC003282	postcards	4	3.2
+	/mods/subject/hierarchicalGeographic		fsalehi	PC003282	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	fsalehi	PC003282	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	fsalehi	PC003282	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Cayley	fsalehi	PC003282	postcards	1	3.2
+	/mods/subject		fsalehi	PC003282	postcards	4	3.2
+	/mods/subject/topic	Cityscapes	fsalehi	PC003282	postcards	1	3.2
+	/mods/subject		fsalehi	PC003282	postcards	4	3.2
+	/mods/subject/topic	Grain elevators	fsalehi	PC003282	postcards	1	3.2
+	/mods/identifier	PC003282	fsalehi	PC003282	postcards	1	3.2
+	/mods/identifier/@type	local	fsalehi	PC003282	postcards	1	3.2
+	/mods/location		fsalehi	PC003282	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 1	fsalehi	PC003282	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC003282.html	fsalehi	PC003282	postcards	3	3.2
+	/mods/location/url/@access	object in context	fsalehi	PC003282	postcards	1	3.2
+	/mods/location/url/@usage	primary display	fsalehi	PC003282	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/003/web/PC003282.jpg	fsalehi	PC003282	postcards	3	3.2
+	/mods/location/url/@access	raw object	fsalehi	PC003282	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='491'	fsalehi	PC003282	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/003/thumbs/PC003282.jpg	fsalehi	PC003282	postcards	3	3.2
+	/mods/location/url/@access	preview	fsalehi	PC003282	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='123'	fsalehi	PC003282	postcards	1	3.2
+	/mods/recordInfo		fsalehi	PC003282	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	fsalehi	fsalehi	PC003282	postcards	2	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	fsalehi	PC003282	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC003282	fsalehi	PC003282	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2010-05-20T14:15:14-0600	fsalehi	PC003282	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	aharrigan	fsalehi	PC003282	postcards	2	3.2
+	/mods/recordInfo/recordContentSource/@authority	local:person	fsalehi	PC003282	postcards	1	3.2
+	/@mods	
+
+Cayley, Alta
+
+
+Rumsey & Co
+
+Publisher
+
+
+still image
+postcards
+
+
+Toronto
+
+Real Photo Published by Rumsey & Co., Toronto, Can.
+after 1908
+monographic
+
+
+English
+
+
+
+1 postcard : sepia ; 9 x 14 cm.
+
+40
+false
+false
+Distant view of portion of town showing businesses and elevators.
+
+				Cayley, AB
+			
+
+				
+Canada
+Alberta
+Cayley
+
+			
+
+				Cityscapes
+			
+
+				Grain elevators
+			
+PC003282
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 1
+http://peel.library.ualberta.ca/postcards/PC003282.html
+http://peel.library.ualberta.ca/pcimages/PC/003/web/PC003282.jpg
+http://peel.library.ualberta.ca/pcimages/PC/003/thumbs/PC003282.jpg
+
+
+fsalehi
+2007-06-25T16:49:56-0600
+PC003282
+2010-05-20T14:15:14-0600
+aharrigan
+
+	fsalehi	PC003282	postcards	1	3.2
+	

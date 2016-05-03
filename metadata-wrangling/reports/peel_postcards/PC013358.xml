@@ -1,0 +1,158 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		fsalehi	PC013358	postcards	1	3.3
+	/mods/@version	3.3	fsalehi	PC013358	postcards	1	3.3
+	/mods/titleInfo		fsalehi	PC013358	postcards	1	3.3
+	/mods/titleInfo/@lang	english	fsalehi	PC013358	postcards	1	3.3
+	/mods/titleInfo/title	City Hall and Union Bank of Canada, Winnipeg, Man.	fsalehi	PC013358	postcards	1	3.3
+	/mods/name		fsalehi	PC013358	postcards	1	3.3
+	/mods/name/@type	personal	fsalehi	PC013358	postcards	1	3.3
+	/mods/name/namePart	Clubb	fsalehi	PC013358	postcards	2	3.3
+	/mods/name/namePart/@type	family	fsalehi	PC013358	postcards	1	3.3
+	/mods/name/namePart	W.J.	fsalehi	PC013358	postcards	2	3.3
+	/mods/name/namePart/@type	given	fsalehi	PC013358	postcards	1	3.3
+	/mods/name/role		fsalehi	PC013358	postcards	1	3.3
+	/mods/name/role/roleTerm	Publisher	fsalehi	PC013358	postcards	1	3.3
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC013358	postcards	1	3.3
+	/mods/typeOfResource	still image	fsalehi	PC013358	postcards	1	3.3
+	/mods/genre	postcards	fsalehi	PC013358	postcards	1	3.3
+	/mods/genre/@authority	gmgpc	fsalehi	PC013358	postcards	1	3.3
+	/mods/originInfo		fsalehi	PC013358	postcards	1	3.3
+	/mods/originInfo/place		fsalehi	PC013358	postcards	2	3.3
+	/mods/originInfo/place/placeTerm	Winnipeg	fsalehi	PC013358	postcards	1	3.3
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC013358	postcards	1	3.3
+	/mods/originInfo/place		fsalehi	PC013358	postcards	2	3.3
+	/mods/originInfo/place/placeTerm	Victoria	fsalehi	PC013358	postcards	1	3.3
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC013358	postcards	1	3.3
+	/mods/originInfo/publisher	W.J. Clubb, Winnipeg and Victoria	fsalehi	PC013358	postcards	1	3.3
+	/mods/originInfo/dateIssued	ca. 1911	fsalehi	PC013358	postcards	1	3.3
+	/mods/originInfo/dateIssued/@qualifier	approximate	fsalehi	PC013358	postcards	1	3.3
+	/mods/originInfo/issuance	monographic	fsalehi	PC013358	postcards	1	3.3
+	/mods/language		fsalehi	PC013358	postcards	1	3.3
+	/mods/language/languageTerm	English	fsalehi	PC013358	postcards	1	3.3
+	/mods/language/languageTerm/@type	text	fsalehi	PC013358	postcards	1	3.3
+	/mods/physicalDescription		fsalehi	PC013358	postcards	1	3.3
+	/mods/physicalDescription/form		fsalehi	PC013358	postcards	1	3.3
+	/mods/physicalDescription/extent	1 postcard : col. ; 9 x 14 cm.	fsalehi	PC013358	postcards	1	3.3
+	/mods/note	5	fsalehi	PC013358	postcards	5	3.3
+	/mods/note/@type	price	fsalehi	PC013358	postcards	1	3.3
+	/mods/note	false	fsalehi	PC013358	postcards	5	3.3
+	/mods/note/@type	notable	fsalehi	PC013358	postcards	1	3.3
+	/mods/note	false	fsalehi	PC013358	postcards	5	3.3
+	/mods/note/@type	imgprobs	fsalehi	PC013358	postcards	1	3.3
+	/mods/note	[printer's no.] 19950	fsalehi	PC013358	postcards	5	3.3
+	/mods/note/@type	public_on_back	fsalehi	PC013358	postcards	1	3.3
+	/mods/note	View of Union Bank of Canada, Volunteer's Monument and City Hall in Winnipeg.	fsalehi	PC013358	postcards	5	3.3
+	/mods/note/@type	public_description	fsalehi	PC013358	postcards	1	3.3
+	/mods/subject		fsalehi	PC013358	postcards	6	3.3
+	/mods/subject/geographic	Winnipeg, MB	fsalehi	PC013358	postcards	1	3.3
+	/mods/subject		fsalehi	PC013358	postcards	6	3.3
+	/mods/subject/hierarchicalGeographic		fsalehi	PC013358	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/country	Canada	fsalehi	PC013358	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/province	Manitoba	fsalehi	PC013358	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/city	Winnipeg	fsalehi	PC013358	postcards	1	3.3
+	/mods/subject		fsalehi	PC013358	postcards	6	3.3
+	/mods/subject/topic	City & town halls	fsalehi	PC013358	postcards	1	3.3
+	/mods/subject		fsalehi	PC013358	postcards	6	3.3
+	/mods/subject/topic	Monuments & memorials	fsalehi	PC013358	postcards	1	3.3
+	/mods/subject		fsalehi	PC013358	postcards	6	3.3
+	/mods/subject/topic	Banks	fsalehi	PC013358	postcards	1	3.3
+	/mods/subject		fsalehi	PC013358	postcards	6	3.3
+	/mods/subject/name		fsalehi	PC013358	postcards	1	3.3
+	/mods/subject/name/@type	personal	fsalehi	PC013358	postcards	1	3.3
+	/mods/subject/name/namePart	Union Bank of Canada (Winnipeg, Man.)	fsalehi	PC013358	postcards	1	3.3
+	/mods/identifier	PC013358	fsalehi	PC013358	postcards	1	3.3
+	/mods/identifier/@type	local	fsalehi	PC013358	postcards	1	3.3
+	/mods/location		fsalehi	PC013358	postcards	1	3.3
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 4 (set 2)	fsalehi	PC013358	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC013358.html	fsalehi	PC013358	postcards	3	3.3
+	/mods/location/url/@access	object in context	fsalehi	PC013358	postcards	1	3.3
+	/mods/location/url/@usage	primary display	fsalehi	PC013358	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/013/web/PC013358.jpg	fsalehi	PC013358	postcards	3	3.3
+	/mods/location/url/@access	raw object	fsalehi	PC013358	postcards	1	3.3
+	/mods/location/url/@note	width='1092' height='692'	fsalehi	PC013358	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/013/thumbs/PC013358.jpg	fsalehi	PC013358	postcards	3	3.3
+	/mods/location/url/@access	preview	fsalehi	PC013358	postcards	1	3.3
+	/mods/location/url/@note	width='200' height='127'	fsalehi	PC013358	postcards	1	3.3
+	/mods/recordInfo		fsalehi	PC013358	postcards	1	3.3
+	/mods/recordInfo/recordContentSource	fsalehi	fsalehi	PC013358	postcards	2	3.3
+	/mods/recordInfo/recordCreationDate	2009-01-23T14:03:00-0700	fsalehi	PC013358	postcards	1	3.3
+	/mods/recordInfo/recordIdentifier	PC013358	fsalehi	PC013358	postcards	1	3.3
+	/mods/recordInfo/recordChangeDate	2010-05-27T09:31:49-0600	fsalehi	PC013358	postcards	1	3.3
+	/mods/recordInfo/recordContentSource	aharrigan	fsalehi	PC013358	postcards	2	3.3
+	/mods/recordInfo/recordContentSource/@authority	local:person	fsalehi	PC013358	postcards	1	3.3
+	/@mods	
+
+City Hall and Union Bank of Canada, Winnipeg, Man.
+
+
+Clubb
+W.J.
+
+Publisher
+
+
+still image
+postcards
+
+
+Winnipeg
+
+
+Victoria
+
+W.J. Clubb, Winnipeg and Victoria
+ca. 1911
+monographic
+
+
+English
+
+
+
+1 postcard : col. ; 9 x 14 cm.
+
+5
+false
+false
+[printer's no.] 19950
+View of Union Bank of Canada, Volunteer's Monument and City Hall in Winnipeg.
+
+				Winnipeg, MB
+			
+
+				
+Canada
+Manitoba
+Winnipeg
+
+			
+
+				City & town halls
+			
+
+				Monuments & memorials
+			
+
+				Banks
+			
+
+				
+Union Bank of Canada (Winnipeg, Man.)
+
+			
+PC013358
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 4 (set 2)
+http://peel.library.ualberta.ca/postcards/PC013358.html
+http://peel.library.ualberta.ca/pcimages/PC/013/web/PC013358.jpg
+http://peel.library.ualberta.ca/pcimages/PC/013/thumbs/PC013358.jpg
+
+
+fsalehi
+2009-01-23T14:03:00-0700
+PC013358
+2010-05-27T09:31:49-0600
+aharrigan
+
+	fsalehi	PC013358	postcards	1	3.3
+	

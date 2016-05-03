@@ -1,0 +1,124 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.2
+	/mods/@version	3.2		1	3.2
+	/mods/titleInfo			2	3.2
+	/mods/titleInfo/title	75 years of Strathcona high schools, 1907-1982		1	3.2
+	/mods/titleInfo			2	3.2
+	/mods/titleInfo/@type	alternative		1	3.2
+	/mods/titleInfo/title	Seventy-five years of Strathcona high schools, 1907-1982		1	3.2
+	/mods/name			2	3.2
+	/mods/name/@type	personal		1	3.2
+	/mods/name/namePart	Butler, Terry.		1	3.2
+	/mods/name/role			1	3.2
+	/mods/name/role/roleTerm	compiler		1	3.2
+	/mods/name			2	3.2
+	/mods/name/@type	corporate		1	3.2
+	/mods/name/namePart	Strathcona Triunion Association		1	3.2
+	/mods/typeOfResource	text		1	3.2
+	/mods/originInfo			1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	abc		1	3.2
+	/mods/originInfo/place/placeTerm/@authority	marccountry		1	3.2
+	/mods/originInfo/place/placeTerm/@type	code		1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	[Edmonton]		1	3.2
+	/mods/originInfo/place/placeTerm/@type	text		1	3.2
+	/mods/originInfo/publisher	Strathcona Triunion Association		1	3.2
+	/mods/originInfo/dateIssued	c1982		2	3.2
+	/mods/originInfo/dateIssued	1982		2	3.2
+	/mods/originInfo/dateIssued/@encoding	marc		1	3.2
+	/mods/originInfo/issuance	monographic		1	3.2
+	/mods/language			1	3.2
+	/mods/language/languageTerm	eng		1	3.2
+	/mods/language/languageTerm/@authority	iso639-2b		1	3.2
+	/mods/language/languageTerm/@type	code		1	3.2
+	/mods/physicalDescription			1	3.2
+	/mods/physicalDescription/form	print		1	3.2
+	/mods/physicalDescription/form/@authority	marcform		1	3.2
+	/mods/physicalDescription/extent	[52] p. : ill., ports. ; 23 cm.		1	3.2
+	/mods/note	uahistory		3	3.2
+	/mods/note/@type	local:oaiset		1	3.2
+	/mods/note	DOA: 1907 Spatial: Edmonton (Alta.)		3	3.2
+	/mods/note/@type	local		1	3.2
+	/mods/note	Dedication by Maury van Vliet. History of schools in the Strathcona area of Edmonton.		3	3.2
+	/mods/note/@type	public		1	3.2
+	/mods/subject			1	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/topic	High schools		2	3.2
+	/mods/subject/geographic	Alberta		2	3.2
+	/mods/subject/geographic	Strathcona County		2	3.2
+	/mods/subject/topic	History		2	3.2
+	/mods/classification	LE5.S77 S48 1982		1	3.2
+	/mods/classification/@authority	lcc		1	3.2
+	/mods/identifier	1799313		2	3.2
+	/mods/identifier/@type	local:neos		1	3.2
+	/mods/identifier	9086		2	3.2
+	/mods/identifier/@type	local:peel3		1	3.2
+	/mods/recordInfo			1	3.2
+	/mods/recordInfo/recordContentSource	AEU		2	3.2
+	/mods/recordInfo/recordContentSource/@authority	marcorg		1	3.2
+	/mods/recordInfo/recordContentSource	RC		2	3.2
+	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.2
+	/mods/recordInfo/recordCreationDate	2008-09-10T15:40:33-0600		1	3.2
+	/mods/recordInfo/recordIdentifier	P009086		1	3.2
+	/mods/recordInfo/recordChangeDate	2010-04-05T18:01:03-0600		1	3.2
+	/@mods	
+
+75 years of Strathcona high schools, 1907-1982
+
+
+Seventy-five years of Strathcona high schools, 1907-1982
+
+
+Butler, Terry.
+
+compiler
+
+
+
+Strathcona Triunion Association
+
+text
+
+
+abc
+
+
+[Edmonton]
+
+Strathcona Triunion Association
+c1982
+1982
+monographic
+
+
+eng
+
+
+print
+[52] p. : ill., ports. ; 23 cm.
+
+uahistory
+DOA: 1907 Spatial: Edmonton (Alta.)
+Dedication by Maury van Vliet. History of schools in the Strathcona area of Edmonton.
+
+				High schools
+			
+				Alberta
+			
+				Strathcona County
+			
+				History
+			
+LE5.S77 S48 1982
+1799313
+9086
+
+AEU
+RC
+2008-09-10T15:40:33-0600
+P009086
+2010-04-05T18:01:03-0600
+
+		1	3.2
+	

@@ -1,0 +1,173 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		rschramm	PC003123	postcards	1	3.2
+	/mods/@version	3.2	rschramm	PC003123	postcards	1	3.2
+	/mods/titleInfo		rschramm	PC003123	postcards	1	3.2
+	/mods/titleInfo/@lang	english	rschramm	PC003123	postcards	1	3.2
+	/mods/titleInfo/title	First St. W., Brooks, Alberta.	rschramm	PC003123	postcards	1	3.2
+	/mods/name		rschramm	PC003123	postcards	2	3.2
+	/mods/name/@type	personal	rschramm	PC003123	postcards	1	3.2
+	/mods/name/namePart	Nab	rschramm	PC003123	postcards	2	3.2
+	/mods/name/namePart/@type	family	rschramm	PC003123	postcards	1	3.2
+	/mods/name/namePart	Mc	rschramm	PC003123	postcards	2	3.2
+	/mods/name/namePart/@type	given	rschramm	PC003123	postcards	1	3.2
+	/mods/name/role		rschramm	PC003123	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	rschramm	PC003123	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	rschramm	PC003123	postcards	1	3.2
+	/mods/name		rschramm	PC003123	postcards	2	3.2
+	/mods/name/@type	corporate	rschramm	PC003123	postcards	1	3.2
+	/mods/name/namePart	Published by Rumsey & Co.	rschramm	PC003123	postcards	1	3.2
+	/mods/name/role		rschramm	PC003123	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	rschramm	PC003123	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	rschramm	PC003123	postcards	1	3.2
+	/mods/typeOfResource	still image	rschramm	PC003123	postcards	1	3.2
+	/mods/genre	postcards	rschramm	PC003123	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	rschramm	PC003123	postcards	1	3.2
+	/mods/originInfo		rschramm	PC003123	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	rschramm	PC003123	postcards	1	3.2
+	/mods/originInfo/publisher	Published by Rumsey & Co., Toronto, Can; Mc. Nab.	rschramm	PC003123	postcards	1	3.2
+	/mods/originInfo/dateIssued	1912	rschramm	PC003123	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	approximate	rschramm	PC003123	postcards	1	3.2
+	/mods/originInfo/place		rschramm	PC003123	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	Toronto	rschramm	PC003123	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	rschramm	PC003123	postcards	1	3.2
+	/mods/language		rschramm	PC003123	postcards	1	3.2
+	/mods/language/languageTerm	English	rschramm	PC003123	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	rschramm	PC003123	postcards	1	3.2
+	/mods/physicalDescription		rschramm	PC003123	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : b&w ; 9 x 14 cm.	rschramm	PC003123	postcards	1	3.2
+	/mods/note	120	rschramm	PC003123	postcards	10	3.2
+	/mods/note/@type	price	rschramm	PC003123	postcards	1	3.2
+	/mods/note	false	rschramm	PC003123	postcards	10	3.2
+	/mods/note/@type	notable	rschramm	PC003123	postcards	1	3.2
+	/mods/note	false	rschramm	PC003123	postcards	10	3.2
+	/mods/note/@type	imgprobs	rschramm	PC003123	postcards	1	3.2
+	/mods/note	View of a commercial street in Brooks, Alberta with stores and pedestrians visible. Various businesses - including the Oxford Hotel and City cafe - are visible.	rschramm	PC003123	postcards	10	3.2
+	/mods/note/@type	public_description	rschramm	PC003123	postcards	1	3.2
+	/mods/note	Mr. Devin	rschramm	PC003123	postcards	10	3.2
+	/mods/note/@type	public_to	rschramm	PC003123	postcards	1	3.2
+	/mods/note	LTT	rschramm	PC003123	postcards	10	3.2
+	/mods/note/@type	public_from	rschramm	PC003123	postcards	1	3.2
+	/mods/note	1149 10th East, Calgary, Alta.	rschramm	PC003123	postcards	10	3.2
+	/mods/note/@type	public_address	rschramm	PC003123	postcards	1	3.2
+	/mods/note	Tues 11am, I have just got down & load up ready for the trail. The trails are bad with the rain yesterday, LTT	rschramm	PC003123	postcards	10	3.2
+	/mods/note/@type	public_message	rschramm	PC003123	postcards	1	3.2
+	/mods/note	Brooks Station, Alta., 1912-05-28	rschramm	PC003123	postcards	10	3.2
+	/mods/note/@type	public_postmark_date	rschramm	PC003123	postcards	1	3.2
+	/mods/note	Real Photo.	rschramm	PC003123	postcards	10	3.2
+	/mods/note/@type	public_on_back	rschramm	PC003123	postcards	1	3.2
+	/mods/subject		rschramm	PC003123	postcards	6	3.2
+	/mods/subject/geographic	Brooks, AB	rschramm	PC003123	postcards	1	3.2
+	/mods/subject		rschramm	PC003123	postcards	6	3.2
+	/mods/subject/hierarchicalGeographic		rschramm	PC003123	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	rschramm	PC003123	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	rschramm	PC003123	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Brooks	rschramm	PC003123	postcards	1	3.2
+	/mods/subject		rschramm	PC003123	postcards	6	3.2
+	/mods/subject/genre	Postcards	rschramm	PC003123	postcards	1	3.2
+	/mods/subject		rschramm	PC003123	postcards	6	3.2
+	/mods/subject/topic	Commercial streets	rschramm	PC003123	postcards	1	3.2
+	/mods/subject		rschramm	PC003123	postcards	6	3.2
+	/mods/subject/topic	Stores & shops	rschramm	PC003123	postcards	1	3.2
+	/mods/subject		rschramm	PC003123	postcards	6	3.2
+	/mods/subject/topic	Hotels	rschramm	PC003123	postcards	1	3.2
+	/mods/identifier	PC003123	rschramm	PC003123	postcards	1	3.2
+	/mods/identifier/@type	local	rschramm	PC003123	postcards	1	3.2
+	/mods/location		rschramm	PC003123	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 1	rschramm	PC003123	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC003123.html	rschramm	PC003123	postcards	3	3.2
+	/mods/location/url/@access	object in context	rschramm	PC003123	postcards	1	3.2
+	/mods/location/url/@usage	primary display	rschramm	PC003123	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/003/web/PC003123.jpg	rschramm	PC003123	postcards	3	3.2
+	/mods/location/url/@access	raw object	rschramm	PC003123	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='495' 	rschramm	PC003123	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/003/thumbs/PC003123.jpg	rschramm	PC003123	postcards	3	3.2
+	/mods/location/url/@access	preview	rschramm	PC003123	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='124'	rschramm	PC003123	postcards	1	3.2
+	/mods/recordInfo		rschramm	PC003123	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	rschramm	PC003123	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC003123	rschramm	PC003123	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	rschramm	rschramm	PC003123	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2008-06-30T10:27:04-0600	rschramm	PC003123	postcards	1	3.2
+	/@mods	
+
+First St. W., Brooks, Alberta.
+
+
+Nab
+Mc
+
+Publisher
+
+
+
+Published by Rumsey & Co.
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+Published by Rumsey & Co., Toronto, Can; Mc. Nab.
+1912
+
+
+Toronto
+
+
+
+English
+
+
+1 postcard : b&w ; 9 x 14 cm.
+
+120
+false
+false
+View of a commercial street in Brooks, Alberta with stores and pedestrians visible. Various businesses - including the Oxford Hotel and City cafe - are visible.
+Mr. Devin
+LTT
+1149 10th East, Calgary, Alta.
+Tues 11am, I have just got down & load up ready for the trail. The trails are bad with the rain yesterday, LTT
+Brooks Station, Alta., 1912-05-28
+Real Photo.
+
+Brooks, AB
+
+
+
+Canada
+Alberta
+Brooks
+
+
+
+Postcards
+
+
+Commercial streets
+
+
+Stores & shops
+
+
+Hotels
+
+PC003123
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 1
+http://peel.library.ualberta.ca/postcards/PC003123.html
+http://peel.library.ualberta.ca/pcimages/PC/003/web/PC003123.jpg
+http://peel.library.ualberta.ca/pcimages/PC/003/thumbs/PC003123.jpg
+
+
+
+
+2007-06-25T16:49:56-0600
+PC003123
+rschramm
+2008-06-30T10:27:04-0600
+
+	rschramm	PC003123	postcards	1	3.2
+	

@@ -1,0 +1,147 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		sfarnel	PC013611	postcards	1	3.3
+	/mods/@version	3.3	sfarnel	PC013611	postcards	1	3.3
+	/mods/titleInfo		sfarnel	PC013611	postcards	1	3.3
+	/mods/titleInfo/@lang	english	sfarnel	PC013611	postcards	1	3.3
+	/mods/titleInfo/title	Edmonton Club, Edmonton, Alta.	sfarnel	PC013611	postcards	1	3.3
+	/mods/name		sfarnel	PC013611	postcards	1	3.3
+	/mods/name/@type	personal	sfarnel	PC013611	postcards	1	3.3
+	/mods/name/namePart	Rice	sfarnel	PC013611	postcards	2	3.3
+	/mods/name/namePart/@type	family	sfarnel	PC013611	postcards	1	3.3
+	/mods/name/namePart	Lewis	sfarnel	PC013611	postcards	2	3.3
+	/mods/name/namePart/@type	given	sfarnel	PC013611	postcards	1	3.3
+	/mods/name/role		sfarnel	PC013611	postcards	1	3.3
+	/mods/name/role/roleTerm	Publisher	sfarnel	PC013611	postcards	1	3.3
+	/mods/name/role/roleTerm/@type	text	sfarnel	PC013611	postcards	1	3.3
+	/mods/typeOfResource	still image	sfarnel	PC013611	postcards	1	3.3
+	/mods/genre	postcards	sfarnel	PC013611	postcards	1	3.3
+	/mods/genre/@authority	gmgpc	sfarnel	PC013611	postcards	1	3.3
+	/mods/originInfo		sfarnel	PC013611	postcards	1	3.3
+	/mods/originInfo/issuance	monographic	sfarnel	PC013611	postcards	1	3.3
+	/mods/originInfo/publisher	Published by Lewis Rice, Moose Jaw, Canada	sfarnel	PC013611	postcards	1	3.3
+	/mods/originInfo/dateIssued	ca. 1910	sfarnel	PC013611	postcards	1	3.3
+	/mods/originInfo/dateIssued/@qualifier	approximate	sfarnel	PC013611	postcards	1	3.3
+	/mods/originInfo/place		sfarnel	PC013611	postcards	1	3.3
+	/mods/originInfo/place/placeTerm	Moose Jaw	sfarnel	PC013611	postcards	1	3.3
+	/mods/originInfo/place/placeTerm/@type	text	sfarnel	PC013611	postcards	1	3.3
+	/mods/language		sfarnel	PC013611	postcards	1	3.3
+	/mods/language/languageTerm	English	sfarnel	PC013611	postcards	1	3.3
+	/mods/language/languageTerm/@type	text	sfarnel	PC013611	postcards	1	3.3
+	/mods/physicalDescription		sfarnel	PC013611	postcards	1	3.3
+	/mods/physicalDescription/extent	1 postcard : b&w ; 9 x 14 cm.	sfarnel	PC013611	postcards	1	3.3
+	/mods/note	15	sfarnel	PC013611	postcards	5	3.3
+	/mods/note/@type	price	sfarnel	PC013611	postcards	1	3.3
+	/mods/note	false	sfarnel	PC013611	postcards	5	3.3
+	/mods/note/@type	notable	sfarnel	PC013611	postcards	1	3.3
+	/mods/note	false	sfarnel	PC013611	postcards	5	3.3
+	/mods/note/@type	imgprobs	sfarnel	PC013611	postcards	1	3.3
+	/mods/note	From original Photograph by Lewis Rice, Rights Reserved	sfarnel	PC013611	postcards	5	3.3
+	/mods/note/@type	public_on_front	sfarnel	PC013611	postcards	1	3.3
+	/mods/note	Exterior view of Edmonton Club, Edmonton, Alberta.	sfarnel	PC013611	postcards	5	3.3
+	/mods/note/@type	public_description	sfarnel	PC013611	postcards	1	3.3
+	/mods/subject		sfarnel	PC013611	postcards	6	3.3
+	/mods/subject/geographic	Edmonton, MB	sfarnel	PC013611	postcards	1	3.3
+	/mods/subject		sfarnel	PC013611	postcards	6	3.3
+	/mods/subject/hierarchicalGeographic		sfarnel	PC013611	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/country	Canada	sfarnel	PC013611	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/province	Alberta	sfarnel	PC013611	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/city	Edmonton	sfarnel	PC013611	postcards	1	3.3
+	/mods/subject		sfarnel	PC013611	postcards	6	3.3
+	/mods/subject/genre	Postcards	sfarnel	PC013611	postcards	1	3.3
+	/mods/subject		sfarnel	PC013611	postcards	6	3.3
+	/mods/subject/topic	Clubhouses	sfarnel	PC013611	postcards	1	3.3
+	/mods/subject		sfarnel	PC013611	postcards	6	3.3
+	/mods/subject/topic	Clubs	sfarnel	PC013611	postcards	1	3.3
+	/mods/subject		sfarnel	PC013611	postcards	6	3.3
+	/mods/subject/name		sfarnel	PC013611	postcards	1	3.3
+	/mods/subject/name/namePart	Edmonton Club (Edmonton, Alta.)	sfarnel	PC013611	postcards	1	3.3
+	/mods/identifier	PC013611	sfarnel	PC013611	postcards	1	3.3
+	/mods/identifier/@type	local	sfarnel	PC013611	postcards	1	3.3
+	/mods/location		sfarnel	PC013611	postcards	1	3.3
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 4 (set 2)	sfarnel	PC013611	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC013611.html	sfarnel	PC013611	postcards	3	3.3
+	/mods/location/url/@access	object in context	sfarnel	PC013611	postcards	1	3.3
+	/mods/location/url/@usage	primary display	sfarnel	PC013611	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/013/web/PC013611.jpg	sfarnel	PC013611	postcards	3	3.3
+	/mods/location/url/@access	raw object	sfarnel	PC013611	postcards	1	3.3
+	/mods/location/url/@note	width='1085' height='709' 	sfarnel	PC013611	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/013/thumbs/PC013611.jpg	sfarnel	PC013611	postcards	3	3.3
+	/mods/location/url/@access	preview	sfarnel	PC013611	postcards	1	3.3
+	/mods/location/url/@note	width='200' height='131'	sfarnel	PC013611	postcards	1	3.3
+	/mods/recordInfo		sfarnel	PC013611	postcards	1	3.3
+	/mods/recordInfo/recordCreationDate	2009-01-23T14:03:00-0700	sfarnel	PC013611	postcards	1	3.3
+	/mods/recordInfo/recordIdentifier	PC013611	sfarnel	PC013611	postcards	1	3.3
+	/mods/recordInfo/recordContentSource	sfarnel	sfarnel	PC013611	postcards	1	3.3
+	/mods/recordInfo/recordChangeDate	2009-11-10T08:07:03-0700	sfarnel	PC013611	postcards	1	3.3
+	/@mods	
+
+Edmonton Club, Edmonton, Alta.
+
+
+Rice
+Lewis
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+Published by Lewis Rice, Moose Jaw, Canada
+ca. 1910
+
+
+Moose Jaw
+
+
+
+English
+
+
+1 postcard : b&w ; 9 x 14 cm.
+
+15
+false
+false
+From original Photograph by Lewis Rice, Rights Reserved
+Exterior view of Edmonton Club, Edmonton, Alberta.
+
+Edmonton, MB
+
+
+
+Canada
+Alberta
+Edmonton
+
+
+
+Postcards
+
+
+Clubhouses
+
+
+Clubs
+
+
+
+Edmonton Club (Edmonton, Alta.)
+
+
+PC013611
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 4 (set 2)
+http://peel.library.ualberta.ca/postcards/PC013611.html
+http://peel.library.ualberta.ca/pcimages/PC/013/web/PC013611.jpg
+http://peel.library.ualberta.ca/pcimages/PC/013/thumbs/PC013611.jpg
+
+
+2009-01-23T14:03:00-0700
+PC013611
+sfarnel
+2009-11-10T08:07:03-0700
+
+	sfarnel	PC013611	postcards	1	3.3
+	

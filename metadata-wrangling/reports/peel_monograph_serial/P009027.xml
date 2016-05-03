@@ -1,0 +1,145 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+	/mods/@version	3.0		1	3.0
+	/mods/titleInfo			2	3.0
+	/mods/titleInfo/title	first fifty years		1	3.0
+	/mods/titleInfo/subTitle	A history of the University of Alberta Hospital, 1914-1964		1	3.0
+	/mods/titleInfo/nonSort	The 		1	3.0
+	/mods/titleInfo			2	3.0
+	/mods/titleInfo/@type	alternative		1	3.0
+	/mods/titleInfo/title	first 50 years		1	3.0
+	/mods/titleInfo/subTitle	A history of the University of Alberta Hospital, 1914-1964		1	3.0
+	/mods/titleInfo/nonSort	The 		1	3.0
+	/mods/name			1	3.0
+	/mods/name/@ID	author.1		1	3.0
+	/mods/name/@type	personal		1	3.0
+	/mods/name/namePart	McGugan, Angus		1	3.0
+	/mods/typeOfResource	text		1	3.0
+	/mods/originInfo			1	3.0
+	/mods/originInfo/place			2	3.0
+	/mods/originInfo/place/placeTerm	abc		1	3.0
+	/mods/originInfo/place/placeTerm/@authority	marccountry		1	3.0
+	/mods/originInfo/place/placeTerm/@type	code		1	3.0
+	/mods/originInfo/place			2	3.0
+	/mods/originInfo/place/placeTerm	[Edmonton?]		1	3.0
+	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+	/mods/originInfo/publisher	[s.n.]		1	3.0
+	/mods/originInfo/dateIssued	1964		2	3.0
+	/mods/originInfo/dateIssued/@qualifier	inferred		1	3.0
+	/mods/originInfo/dateIssued	1964		2	3.0
+	/mods/originInfo/dateIssued/@encoding	marc		1	3.0
+	/mods/originInfo/issuance	monographic		1	3.0
+	/mods/language			1	3.0
+	/mods/language/languageTerm	eng		2	3.0
+	/mods/language/languageTerm/@authority	iso639-2b		1	3.0
+	/mods/language/languageTerm/@type	code		1	3.0
+	/mods/language/languageTerm	English		2	3.0
+	/mods/language/languageTerm/@type	text		1	3.0
+	/mods/physicalDescription			1	3.0
+	/mods/physicalDescription/form	print		1	3.0
+	/mods/physicalDescription/form/@authority	marcform		1	3.0
+	/mods/physicalDescription/extent	vii, 88 p. : ill., ports. ; 24 cm.		1	3.0
+	/mods/note	uahistory		3	3.0
+	/mods/note/@type	oaiset		1	3.0
+	/mods/note	DOA: 1914 Spatial: Edmonton (Alta.)		3	3.0
+	/mods/note/@type	local		1	3.0
+	/mods/note	Foreword by J.D. Wallace.		3	3.0
+	/mods/note/@type	public		1	3.0
+	/mods/subject			4	3.0
+	/mods/subject/@lang	eng		1	3.0
+	/mods/subject/geographicCode	n-cn-ab		1	3.0
+	/mods/subject/geographicCode/@authority	marcgac		1	3.0
+	/mods/subject			4	3.0
+	/mods/subject/@authority	lcsh		1	3.0
+	/mods/subject/@lang	eng		1	3.0
+	/mods/subject/name			1	3.0
+	/mods/subject/name/@type	corporate		1	3.0
+	/mods/subject/name/namePart	University of Alberta Hospitals		1	3.0
+	/mods/subject			4	3.0
+	/mods/subject/@authority	lcsh		1	3.0
+	/mods/subject/@lang	eng		1	3.0
+	/mods/subject/geographic	Edmonton (Alta.)		1	3.0
+	/mods/subject/topic	Hospitals		1	3.0
+	/mods/subject			4	3.0
+	/mods/subject/@authority	peel:activity		1	3.0
+	/mods/subject/temporal	1964		1	3.0
+	/mods/classification	RA 983 E2 U5 M14 1964		1	3.0
+	/mods/classification/@authority	lcc		1	3.0
+	/mods/identifier	9027		3	3.0
+	/mods/identifier/@type	local:peel3		1	3.0
+	/mods/identifier	8222		3	3.0
+	/mods/identifier/@type	local:peel_new		1	3.0
+	/mods/identifier	291865		3	3.0
+	/mods/identifier/@type	local:neos		1	3.0
+	/mods/recordInfo			1	3.0
+	/mods/recordInfo/recordContentSource	RC		1	3.0
+	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.0
+	/mods/recordInfo/recordCreationDate	2008-09-10T14:55:55-0600		1	3.0
+	/mods/recordInfo/recordIdentifier	P009027		1	3.0
+	/mods/recordInfo/recordChangeDate	2010-03-14T10:48:24-0600		1	3.0
+	/@mods	
+
+first fifty years
+A history of the University of Alberta Hospital, 1914-1964
+The 
+
+
+first 50 years
+A history of the University of Alberta Hospital, 1914-1964
+The 
+
+
+McGugan, Angus
+
+text
+
+
+abc
+
+
+[Edmonton?]
+
+[s.n.]
+1964
+1964
+monographic
+
+
+eng
+English
+
+
+print
+vii, 88 p. : ill., ports. ; 24 cm.
+
+uahistory
+DOA: 1914 Spatial: Edmonton (Alta.)
+Foreword by J.D. Wallace.
+
+				n-cn-ab
+			
+
+				
+University of Alberta Hospitals
+
+			
+
+				Edmonton (Alta.)
+			
+				Hospitals
+			
+
+				1964
+			
+RA 983 E2 U5 M14 1964
+9027
+8222
+291865
+
+RC
+2008-09-10T14:55:55-0600
+P009027
+2010-03-14T10:48:24-0600
+
+		1	3.0
+	

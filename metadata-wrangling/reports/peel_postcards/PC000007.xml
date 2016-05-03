@@ -1,0 +1,131 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		fsalehi	PC000007	postcards	1	3.2
+	/mods/@version	3.2	fsalehi	PC000007	postcards	1	3.2
+	/mods/titleInfo		fsalehi	PC000007	postcards	1	3.2
+	/mods/titleInfo/@lang	english	fsalehi	PC000007	postcards	1	3.2
+	/mods/titleInfo/title	Arden, Man.	fsalehi	PC000007	postcards	1	3.2
+	/mods/name		fsalehi	PC000007	postcards	1	3.2
+	/mods/name/@type	corporate	fsalehi	PC000007	postcards	1	3.2
+	/mods/name/namePart	Bates	fsalehi	PC000007	postcards	1	3.2
+	/mods/name/role		fsalehi	PC000007	postcards	1	3.2
+	/mods/name/role/roleTerm	Photographer	fsalehi	PC000007	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC000007	postcards	1	3.2
+	/mods/typeOfResource	still image	fsalehi	PC000007	postcards	1	3.2
+	/mods/genre	postcards	fsalehi	PC000007	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	fsalehi	PC000007	postcards	1	3.2
+	/mods/originInfo		fsalehi	PC000007	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	fsalehi	PC000007	postcards	1	3.2
+	/mods/originInfo/dateIssued	1920?	fsalehi	PC000007	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	questionable	fsalehi	PC000007	postcards	1	3.2
+	/mods/language		fsalehi	PC000007	postcards	1	3.2
+	/mods/language/languageTerm	English	fsalehi	PC000007	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	fsalehi	PC000007	postcards	1	3.2
+	/mods/physicalDescription		fsalehi	PC000007	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : sepia ; 9 x 14 cm.	fsalehi	PC000007	postcards	1	3.2
+	/mods/note	60	fsalehi	PC000007	postcards	4	3.2
+	/mods/note/@type	price	fsalehi	PC000007	postcards	1	3.2
+	/mods/note	false	fsalehi	PC000007	postcards	4	3.2
+	/mods/note/@type	notable	fsalehi	PC000007	postcards	1	3.2
+	/mods/note	false	fsalehi	PC000007	postcards	4	3.2
+	/mods/note/@type	imgprobs	fsalehi	PC000007	postcards	1	3.2
+	/mods/note	A residential house-lined street.	fsalehi	PC000007	postcards	4	3.2
+	/mods/note/@type	public_description	fsalehi	PC000007	postcards	1	3.2
+	/mods/subject		fsalehi	PC000007	postcards	6	3.2
+	/mods/subject/geographic	Arden, MB	fsalehi	PC000007	postcards	1	3.2
+	/mods/subject		fsalehi	PC000007	postcards	6	3.2
+	/mods/subject/hierarchicalGeographic		fsalehi	PC000007	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	fsalehi	PC000007	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Manitoba	fsalehi	PC000007	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Arden	fsalehi	PC000007	postcards	1	3.2
+	/mods/subject		fsalehi	PC000007	postcards	6	3.2
+	/mods/subject/genre	Postcards	fsalehi	PC000007	postcards	1	3.2
+	/mods/subject		fsalehi	PC000007	postcards	6	3.2
+	/mods/subject/topic	Houses	fsalehi	PC000007	postcards	1	3.2
+	/mods/subject		fsalehi	PC000007	postcards	6	3.2
+	/mods/subject/topic	Residential streets	fsalehi	PC000007	postcards	1	3.2
+	/mods/subject		fsalehi	PC000007	postcards	6	3.2
+	/mods/subject/topic	Utility poles	fsalehi	PC000007	postcards	1	3.2
+	/mods/identifier	PC000007	fsalehi	PC000007	postcards	1	3.2
+	/mods/identifier/@type	local	fsalehi	PC000007	postcards	1	3.2
+	/mods/location		fsalehi	PC000007	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 1	fsalehi	PC000007	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC000007.html	fsalehi	PC000007	postcards	3	3.2
+	/mods/location/url/@access	object in context	fsalehi	PC000007	postcards	1	3.2
+	/mods/location/url/@usage	primary display	fsalehi	PC000007	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/000/web/PC000007.jpg	fsalehi	PC000007	postcards	3	3.2
+	/mods/location/url/@access	raw object	fsalehi	PC000007	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='491' 	fsalehi	PC000007	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/000/thumbs/PC000007.jpg	fsalehi	PC000007	postcards	3	3.2
+	/mods/location/url/@access	preview	fsalehi	PC000007	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='123'	fsalehi	PC000007	postcards	1	3.2
+	/mods/recordInfo		fsalehi	PC000007	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-20T16:05:12-0600	fsalehi	PC000007	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC000007	fsalehi	PC000007	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	fsalehi	fsalehi	PC000007	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2009-02-03T14:25:10-0700	fsalehi	PC000007	postcards	1	3.2
+	/@mods	
+
+Arden, Man.
+
+
+Bates
+
+Photographer
+
+
+still image
+postcards
+
+monographic
+1920?
+
+
+
+English
+
+
+1 postcard : sepia ; 9 x 14 cm.
+
+60
+false
+false
+A residential house-lined street.
+
+Arden, MB
+
+
+
+Canada
+Manitoba
+Arden
+
+
+
+Postcards
+
+
+Houses
+
+
+Residential streets
+
+
+Utility poles
+
+PC000007
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 1
+http://peel.library.ualberta.ca/postcards/PC000007.html
+http://peel.library.ualberta.ca/pcimages/PC/000/web/PC000007.jpg
+http://peel.library.ualberta.ca/pcimages/PC/000/thumbs/PC000007.jpg
+
+
+
+
+2007-06-20T16:05:12-0600
+PC000007
+fsalehi
+2009-02-03T14:25:10-0700
+
+	fsalehi	PC000007	postcards	1	3.2
+	

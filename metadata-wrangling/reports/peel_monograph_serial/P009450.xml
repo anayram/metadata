@@ -1,0 +1,101 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+	/mods/@version	3.0		1	3.0
+	/mods/titleInfo			1	3.0
+	/mods/titleInfo/title	Adventurers of England on Hudson Bay		1	3.0
+	/mods/name			2	3.0
+	/mods/name/@ID	author.1		1	3.0
+	/mods/name/@type	personal		1	3.0
+	/mods/name/namePart	Garland, Aileen		2	3.0
+	/mods/name/namePart	1892-		2	3.0
+	/mods/name/namePart/@type	date		1	3.0
+	/mods/name			2	3.0
+	/mods/name/@type	personal		1	3.0
+	/mods/name/namePart	Sinclair, John E.		1	3.0
+	/mods/name/role			1	3.0
+	/mods/name/role/roleTerm	illustrator		1	3.0
+	/mods/typeOfResource	text		1	3.0
+	/mods/originInfo			1	3.0
+	/mods/originInfo/place			1	3.0
+	/mods/originInfo/place/placeTerm	Toronto		1	3.0
+	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+	/mods/originInfo/publisher	Copp Clark		1	3.0
+	/mods/originInfo/dateIssued	c1943		1	3.0
+	/mods/language			1	3.0
+	/mods/language/languageTerm	English		1	3.0
+	/mods/language/languageTerm/@type	text		1	3.0
+	/mods/physicalDescription			1	3.0
+	/mods/physicalDescription/form	print		1	3.0
+	/mods/physicalDescription/form/@authority	marcform		1	3.0
+	/mods/physicalDescription/extent	36 p. : ill., map ; 22 cm.		1	3.0
+	/mods/note	brief		3	3.0
+	/mods/note/@type	local:catlevel		1	3.0
+	/mods/note	DOA: 1670 Spatial: Northwest, Canadian		3	3.0
+	/mods/note/@type	local		1	3.0
+	/mods/note	Brief history of the Hudson’s Bay Company written for elementary-school students.		3	3.0
+	/mods/note/@type	public		1	3.0
+	/mods/subject			1	3.0
+	/mods/relatedItem			1	3.0
+	/mods/relatedItem/@type	series		1	3.0
+	/mods/relatedItem/titleInfo			1	3.0
+	/mods/relatedItem/titleInfo/title	Canadian social studies unit readers		1	3.0
+	/mods/identifier	N008821		2	3.0
+	/mods/identifier/@type	local:peel_new		1	3.0
+	/mods/identifier	9450		2	3.0
+	/mods/identifier/@type	local:peel3		1	3.0
+	/mods/recordInfo			1	3.0
+	/mods/recordInfo/recordContentSource	Peel's Prairie Provinces		2	3.0
+	/mods/recordInfo/recordContentSource	RC		2	3.0
+	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.0
+	/mods/recordInfo/recordCreationDate	2008-07-22T16:16:04-0600		1	3.0
+	/mods/recordInfo/recordIdentifier	P009450		1	3.0
+	/mods/recordInfo/recordChangeDate	2010-07-02T12:34:41-0600		1	3.0
+	/@mods	
+
+Adventurers of England on Hudson Bay
+
+
+Garland, Aileen
+1892-
+
+
+Sinclair, John E.
+
+illustrator
+
+
+text
+
+
+Toronto
+
+Copp Clark
+c1943
+
+
+English
+
+
+print
+36 p. : ill., map ; 22 cm.
+
+brief
+DOA: 1670 Spatial: Northwest, Canadian
+Brief history of the Hudson’s Bay Company written for elementary-school students.
+
+
+
+Canadian social studies unit readers
+
+
+N008821
+9450
+
+Peel's Prairie Provinces
+RC
+2008-07-22T16:16:04-0600
+P009450
+2010-07-02T12:34:41-0600
+
+		1	3.0
+	

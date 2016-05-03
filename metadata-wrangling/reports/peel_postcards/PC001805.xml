@@ -1,0 +1,165 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		rschramm	PC001805	postcards	1	3.2
+	/mods/@version	3.2	rschramm	PC001805	postcards	1	3.2
+	/mods/titleInfo		rschramm	PC001805	postcards	1	3.2
+	/mods/titleInfo/@lang	english	rschramm	PC001805	postcards	1	3.2
+	/mods/titleInfo/title	Winnipeg banking section, Winnipeg, Man.	rschramm	PC001805	postcards	1	3.2
+	/mods/name		rschramm	PC001805	postcards	1	3.2
+	/mods/name/@type	personal	rschramm	PC001805	postcards	1	3.2
+	/mods/name/namePart	Novelty Souvenir Co.	rschramm	PC001805	postcards	1	3.2
+	/mods/name/role		rschramm	PC001805	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	rschramm	PC001805	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	rschramm	PC001805	postcards	1	3.2
+	/mods/typeOfResource	still image	rschramm	PC001805	postcards	1	3.2
+	/mods/genre	postcards	rschramm	PC001805	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	rschramm	PC001805	postcards	1	3.2
+	/mods/originInfo		rschramm	PC001805	postcards	1	3.2
+	/mods/originInfo/place		rschramm	PC001805	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	Winnipeg	rschramm	PC001805	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	rschramm	PC001805	postcards	1	3.2
+	/mods/originInfo/publisher	Novelty Souvenir Co., 614-616 Main St., Winnipeg	rschramm	PC001805	postcards	1	3.2
+	/mods/originInfo/dateIssued	1906	rschramm	PC001805	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	approximate	rschramm	PC001805	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	rschramm	PC001805	postcards	1	3.2
+	/mods/language		rschramm	PC001805	postcards	1	3.2
+	/mods/language/languageTerm	English	rschramm	PC001805	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	rschramm	PC001805	postcards	1	3.2
+	/mods/physicalDescription		rschramm	PC001805	postcards	1	3.2
+	/mods/physicalDescription/form		rschramm	PC001805	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : col.; 9 x 14 cm.	rschramm	PC001805	postcards	1	3.2
+	/mods/note	8	rschramm	PC001805	postcards	9	3.2
+	/mods/note/@type	price	rschramm	PC001805	postcards	1	3.2
+	/mods/note	false	rschramm	PC001805	postcards	9	3.2
+	/mods/note/@type	notable	rschramm	PC001805	postcards	1	3.2
+	/mods/note	false	rschramm	PC001805	postcards	9	3.2
+	/mods/note/@type	imgprobs	rschramm	PC001805	postcards	1	3.2
+	/mods/note	Postcard of the banking section of Main St. in Winnipeg with the Bank of Hamilton on the left and including pedestrians and bicyclists.	rschramm	PC001805	postcards	9	3.2
+	/mods/note/@type	public_description	rschramm	PC001805	postcards	1	3.2
+	/mods/note	Wm Hern	rschramm	PC001805	postcards	9	3.2
+	/mods/note/@type	public_to	rschramm	PC001805	postcards	1	3.2
+	/mods/note	Port Perry, Ont	rschramm	PC001805	postcards	9	3.2
+	/mods/note/@type	public_address	rschramm	PC001805	postcards	1	3.2
+	/mods/note	Like spring here everything is very sloppy. having good time	rschramm	PC001805	postcards	9	3.2
+	/mods/note/@type	public_message	rschramm	PC001805	postcards	1	3.2
+	/mods/note	Winnipeg, Canada, 1906-02-19	rschramm	PC001805	postcards	9	3.2
+	/mods/note/@type	public_postmark_date	rschramm	PC001805	postcards	1	3.2
+	/mods/note	[printer's no.] 1528	rschramm	PC001805	postcards	9	3.2
+	/mods/note/@type	public_other	rschramm	PC001805	postcards	1	3.2
+	/mods/subject		rschramm	PC001805	postcards	7	3.2
+	/mods/subject/geographic	Winnipeg, MB	rschramm	PC001805	postcards	1	3.2
+	/mods/subject		rschramm	PC001805	postcards	7	3.2
+	/mods/subject/hierarchicalGeographic		rschramm	PC001805	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	rschramm	PC001805	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Manitoba	rschramm	PC001805	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Winnipeg	rschramm	PC001805	postcards	1	3.2
+	/mods/subject		rschramm	PC001805	postcards	7	3.2
+	/mods/subject/topic	Banks	rschramm	PC001805	postcards	1	3.2
+	/mods/subject		rschramm	PC001805	postcards	7	3.2
+	/mods/subject/topic	Commercial streets	rschramm	PC001805	postcards	1	3.2
+	/mods/subject		rschramm	PC001805	postcards	7	3.2
+	/mods/subject/topic	Stores & shops	rschramm	PC001805	postcards	1	3.2
+	/mods/subject		rschramm	PC001805	postcards	7	3.2
+	/mods/subject/topic	Commercial facilities	rschramm	PC001805	postcards	1	3.2
+	/mods/subject		rschramm	PC001805	postcards	7	3.2
+	/mods/subject/name		rschramm	PC001805	postcards	1	3.2
+	/mods/subject/name/@type	personal	rschramm	PC001805	postcards	1	3.2
+	/mods/subject/name/namePart	Bank of Hamilton (Winnipeg, Man.)	rschramm	PC001805	postcards	1	3.2
+	/mods/identifier	PC001805	rschramm	PC001805	postcards	1	3.2
+	/mods/identifier/@type	local	rschramm	PC001805	postcards	1	3.2
+	/mods/location		rschramm	PC001805	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 4	rschramm	PC001805	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC001805.html	rschramm	PC001805	postcards	3	3.2
+	/mods/location/url/@access	object in context	rschramm	PC001805	postcards	1	3.2
+	/mods/location/url/@usage	primary display	rschramm	PC001805	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/001/web/PC001805.jpg	rschramm	PC001805	postcards	3	3.2
+	/mods/location/url/@access	raw object	rschramm	PC001805	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='499'	rschramm	PC001805	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/001/thumbs/PC001805.jpg	rschramm	PC001805	postcards	3	3.2
+	/mods/location/url/@access	preview	rschramm	PC001805	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='125'	rschramm	PC001805	postcards	1	3.2
+	/mods/recordInfo		rschramm	PC001805	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	rschramm	rschramm	PC001805	postcards	2	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-20T16:05:12-0600	rschramm	PC001805	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC001805	rschramm	PC001805	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2010-05-27T11:28:05-0600	rschramm	PC001805	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	aharrigan	rschramm	PC001805	postcards	2	3.2
+	/mods/recordInfo/recordContentSource/@authority	local:person	rschramm	PC001805	postcards	1	3.2
+	/@mods	
+
+Winnipeg banking section, Winnipeg, Man.
+
+
+Novelty Souvenir Co.
+
+Publisher
+
+
+still image
+postcards
+
+
+Winnipeg
+
+Novelty Souvenir Co., 614-616 Main St., Winnipeg
+1906
+monographic
+
+
+English
+
+
+
+1 postcard : col.; 9 x 14 cm.
+
+8
+false
+false
+Postcard of the banking section of Main St. in Winnipeg with the Bank of Hamilton on the left and including pedestrians and bicyclists.
+Wm Hern
+Port Perry, Ont
+Like spring here everything is very sloppy. having good time
+Winnipeg, Canada, 1906-02-19
+[printer's no.] 1528
+
+				Winnipeg, MB
+			
+
+				
+Canada
+Manitoba
+Winnipeg
+
+			
+
+				Banks
+			
+
+				Commercial streets
+			
+
+				Stores & shops
+			
+
+				Commercial facilities
+			
+
+				
+Bank of Hamilton (Winnipeg, Man.)
+
+			
+PC001805
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 4
+http://peel.library.ualberta.ca/postcards/PC001805.html
+http://peel.library.ualberta.ca/pcimages/PC/001/web/PC001805.jpg
+http://peel.library.ualberta.ca/pcimages/PC/001/thumbs/PC001805.jpg
+
+
+rschramm
+2007-06-20T16:05:12-0600
+PC001805
+2010-05-27T11:28:05-0600
+aharrigan
+
+	rschramm	PC001805	postcards	1	3.2
+	

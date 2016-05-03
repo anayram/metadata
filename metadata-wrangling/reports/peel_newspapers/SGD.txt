@@ -1,0 +1,116 @@
+Path	Content	URL	Form or Genre	Occurrence	MODS version
+
+/mods/titleInfo		http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	4	3.2
+/mods/titleInfo/title	St. Albert & Sturgeon gazette	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+
+    /mods/titleInfo		http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	4	3.2
+/mods/titleInfo/@type	uniform	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+/mods/titleInfo/title	St. Albert & Sturgeon gazette (Online)	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+
+    /mods/titleInfo		http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	4	3.2
+/mods/titleInfo/@type	alternative	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+/mods/titleInfo/title	St. Albert and Sturgeon gazette	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+
+    /mods/titleInfo		http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	4	3.2
+/mods/titleInfo/@type	alternative	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+/mods/titleInfo/title	Gazette, exchange & mart	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+
+    /mods/typeOfResource	text	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+
+/mods/genre	newspaper	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+/mods/genre/@authority	marcgt	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+
+/mods/originInfo		http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+/mods/originInfo/place		http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	2	3.2
+/mods/originInfo/place/placeTerm	abc	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@authority	marccountry	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@type	code	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+/mods/originInfo/place		http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	2	3.2
+/mods/originInfo/place/placeTerm	St. Albert, Alberta	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@type	text	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+/mods/originInfo/publisher	WEJ Publications	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+/mods/originInfo/dateIssued	1970	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	2	3.2
+/mods/originInfo/dateIssued/@point	start	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+/mods/originInfo/dateIssued/@encoding	iso8601	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+/mods/originInfo/dateIssued	1974	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	2	3.2
+/mods/originInfo/dateIssued/@point	end	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+/mods/originInfo/dateIssued/@encoding	iso8601	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+/mods/originInfo/issuance	continuing	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+
+/mods/language		http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+/mods/language/languageTerm	eng	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+/mods/language/languageTerm/@authority	iso639-2b	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+/mods/language/languageTerm/@type	code	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+
+/mods/physicalDescription		http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+/mods/physicalDescription/form	print	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+/mods/physicalDescription/form/@authority	marcform	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+/mods/physicalDescription/extent	5 volumes	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+
+    /mods/note	Began with vol. 11, no. 14 (April 8, 1970); ceased with vol. 15, no. 11 (March 13, 1974).	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	7	3.2
+/mods/note/@type	public	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+
+    /mods/note	Vol. 11, no. 24 skipped in numbering.	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	7	3.2
+/mods/note/@type	public	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+
+    /mods/note	Not published: July 8-15, 1970; Aug. 8, 1973; and: last week of each Dec. 1970-1973.	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	7	3.2
+/mods/note/@type	public	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+
+    /mods/note	Issue for July 11, 1973 lacks volume designation and called no. 27 in error, but constitutes vol. 14, no. 28.	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	7	3.2
+/mods/note/@type	public	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+
+    /mods/note	Issues for Aug. 1-22, 1973 called vol. 14, no. 30-32 in error, but constitute no. 31-33.	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	7	3.2
+/mods/note/@type	public	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+
+    /mods/note	Thank you to the St. Albert Gazette, the St. Albert Community Foundation, and the St. Albert Public Library for their generous contributions of funding for the digitization of this newspaper for the Peel's Prairie Province's website; to the St. Albert Gazette for providing issues in print, and to the Musée Héritage Museum and the St. Albert Public Library for providing microfilmed copies of the newspaper.	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	7	3.2
+/mods/note/@type	public	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+
+    /mods/note	newspapers	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	7	3.2
+/mods/note/@type	local:oaiset	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+
+/mods/subject		http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic		http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/country	Canada	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/province	Alberta	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/city	St. Albert	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+
+    /mods/relatedItem		http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	2	3.2
+/mods/relatedItem/@displayLabel	Continues	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+/mods/relatedItem/@type	preceding	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+/mods/relatedItem/@href	SGC	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+/mods/relatedItem/titleInfo		http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+/mods/relatedItem/titleInfo/title	Gazette (St. Albert, Alta. : Online)	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+
+    /mods/relatedItem		http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	2	3.2
+/mods/relatedItem/@displayLabel	Continued by	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+/mods/relatedItem/@type	succeeding	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+/mods/relatedItem/@href	SGE	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+/mods/relatedItem/titleInfo		http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+/mods/relatedItem/titleInfo/title	Gazette (St. Albert, Alta. : 1974 : Online)	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+
+/mods/classification	071/.1	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+/mods/classification/@authority	ddc	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+/mods/classification/@edition	19	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+
+/mods/identifier	SGD	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+/mods/identifier/@type	local:newspaper	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+
+    
+    /mods/location		http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+/mods/location/physicalLocation	CaAEU	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+/mods/location/physicalLocation/@authority	marcorg	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+/mods/location/holdingSimple		http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation		http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/form	electronic	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/form/@authority	marcform	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/electronicLocator	http://peel.library.ualberta.ca/newspapers/SGD/	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/enumerationAndChronology	1970-1974	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/enumerationAndChronology/@unitType	1	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+
+/mods/recordInfo		http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+/mods/recordInfo/recordContentSource	JH	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+/mods/recordInfo/recordContentSource/@authority	local:person	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+/mods/recordInfo/recordCreationDate	2014-04-01T16:12:00-0700	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+/mods/recordInfo/recordIdentifier	QSGD	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+/mods/recordInfo/recordChangeDate	2014-04-01T16:12:00-0700	http://peel.library.ualberta.ca/newspapers/SGD.html	newspaper	1	3.2
+

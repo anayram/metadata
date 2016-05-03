@@ -1,0 +1,112 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.2
+	/mods/@version	3.2		1	3.2
+	/mods/titleInfo			1	3.2
+	/mods/titleInfo/title	Vulcan Choral Society presents "H.M.S. Pinafore," 1954		1	3.2
+	/mods/name			1	3.2
+	/mods/name/@type	corporate		1	3.2
+	/mods/name/namePart	Vulcan Choral Society (Vulcan, Alta.)		1	3.2
+	/mods/typeOfResource	text		1	3.2
+	/mods/originInfo			1	3.2
+	/mods/originInfo/place			1	3.2
+	/mods/originInfo/place/placeTerm	[Vulcan, Alta.?]		1	3.2
+	/mods/originInfo/place/placeTerm/@type	text		1	3.2
+	/mods/originInfo/publisher	[Vulcan Choral Society?]		1	3.2
+	/mods/originInfo/dateIssued	[1954]		1	3.2
+	/mods/originInfo/issuance	monographic		1	3.2
+	/mods/language			1	3.2
+	/mods/language/languageTerm	eng		1	3.2
+	/mods/language/languageTerm/@authority	iso639-2b		1	3.2
+	/mods/language/languageTerm/@type	code		1	3.2
+	/mods/physicalDescription			1	3.2
+	/mods/physicalDescription/form	print		1	3.2
+	/mods/physicalDescription/form/@authority	marcform		1	3.2
+	/mods/physicalDescription/extent	[11] plates : all ill. ; 13 x 18 cm.		1	3.2
+	/mods/note	Cover title.		4	3.2
+	/mods/note	http://chelsea.library.ualberta.ca:8081/peel_master/select/?q=%28authorAuthority%3A%22Vulcan+Choral+Society%22%29+OR+%28subjectAuthority%3A%22Vulcan+Choral+Society%22%29+OR+%28subjectAuthority%3A%22SirSullivan%2C+Arthur1842-1900%22%29&fl=id+authorAuthority+authorDates+subjectAuthority+authorityAuthority&rows=100		4	3.2
+	/mods/note/@type	solr		1	3.2
+	/mods/note	DOA: 1954 Spatial: Vulcan (Alta.)		4	3.2
+	/mods/note/@type	local		1	3.2
+	/mods/note	Cover title. Collection of photographs from an Alberta community’s production of "H.M.S. Pinafore."		4	3.2
+	/mods/note/@type	public		1	3.2
+	/mods/subject			2	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/name			1	3.2
+	/mods/subject/name/@type	personal		1	3.2
+	/mods/subject/name/namePart	Vulcan Choral Society		1	3.2
+	/mods/subject			2	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/name			1	3.2
+	/mods/subject/name/@type	personal		1	3.2
+	/mods/subject/name/namePart	Sir		3	3.2
+	/mods/subject/name/namePart/@type	termsOfAddress		1	3.2
+	/mods/subject/name/namePart	Sullivan, Arthur		3	3.2
+	/mods/subject/name/namePart	1842-1900		3	3.2
+	/mods/subject/name/namePart/@type	date		1	3.2
+	/mods/classification	ML28.V85 V85 1954		1	3.2
+	/mods/classification/@authority	lcc		1	3.2
+	/mods/identifier	3979524		3	3.2
+	/mods/identifier/@type	local:neos		1	3.2
+	/mods/identifier	N008814		3	3.2
+	/mods/identifier/@type	local:peel_new		1	3.2
+	/mods/identifier	9443		3	3.2
+	/mods/identifier/@type	local:peel3		1	3.2
+	/mods/recordInfo			1	3.2
+	/mods/recordInfo/recordContentSource	fsalehi		2	3.2
+	/mods/recordInfo/recordContentSource	RC		2	3.2
+	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.2
+	/mods/recordInfo/recordCreationDate	2007-09-11T12:00:00-0700		1	3.2
+	/mods/recordInfo/recordIdentifier	P009443		1	3.2
+	/mods/recordInfo/recordChangeDate	2010-07-02T09:37:28-0600		1	3.2
+	/@mods	
+
+Vulcan Choral Society presents "H.M.S. Pinafore," 1954
+
+
+Vulcan Choral Society (Vulcan, Alta.)
+
+text
+
+
+[Vulcan, Alta.?]
+
+[Vulcan Choral Society?]
+[1954]
+monographic
+
+
+eng
+
+
+print
+[11] plates : all ill. ; 13 x 18 cm.
+
+Cover title.
+http://chelsea.library.ualberta.ca:8081/peel_master/select/?q=%28authorAuthority%3A%22Vulcan+Choral+Society%22%29+OR+%28subjectAuthority%3A%22Vulcan+Choral+Society%22%29+OR+%28subjectAuthority%3A%22SirSullivan%2C+Arthur1842-1900%22%29&fl=id+authorAuthority+authorDates+subjectAuthority+authorityAuthority&rows=100
+DOA: 1954 Spatial: Vulcan (Alta.)
+Cover title. Collection of photographs from an Alberta community’s production of "H.M.S. Pinafore."
+
+				
+Vulcan Choral Society
+
+			
+
+				
+Sir
+Sullivan, Arthur
+1842-1900
+
+			
+ML28.V85 V85 1954
+3979524
+N008814
+9443
+
+fsalehi
+RC
+2007-09-11T12:00:00-0700
+P009443
+2010-07-02T09:37:28-0600
+
+		1	3.2
+	

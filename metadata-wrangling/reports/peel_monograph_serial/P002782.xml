@@ -1,0 +1,171 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@schemaLocation	http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	Otiki tetitimatot…		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/@type	translated		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/nonSort	The 		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	New Testament in Plains Cree		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA001241		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Mason, William		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	1813?-1893.		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart/@type	date		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	translator		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/description	1813?-1893. Methodist missionary, sent by Wesleyan Missionary Society of England to Rainy River, 1840; stationed at Rossville at Norway House, 1844-1854; in 1854 mission transferred to control of Canadian Wesleyan Church and Mason attached himself to the Church of England; ordained by Bishop David Anderson, June, 1854; in charge of mission at York Factory, 1854-1858 and 1862-1870; in England working on translation of the Bible, 1858-1862; retired to England, 1875; awarded D.D. by Archbishop of Canterbury, 1880 (M.E.J., <i>Dayspring in the far west</i>; Hodge, <i>Handbook of American Indians</i>; Pilling, <i>Bibliography of the Algonquian languages</i>; Canadian Church Historical Society offprint series no. 21, October 1960; <i>Crockford's clerical directory</i>).		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.2		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA002922		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Mackay, John Alexander		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	1838-1923.		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart/@type	date		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	editor		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/description	1838-1923. Native of Moosonee, Ontario; trained under Bishop Horden; ordained in the Church of England, 1862; at York Factory, 1862-1864, Stanley, 1864-1876, Nepowewin and Carlton, 1876-1877, and Battleford, 1877-1879; Cree tutor at Emmanuel College, Prince Albert, 1880-1884; in charge of Indian reserves at Battleford, 1885-1887; professor of divinity at Emmanuel, 1887-1900; superintendent of missions in diocese of Saskatchewan, 1900-1921; reorganized day school at Little Pine reserve, 1922; translator of religious works into Cree (Hopkins, <i>Canadian annual review</i>, 1923).		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	London		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	British and Foreign Bible Society		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1904		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	Cree		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	[6], 453 p.; 22 cm.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	In Cree syllabics. English title from verso of title-page. With key to syllabic system, and numerals. Mackay was responsible for the final form of the work, based on a draft submitted by Mason, who was also involved in the project to revise the Cree Bible. Mackay is said to have used a Yost typewriter fitted with Cree syllabics. Also published, London: British and Foreign Bible Society, 1908 (1000 copies), 1914 (1000 copies), 1931, 1946, 1957, and 1961 (453p.).  <i>See also </i>Peel <xref>2780</xref>, <xref>3194</xref>, and <xref>6385</xref>. 		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	public		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Native Languages--Bible		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000409		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Bible. N.T.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000409		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Bible. N.T.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000411		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Bible--Versions		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000411		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Bible--Versions		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002131		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Indians of North America--Languages		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002131		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Langues indiennes d'Amérique--Amérique du Nord		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			8	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1904		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	1183		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	1750		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel2		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	2782		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	2779		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel-procite-id		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P002782		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+    
+        Otiki tetitimatot…
+    
+    
+        The 
+        New Testament in Plains Cree
+    
+    
+        Mason, William
+        1813?-1893.
+        
+            translator
+        
+        1813?-1893. Methodist missionary, sent by Wesleyan Missionary Society of England to Rainy River, 1840; stationed at Rossville at Norway House, 1844-1854; in 1854 mission transferred to control of Canadian Wesleyan Church and Mason attached himself to the Church of England; ordained by Bishop David Anderson, June, 1854; in charge of mission at York Factory, 1854-1858 and 1862-1870; in England working on translation of the Bible, 1858-1862; retired to England, 1875; awarded D.D. by Archbishop of Canterbury, 1880 (M.E.J., <i>Dayspring in the far west</i>; Hodge, <i>Handbook of American Indians</i>; Pilling, <i>Bibliography of the Algonquian languages</i>; Canadian Church Historical Society offprint series no. 21, October 1960; <i>Crockford's clerical directory</i>).
+    
+    
+        Mackay, John Alexander
+        1838-1923.
+        
+            editor
+        
+        1838-1923. Native of Moosonee, Ontario; trained under Bishop Horden; ordained in the Church of England, 1862; at York Factory, 1862-1864, Stanley, 1864-1876, Nepowewin and Carlton, 1876-1877, and Battleford, 1877-1879; Cree tutor at Emmanuel College, Prince Albert, 1880-1884; in charge of Indian reserves at Battleford, 1885-1887; professor of divinity at Emmanuel, 1887-1900; superintendent of missions in diocese of Saskatchewan, 1900-1921; reorganized day school at Little Pine reserve, 1922; translator of religious works into Cree (Hopkins, <i>Canadian annual review</i>, 1923).
+    
+    text
+    
+        
+            London
+        
+        British and Foreign Bible Society
+        1904
+    
+    
+        Cree
+    
+    
+        print
+        [6], 453 p.; 22 cm.
+    
+    In Cree syllabics. English title from verso of title-page. With key to syllabic system, and numerals. Mackay was responsible for the final form of the work, based on a draft submitted by Mason, who was also involved in the project to revise the Cree Bible. Mackay is said to have used a Yost typewriter fitted with Cree syllabics. Also published, London: British and Foreign Bible Society, 1908 (1000 copies), 1914 (1000 copies), 1931, 1946, 1957, and 1961 (453p.).  <i>See also </i>Peel <xref>2780</xref>, <xref>3194</xref>, and <xref>6385</xref>. 
+    
+        Native Languages--Bible
+    
+    
+        Bible. N.T.
+    
+    
+        Bible. N.T.
+    
+    
+        Bible--Versions
+    
+    
+        Bible--Versions
+    
+    
+        Indians of North America--Languages
+    
+    
+        Langues indiennes d'Amérique--Amérique du Nord
+    
+    
+        1904
+    
+    1183
+    1750
+    2782
+    2779
+    
+        Peel's Prairie Portal
+        P002782
+        2003-01-01T12:00:00-0700
+    
+		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

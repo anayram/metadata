@@ -1,0 +1,154 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		fsalehi	PC010529	postcards	1	3.2
+	/mods/@version	3.2	fsalehi	PC010529	postcards	1	3.2
+	/mods/titleInfo		fsalehi	PC010529	postcards	1	3.2
+	/mods/titleInfo/@lang	english	fsalehi	PC010529	postcards	1	3.2
+	/mods/titleInfo/title	Soto Landing Lesser Slave River	fsalehi	PC010529	postcards	1	3.2
+	/mods/name		fsalehi	PC010529	postcards	1	3.2
+	/mods/name/@type	corporate	fsalehi	PC010529	postcards	1	3.2
+	/mods/name/namePart	The H. Enida Olive Co'y Ltd	fsalehi	PC010529	postcards	1	3.2
+	/mods/name/role		fsalehi	PC010529	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	fsalehi	PC010529	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC010529	postcards	1	3.2
+	/mods/typeOfResource	still image	fsalehi	PC010529	postcards	1	3.2
+	/mods/genre	postcards	fsalehi	PC010529	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	fsalehi	PC010529	postcards	1	3.2
+	/mods/originInfo		fsalehi	PC010529	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	fsalehi	PC010529	postcards	1	3.2
+	/mods/originInfo/publisher	"Copyright" The H. Enida Olive Co'y Lt.d Calgary, Canada	fsalehi	PC010529	postcards	1	3.2
+	/mods/originInfo/dateIssued	1913	fsalehi	PC010529	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	inferred	fsalehi	PC010529	postcards	1	3.2
+	/mods/originInfo/place		fsalehi	PC010529	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	Calgary	fsalehi	PC010529	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC010529	postcards	1	3.2
+	/mods/language		fsalehi	PC010529	postcards	1	3.2
+	/mods/language/languageTerm	English	fsalehi	PC010529	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	fsalehi	PC010529	postcards	1	3.2
+	/mods/physicalDescription		fsalehi	PC010529	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : col. ; 9 x 14 cm.	fsalehi	PC010529	postcards	1	3.2
+	/mods/note	12	fsalehi	PC010529	postcards	7	3.2
+	/mods/note/@type	price	fsalehi	PC010529	postcards	1	3.2
+	/mods/note	false	fsalehi	PC010529	postcards	7	3.2
+	/mods/note/@type	notable	fsalehi	PC010529	postcards	1	3.2
+	/mods/note	true	fsalehi	PC010529	postcards	7	3.2
+	/mods/note/@type	imgprobs	fsalehi	PC010529	postcards	1	3.2
+	/mods/note	Calgary, Alta., 1913-09-21	fsalehi	PC010529	postcards	7	3.2
+	/mods/note/@type	public_postmark_date	fsalehi	PC010529	postcards	1	3.2
+	/mods/note	Series No. 217	fsalehi	PC010529	postcards	7	3.2
+	/mods/note/@type	public_on_back	fsalehi	PC010529	postcards	1	3.2
+	/mods/note	[printer's no.] W21	fsalehi	PC010529	postcards	7	3.2
+	/mods/note/@type	public_on_back	fsalehi	PC010529	postcards	1	3.2
+	/mods/note	A Riverboat and a canvas covered boat moored at Soto Landing on the Lesser Slave River	fsalehi	PC010529	postcards	7	3.2
+	/mods/note/@type	public_description	fsalehi	PC010529	postcards	1	3.2
+	/mods/subject		fsalehi	PC010529	postcards	7	3.2
+	/mods/subject/geographic	Soto Landing, AB	fsalehi	PC010529	postcards	1	3.2
+	/mods/subject		fsalehi	PC010529	postcards	7	3.2
+	/mods/subject/hierarchicalGeographic		fsalehi	PC010529	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	fsalehi	PC010529	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	fsalehi	PC010529	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city		fsalehi	PC010529	postcards	1	3.2
+	/mods/subject		fsalehi	PC010529	postcards	7	3.2
+	/mods/subject/genre	Postcards	fsalehi	PC010529	postcards	1	3.2
+	/mods/subject		fsalehi	PC010529	postcards	7	3.2
+	/mods/subject/topic	Lakes & ponds	fsalehi	PC010529	postcards	1	3.2
+	/mods/subject		fsalehi	PC010529	postcards	7	3.2
+	/mods/subject/topic	Boats	fsalehi	PC010529	postcards	1	3.2
+	/mods/subject		fsalehi	PC010529	postcards	7	3.2
+	/mods/subject/topic	Steamboats	fsalehi	PC010529	postcards	1	3.2
+	/mods/subject		fsalehi	PC010529	postcards	7	3.2
+	/mods/subject/name		fsalehi	PC010529	postcards	1	3.2
+	/mods/subject/name/namePart	Lesser Slave Lake (Alta.)	fsalehi	PC010529	postcards	1	3.2
+	/mods/identifier	PC010529	fsalehi	PC010529	postcards	1	3.2
+	/mods/identifier/@type	local	fsalehi	PC010529	postcards	1	3.2
+	/mods/location		fsalehi	PC010529	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 2	fsalehi	PC010529	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC010529.html	fsalehi	PC010529	postcards	3	3.2
+	/mods/location/url/@access	object in context	fsalehi	PC010529	postcards	1	3.2
+	/mods/location/url/@usage	primary display	fsalehi	PC010529	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/010/web/PC010529.jpg	fsalehi	PC010529	postcards	3	3.2
+	/mods/location/url/@access	raw object	fsalehi	PC010529	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='535' 	fsalehi	PC010529	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/010/thumbs/PC010529.jpg	fsalehi	PC010529	postcards	3	3.2
+	/mods/location/url/@access	preview	fsalehi	PC010529	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='134'	fsalehi	PC010529	postcards	1	3.2
+	/mods/recordInfo		fsalehi	PC010529	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2009-01-19T16:18:42-0700	fsalehi	PC010529	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC010529	fsalehi	PC010529	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	fsalehi	fsalehi	PC010529	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2009-11-16T12:46:38-0700	fsalehi	PC010529	postcards	1	3.2
+	/@mods	
+
+Soto Landing Lesser Slave River
+
+
+The H. Enida Olive Co'y Ltd
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+"Copyright" The H. Enida Olive Co'y Lt.d Calgary, Canada
+1913
+
+
+Calgary
+
+
+
+English
+
+
+1 postcard : col. ; 9 x 14 cm.
+
+12
+false
+true
+Calgary, Alta., 1913-09-21
+Series No. 217
+[printer's no.] W21
+A Riverboat and a canvas covered boat moored at Soto Landing on the Lesser Slave River
+
+Soto Landing, AB
+
+
+
+Canada
+Alberta
+
+
+
+
+Postcards
+
+
+Lakes & ponds
+
+
+Boats
+
+
+Steamboats
+
+
+
+Lesser Slave Lake (Alta.)
+
+
+PC010529
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 2
+http://peel.library.ualberta.ca/postcards/PC010529.html
+http://peel.library.ualberta.ca/pcimages/PC/010/web/PC010529.jpg
+http://peel.library.ualberta.ca/pcimages/PC/010/thumbs/PC010529.jpg
+
+
+2009-01-19T16:18:42-0700
+PC010529
+fsalehi
+2009-11-16T12:46:38-0700
+
+	fsalehi	PC010529	postcards	1	3.2
+	

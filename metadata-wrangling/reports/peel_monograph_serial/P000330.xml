@@ -1,0 +1,162 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@schemaLocation	http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	Red River Settlement		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/subTitle	Its rise, progress and present state: With some account of the native races and its general history to the present day		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA000325		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Ross, Alexander		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	1783-1856.		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart/@type	date		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/description	1783-1856. Born in Scotland; to Canada, 1805; entered service of Pacific Fur Company, 1810, then North West Company, 1813; retired to Red River district, 1825; member of Council of Assiniboia; author (Wallace, <i>Dictionary of Canadian biography</i>).		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	London		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	Smith, Elder & Co.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1856		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	English		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	xvi, 416 p., front.; 19.5 cm.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	A vivid word-picture of life in the colony. Includes publisher's catalogue. Also published, new edition with extract from Robert Michael Ballantyne's  <i>The young fur-traders </i>, London: Nelson, 1905; with new introduction by Jay Edgerton in edition of 1,500 copies, Minneapolis: Ross & Haines, 1957 (xvi, 416p.); with new introduction by William Lewis Morton, Edmonton: Hurtig and Rutland, Vt.: C.E. Tuttle, 1972 (xxviii, 416p.). Included in  <i>Red River settlement </i>, compiled by Helen Doherty, [Winnipeg: H. Doherty, 1984] (xx, 505p.).  <i>See also </i>Peel <xref>148</xref>. 		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	public		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			10	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Red River Settlement		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			10	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000014		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Advertising		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			10	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000014		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Publicité		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			10	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS001615		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Frontier and pioneer life		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			10	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS001615		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Vie des pionniers		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			10	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002039		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Indians of North America		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			10	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002039		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Indiens d'Amérique--Amérique du Nord		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			10	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003821		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Red River Settlement--History		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			10	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	Other		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003829		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Red River Valley (Man.)--Description and travel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			10	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1856		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	149		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	174		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel2		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	330		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	330		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel-procite-id		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P000330		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+    
+        Red River Settlement
+        Its rise, progress and present state: With some account of the native races and its general history to the present day
+    
+    
+        Ross, Alexander
+        1783-1856.
+        
+            author
+        
+        1783-1856. Born in Scotland; to Canada, 1805; entered service of Pacific Fur Company, 1810, then North West Company, 1813; retired to Red River district, 1825; member of Council of Assiniboia; author (Wallace, <i>Dictionary of Canadian biography</i>).
+    
+    text
+    
+        
+            London
+        
+        Smith, Elder & Co.
+        1856
+    
+    
+        English
+    
+    
+        print
+        xvi, 416 p., front.; 19.5 cm.
+    
+    A vivid word-picture of life in the colony. Includes publisher's catalogue. Also published, new edition with extract from Robert Michael Ballantyne's  <i>The young fur-traders </i>, London: Nelson, 1905; with new introduction by Jay Edgerton in edition of 1,500 copies, Minneapolis: Ross & Haines, 1957 (xvi, 416p.); with new introduction by William Lewis Morton, Edmonton: Hurtig and Rutland, Vt.: C.E. Tuttle, 1972 (xxviii, 416p.). Included in  <i>Red River settlement </i>, compiled by Helen Doherty, [Winnipeg: H. Doherty, 1984] (xx, 505p.).  <i>See also </i>Peel <xref>148</xref>. 
+    
+        Red River Settlement
+    
+    
+        Advertising
+    
+    
+        Publicité
+    
+    
+        Frontier and pioneer life
+    
+    
+        Vie des pionniers
+    
+    
+        Indians of North America
+    
+    
+        Indiens d'Amérique--Amérique du Nord
+    
+    
+        Red River Settlement--History
+    
+    
+        Red River Valley (Man.)--Description and travel
+    
+    
+        1856
+    
+    149
+    174
+    330
+    330
+    
+        Peel's Prairie Portal
+        P000330
+        2003-01-01T12:00:00-0700
+    
+		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

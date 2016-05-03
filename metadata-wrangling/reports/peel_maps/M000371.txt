@@ -1,0 +1,102 @@
+Path	Content	URL	Form or Genre	Occurrence	MODS version
+
+/mods/titleInfo		http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	1	3.3
+/mods/titleInfo/title	North-West Territories	http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	1	3.3
+/mods/titleInfo/nonSort	The 	http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	1	3.3
+
+/mods/name		http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	2	3.3
+/mods/name/@type	personal	http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	1	3.3
+/mods/name/namePart	Codd, D.	http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	1	3.3
+
+/mods/name		http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	2	3.3
+/mods/name/@type	corporate	http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	1	3.3
+/mods/name/namePart	Surveyor General's Office	http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	1	3.3
+
+/mods/typeOfResource	cartographic	http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	1	3.3
+
+/mods/genre	map	http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	3	3.3
+/mods/genre/@authority	marcgt	http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	1	3.3
+
+/mods/genre	Digital maps	http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	3	3.3
+/mods/genre/@authority	lcgft	http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	1	3.3
+
+/mods/genre	Early maps	http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	3	3.3
+/mods/genre/@authority	lcgft	http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	1	3.3
+
+/mods/originInfo		http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	1	3.3
+/mods/originInfo/place		http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	1	3.3
+/mods/originInfo/place/placeTerm	Ottawa	http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	1	3.3
+/mods/originInfo/place/placeTerm/@type	text	http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	1	3.3
+/mods/originInfo/publisher	Surveyor General's Office	http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	1	3.3
+/mods/originInfo/dateIssued	1930	http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	1	3.3
+
+/mods/language		http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	1	3.3
+/mods/language/languageTerm	English	http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	1	3.3
+/mods/language/languageTerm/@type	text	http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	1	3.3
+
+/mods/physicalDescription		http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	1	3.3
+/mods/physicalDescription/form		http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	1	3.3
+/mods/physicalDescription/extent	1 map : col., mounted on linen ; 24.3 x 58.3 cm. on sheet 28.9 x 65.1 cm.	http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	1	3.3
+
+/mods/note	Reproduced from Laurie's Map of the Northwest Territories. Compiled by D. Codd, Ottawa, 1870. The notes in red are copied from a map by Sanford Fleming, dated 26th April, 1878.	http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	6	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	1	3.3
+
+/mods/note	peelmaps	http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	6	3.3
+/mods/note/@type	local:oaiset	http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	1	3.3
+
+/mods/note	1	http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	6	3.3
+/mods/note/@type	local:sheetcount	http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	1	3.3
+
+/mods/note	28.9 x 65.1 cm.	http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	6	3.3
+/mods/note/@type	local:sheetsize	http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	1	3.3
+
+/mods/note	28.9	http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	6	3.3
+/mods/note/@type	local:sheetlength	http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	1	3.3
+
+/mods/note	65.1	http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	6	3.3
+/mods/note/@type	local:sheetwidth	http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	3	3.3
+/mods/subject/@authority	lcsh	http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	1	3.3
+/mods/subject/@lang	eng	http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	1	3.3
+/mods/subject/geographic	Prairie Provinces	http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	3	3.3
+/mods/subject/temporal	1870	http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	3	3.3
+/mods/subject/cartographics		http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	1	3.3
+/mods/subject/cartographics/coordinates	w11540xx/n05348xx w094xxxx/n05320xx w095xxxx/n04820xx w11440xx/n04840xx	http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	1	3.3
+/mods/subject/cartographics/scale	1:2,534,400	http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	1	3.3
+
+/mods/classification	Prairie Provinces C-8	http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	1	3.3
+
+/mods/identifier	3004	http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	5	3.3
+/mods/identifier/@type	local:mapsproject	http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	1	3.3
+
+/mods/identifier	AAA-3097	http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	5	3.3
+/mods/identifier/@type	local:mapsdb	http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	1	3.3
+
+/mods/identifier	3004.xml	http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	5	3.3
+/mods/identifier/@type	local:mapsproject_filename	http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	1	3.3
+
+/mods/identifier	M000371	http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	5	3.3
+/mods/identifier/@type	local:peel3	http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	1	3.3
+
+/mods/identifier	N019026	http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	5	3.3
+/mods/identifier/@type	local:old_peel_new	http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	1	3.3
+
+/mods/location		http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	1	3.3
+/mods/location/physicalLocation	UA Cameron Staff Access-Maps	http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	1	3.3
+/mods/location/url	http://peel.library.ualberta.ca/maps/M/00/03/M000371/M000371.tif	http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	1	3.3
+/mods/location/url/@access	raw object	http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	1	3.3
+/mods/location/url/@note	width='8268' height='3466'	http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	1	3.3
+
+/mods/recordInfo		http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	1	3.3
+/mods/recordInfo/recordContentSource	mapsproject	http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	2	3.3
+/mods/recordInfo/recordContentSource/@authority	local:project	http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	1	3.3
+/mods/recordInfo/recordContentSource	jhuck	http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	2	3.3
+/mods/recordInfo/recordContentSource/@authority	local:person	http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	1	3.3
+/mods/recordInfo/recordIdentifier	M000371	http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	1	3.3
+/mods/recordInfo/recordChangeDate	2014-01-22T17:58:53-0700	http://peel.library.ualberta.ca/maps/M000371.html	map Digital maps Early maps 	1	3.3
+

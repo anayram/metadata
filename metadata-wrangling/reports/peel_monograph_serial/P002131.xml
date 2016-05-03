@@ -1,0 +1,173 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	Copies of all school ordinances, school regulations and amendments thereto		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/subTitle	Adopted by the Legislative Assembly, the executive, and any board or council of education: In reference to the establishment, maintenance and administration of schools in the North-West Territories since 1885: Also for copies of all petitions, memorials and correspondence thereto: Also for copies of all orders in council, reports of the Governor-General in Council, and all communications and representations to the authorities in the North-West Territories		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	corporate		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA002581		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Canada. Department of the Secretary of State		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	[Ottawa]		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	[Department of the Secretary of State]		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1894		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued/@qualifier	inferred		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	English		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	197 p.; 24 cm.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	sponsored		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	local:oaiset		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	sponsored.boardofgovernors		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	local:oaiset		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	Mr. Lou Hyndman, External Committee Member, Government Relations Sub-Committee, 1998-2010		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	local:dedicationinfo		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	boardofgovernors		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	local:sponsorcode		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			9	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Education--Manitoba		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			9	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Education--North West Territories		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			9	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	Other		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000707		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Canada--Parliament		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			9	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS001283		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Educational law and legislation		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			9	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS001283		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	�ducation--Droit--L�gislation		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			9	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002596		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Letters		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			9	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002596		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Lettres (Genre litt�raire)		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			9	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	Other		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003556		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Prairie Provinces--Education		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			9	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1894		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@type	host		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/titleInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/titleInfo/title	University of Alberta Board of Governors Collection		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/note	University of Alberta Board of Governors		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/note/@type	local:sponsor		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	958		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	1350		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel2		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	2131		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	2129		4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel-procite-id		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	acarruth		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P002131		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordChangeDate	2012-07-16T12:11:20-0600		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+
+Copies of all school ordinances, school regulations and amendments thereto
+Adopted by the Legislative Assembly, the executive, and any board or council of education: In reference to the establishment, maintenance and administration of schools in the North-West Territories since 1885: Also for copies of all petitions, memorials and correspondence thereto: Also for copies of all orders in council, reports of the Governor-General in Council, and all communications and representations to the authorities in the North-West Territories
+
+
+Canada. Department of the Secretary of State
+
+author
+
+
+text
+
+
+[Ottawa]
+
+[Department of the Secretary of State]
+1894
+
+
+English
+
+
+print
+197 p.; 24 cm.
+
+sponsored
+sponsored.boardofgovernors
+Mr. Lou Hyndman, External Committee Member, Government Relations Sub-Committee, 1998-2010
+boardofgovernors
+
+				Education--Manitoba
+			
+
+				Education--North West Territories
+			
+
+				Canada--Parliament
+			
+
+				Educational law and legislation
+			
+
+				�ducation--Droit--L�gislation
+			
+
+				Letters
+			
+
+				Lettres (Genre litt�raire)
+			
+
+				Prairie Provinces--Education
+			
+
+				1894
+			
+
+
+University of Alberta Board of Governors Collection
+
+University of Alberta Board of Governors
+
+958
+1350
+2131
+2129
+
+Peel's Prairie Portal
+acarruth
+2003-01-01T12:00:00-0700
+P002131
+2012-07-16T12:11:20-0600
+
+		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

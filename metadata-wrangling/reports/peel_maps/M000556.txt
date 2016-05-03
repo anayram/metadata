@@ -1,0 +1,114 @@
+Path	Content	URL	Form or Genre	Occurrence	MODS version
+
+/mods/titleInfo		http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	1	3.3
+/mods/titleInfo/title	Map of Western Canada including part of Manitoba and Alberta, Assiniboia and Saskatchewan showing the System of Land Survey and the lines of the Canadian Pacific Railway Company	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/name		http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	2	3.3
+/mods/name/@type	corporate	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	1	3.3
+/mods/name/namePart	Burland Lithographic Co.	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/name		http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	2	3.3
+/mods/name/@type	personal	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	1	3.3
+/mods/name/namePart	Lott, J. S.	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/typeOfResource	cartographic	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/genre	map	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	3	3.3
+/mods/genre/@authority	marcgt	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/genre	Digital maps	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	3	3.3
+/mods/genre/@authority	lcgft	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/genre	Thematic maps	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	3	3.3
+/mods/genre/@authority	lcgft	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/originInfo		http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	1	3.3
+/mods/originInfo/place		http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	1	3.3
+/mods/originInfo/place/placeTerm	Winnipeg	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	1	3.3
+/mods/originInfo/place/placeTerm/@type	text	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	1	3.3
+/mods/originInfo/publisher	Burland Lithographic Co.	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	1	3.3
+/mods/originInfo/dateIssued	1893	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/language		http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	1	3.3
+/mods/language/languageTerm	English	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	1	3.3
+/mods/language/languageTerm/@type	text	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/physicalDescription		http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	1	3.3
+/mods/physicalDescription/form		http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	1	3.3
+/mods/physicalDescription/extent	1 map : mounted on linen ; 35.3 x 76 cm. on sheet 38.1 x 77.5 cm.	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/note	This map seems to be an earlier edition of a map by Poole Bros. of Chicago.	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	6	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/note	peelmaps	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	6	3.3
+/mods/note/@type	local:oaiset	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/note	1	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	6	3.3
+/mods/note/@type	local:sheetcount	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/note	38.1 x 77.5 cm.	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	6	3.3
+/mods/note/@type	local:sheetsize	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/note	38.1	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	6	3.3
+/mods/note/@type	local:sheetlength	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/note	77.5	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	6	3.3
+/mods/note/@type	local:sheetwidth	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	5	3.3
+/mods/subject/@authority	lcsh	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	1	3.3
+/mods/subject/@lang	eng	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	1	3.3
+/mods/subject/topic	Railroads	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	1	3.3
+/mods/subject/geographic	Prairie Provinces	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	5	3.3
+/mods/subject/@authority	lcsh	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	1	3.3
+/mods/subject/@lang	eng	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	1	3.3
+/mods/subject/geographic	Prairie Provinces	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	5	3.3
+/mods/subject/@authority	lcsh	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	1	3.3
+/mods/subject/@lang	eng	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	1	3.3
+/mods/subject/name		http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	1	3.3
+/mods/subject/name/@type	corporate	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	1	3.3
+/mods/subject/name/namePart	Canadian Pacific Railway Company	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	5	3.3
+/mods/subject/temporal	1893	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	5	3.3
+/mods/subject/cartographics		http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	1	3.3
+/mods/subject/cartographics/coordinates	w11715xx/n05415xx w095xxxx/n05415xx w09630xx/n04830xx w116xxxx/n04815xx	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	1	3.3
+/mods/subject/cartographics/scale	1:1,750,000	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/classification	Prairie Provinces P-16	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/identifier	3487	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	5	3.3
+/mods/identifier/@type	local:mapsproject	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/identifier	AAA-3586	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	5	3.3
+/mods/identifier/@type	local:mapsdb	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/identifier	3487.xml	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	5	3.3
+/mods/identifier/@type	local:mapsproject_filename	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/identifier	M000556	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	5	3.3
+/mods/identifier/@type	local:peel3	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/identifier	N019241	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	5	3.3
+/mods/identifier/@type	local:old_peel_new	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/location		http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	1	3.3
+/mods/location/physicalLocation	UA Cameron Staff Access-Maps	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	1	3.3
+/mods/location/url	http://peel.library.ualberta.ca/maps/M/00/05/M000556/M000556.tif	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	1	3.3
+/mods/location/url/@access	raw object	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	1	3.3
+/mods/location/url/@note	width='9397' height='4769'	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/recordInfo		http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	1	3.3
+/mods/recordInfo/recordContentSource	mapsproject	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	2	3.3
+/mods/recordInfo/recordContentSource/@authority	local:project	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	1	3.3
+/mods/recordInfo/recordContentSource	jhuck	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	2	3.3
+/mods/recordInfo/recordContentSource/@authority	local:person	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	1	3.3
+/mods/recordInfo/recordIdentifier	M000556	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	1	3.3
+/mods/recordInfo/recordChangeDate	2014-01-14T13:26:53-0700	http://peel.library.ualberta.ca/maps/M000556.html	map Digital maps Thematic maps 	1	3.3
+

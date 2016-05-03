@@ -1,0 +1,153 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		fsalehi	PC001217	postcards	1	3.2
+	/mods/@version	3.2	fsalehi	PC001217	postcards	1	3.2
+	/mods/titleInfo		fsalehi	PC001217	postcards	1	3.2
+	/mods/titleInfo/@lang	english	fsalehi	PC001217	postcards	1	3.2
+	/mods/titleInfo/title	The Canadian Pacific Railway's "Royal Alexandra" Hotel and Station, Winnipeg, Manitoba	fsalehi	PC001217	postcards	1	3.2
+	/mods/name		fsalehi	PC001217	postcards	1	3.2
+	/mods/name/@type	corporate	fsalehi	PC001217	postcards	1	3.2
+	/mods/name/namePart	Valentine Edy Company, Limited	fsalehi	PC001217	postcards	1	3.2
+	/mods/name/role		fsalehi	PC001217	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	fsalehi	PC001217	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC001217	postcards	1	3.2
+	/mods/typeOfResource	still image	fsalehi	PC001217	postcards	1	3.2
+	/mods/genre	postcards	fsalehi	PC001217	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	fsalehi	PC001217	postcards	1	3.2
+	/mods/originInfo		fsalehi	PC001217	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	fsalehi	PC001217	postcards	1	3.2
+	/mods/originInfo/publisher	Published by Valentine Edy Company, Limited, Winnipeg, Manitoba	fsalehi	PC001217	postcards	1	3.2
+	/mods/originInfo/dateIssued	after 1920	fsalehi	PC001217	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	inferred	fsalehi	PC001217	postcards	1	3.2
+	/mods/originInfo/place		fsalehi	PC001217	postcards	2	3.2
+	/mods/originInfo/place/placeTerm	Winnipeg	fsalehi	PC001217	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC001217	postcards	1	3.2
+	/mods/originInfo/place		fsalehi	PC001217	postcards	2	3.2
+	/mods/originInfo/place/placeTerm	Manitoba	fsalehi	PC001217	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC001217	postcards	1	3.2
+	/mods/language		fsalehi	PC001217	postcards	1	3.2
+	/mods/language/languageTerm	English	fsalehi	PC001217	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	fsalehi	PC001217	postcards	1	3.2
+	/mods/physicalDescription		fsalehi	PC001217	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : b&w ; 9 x 14 cm.	fsalehi	PC001217	postcards	1	3.2
+	/mods/note	30	fsalehi	PC001217	postcards	7	3.2
+	/mods/note/@type	price	fsalehi	PC001217	postcards	1	3.2
+	/mods/note	false	fsalehi	PC001217	postcards	7	3.2
+	/mods/note/@type	notable	fsalehi	PC001217	postcards	1	3.2
+	/mods/note	true	fsalehi	PC001217	postcards	7	3.2
+	/mods/note/@type	imgprobs	fsalehi	PC001217	postcards	1	3.2
+	/mods/note	[printer's no.] VE 31.	fsalehi	PC001217	postcards	7	3.2
+	/mods/note/@type	public_on_front	fsalehi	PC001217	postcards	1	3.2
+	/mods/note	Printed in Great Britain.	fsalehi	PC001217	postcards	7	3.2
+	/mods/note/@type	public_on_back	fsalehi	PC001217	postcards	1	3.2
+	/mods/note	This is a Real Photograph.	fsalehi	PC001217	postcards	7	3.2
+	/mods/note/@type	public_on_back	fsalehi	PC001217	postcards	1	3.2
+	/mods/note	Royal Alexandra Hotel and CPR Station in Winnipeg.	fsalehi	PC001217	postcards	7	3.2
+	/mods/note/@type	public_description	fsalehi	PC001217	postcards	1	3.2
+	/mods/subject		fsalehi	PC001217	postcards	6	3.2
+	/mods/subject/geographic	Winnipeg, MB	fsalehi	PC001217	postcards	1	3.2
+	/mods/subject		fsalehi	PC001217	postcards	6	3.2
+	/mods/subject/hierarchicalGeographic		fsalehi	PC001217	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	fsalehi	PC001217	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Manitoba	fsalehi	PC001217	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Winnipeg	fsalehi	PC001217	postcards	1	3.2
+	/mods/subject		fsalehi	PC001217	postcards	6	3.2
+	/mods/subject/genre	Postcards	fsalehi	PC001217	postcards	1	3.2
+	/mods/subject		fsalehi	PC001217	postcards	6	3.2
+	/mods/subject/topic	Railroad stations	fsalehi	PC001217	postcards	1	3.2
+	/mods/subject		fsalehi	PC001217	postcards	6	3.2
+	/mods/subject/topic	Hotels	fsalehi	PC001217	postcards	1	3.2
+	/mods/subject		fsalehi	PC001217	postcards	6	3.2
+	/mods/subject/topic	Automobiles	fsalehi	PC001217	postcards	1	3.2
+	/mods/identifier	PC001217	fsalehi	PC001217	postcards	1	3.2
+	/mods/identifier/@type	local	fsalehi	PC001217	postcards	1	3.2
+	/mods/location		fsalehi	PC001217	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 3	fsalehi	PC001217	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC001217.html	fsalehi	PC001217	postcards	3	3.2
+	/mods/location/url/@access	object in context	fsalehi	PC001217	postcards	1	3.2
+	/mods/location/url/@usage	primary display	fsalehi	PC001217	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/001/web/PC001217.jpg	fsalehi	PC001217	postcards	3	3.2
+	/mods/location/url/@access	raw object	fsalehi	PC001217	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='506' 	fsalehi	PC001217	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/001/thumbs/PC001217.jpg	fsalehi	PC001217	postcards	3	3.2
+	/mods/location/url/@access	preview	fsalehi	PC001217	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='127'	fsalehi	PC001217	postcards	1	3.2
+	/mods/recordInfo		fsalehi	PC001217	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-20T16:05:12-0600	fsalehi	PC001217	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC001217	fsalehi	PC001217	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	fsalehi	fsalehi	PC001217	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2009-08-27T12:02:00-0600	fsalehi	PC001217	postcards	1	3.2
+	/@mods	
+
+The Canadian Pacific Railway's "Royal Alexandra" Hotel and Station, Winnipeg, Manitoba
+
+
+Valentine Edy Company, Limited
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+Published by Valentine Edy Company, Limited, Winnipeg, Manitoba
+after 1920
+
+
+
+Winnipeg
+
+
+Manitoba
+
+
+
+English
+
+
+1 postcard : b&w ; 9 x 14 cm.
+
+30
+false
+true
+[printer's no.] VE 31.
+Printed in Great Britain.
+This is a Real Photograph.
+Royal Alexandra Hotel and CPR Station in Winnipeg.
+
+Winnipeg, MB
+
+
+
+Canada
+Manitoba
+Winnipeg
+
+
+
+Postcards
+
+
+Railroad stations
+
+
+Hotels
+
+
+Automobiles
+
+PC001217
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 3
+http://peel.library.ualberta.ca/postcards/PC001217.html
+http://peel.library.ualberta.ca/pcimages/PC/001/web/PC001217.jpg
+http://peel.library.ualberta.ca/pcimages/PC/001/thumbs/PC001217.jpg
+
+
+2007-06-20T16:05:12-0600
+PC001217
+fsalehi
+2009-08-27T12:02:00-0600
+
+	fsalehi	PC001217	postcards	1	3.2
+	

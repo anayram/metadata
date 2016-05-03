@@ -1,0 +1,132 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		fsalehi	PC003974	postcards	1	3.2
+	/mods/@version	3.2	fsalehi	PC003974	postcards	1	3.2
+	/mods/titleInfo		fsalehi	PC003974	postcards	1	3.2
+	/mods/titleInfo/@lang	english	fsalehi	PC003974	postcards	1	3.2
+	/mods/titleInfo/title	[Children]	fsalehi	PC003974	postcards	1	3.2
+	/mods/name		fsalehi	PC003974	postcards	1	3.2
+	/mods/name/@type	personal	fsalehi	PC003974	postcards	1	3.2
+	/mods/name/namePart	Brown	fsalehi	PC003974	postcards	2	3.2
+	/mods/name/namePart/@type	family	fsalehi	PC003974	postcards	1	3.2
+	/mods/name/namePart	J.A.	fsalehi	PC003974	postcards	2	3.2
+	/mods/name/namePart/@type	given	fsalehi	PC003974	postcards	1	3.2
+	/mods/name/role		fsalehi	PC003974	postcards	1	3.2
+	/mods/name/role/roleTerm	Photographer	fsalehi	PC003974	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC003974	postcards	1	3.2
+	/mods/typeOfResource	still image	fsalehi	PC003974	postcards	1	3.2
+	/mods/genre	postcards	fsalehi	PC003974	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	fsalehi	PC003974	postcards	1	3.2
+	/mods/originInfo		fsalehi	PC003974	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	fsalehi	PC003974	postcards	1	3.2
+	/mods/originInfo/publisher	Copyright Canada 1922 by J.A. Brown	fsalehi	PC003974	postcards	1	3.2
+	/mods/originInfo/dateIssued	1922	fsalehi	PC003974	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	approximate	fsalehi	PC003974	postcards	1	3.2
+	/mods/originInfo/place		fsalehi	PC003974	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	[Lethbridge]	fsalehi	PC003974	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC003974	postcards	1	3.2
+	/mods/language		fsalehi	PC003974	postcards	1	3.2
+	/mods/language/languageTerm	English	fsalehi	PC003974	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	fsalehi	PC003974	postcards	1	3.2
+	/mods/physicalDescription		fsalehi	PC003974	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : sepia ; 14 x 9 cm.	fsalehi	PC003974	postcards	1	3.2
+	/mods/note	35	fsalehi	PC003974	postcards	4	3.2
+	/mods/note/@type	price	fsalehi	PC003974	postcards	1	3.2
+	/mods/note	false	fsalehi	PC003974	postcards	4	3.2
+	/mods/note/@type	notable	fsalehi	PC003974	postcards	1	3.2
+	/mods/note	true	fsalehi	PC003974	postcards	4	3.2
+	/mods/note/@type	imgprobs	fsalehi	PC003974	postcards	1	3.2
+	/mods/note	Outdoor portrait of three children.	fsalehi	PC003974	postcards	4	3.2
+	/mods/note/@type	public_description	fsalehi	PC003974	postcards	1	3.2
+	/mods/subject		fsalehi	PC003974	postcards	4	3.2
+	/mods/subject/geographic	Lethbridge, AB	fsalehi	PC003974	postcards	1	3.2
+	/mods/subject		fsalehi	PC003974	postcards	4	3.2
+	/mods/subject/hierarchicalGeographic		fsalehi	PC003974	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	fsalehi	PC003974	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	fsalehi	PC003974	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Lethbridge	fsalehi	PC003974	postcards	1	3.2
+	/mods/subject		fsalehi	PC003974	postcards	4	3.2
+	/mods/subject/genre	Postcards	fsalehi	PC003974	postcards	1	3.2
+	/mods/subject		fsalehi	PC003974	postcards	4	3.2
+	/mods/subject/topic	Children	fsalehi	PC003974	postcards	1	3.2
+	/mods/identifier	PC003974	fsalehi	PC003974	postcards	1	3.2
+	/mods/identifier/@type	local	fsalehi	PC003974	postcards	1	3.2
+	/mods/location		fsalehi	PC003974	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 2	fsalehi	PC003974	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC003974.html	fsalehi	PC003974	postcards	3	3.2
+	/mods/location/url/@access	object in context	fsalehi	PC003974	postcards	1	3.2
+	/mods/location/url/@usage	primary display	fsalehi	PC003974	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/003/web/PC003974.jpg	fsalehi	PC003974	postcards	3	3.2
+	/mods/location/url/@access	raw object	fsalehi	PC003974	postcards	1	3.2
+	/mods/location/url/@note	width='503' height='800' 	fsalehi	PC003974	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/003/thumbs/PC003974.jpg	fsalehi	PC003974	postcards	3	3.2
+	/mods/location/url/@access	preview	fsalehi	PC003974	postcards	1	3.2
+	/mods/location/url/@note	width='126' height='200'	fsalehi	PC003974	postcards	1	3.2
+	/mods/recordInfo		fsalehi	PC003974	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	fsalehi	PC003974	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC003974	fsalehi	PC003974	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	fsalehi	fsalehi	PC003974	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2008-03-28T11:29:01-0700	fsalehi	PC003974	postcards	1	3.2
+	/@mods	
+
+[Children]
+
+
+Brown
+J.A.
+
+Photographer
+
+
+still image
+postcards
+
+monographic
+Copyright Canada 1922 by J.A. Brown
+1922
+
+[Lethbridge]
+
+
+
+English
+
+
+1 postcard : sepia ; 14 x 9 cm.
+
+35
+false
+true
+Outdoor portrait of three children.
+
+Lethbridge, AB
+
+
+
+Canada
+Alberta
+Lethbridge
+
+
+
+Postcards
+
+
+Children
+
+PC003974
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 2
+http://peel.library.ualberta.ca/postcards/PC003974.html
+http://peel.library.ualberta.ca/pcimages/PC/003/web/PC003974.jpg
+http://peel.library.ualberta.ca/pcimages/PC/003/thumbs/PC003974.jpg
+
+
+
+
+2007-06-25T16:49:56-0600
+PC003974
+fsalehi
+2008-03-28T11:29:01-0700
+
+	fsalehi	PC003974	postcards	1	3.2
+	

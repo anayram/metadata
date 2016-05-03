@@ -1,0 +1,169 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.2
+	/mods/@version	3.2		1	3.2
+	/mods/titleInfo			2	3.2
+	/mods/titleInfo/title	fiftieth year		1	3.2
+	/mods/titleInfo/nonSort	The 		1	3.2
+	/mods/titleInfo			2	3.2
+	/mods/titleInfo/@type	alternative		1	3.2
+	/mods/titleInfo/title	50th year		1	3.2
+	/mods/titleInfo/nonSort	The 		1	3.2
+	/mods/name			4	3.2
+	/mods/name/@type	personal		1	3.2
+	/mods/name/namePart	Harris, Neil		2	3.2
+	/mods/name/namePart	1925-2000		2	3.2
+	/mods/name/namePart/@type	date		1	3.2
+	/mods/name/role			1	3.2
+	/mods/name/role/roleTerm	composer		1	3.2
+	/mods/name			4	3.2
+	/mods/name/@type	personal		1	3.2
+	/mods/name/namePart	Staples, R.		1	3.2
+	/mods/name/role			1	3.2
+	/mods/name/role/roleTerm	composer		1	3.2
+	/mods/name			4	3.2
+	/mods/name/@type	personal		1	3.2
+	/mods/name/namePart	Murray, Gertrude		1	3.2
+	/mods/name/role			1	3.2
+	/mods/name/role/roleTerm	composer		1	3.2
+	/mods/name			4	3.2
+	/mods/name/@type	corporate		1	3.2
+	/mods/name/namePart	Saskatchewan.		2	3.2
+	/mods/name/namePart	Golden Jubilee Committee.		2	3.2
+	/mods/typeOfResource	text		1	3.2
+	/mods/originInfo			1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	snc		1	3.2
+	/mods/originInfo/place/placeTerm/@authority	marccountry		1	3.2
+	/mods/originInfo/place/placeTerm/@type	code		1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	[Regina]		1	3.2
+	/mods/originInfo/place/placeTerm/@type	text		1	3.2
+	/mods/originInfo/publisher	[Saskatchewan Golden Jubilee Committee]		1	3.2
+	/mods/originInfo/dateIssued	[1955]		1	3.2
+	/mods/originInfo/issuance	monographic		1	3.2
+	/mods/language			1	3.2
+	/mods/language/languageTerm	eng		1	3.2
+	/mods/language/languageTerm/@authority	iso639-2b		1	3.2
+	/mods/language/languageTerm/@type	code		1	3.2
+	/mods/physicalDescription			1	3.2
+	/mods/physicalDescription/form	print		1	3.2
+	/mods/physicalDescription/form/@authority	marcform		1	3.2
+	/mods/physicalDescription/extent	[12] p. : music ; 30 cm.		1	3.2
+	/mods/note	a speaker's handbook about Saskatchewan and its jubilee.		4	3.2
+	/mods/note/@type	statement of responsibility		1	3.2
+	/mods/note	http://chelsea.library.ualberta.ca:8081/peel_master/select/?q=%28authorAuthority%3A%22Saskatchewan%22%29+OR+%28subjectAuthority%3A%22Saskatchewan--Centennial+celebrations%2C+etc%22%29+OR+%28subjectAuthority%3A%22Saskatchewan--Handbooks%2C+manuals%2C+etc%22%29&fl=id+authorAuthority+authorDates+subjectAuthority+authorityAuthority&rows=100		4	3.2
+	/mods/note/@type	solr		1	3.2
+	/mods/note	DOA: 1905 Spatial: Saskatchewan		4	3.2
+	/mods/note/@type	local		1	3.2
+	/mods/note	Cover title. Musical score. Music and lyrics to songs celebrating the people and landscape of Saskatchewan.		4	3.2
+	/mods/note/@type	public		1	3.2
+	/mods/subject			3	3.2
+	/mods/subject/geographicCode	n-cn---		1	3.2
+	/mods/subject/geographicCode/@authority	marcgac		1	3.2
+	/mods/subject			3	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/geographic	Saskatchewan		1	3.2
+	/mods/subject/topic	Centennial celebrations, etc		1	3.2
+	/mods/subject			3	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/geographic	Saskatchewan		1	3.2
+	/mods/subject/topic	Handbooks, manuals, etc		1	3.2
+	/mods/classification	FC 3511.8 S24 1955		1	3.2
+	/mods/classification/@authority	lcc		1	3.2
+	/mods/identifier	56022629		4	3.2
+	/mods/identifier/@type	lccn		1	3.2
+	/mods/identifier	39616		4	3.2
+	/mods/identifier/@type	local:neos		1	3.2
+	/mods/identifier	N008826		4	3.2
+	/mods/identifier/@type	local:peel_new		1	3.2
+	/mods/identifier	9454		4	3.2
+	/mods/identifier/@type	local:peel3		1	3.2
+	/mods/recordInfo			1	3.2
+	/mods/recordInfo/recordContentSource	fsalehi		2	3.2
+	/mods/recordInfo/recordContentSource	RC		2	3.2
+	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.2
+	/mods/recordInfo/recordCreationDate	2008-09-74T12:00:00-0700		1	3.2
+	/mods/recordInfo/recordIdentifier	P009454		1	3.2
+	/mods/recordInfo/recordChangeDate	2010-07-02T14:43:02-0600		1	3.2
+	/@mods	
+
+fiftieth year
+The 
+
+
+50th year
+The 
+
+
+Harris, Neil
+1925-2000
+
+composer
+
+
+
+Staples, R.
+
+composer
+
+
+
+Murray, Gertrude
+
+composer
+
+
+
+Saskatchewan.
+Golden Jubilee Committee.
+
+text
+
+
+snc
+
+
+[Regina]
+
+[Saskatchewan Golden Jubilee Committee]
+[1955]
+monographic
+
+
+eng
+
+
+print
+[12] p. : music ; 30 cm.
+
+a speaker's handbook about Saskatchewan and its jubilee.
+http://chelsea.library.ualberta.ca:8081/peel_master/select/?q=%28authorAuthority%3A%22Saskatchewan%22%29+OR+%28subjectAuthority%3A%22Saskatchewan--Centennial+celebrations%2C+etc%22%29+OR+%28subjectAuthority%3A%22Saskatchewan--Handbooks%2C+manuals%2C+etc%22%29&fl=id+authorAuthority+authorDates+subjectAuthority+authorityAuthority&rows=100
+DOA: 1905 Spatial: Saskatchewan
+Cover title. Musical score. Music and lyrics to songs celebrating the people and landscape of Saskatchewan.
+
+				n-cn---
+			
+
+				Saskatchewan
+			
+				Centennial celebrations, etc
+			
+
+				Saskatchewan
+			
+				Handbooks, manuals, etc
+			
+FC 3511.8 S24 1955
+56022629
+39616
+N008826
+9454
+
+fsalehi
+RC
+2008-09-74T12:00:00-0700
+P009454
+2010-07-02T14:43:02-0600
+
+		1	3.2
+	

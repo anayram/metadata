@@ -1,0 +1,134 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		fsalehi	PC014371	postcards	1	3.3
+	/mods/@version	3.3	fsalehi	PC014371	postcards	1	3.3
+	/mods/titleInfo		fsalehi	PC014371	postcards	1	3.3
+	/mods/titleInfo/@lang	english	fsalehi	PC014371	postcards	1	3.3
+	/mods/titleInfo/title	Sheep Creek Falls	fsalehi	PC014371	postcards	1	3.3
+	/mods/name		fsalehi	PC014371	postcards	1	3.3
+	/mods/name/@type	personal	fsalehi	PC014371	postcards	1	3.3
+	/mods/name/namePart	Chapman	fsalehi	PC014371	postcards	2	3.3
+	/mods/name/namePart/@type	family	fsalehi	PC014371	postcards	1	3.3
+	/mods/name/namePart	J. Howard A.	fsalehi	PC014371	postcards	2	3.3
+	/mods/name/namePart/@type	given	fsalehi	PC014371	postcards	1	3.3
+	/mods/name/role		fsalehi	PC014371	postcards	1	3.3
+	/mods/name/role/roleTerm	Publisher	fsalehi	PC014371	postcards	1	3.3
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC014371	postcards	1	3.3
+	/mods/typeOfResource	still image	fsalehi	PC014371	postcards	1	3.3
+	/mods/genre	postcards	fsalehi	PC014371	postcards	1	3.3
+	/mods/genre/@authority	gmgpc	fsalehi	PC014371	postcards	1	3.3
+	/mods/originInfo		fsalehi	PC014371	postcards	1	3.3
+	/mods/originInfo/issuance	monographic	fsalehi	PC014371	postcards	1	3.3
+	/mods/originInfo/publisher	J. Howard A. Chapman, Victoria B.C.	fsalehi	PC014371	postcards	1	3.3
+	/mods/originInfo/dateIssued	ca. 1910	fsalehi	PC014371	postcards	1	3.3
+	/mods/originInfo/dateIssued/@qualifier	approximate	fsalehi	PC014371	postcards	1	3.3
+	/mods/originInfo/place		fsalehi	PC014371	postcards	1	3.3
+	/mods/originInfo/place/placeTerm	Victoria	fsalehi	PC014371	postcards	1	3.3
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC014371	postcards	1	3.3
+	/mods/language		fsalehi	PC014371	postcards	1	3.3
+	/mods/language/languageTerm	English	fsalehi	PC014371	postcards	1	3.3
+	/mods/language/languageTerm/@type	text	fsalehi	PC014371	postcards	1	3.3
+	/mods/physicalDescription		fsalehi	PC014371	postcards	1	3.3
+	/mods/physicalDescription/extent	1 postcard : sepia ; 14 x 9 cm.	fsalehi	PC014371	postcards	1	3.3
+	/mods/note	5	fsalehi	PC014371	postcards	5	3.3
+	/mods/note/@type	price	fsalehi	PC014371	postcards	1	3.3
+	/mods/note	false	fsalehi	PC014371	postcards	5	3.3
+	/mods/note/@type	notable	fsalehi	PC014371	postcards	1	3.3
+	/mods/note	false	fsalehi	PC014371	postcards	5	3.3
+	/mods/note/@type	imgprobs	fsalehi	PC014371	postcards	1	3.3
+	/mods/note	[printer's no.] 1708	fsalehi	PC014371	postcards	5	3.3
+	/mods/note/@type	public_on_front	fsalehi	PC014371	postcards	1	3.3
+	/mods/note	View of a waterfall	fsalehi	PC014371	postcards	5	3.3
+	/mods/note/@type	public_description	fsalehi	PC014371	postcards	1	3.3
+	/mods/subject		fsalehi	PC014371	postcards	4	3.3
+	/mods/subject/geographic	Alberta, MB	fsalehi	PC014371	postcards	1	3.3
+	/mods/subject		fsalehi	PC014371	postcards	4	3.3
+	/mods/subject/hierarchicalGeographic		fsalehi	PC014371	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/country	Canada	fsalehi	PC014371	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/province	Alberta	fsalehi	PC014371	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/city		fsalehi	PC014371	postcards	1	3.3
+	/mods/subject		fsalehi	PC014371	postcards	4	3.3
+	/mods/subject/genre	Postcards	fsalehi	PC014371	postcards	1	3.3
+	/mods/subject		fsalehi	PC014371	postcards	4	3.3
+	/mods/subject/topic	Waterfalls	fsalehi	PC014371	postcards	1	3.3
+	/mods/identifier	PC014371	fsalehi	PC014371	postcards	1	3.3
+	/mods/identifier/@type	local	fsalehi	PC014371	postcards	1	3.3
+	/mods/location		fsalehi	PC014371	postcards	1	3.3
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 4 (set 2)	fsalehi	PC014371	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC014371.html	fsalehi	PC014371	postcards	3	3.3
+	/mods/location/url/@access	object in context	fsalehi	PC014371	postcards	1	3.3
+	/mods/location/url/@usage	primary display	fsalehi	PC014371	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/014/web/PC014371.jpg	fsalehi	PC014371	postcards	3	3.3
+	/mods/location/url/@access	raw object	fsalehi	PC014371	postcards	1	3.3
+	/mods/location/url/@note	width='707' height='1099' 	fsalehi	PC014371	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/014/thumbs/PC014371.jpg	fsalehi	PC014371	postcards	3	3.3
+	/mods/location/url/@access	preview	fsalehi	PC014371	postcards	1	3.3
+	/mods/location/url/@note	width='129' height='200'	fsalehi	PC014371	postcards	1	3.3
+	/mods/recordInfo		fsalehi	PC014371	postcards	1	3.3
+	/mods/recordInfo/recordCreationDate	2009-01-23T14:03:01-0700	fsalehi	PC014371	postcards	1	3.3
+	/mods/recordInfo/recordIdentifier	PC014371	fsalehi	PC014371	postcards	1	3.3
+	/mods/recordInfo/recordContentSource	fsalehi	fsalehi	PC014371	postcards	1	3.3
+	/mods/recordInfo/recordChangeDate	2009-12-01T09:28:42-0700	fsalehi	PC014371	postcards	1	3.3
+	/@mods	
+
+Sheep Creek Falls
+
+
+Chapman
+J. Howard A.
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+J. Howard A. Chapman, Victoria B.C.
+ca. 1910
+
+
+Victoria
+
+
+
+English
+
+
+1 postcard : sepia ; 14 x 9 cm.
+
+5
+false
+false
+[printer's no.] 1708
+View of a waterfall
+
+Alberta, MB
+
+
+
+Canada
+Alberta
+
+
+
+
+Postcards
+
+
+Waterfalls
+
+PC014371
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 4 (set 2)
+http://peel.library.ualberta.ca/postcards/PC014371.html
+http://peel.library.ualberta.ca/pcimages/PC/014/web/PC014371.jpg
+http://peel.library.ualberta.ca/pcimages/PC/014/thumbs/PC014371.jpg
+
+
+2009-01-23T14:03:01-0700
+PC014371
+fsalehi
+2009-12-01T09:28:42-0700
+
+	fsalehi	PC014371	postcards	1	3.3
+	

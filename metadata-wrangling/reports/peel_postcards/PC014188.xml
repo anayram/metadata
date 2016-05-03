@@ -1,0 +1,159 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		bstearns	PC014188	postcards	1	3.3
+	/mods/@version	3.3	bstearns	PC014188	postcards	1	3.3
+	/mods/titleInfo		bstearns	PC014188	postcards	1	3.3
+	/mods/titleInfo/@lang	english	bstearns	PC014188	postcards	1	3.3
+	/mods/titleInfo/title	Jasper Avenue, Looking West, Edmonton, Alta.	bstearns	PC014188	postcards	1	3.3
+	/mods/name		bstearns	PC014188	postcards	1	3.3
+	/mods/name/@type	corporate	bstearns	PC014188	postcards	1	3.3
+	/mods/name/namePart	Northern News Co. Ltd.	bstearns	PC014188	postcards	1	3.3
+	/mods/name/role		bstearns	PC014188	postcards	1	3.3
+	/mods/name/role/roleTerm	Publisher	bstearns	PC014188	postcards	1	3.3
+	/mods/name/role/roleTerm/@type	text	bstearns	PC014188	postcards	1	3.3
+	/mods/typeOfResource	still image	bstearns	PC014188	postcards	1	3.3
+	/mods/genre	postcards	bstearns	PC014188	postcards	1	3.3
+	/mods/genre/@authority	gmgpc	bstearns	PC014188	postcards	1	3.3
+	/mods/originInfo		bstearns	PC014188	postcards	1	3.3
+	/mods/originInfo/issuance	monographic	bstearns	PC014188	postcards	1	3.3
+	/mods/originInfo/publisher	Northern News Co. Ltd., Mike's News Agency, Edmonton, Alta.	bstearns	PC014188	postcards	1	3.3
+	/mods/originInfo/dateIssued	1921	bstearns	PC014188	postcards	1	3.3
+	/mods/originInfo/dateIssued/@qualifier	approximate	bstearns	PC014188	postcards	1	3.3
+	/mods/originInfo/place		bstearns	PC014188	postcards	1	3.3
+	/mods/originInfo/place/placeTerm	Edmonton	bstearns	PC014188	postcards	1	3.3
+	/mods/originInfo/place/placeTerm/@type	text	bstearns	PC014188	postcards	1	3.3
+	/mods/language		bstearns	PC014188	postcards	1	3.3
+	/mods/language/languageTerm	English	bstearns	PC014188	postcards	1	3.3
+	/mods/language/languageTerm/@type	text	bstearns	PC014188	postcards	1	3.3
+	/mods/physicalDescription		bstearns	PC014188	postcards	1	3.3
+	/mods/physicalDescription/extent	1 postcard : col. ; 9 x 14 cm.	bstearns	PC014188	postcards	1	3.3
+	/mods/note	7	bstearns	PC014188	postcards	7	3.3
+	/mods/note/@type	price	bstearns	PC014188	postcards	1	3.3
+	/mods/note	false	bstearns	PC014188	postcards	7	3.3
+	/mods/note/@type	notable	bstearns	PC014188	postcards	1	3.3
+	/mods/note	false	bstearns	PC014188	postcards	7	3.3
+	/mods/note/@type	imgprobs	bstearns	PC014188	postcards	1	3.3
+	/mods/note	Edmonton, Alta., 1921-0-18	bstearns	PC014188	postcards	7	3.3
+	/mods/note/@type	public_postmark_date	bstearns	PC014188	postcards	1	3.3
+	/mods/note	Jasper Avenue, looking West. This shows the famous retail section of Edmonton in which is included the Hudson's Bay Company store, which has grown from a very small beginning to its present stately proportions. Jasper Avenue is one of the widest and most imposing, business thoroughfare in the West.	bstearns	PC014188	postcards	7	3.3
+	/mods/note/@type	public_on_back	bstearns	PC014188	postcards	1	3.3
+	/mods/note	[printer's no.] 105567	bstearns	PC014188	postcards	7	3.3
+	/mods/note/@type	public_on_back	bstearns	PC014188	postcards	1	3.3
+	/mods/note	View of Jasper Avenue, Edmonton, Alberta. Imperial Bank of Canada on the right side. The streetcar line can be seen down the street, with a streetcar in service.	bstearns	PC014188	postcards	7	3.3
+	/mods/note/@type	public_description	bstearns	PC014188	postcards	1	3.3
+	/mods/subject		bstearns	PC014188	postcards	8	3.3
+	/mods/subject/geographic	Edmonton, MB	bstearns	PC014188	postcards	1	3.3
+	/mods/subject		bstearns	PC014188	postcards	8	3.3
+	/mods/subject/hierarchicalGeographic		bstearns	PC014188	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/country	Canada	bstearns	PC014188	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/province	Alberta	bstearns	PC014188	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/city	Edmonton	bstearns	PC014188	postcards	1	3.3
+	/mods/subject		bstearns	PC014188	postcards	8	3.3
+	/mods/subject/genre	Postcards	bstearns	PC014188	postcards	1	3.3
+	/mods/subject		bstearns	PC014188	postcards	8	3.3
+	/mods/subject/topic	Business districts	bstearns	PC014188	postcards	1	3.3
+	/mods/subject		bstearns	PC014188	postcards	8	3.3
+	/mods/subject/topic	Street railroads	bstearns	PC014188	postcards	1	3.3
+	/mods/subject		bstearns	PC014188	postcards	8	3.3
+	/mods/subject/topic	Street railroad tracks	bstearns	PC014188	postcards	1	3.3
+	/mods/subject		bstearns	PC014188	postcards	8	3.3
+	/mods/subject/topic	Banks	bstearns	PC014188	postcards	1	3.3
+	/mods/subject		bstearns	PC014188	postcards	8	3.3
+	/mods/subject/name		bstearns	PC014188	postcards	1	3.3
+	/mods/subject/name/namePart	Imperial Bank of Canada (Edmonton, Alta.)	bstearns	PC014188	postcards	1	3.3
+	/mods/identifier	PC014188	bstearns	PC014188	postcards	1	3.3
+	/mods/identifier/@type	local	bstearns	PC014188	postcards	1	3.3
+	/mods/location		bstearns	PC014188	postcards	1	3.3
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 4 (set 2)	bstearns	PC014188	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC014188.html	bstearns	PC014188	postcards	3	3.3
+	/mods/location/url/@access	object in context	bstearns	PC014188	postcards	1	3.3
+	/mods/location/url/@usage	primary display	bstearns	PC014188	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/014/web/PC014188.jpg	bstearns	PC014188	postcards	3	3.3
+	/mods/location/url/@access	raw object	bstearns	PC014188	postcards	1	3.3
+	/mods/location/url/@note	width='1092' height='699' 	bstearns	PC014188	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/014/thumbs/PC014188.jpg	bstearns	PC014188	postcards	3	3.3
+	/mods/location/url/@access	preview	bstearns	PC014188	postcards	1	3.3
+	/mods/location/url/@note	width='200' height='128'	bstearns	PC014188	postcards	1	3.3
+	/mods/recordInfo		bstearns	PC014188	postcards	1	3.3
+	/mods/recordInfo/recordCreationDate	2009-01-23T14:03:01-0700	bstearns	PC014188	postcards	1	3.3
+	/mods/recordInfo/recordIdentifier	PC014188	bstearns	PC014188	postcards	1	3.3
+	/mods/recordInfo/recordContentSource	bstearns	bstearns	PC014188	postcards	1	3.3
+	/mods/recordInfo/recordChangeDate	2009-12-04T01:03:47-0700	bstearns	PC014188	postcards	1	3.3
+	/@mods	
+
+Jasper Avenue, Looking West, Edmonton, Alta.
+
+
+Northern News Co. Ltd.
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+Northern News Co. Ltd., Mike's News Agency, Edmonton, Alta.
+1921
+
+
+Edmonton
+
+
+
+English
+
+
+1 postcard : col. ; 9 x 14 cm.
+
+7
+false
+false
+Edmonton, Alta., 1921-0-18
+Jasper Avenue, looking West. This shows the famous retail section of Edmonton in which is included the Hudson's Bay Company store, which has grown from a very small beginning to its present stately proportions. Jasper Avenue is one of the widest and most imposing, business thoroughfare in the West.
+[printer's no.] 105567
+View of Jasper Avenue, Edmonton, Alberta. Imperial Bank of Canada on the right side. The streetcar line can be seen down the street, with a streetcar in service.
+
+Edmonton, MB
+
+
+
+Canada
+Alberta
+Edmonton
+
+
+
+Postcards
+
+
+Business districts
+
+
+Street railroads
+
+
+Street railroad tracks
+
+
+Banks
+
+
+
+Imperial Bank of Canada (Edmonton, Alta.)
+
+
+PC014188
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 4 (set 2)
+http://peel.library.ualberta.ca/postcards/PC014188.html
+http://peel.library.ualberta.ca/pcimages/PC/014/web/PC014188.jpg
+http://peel.library.ualberta.ca/pcimages/PC/014/thumbs/PC014188.jpg
+
+
+2009-01-23T14:03:01-0700
+PC014188
+bstearns
+2009-12-04T01:03:47-0700
+
+	bstearns	PC014188	postcards	1	3.3
+	

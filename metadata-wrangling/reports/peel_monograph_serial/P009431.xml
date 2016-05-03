@@ -1,0 +1,103 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.2
+	/mods/@version	3.2		1	3.2
+	/mods/titleInfo			1	3.2
+	/mods/titleInfo/title	Welcome to Winnipeg, Canada		1	3.2
+	/mods/name			1	3.2
+	/mods/name/@type	corporate		1	3.2
+	/mods/name/namePart	Winnipeg Industrial Bureau		1	3.2
+	/mods/typeOfResource	text		1	3.2
+	/mods/originInfo			1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	mbc		1	3.2
+	/mods/originInfo/place/placeTerm/@authority	marccountry		1	3.2
+	/mods/originInfo/place/placeTerm/@type	code		1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	[Winnipeg]		1	3.2
+	/mods/originInfo/place/placeTerm/@type	text		1	3.2
+	/mods/originInfo/publisher	[Winnipeg Industrial Bureau]		1	3.2
+	/mods/originInfo/dateIssued	[1912]		1	3.2
+	/mods/originInfo/issuance	monographic		1	3.2
+	/mods/language			1	3.2
+	/mods/language/languageTerm	eng		1	3.2
+	/mods/language/languageTerm/@authority	iso639-2b		1	3.2
+	/mods/language/languageTerm/@type	code		1	3.2
+	/mods/physicalDescription			1	3.2
+	/mods/physicalDescription/form	print		1	3.2
+	/mods/physicalDescription/form/@authority	marcform		1	3.2
+	/mods/physicalDescription/extent	[48] p. : chiefly ill., ports. ; 26 x 16 cm.		1	3.2
+	/mods/note	http://chelsea.library.ualberta.ca:8081/peel_master/select/?q=%28subjectAuthority%3A%22Winnipeg+%28Man.%29%22%29+OR+%28subjectAuthority%3A%22Winnipeg+%28Man.%29--Economic+conditions%22%29&fl=id+authorAuthority+authorDates+subjectAuthority+authorityAuthority&rows=100		3	3.2
+	/mods/note/@type	solr		1	3.2
+	/mods/note	DOA: 1912 Spatial: Winnipeg		3	3.2
+	/mods/note/@type	local		1	3.2
+	/mods/note	Cover title. Pictorial guide highlighting economic opportunities available in Winnipeg.		3	3.2
+	/mods/note/@type	public		1	3.2
+	/mods/subject			2	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/geographic	Winnipeg (Man.)		1	3.2
+	/mods/subject			2	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/geographic	Winnipeg (Man.)		1	3.2
+	/mods/subject/topic	Economic conditions		1	3.2
+	/mods/identifier	3979489		3	3.2
+	/mods/identifier/@type	local:neos		1	3.2
+	/mods/identifier	N008802		3	3.2
+	/mods/identifier/@type	local:peel_new		1	3.2
+	/mods/identifier	9431		3	3.2
+	/mods/identifier/@type	local:peel3		1	3.2
+	/mods/recordInfo			1	3.2
+	/mods/recordInfo/recordContentSource	fsalehi		2	3.2
+	/mods/recordInfo/recordContentSource	RC		2	3.2
+	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.2
+	/mods/recordInfo/recordCreationDate	2007-08-23T12:00:00-0700		1	3.2
+	/mods/recordInfo/recordIdentifier	P009431		1	3.2
+	/mods/recordInfo/recordChangeDate	2010-07-01T10:02:33-0600		1	3.2
+	/@mods	
+
+Welcome to Winnipeg, Canada
+
+
+Winnipeg Industrial Bureau
+
+text
+
+
+mbc
+
+
+[Winnipeg]
+
+[Winnipeg Industrial Bureau]
+[1912]
+monographic
+
+
+eng
+
+
+print
+[48] p. : chiefly ill., ports. ; 26 x 16 cm.
+
+http://chelsea.library.ualberta.ca:8081/peel_master/select/?q=%28subjectAuthority%3A%22Winnipeg+%28Man.%29%22%29+OR+%28subjectAuthority%3A%22Winnipeg+%28Man.%29--Economic+conditions%22%29&fl=id+authorAuthority+authorDates+subjectAuthority+authorityAuthority&rows=100
+DOA: 1912 Spatial: Winnipeg
+Cover title. Pictorial guide highlighting economic opportunities available in Winnipeg.
+
+				Winnipeg (Man.)
+			
+
+				Winnipeg (Man.)
+			
+				Economic conditions
+			
+3979489
+N008802
+9431
+
+fsalehi
+RC
+2007-08-23T12:00:00-0700
+P009431
+2010-07-01T10:02:33-0600
+
+		1	3.2
+	

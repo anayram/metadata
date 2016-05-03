@@ -1,0 +1,165 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods		biography	1	3.2
+	/mods/@version	3.2	biography	1	3.2
+	/mods/titleInfo		biography	1	3.2
+	/mods/titleInfo/title	I passed this way, 1889-1964+	biography	1	3.2
+	/mods/name		biography	1	3.2
+	/mods/name/@type	personal	biography	1	3.2
+	/mods/name/namePart	Newton, Robert.	biography	1	3.2
+	/mods/typeOfResource	text	biography	1	3.2
+	/mods/genre	biography	biography	1	3.2
+	/mods/genre/@authority	marcgt	biography	1	3.2
+	/mods/originInfo		biography	1	3.2
+	/mods/originInfo/place		biography	2	3.2
+	/mods/originInfo/place/placeTerm	abc	biography	1	3.2
+	/mods/originInfo/place/placeTerm/@authority	marccountry	biography	1	3.2
+	/mods/originInfo/place/placeTerm/@type	code	biography	1	3.2
+	/mods/originInfo/place		biography	2	3.2
+	/mods/originInfo/place/placeTerm	[Edmonton?]	biography	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	biography	1	3.2
+	/mods/originInfo/publisher	[s.n.]	biography	1	3.2
+	/mods/originInfo/dateIssued	[1964?]	biography	5	3.2
+	/mods/originInfo/dateIssued	1964	biography	5	3.2
+	/mods/originInfo/dateIssued/@encoding	marc	biography	1	3.2
+	/mods/originInfo/dateIssued/@point	start	biography	1	3.2
+	/mods/originInfo/dateIssued	1975	biography	5	3.2
+	/mods/originInfo/dateIssued/@encoding	marc	biography	1	3.2
+	/mods/originInfo/dateIssued/@point	end	biography	1	3.2
+	/mods/originInfo/dateIssued	1964	biography	5	3.2
+	/mods/originInfo/dateIssued/@encoding	marc	biography	1	3.2
+	/mods/originInfo/dateIssued/@point	start	biography	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	questionable	biography	1	3.2
+	/mods/originInfo/dateIssued	1975	biography	5	3.2
+	/mods/originInfo/dateIssued/@encoding	marc	biography	1	3.2
+	/mods/originInfo/dateIssued/@point	end	biography	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	questionable	biography	1	3.2
+	/mods/originInfo/issuance	monographic	biography	1	3.2
+	/mods/language		biography	1	3.2
+	/mods/language/languageTerm	eng	biography	1	3.2
+	/mods/language/languageTerm/@authority	iso639-2b	biography	1	3.2
+	/mods/language/languageTerm/@type	code	biography	1	3.2
+	/mods/physicalDescription		biography	1	3.2
+	/mods/physicalDescription/form	print	biography	1	3.2
+	/mods/physicalDescription/form/@authority	marcform	biography	1	3.2
+	/mods/physicalDescription/extent	391 leaves ; 29 cm.	biography	1	3.2
+	/mods/note	Includes index.	biography	4	3.2
+	/mods/note	uahistory	biography	4	3.2
+	/mods/note/@type	local:oaiset	biography	1	3.2
+	/mods/note	DOA: 1919 Spatial: Edmonton (Alta.)	biography	4	3.2
+	/mods/note/@type	local	biography	1	3.2
+	/mods/note	Typescript. Autobiography of an University of Alberta agriculture professor.	biography	4	3.2
+	/mods/note/@type	public	biography	1	3.2
+	/mods/subject		biography	5	3.2
+	/mods/subject/@authority	lcsh	biography	1	3.2
+	/mods/subject/name		biography	1	3.2
+	/mods/subject/name/@type	personal	biography	1	3.2
+	/mods/subject/name/namePart	Newton, Robert	biography	1	3.2
+	/mods/subject		biography	5	3.2
+	/mods/subject/@authority	lcsh	biography	1	3.2
+	/mods/subject/name		biography	1	3.2
+	/mods/subject/name/@type	personal	biography	1	3.2
+	/mods/subject/name/namePart	University of Alberta	biography	1	3.2
+	/mods/subject/topic	Biography	biography	1	3.2
+	/mods/subject		biography	5	3.2
+	/mods/subject/@authority	lcsh	biography	1	3.2
+	/mods/subject/topic	College teachers	biography	2	3.2
+	/mods/subject/geographic	Canada	biography	1	3.2
+	/mods/subject/topic	Biography	biography	2	3.2
+	/mods/subject		biography	5	3.2
+	/mods/subject/@authority	lcsh	biography	1	3.2
+	/mods/subject/topic	Agriculture	biography	2	3.2
+	/mods/subject/topic	Biography	biography	2	3.2
+	/mods/subject		biography	5	3.2
+	/mods/subject/@authority	lcsh	biography	1	3.2
+	/mods/subject/geographic	Edmonton (Alta.)	biography	1	3.2
+	/mods/subject/topic	Biography	biography	1	3.2
+	/mods/classification	FC3696.26.N49 A3 1964	biography	1	3.2
+	/mods/classification/@authority	lcc	biography	1	3.2
+	/mods/identifier	1799351	biography	2	3.2
+	/mods/identifier/@type	local:neos	biography	1	3.2
+	/mods/identifier	9068	biography	2	3.2
+	/mods/identifier/@type	local:peel3	biography	1	3.2
+	/mods/recordInfo		biography	1	3.2
+	/mods/recordInfo/recordContentSource	AEU	biography	2	3.2
+	/mods/recordInfo/recordContentSource/@authority	marcorg	biography	1	3.2
+	/mods/recordInfo/recordContentSource	RC	biography	2	3.2
+	/mods/recordInfo/recordContentSource/@authority	local:person	biography	1	3.2
+	/mods/recordInfo/recordCreationDate	2008-09-10T15:16:26-0600	biography	1	3.2
+	/mods/recordInfo/recordIdentifier	P009068	biography	1	3.2
+	/mods/recordInfo/recordChangeDate	2010-04-04T15:20:44-0600	biography	1	3.2
+	/@mods	
+
+I passed this way, 1889-1964+
+
+
+Newton, Robert.
+
+text
+biography
+
+
+abc
+
+
+[Edmonton?]
+
+[s.n.]
+[1964?]
+1964
+1975
+1964
+1975
+monographic
+
+
+eng
+
+
+print
+391 leaves ; 29 cm.
+
+Includes index.
+uahistory
+DOA: 1919 Spatial: Edmonton (Alta.)
+Typescript. Autobiography of an University of Alberta agriculture professor.
+
+				
+Newton, Robert
+
+			
+
+				
+University of Alberta
+
+			
+				Biography
+			
+
+				College teachers
+			
+				Canada
+			
+				Biography
+			
+
+				Agriculture
+			
+				Biography
+			
+
+				Edmonton (Alta.)
+			
+				Biography
+			
+FC3696.26.N49 A3 1964
+1799351
+9068
+
+AEU
+RC
+2008-09-10T15:16:26-0600
+P009068
+2010-04-04T15:20:44-0600
+
+	biography	1	3.2
+	

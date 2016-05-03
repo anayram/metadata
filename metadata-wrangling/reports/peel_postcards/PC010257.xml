@@ -1,0 +1,163 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		sfarnel	PC010257	postcards	1	3.2
+	/mods/@version	3.2	sfarnel	PC010257	postcards	1	3.2
+	/mods/titleInfo		sfarnel	PC010257	postcards	1	3.2
+	/mods/titleInfo/@lang	english	sfarnel	PC010257	postcards	1	3.2
+	/mods/titleInfo/title	Looking East on 8th Avenue from Centre Street, Calgary, Alberta, Canada.	sfarnel	PC010257	postcards	1	3.2
+	/mods/name		sfarnel	PC010257	postcards	1	3.2
+	/mods/name/@type	corporate	sfarnel	PC010257	postcards	1	3.2
+	/mods/name/namePart	The Valentine & Sons Publishing Co., Ltd.	sfarnel	PC010257	postcards	1	3.2
+	/mods/name/role		sfarnel	PC010257	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	sfarnel	PC010257	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	sfarnel	PC010257	postcards	1	3.2
+	/mods/typeOfResource	still image	sfarnel	PC010257	postcards	1	3.2
+	/mods/genre	postcards	sfarnel	PC010257	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	sfarnel	PC010257	postcards	1	3.2
+	/mods/originInfo		sfarnel	PC010257	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	sfarnel	PC010257	postcards	1	3.2
+	/mods/originInfo/publisher	The Valentine & Son Publishing Co., Ltd., Montreal and Toronto	sfarnel	PC010257	postcards	1	3.2
+	/mods/originInfo/dateIssued	1913	sfarnel	PC010257	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	approximate	sfarnel	PC010257	postcards	1	3.2
+	/mods/originInfo/place		sfarnel	PC010257	postcards	2	3.2
+	/mods/originInfo/place/placeTerm	Montreal	sfarnel	PC010257	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	sfarnel	PC010257	postcards	1	3.2
+	/mods/originInfo/place		sfarnel	PC010257	postcards	2	3.2
+	/mods/originInfo/place/placeTerm	Toronto	sfarnel	PC010257	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	sfarnel	PC010257	postcards	1	3.2
+	/mods/language		sfarnel	PC010257	postcards	1	3.2
+	/mods/language/languageTerm	English	sfarnel	PC010257	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	sfarnel	PC010257	postcards	1	3.2
+	/mods/physicalDescription		sfarnel	PC010257	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : col. ; 9 x 14 cm.	sfarnel	PC010257	postcards	1	3.2
+	/mods/note	12	sfarnel	PC010257	postcards	7	3.2
+	/mods/note/@type	price	sfarnel	PC010257	postcards	1	3.2
+	/mods/note	false	sfarnel	PC010257	postcards	7	3.2
+	/mods/note/@type	notable	sfarnel	PC010257	postcards	1	3.2
+	/mods/note	true	sfarnel	PC010257	postcards	7	3.2
+	/mods/note/@type	imgprobs	sfarnel	PC010257	postcards	1	3.2
+	/mods/note	Printed in Great Britain	sfarnel	PC010257	postcards	7	3.2
+	/mods/note/@type	public_on_back	sfarnel	PC010257	postcards	1	3.2
+	/mods/note	Calgary, Alta., 1913-12-11	sfarnel	PC010257	postcards	7	3.2
+	/mods/note/@type	public_postmark_date	sfarnel	PC010257	postcards	1	3.2
+	/mods/note	[printer's no.] 109780 (JV)	sfarnel	PC010257	postcards	7	3.2
+	/mods/note/@type	public_on_front	sfarnel	PC010257	postcards	1	3.2
+	/mods/note	View of 8th Avenue looking east from Centre Street. The Imperial Bank of Canada building, the Lineham Block, Findlay Drugs, the Thomson Block, the Doll Block and Nielsen Furniture are all visible on the north side of the street. A street car sits in front of the Doll Block.	sfarnel	PC010257	postcards	7	3.2
+	/mods/note/@type	public_description	sfarnel	PC010257	postcards	1	3.2
+	/mods/subject		sfarnel	PC010257	postcards	8	3.2
+	/mods/subject/geographic	Calgary, AB	sfarnel	PC010257	postcards	1	3.2
+	/mods/subject		sfarnel	PC010257	postcards	8	3.2
+	/mods/subject/hierarchicalGeographic		sfarnel	PC010257	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	sfarnel	PC010257	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	sfarnel	PC010257	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Calgary	sfarnel	PC010257	postcards	1	3.2
+	/mods/subject		sfarnel	PC010257	postcards	8	3.2
+	/mods/subject/genre	Postcards	sfarnel	PC010257	postcards	1	3.2
+	/mods/subject		sfarnel	PC010257	postcards	8	3.2
+	/mods/subject/topic	Commercial streets	sfarnel	PC010257	postcards	1	3.2
+	/mods/subject		sfarnel	PC010257	postcards	8	3.2
+	/mods/subject/topic	Business districts	sfarnel	PC010257	postcards	1	3.2
+	/mods/subject		sfarnel	PC010257	postcards	8	3.2
+	/mods/subject/topic	Street railroads	sfarnel	PC010257	postcards	1	3.2
+	/mods/subject		sfarnel	PC010257	postcards	8	3.2
+	/mods/subject/topic	Pedestrians	sfarnel	PC010257	postcards	1	3.2
+	/mods/subject		sfarnel	PC010257	postcards	8	3.2
+	/mods/subject/topic	Buildings	sfarnel	PC010257	postcards	1	3.2
+	/mods/identifier	PC010257	sfarnel	PC010257	postcards	1	3.2
+	/mods/identifier/@type	local	sfarnel	PC010257	postcards	1	3.2
+	/mods/location		sfarnel	PC010257	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 1	sfarnel	PC010257	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC010257.html	sfarnel	PC010257	postcards	3	3.2
+	/mods/location/url/@access	object in context	sfarnel	PC010257	postcards	1	3.2
+	/mods/location/url/@usage	primary display	sfarnel	PC010257	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/010/web/PC010257.jpg	sfarnel	PC010257	postcards	3	3.2
+	/mods/location/url/@access	raw object	sfarnel	PC010257	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='515' 	sfarnel	PC010257	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/010/thumbs/PC010257.jpg	sfarnel	PC010257	postcards	3	3.2
+	/mods/location/url/@access	preview	sfarnel	PC010257	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='129'	sfarnel	PC010257	postcards	1	3.2
+	/mods/recordInfo		sfarnel	PC010257	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2009-01-19T16:18:42-0700	sfarnel	PC010257	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC010257	sfarnel	PC010257	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	sfarnel	sfarnel	PC010257	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2009-12-06T18:31:49-0700	sfarnel	PC010257	postcards	1	3.2
+	/@mods	
+
+Looking East on 8th Avenue from Centre Street, Calgary, Alberta, Canada.
+
+
+The Valentine & Sons Publishing Co., Ltd.
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+The Valentine & Son Publishing Co., Ltd., Montreal and Toronto
+1913
+
+
+
+Montreal
+
+
+Toronto
+
+
+
+English
+
+
+1 postcard : col. ; 9 x 14 cm.
+
+12
+false
+true
+Printed in Great Britain
+Calgary, Alta., 1913-12-11
+[printer's no.] 109780 (JV)
+View of 8th Avenue looking east from Centre Street. The Imperial Bank of Canada building, the Lineham Block, Findlay Drugs, the Thomson Block, the Doll Block and Nielsen Furniture are all visible on the north side of the street. A street car sits in front of the Doll Block.
+
+Calgary, AB
+
+
+
+Canada
+Alberta
+Calgary
+
+
+
+Postcards
+
+
+Commercial streets
+
+
+Business districts
+
+
+Street railroads
+
+
+Pedestrians
+
+
+Buildings
+
+PC010257
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 1
+http://peel.library.ualberta.ca/postcards/PC010257.html
+http://peel.library.ualberta.ca/pcimages/PC/010/web/PC010257.jpg
+http://peel.library.ualberta.ca/pcimages/PC/010/thumbs/PC010257.jpg
+
+
+2009-01-19T16:18:42-0700
+PC010257
+sfarnel
+2009-12-06T18:31:49-0700
+
+	sfarnel	PC010257	postcards	1	3.2
+	

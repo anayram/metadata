@@ -1,0 +1,890 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		rcole	PC000194	postcards	1	3.2
+	/mods/@version	3.2	rcole	PC000194	postcards	1	3.2
+	/mods/titleInfo		rcole	PC000194	postcards	1	3.2
+	/mods/titleInfo/@lang	english	rcole	PC000194	postcards	1	3.2
+	/mods/titleInfo/title	Christie's Brandon Series of six colored picture post cards of Brandon, Manitoba.	rcole	PC000194	postcards	1	3.2
+	/mods/name		rcole	PC000194	postcards	1	3.2
+	/mods/name/@type	corporate	rcole	PC000194	postcards	1	3.2
+	/mods/name/namePart	Christie's Bookstore	rcole	PC000194	postcards	1	3.2
+	/mods/name/role		rcole	PC000194	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	rcole	PC000194	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	rcole	PC000194	postcards	1	3.2
+	/mods/typeOfResource	still image	rcole	PC000194	postcards	1	3.2
+	/mods/genre	postcards	rcole	PC000194	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	rcole	PC000194	postcards	1	3.2
+	/mods/originInfo		rcole	PC000194	postcards	1	3.2
+	/mods/originInfo/place		rcole	PC000194	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	Brandon	rcole	PC000194	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	rcole	PC000194	postcards	1	3.2
+	/mods/originInfo/publisher	Christie's Bookstore, Brandon, Man.	rcole	PC000194	postcards	1	3.2
+	/mods/originInfo/dateIssued	1910	rcole	PC000194	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	approximate	rcole	PC000194	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	rcole	PC000194	postcards	1	3.2
+	/mods/language		rcole	PC000194	postcards	1	3.2
+	/mods/language/languageTerm	English	rcole	PC000194	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	rcole	PC000194	postcards	1	3.2
+	/mods/physicalDescription		rcole	PC000194	postcards	1	3.2
+	/mods/physicalDescription/form		rcole	PC000194	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : b&w ; 14 x 9 cm.	rcole	PC000194	postcards	1	3.2
+	/mods/note	25	rcole	PC000194	postcards	4	3.2
+	/mods/note/@type	price	rcole	PC000194	postcards	1	3.2
+	/mods/note	false	rcole	PC000194	postcards	4	3.2
+	/mods/note/@type	notable	rcole	PC000194	postcards	1	3.2
+	/mods/note	false	rcole	PC000194	postcards	4	3.2
+	/mods/note/@type	imgprobs	rcole	PC000194	postcards	1	3.2
+	/mods/note	Six color postcards with captions: Residential Brandon, Man., looking West; Rosser Avenue, Brandon, Man., looking East; [Five Brandon churches]; Residential, Brandon, Man, looking East; Brandon General Hospital, Brandon, Man.; Experimental Farm, Brandon, Man.	rcole	PC000194	postcards	4	3.2
+	/mods/note/@type	public_description	rcole	PC000194	postcards	1	3.2
+	/mods/subject		rcole	PC000194	postcards	12	3.2
+	/mods/subject/geographic	Brandon, MB	rcole	PC000194	postcards	1	3.2
+	/mods/subject		rcole	PC000194	postcards	12	3.2
+	/mods/subject/hierarchicalGeographic		rcole	PC000194	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	rcole	PC000194	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Manitoba	rcole	PC000194	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Brandon	rcole	PC000194	postcards	1	3.2
+	/mods/subject		rcole	PC000194	postcards	12	3.2
+	/mods/subject/topic	City & town life	rcole	PC000194	postcards	1	3.2
+	/mods/subject		rcole	PC000194	postcards	12	3.2
+	/mods/subject/topic	Buildings	rcole	PC000194	postcards	1	3.2
+	/mods/subject		rcole	PC000194	postcards	12	3.2
+	/mods/subject/topic	Streets	rcole	PC000194	postcards	1	3.2
+	/mods/subject		rcole	PC000194	postcards	12	3.2
+	/mods/subject/topic	Presbyterian churches	rcole	PC000194	postcards	1	3.2
+	/mods/subject		rcole	PC000194	postcards	12	3.2
+	/mods/subject/topic	Baptist churches	rcole	PC000194	postcards	1	3.2
+	/mods/subject		rcole	PC000194	postcards	12	3.2
+	/mods/subject/topic	Methodist churches	rcole	PC000194	postcards	1	3.2
+	/mods/subject		rcole	PC000194	postcards	12	3.2
+	/mods/subject/topic	Anglican churches	rcole	PC000194	postcards	1	3.2
+	/mods/subject		rcole	PC000194	postcards	12	3.2
+	/mods/subject/topic	Catholic churches	rcole	PC000194	postcards	1	3.2
+	/mods/subject		rcole	PC000194	postcards	12	3.2
+	/mods/subject/topic	Hospitals	rcole	PC000194	postcards	1	3.2
+	/mods/subject		rcole	PC000194	postcards	12	3.2
+	/mods/subject/topic	Farms	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem		rcole	PC000194	postcards	10	3.2
+	/mods/relatedItem/@ID	0	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/@type	constituent	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/titleInfo		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/titleInfo/title	Christie's Brandon Series of Six Colored Picture Post Cards of Brandon Manitoba	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/name		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/name/@type	personal	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/name/namePart	Christie's Bookstore	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/name/role		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/name/role/roleTerm	Publisher	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/name/role/roleTerm/@type	text	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/originInfo		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/originInfo/place		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/originInfo/place/placeTerm	Brandon	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/originInfo/place/placeTerm/@type	text	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/originInfo/publisher	Christie's Bookstore	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/originInfo/dateIssued	1910	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/originInfo/dateIssued/@qualifier	approximate	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/physicalDescription		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/physicalDescription/form		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/physicalDescription/extent	1 postcard booklet	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/note	The Crown Series.	rcole	PC000194	postcards	2	3.2
+	/mods/relatedItem/note/@type	public_on_front	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/note	The cover of a booklet containing 6 colored postcards of Brandon, Manitoba.	rcole	PC000194	postcards	2	3.2
+	/mods/relatedItem/note/@type	public_description	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/subject		rcole	PC000194	postcards	2	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/country	Canada	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/province	Manitoba	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/city	Brandon	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/subject		rcole	PC000194	postcards	2	3.2
+	/mods/relatedItem/subject/topic	Cities & towns	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/location		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/location/physicalLocation		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/000/web/PC000194.jpg	rcole	PC000194	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	raw object	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='515' height='800'	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/000/thumbs/PC000194.jpg	rcole	PC000194	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	preview	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='129' height='200'	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem		rcole	PC000194	postcards	10	3.2
+	/mods/relatedItem/@ID	1	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/@type	constituent	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/location		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/location/physicalLocation		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/000/web/PC000194.1.jpg	rcole	PC000194	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	raw object	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='520' height='800'	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/000/thumbs/PC000194.1.jpg	rcole	PC000194	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	preview	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='130' height='200'	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem		rcole	PC000194	postcards	10	3.2
+	/mods/relatedItem/@ID	2	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/@type	constituent	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/location		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/location/physicalLocation		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/000/web/PC000194.2.jpg	rcole	PC000194	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	raw object	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='800' height='498'	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/000/thumbs/PC000194.2.jpg	rcole	PC000194	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	preview	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='200' height='125'	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem		rcole	PC000194	postcards	10	3.2
+	/mods/relatedItem/@ID	3	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/@type	constituent	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/titleInfo		rcole	PC000194	postcards	6	3.2
+	/mods/relatedItem/titleInfo/title	[Five churches in Brandon, Manitoba]	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/titleInfo		rcole	PC000194	postcards	6	3.2
+	/mods/relatedItem/titleInfo/title	Baptist Church.	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/titleInfo		rcole	PC000194	postcards	6	3.2
+	/mods/relatedItem/titleInfo/title	Presbyterian Church.	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/titleInfo		rcole	PC000194	postcards	6	3.2
+	/mods/relatedItem/titleInfo/title	St. Matthews Church.	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/titleInfo		rcole	PC000194	postcards	6	3.2
+	/mods/relatedItem/titleInfo/title	Catholic Church and Monastery.	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/titleInfo		rcole	PC000194	postcards	6	3.2
+	/mods/relatedItem/titleInfo/title	Methodist Church.	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/name		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/name/@type	personal	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/name/namePart	Christie's Bookstore	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/name/role		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/name/role/roleTerm	Publisher	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/name/role/roleTerm/@type	text	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/originInfo		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/originInfo/place		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/originInfo/place/placeTerm	Brandon	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/originInfo/place/placeTerm/@type	text	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/originInfo/publisher	Christie's Bookstore	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/originInfo/dateIssued	1910	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/originInfo/dateIssued/@qualifier	approximate	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/physicalDescription		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/physicalDescription/form		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/physicalDescription/extent	1 postcard booklet	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/note	Five different denominational churches in Brandon, Manitoba of which one is titled by name(St. Matthew's Church).	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/note/@type	public_description	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/subject		rcole	PC000194	postcards	10	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/country	Canada	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/province	Manitoba	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/subject		rcole	PC000194	postcards	10	3.2
+	/mods/relatedItem/subject/topic	Churches	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/subject		rcole	PC000194	postcards	10	3.2
+	/mods/relatedItem/subject/topic	Protestant churches	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/subject		rcole	PC000194	postcards	10	3.2
+	/mods/relatedItem/subject/topic	Catholic churches	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/subject		rcole	PC000194	postcards	10	3.2
+	/mods/relatedItem/subject/topic	Baptist churches	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/subject		rcole	PC000194	postcards	10	3.2
+	/mods/relatedItem/subject/topic	Presbyterian churches	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/subject		rcole	PC000194	postcards	10	3.2
+	/mods/relatedItem/subject/topic	Anglican churches	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/subject		rcole	PC000194	postcards	10	3.2
+	/mods/relatedItem/subject/topic	Methodist churches	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/subject		rcole	PC000194	postcards	10	3.2
+	/mods/relatedItem/subject/topic	Viewbooks	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/subject		rcole	PC000194	postcards	10	3.2
+	/mods/relatedItem/subject/name		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/subject/name/@type	personal	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/subject/name/namePart	St. Matthew's Church (Brandon, Man.)	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/location		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/location/physicalLocation		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/000/web/PC000194.3.jpg	rcole	PC000194	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	raw object	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='800' height='456'	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/000/thumbs/PC000194.3.jpg	rcole	PC000194	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	preview	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='200' height='114'	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem		rcole	PC000194	postcards	10	3.2
+	/mods/relatedItem/@ID	4	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/@type	constituent	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/titleInfo		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/titleInfo/title	Residential, Brandon, Man. Looking East.	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/name		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/name/@type	personal	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/name/namePart	Christie's Bookstore	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/name/role		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/name/role/roleTerm	Publisher	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/name/role/roleTerm/@type	text	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/originInfo		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/originInfo/place		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/originInfo/place/placeTerm	Brandon	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/originInfo/place/placeTerm/@type	text	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/originInfo/publisher	Christie's Bookstore	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/originInfo/dateIssued	1910	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/originInfo/dateIssued/@qualifier	approximate	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/physicalDescription		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/physicalDescription/form		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/physicalDescription/extent	1 postcard booklet	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/note	A bird's eye view of a residential section of Brandon, Manitoba.	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/note/@type	public_description	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/subject		rcole	PC000194	postcards	5	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/country	Canada	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/province	Manitoba	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/city	Brandon	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/subject		rcole	PC000194	postcards	5	3.2
+	/mods/relatedItem/subject/topic	Cityscapes	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/subject		rcole	PC000194	postcards	5	3.2
+	/mods/relatedItem/subject/topic	Cities & towns	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/subject		rcole	PC000194	postcards	5	3.2
+	/mods/relatedItem/subject/topic	Houses	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/subject		rcole	PC000194	postcards	5	3.2
+	/mods/relatedItem/subject/topic	Viewbooks	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/location		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/location/physicalLocation		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/000/web/PC000194.4.jpg	rcole	PC000194	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	raw object	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='800' height='475'	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/000/thumbs/PC000194.4.jpg	rcole	PC000194	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	preview	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='200' height='119'	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem		rcole	PC000194	postcards	10	3.2
+	/mods/relatedItem/@ID	5	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/@type	constituent	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/titleInfo		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/titleInfo/title	Brandon General Hospital, Brandon, Man.	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/name		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/name/@type	personal	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/name/namePart	Christie's Bookstore	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/name/role		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/name/role/roleTerm	Publisher	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/name/role/roleTerm/@type	text	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/originInfo		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/originInfo/place		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/originInfo/place/placeTerm	Brandon	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/originInfo/place/placeTerm/@type	text	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/originInfo/publisher	Christie's Bookstore	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/originInfo/dateIssued	1910	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/originInfo/dateIssued/@qualifier	approximate	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/physicalDescription		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/physicalDescription/form		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/physicalDescription/extent	1 postcard booklet	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/note	A view of the buildings that comprised Brandon General Hospital.	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/note/@type	public_description	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/subject		rcole	PC000194	postcards	4	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/country	Canada	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/province	Alberta	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/city	Brandon	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/subject		rcole	PC000194	postcards	4	3.2
+	/mods/relatedItem/subject/topic	Hospitals	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/subject		rcole	PC000194	postcards	4	3.2
+	/mods/relatedItem/subject/topic	Viewbooks	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/subject		rcole	PC000194	postcards	4	3.2
+	/mods/relatedItem/subject/name		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/subject/name/@type	personal	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/subject/name/namePart	Brandon General Hospital (Brandon, Man.)	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/location		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/location/physicalLocation		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/000/web/PC000194.5.jpg	rcole	PC000194	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	raw object	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='800' height='459'	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/000/thumbs/PC000194.5.jpg	rcole	PC000194	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	preview	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='200' height='115'	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem		rcole	PC000194	postcards	10	3.2
+	/mods/relatedItem/@ID	6	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/@type	constituent	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/titleInfo		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/titleInfo/title	Experimental Farm, Brandon, Man.	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/name		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/name/@type	personal	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/name/namePart	Christie's Bookstore	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/name/role		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/name/role/roleTerm	Publisher	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/name/role/roleTerm/@type	text	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/originInfo		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/originInfo/place		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/originInfo/place/placeTerm	Brandon	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/originInfo/place/placeTerm/@type	text	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/originInfo/publisher	Christie's Bookstore	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/originInfo/dateIssued	1910	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/originInfo/dateIssued/@qualifier	approximate	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/physicalDescription		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/physicalDescription/form		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/physicalDescription/extent	1 postcard booklet	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/note	An experimental farm in Brandon, Manitoba.	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/note/@type	public_description	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/subject		rcole	PC000194	postcards	4	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/country	Canada	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/province	Manitoba	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/subject		rcole	PC000194	postcards	4	3.2
+	/mods/relatedItem/subject/topic	Farms	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/subject		rcole	PC000194	postcards	4	3.2
+	/mods/relatedItem/subject/topic	Agricultural facilities	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/subject		rcole	PC000194	postcards	4	3.2
+	/mods/relatedItem/subject/topic	Viewbooks	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/location		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/location/physicalLocation		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/000/web/PC000194.6.jpg	rcole	PC000194	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	raw object	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='800' height='515'	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/000/thumbs/PC000194.6.jpg	rcole	PC000194	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	preview	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='200' height='129'	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem		rcole	PC000194	postcards	10	3.2
+	/mods/relatedItem/@ID	7	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/@type	constituent	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/titleInfo		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/titleInfo/title	Residential Brandon, Man. Looking West.	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/name		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/name/@type	personal	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/name/namePart	Christie's Bookstore	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/name/role		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/name/role/roleTerm	Publisher	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/name/role/roleTerm/@type	text	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/originInfo		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/originInfo/place		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/originInfo/place/placeTerm	Brandon	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/originInfo/place/placeTerm/@type	text	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/originInfo/publisher	Christie's Bookstore	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/originInfo/dateIssued	1910	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/originInfo/dateIssued/@qualifier	approximate	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/physicalDescription		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/physicalDescription/form		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/physicalDescription/extent	1 postcard booklet	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/note	A bird's eye view of a residential section of Brandon, Manitoba. Larger buildings, including churches, can be seen in the background.	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/note/@type	public_description	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/subject		rcole	PC000194	postcards	3	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/country	Canada	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/province	Alberta	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/city	Brandon	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/subject		rcole	PC000194	postcards	3	3.2
+	/mods/relatedItem/subject/topic	Cities & towns	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/subject		rcole	PC000194	postcards	3	3.2
+	/mods/relatedItem/subject/topic	Cityscapes	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/location		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/location/physicalLocation		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/000/web/PC000194.7.jpg	rcole	PC000194	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	raw object	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='800' height='500'	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/000/thumbs/PC000194.7.jpg	rcole	PC000194	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	preview	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='200' height='125'	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem		rcole	PC000194	postcards	10	3.2
+	/mods/relatedItem/@ID	8	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/@type	constituent	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/titleInfo		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/titleInfo/title	Rosser Avenue, Brandon, Man. Looking East.	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/name		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/name/@type	personal	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/name/namePart	Christie's Bookstore	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/name/role		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/name/role/roleTerm	Publisher	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/name/role/roleTerm/@type	text	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/originInfo		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/originInfo/place		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/originInfo/place/placeTerm	Brandon	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/originInfo/place/placeTerm/@type	text	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/originInfo/publisher	Christie's Bookstore	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/originInfo/dateIssued	1910	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/originInfo/dateIssued/@qualifier	approximate	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/physicalDescription		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/physicalDescription/form		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/physicalDescription/extent	1 postcard booklet	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/note	A commercial district in Brandon filled with the activity of pedestrians, shoppers, newspaper boys, horse-drawn vehicles, and one automobile.	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/note/@type	public_description	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/subject		rcole	PC000194	postcards	7	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/country	Canada	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/province	Manitoba	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/subject/hierarchicalGeographic/city	Brandon	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/subject		rcole	PC000194	postcards	7	3.2
+	/mods/relatedItem/subject/topic	Commercial streets	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/subject		rcole	PC000194	postcards	7	3.2
+	/mods/relatedItem/subject/topic	Commercial facilities	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/subject		rcole	PC000194	postcards	7	3.2
+	/mods/relatedItem/subject/topic	City & town life	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/subject		rcole	PC000194	postcards	7	3.2
+	/mods/relatedItem/subject/topic	Cities & towns	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/subject		rcole	PC000194	postcards	7	3.2
+	/mods/relatedItem/subject/topic	Viewbooks	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/subject		rcole	PC000194	postcards	7	3.2
+	/mods/relatedItem/subject/name		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/subject/name/@type	personal	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/subject/name/namePart	Rosser Avenue (Brandon, Man.)	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/location		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/location/physicalLocation		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/000/web/PC000194.8.jpg	rcole	PC000194	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	raw object	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='800' height='509'	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/000/thumbs/PC000194.8.jpg	rcole	PC000194	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	preview	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='200' height='127'	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem		rcole	PC000194	postcards	10	3.2
+	/mods/relatedItem/@ID	9	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/@type	constituent	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/location		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/location/physicalLocation		rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/000/web/PC000194.9.jpg	rcole	PC000194	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	raw object	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='519' height='800'	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/000/thumbs/PC000194.9.jpg	rcole	PC000194	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	preview	rcole	PC000194	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='130' height='200'	rcole	PC000194	postcards	1	3.2
+	/mods/identifier	PC000194	rcole	PC000194	postcards	1	3.2
+	/mods/identifier/@type	local	rcole	PC000194	postcards	1	3.2
+	/mods/location		rcole	PC000194	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 1	rcole	PC000194	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC000194.html	rcole	PC000194	postcards	1	3.2
+	/mods/location/url/@access	object in context	rcole	PC000194	postcards	1	3.2
+	/mods/location/url/@usage	primary display	rcole	PC000194	postcards	1	3.2
+	/mods/recordInfo		rcole	PC000194	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	rcole	rcole	PC000194	postcards	2	3.2
+	/mods/recordInfo/recordContentSource	aharrigan	rcole	PC000194	postcards	2	3.2
+	/mods/recordInfo/recordContentSource/@authority	local:person	rcole	PC000194	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-20T16:05:12-0600	rcole	PC000194	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC000194	rcole	PC000194	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2010-06-01T11:39:59-0600	rcole	PC000194	postcards	1	3.2
+	/@mods	
+
+Christie's Brandon Series of six colored picture post cards of Brandon, Manitoba.
+
+
+Christie's Bookstore
+
+Publisher
+
+
+still image
+postcards
+
+
+Brandon
+
+Christie's Bookstore, Brandon, Man.
+1910
+monographic
+
+
+English
+
+
+
+1 postcard : b&w ; 14 x 9 cm.
+
+25
+false
+false
+Six color postcards with captions: Residential Brandon, Man., looking West; Rosser Avenue, Brandon, Man., looking East; [Five Brandon churches]; Residential, Brandon, Man, looking East; Brandon General Hospital, Brandon, Man.; Experimental Farm, Brandon, Man.
+
+				Brandon, MB
+			
+
+				
+Canada
+Manitoba
+Brandon
+
+			
+
+				City & town life
+			
+
+				Buildings
+			
+
+				Streets
+			
+
+				Presbyterian churches
+			
+
+				Baptist churches
+			
+
+				Methodist churches
+			
+
+				Anglican churches
+			
+
+				Catholic churches
+			
+
+				Hospitals
+			
+
+				Farms
+			
+
+
+Christie's Brandon Series of Six Colored Picture Post Cards of Brandon Manitoba
+
+
+Christie's Bookstore
+
+Publisher
+
+
+
+
+Brandon
+
+Christie's Bookstore
+1910
+
+
+
+1 postcard booklet
+
+The Crown Series.
+The cover of a booklet containing 6 colored postcards of Brandon, Manitoba.
+
+				
+Canada
+Manitoba
+Brandon
+
+			
+
+				Cities & towns
+			
+
+
+http://peel.library.ualberta.ca/pcimages/PC/000/web/PC000194.jpg
+http://peel.library.ualberta.ca/pcimages/PC/000/thumbs/PC000194.jpg
+
+
+
+
+
+http://peel.library.ualberta.ca/pcimages/PC/000/web/PC000194.1.jpg
+http://peel.library.ualberta.ca/pcimages/PC/000/thumbs/PC000194.1.jpg
+
+
+
+
+
+http://peel.library.ualberta.ca/pcimages/PC/000/web/PC000194.2.jpg
+http://peel.library.ualberta.ca/pcimages/PC/000/thumbs/PC000194.2.jpg
+
+
+
+
+[Five churches in Brandon, Manitoba]
+
+
+Baptist Church.
+
+
+Presbyterian Church.
+
+
+St. Matthews Church.
+
+
+Catholic Church and Monastery.
+
+
+Methodist Church.
+
+
+Christie's Bookstore
+
+Publisher
+
+
+
+
+Brandon
+
+Christie's Bookstore
+1910
+
+
+
+1 postcard booklet
+
+Five different denominational churches in Brandon, Manitoba of which one is titled by name(St. Matthew's Church).
+
+				
+Canada
+Manitoba
+
+			
+
+				Churches
+			
+
+				Protestant churches
+			
+
+				Catholic churches
+			
+
+				Baptist churches
+			
+
+				Presbyterian churches
+			
+
+				Anglican churches
+			
+
+				Methodist churches
+			
+
+				Viewbooks
+			
+
+				
+St. Matthew's Church (Brandon, Man.)
+
+			
+
+
+http://peel.library.ualberta.ca/pcimages/PC/000/web/PC000194.3.jpg
+http://peel.library.ualberta.ca/pcimages/PC/000/thumbs/PC000194.3.jpg
+
+
+
+
+Residential, Brandon, Man. Looking East.
+
+
+Christie's Bookstore
+
+Publisher
+
+
+
+
+Brandon
+
+Christie's Bookstore
+1910
+
+
+
+1 postcard booklet
+
+A bird's eye view of a residential section of Brandon, Manitoba.
+
+				
+Canada
+Manitoba
+Brandon
+
+			
+
+				Cityscapes
+			
+
+				Cities & towns
+			
+
+				Houses
+			
+
+				Viewbooks
+			
+
+
+http://peel.library.ualberta.ca/pcimages/PC/000/web/PC000194.4.jpg
+http://peel.library.ualberta.ca/pcimages/PC/000/thumbs/PC000194.4.jpg
+
+
+
+
+Brandon General Hospital, Brandon, Man.
+
+
+Christie's Bookstore
+
+Publisher
+
+
+
+
+Brandon
+
+Christie's Bookstore
+1910
+
+
+
+1 postcard booklet
+
+A view of the buildings that comprised Brandon General Hospital.
+
+				
+Canada
+Alberta
+Brandon
+
+			
+
+				Hospitals
+			
+
+				Viewbooks
+			
+
+				
+Brandon General Hospital (Brandon, Man.)
+
+			
+
+
+http://peel.library.ualberta.ca/pcimages/PC/000/web/PC000194.5.jpg
+http://peel.library.ualberta.ca/pcimages/PC/000/thumbs/PC000194.5.jpg
+
+
+
+
+Experimental Farm, Brandon, Man.
+
+
+Christie's Bookstore
+
+Publisher
+
+
+
+
+Brandon
+
+Christie's Bookstore
+1910
+
+
+
+1 postcard booklet
+
+An experimental farm in Brandon, Manitoba.
+
+				
+Canada
+Manitoba
+
+			
+
+				Farms
+			
+
+				Agricultural facilities
+			
+
+				Viewbooks
+			
+
+
+http://peel.library.ualberta.ca/pcimages/PC/000/web/PC000194.6.jpg
+http://peel.library.ualberta.ca/pcimages/PC/000/thumbs/PC000194.6.jpg
+
+
+
+
+Residential Brandon, Man. Looking West.
+
+
+Christie's Bookstore
+
+Publisher
+
+
+
+
+Brandon
+
+Christie's Bookstore
+1910
+
+
+
+1 postcard booklet
+
+A bird's eye view of a residential section of Brandon, Manitoba. Larger buildings, including churches, can be seen in the background.
+
+				
+Canada
+Alberta
+Brandon
+
+			
+
+				Cities & towns
+			
+
+				Cityscapes
+			
+
+
+http://peel.library.ualberta.ca/pcimages/PC/000/web/PC000194.7.jpg
+http://peel.library.ualberta.ca/pcimages/PC/000/thumbs/PC000194.7.jpg
+
+
+
+
+Rosser Avenue, Brandon, Man. Looking East.
+
+
+Christie's Bookstore
+
+Publisher
+
+
+
+
+Brandon
+
+Christie's Bookstore
+1910
+
+
+
+1 postcard booklet
+
+A commercial district in Brandon filled with the activity of pedestrians, shoppers, newspaper boys, horse-drawn vehicles, and one automobile.
+
+				
+Canada
+Manitoba
+Brandon
+
+			
+
+				Commercial streets
+			
+
+				Commercial facilities
+			
+
+				City & town life
+			
+
+				Cities & towns
+			
+
+				Viewbooks
+			
+
+				
+Rosser Avenue (Brandon, Man.)
+
+			
+
+
+http://peel.library.ualberta.ca/pcimages/PC/000/web/PC000194.8.jpg
+http://peel.library.ualberta.ca/pcimages/PC/000/thumbs/PC000194.8.jpg
+
+
+
+
+
+http://peel.library.ualberta.ca/pcimages/PC/000/web/PC000194.9.jpg
+http://peel.library.ualberta.ca/pcimages/PC/000/thumbs/PC000194.9.jpg
+
+
+PC000194
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 1
+http://peel.library.ualberta.ca/postcards/PC000194.html
+
+
+rcole
+aharrigan
+2007-06-20T16:05:12-0600
+PC000194
+2010-06-01T11:39:59-0600
+
+	rcole	PC000194	postcards	1	3.2
+	

@@ -1,0 +1,150 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		rschramm	PC006343	postcards	1	3.2
+	/mods/@version	3.2	rschramm	PC006343	postcards	1	3.2
+	/mods/titleInfo		rschramm	PC006343	postcards	1	3.2
+	/mods/titleInfo/@lang	english	rschramm	PC006343	postcards	1	3.2
+	/mods/titleInfo/title	Looking towards Strathcona from Edmonton, Alta.	rschramm	PC006343	postcards	1	3.2
+	/mods/name		rschramm	PC006343	postcards	1	3.2
+	/mods/name/@type	corporate	rschramm	PC006343	postcards	1	3.2
+	/mods/name/namePart	Valentine & Son's Publishing Co., Ltd.	rschramm	PC006343	postcards	1	3.2
+	/mods/name/role		rschramm	PC006343	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	rschramm	PC006343	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	rschramm	PC006343	postcards	1	3.2
+	/mods/typeOfResource	still image	rschramm	PC006343	postcards	1	3.2
+	/mods/genre	postcards	rschramm	PC006343	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	rschramm	PC006343	postcards	1	3.2
+	/mods/originInfo		rschramm	PC006343	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	rschramm	PC006343	postcards	1	3.2
+	/mods/originInfo/publisher	Valentine & Son's Publishing Co., Ltd. Montreal and Toronto	rschramm	PC006343	postcards	1	3.2
+	/mods/originInfo/dateIssued	ca. 1910	rschramm	PC006343	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	inferred	rschramm	PC006343	postcards	1	3.2
+	/mods/originInfo/place		rschramm	PC006343	postcards	2	3.2
+	/mods/originInfo/place/placeTerm	Montreal	rschramm	PC006343	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	rschramm	PC006343	postcards	1	3.2
+	/mods/originInfo/place		rschramm	PC006343	postcards	2	3.2
+	/mods/originInfo/place/placeTerm	Toronto	rschramm	PC006343	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	rschramm	PC006343	postcards	1	3.2
+	/mods/language		rschramm	PC006343	postcards	1	3.2
+	/mods/language/languageTerm	English	rschramm	PC006343	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	rschramm	PC006343	postcards	1	3.2
+	/mods/physicalDescription		rschramm	PC006343	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : col. ; 9 x 14 cm.	rschramm	PC006343	postcards	1	3.2
+	/mods/note	12	rschramm	PC006343	postcards	7	3.2
+	/mods/note/@type	price	rschramm	PC006343	postcards	1	3.2
+	/mods/note	false	rschramm	PC006343	postcards	7	3.2
+	/mods/note/@type	notable	rschramm	PC006343	postcards	1	3.2
+	/mods/note	false	rschramm	PC006343	postcards	7	3.2
+	/mods/note/@type	imgprobs	rschramm	PC006343	postcards	1	3.2
+	/mods/note	View of the North Saskatchewan River and surrounding landscape, looking towards Strathcona from Edmonton, Alberta.	rschramm	PC006343	postcards	7	3.2
+	/mods/note/@type	public_description	rschramm	PC006343	postcards	1	3.2
+	/mods/note	Printed in Great Britain	rschramm	PC006343	postcards	7	3.2
+	/mods/note/@type	public_on_back	rschramm	PC006343	postcards	1	3.2
+	/mods/note	[Printer's no.] 105835 (JV)	rschramm	PC006343	postcards	7	3.2
+	/mods/note/@type	public_on_front	rschramm	PC006343	postcards	1	3.2
+	/mods/note	Duplicate: PC006344	rschramm	PC006343	postcards	7	3.2
+	/mods/note/@type	private	rschramm	PC006343	postcards	1	3.2
+	/mods/subject		rschramm	PC006343	postcards	5	3.2
+	/mods/subject/geographic	Edmonton, AB	rschramm	PC006343	postcards	1	3.2
+	/mods/subject		rschramm	PC006343	postcards	5	3.2
+	/mods/subject/hierarchicalGeographic		rschramm	PC006343	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	rschramm	PC006343	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	rschramm	PC006343	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Edmonton	rschramm	PC006343	postcards	1	3.2
+	/mods/subject		rschramm	PC006343	postcards	5	3.2
+	/mods/subject/genre	Postcards	rschramm	PC006343	postcards	1	3.2
+	/mods/subject		rschramm	PC006343	postcards	5	3.2
+	/mods/subject/topic	Rivers	rschramm	PC006343	postcards	1	3.2
+	/mods/subject		rschramm	PC006343	postcards	5	3.2
+	/mods/subject/topic	Cityscapes	rschramm	PC006343	postcards	1	3.2
+	/mods/identifier	PC006343	rschramm	PC006343	postcards	1	3.2
+	/mods/identifier/@type	local	rschramm	PC006343	postcards	1	3.2
+	/mods/location		rschramm	PC006343	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 8	rschramm	PC006343	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC006343.html	rschramm	PC006343	postcards	3	3.2
+	/mods/location/url/@access	object in context	rschramm	PC006343	postcards	1	3.2
+	/mods/location/url/@usage	primary display	rschramm	PC006343	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/006/web/PC006343.jpg	rschramm	PC006343	postcards	3	3.2
+	/mods/location/url/@access	raw object	rschramm	PC006343	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='503' 	rschramm	PC006343	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/006/thumbs/PC006343.jpg	rschramm	PC006343	postcards	3	3.2
+	/mods/location/url/@access	preview	rschramm	PC006343	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='126'	rschramm	PC006343	postcards	1	3.2
+	/mods/recordInfo		rschramm	PC006343	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	rschramm	PC006343	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC006343	rschramm	PC006343	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	rschramm	rschramm	PC006343	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2008-07-16T13:43:40-0600	rschramm	PC006343	postcards	1	3.2
+	/@mods	
+
+Looking towards Strathcona from Edmonton, Alta.
+
+
+Valentine & Son's Publishing Co., Ltd.
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+Valentine & Son's Publishing Co., Ltd. Montreal and Toronto
+ca. 1910
+
+
+
+Montreal
+
+
+Toronto
+
+
+
+English
+
+
+1 postcard : col. ; 9 x 14 cm.
+
+12
+false
+false
+View of the North Saskatchewan River and surrounding landscape, looking towards Strathcona from Edmonton, Alberta.
+Printed in Great Britain
+[Printer's no.] 105835 (JV)
+Duplicate: PC006344
+
+Edmonton, AB
+
+
+
+Canada
+Alberta
+Edmonton
+
+
+
+Postcards
+
+
+Rivers
+
+
+Cityscapes
+
+PC006343
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 8
+http://peel.library.ualberta.ca/postcards/PC006343.html
+http://peel.library.ualberta.ca/pcimages/PC/006/web/PC006343.jpg
+http://peel.library.ualberta.ca/pcimages/PC/006/thumbs/PC006343.jpg
+
+
+
+
+2007-06-25T16:49:56-0600
+PC006343
+rschramm
+2008-07-16T13:43:40-0600
+
+	rschramm	PC006343	postcards	1	3.2
+	

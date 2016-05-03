@@ -1,0 +1,1219 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/project					1	
+	/project/@default	build				1	
+	/project/@name	Home Digitization Remedy				1	
+	/project/path					1	
+	/project/path/@id	main.classpath				1	
+	/project/path/fileset					1	
+	/project/path/fileset/@dir	lib				1	
+	/project/path/fileset/include					1	
+	/project/path/fileset/include/@name	**/*.jar				1	
+	/project/path/pathelement					1	
+	/project/path/pathelement/@path	${java.class.path}				1	
+	/project/available					2	
+	/project/available/@classname	com.wallandbinkley.ant.dir2xml.Dir2xml				1	
+	/project/available/@property	available.dir2xml				1	
+	/project/available/@classpathref	main.classpath				1	
+	/project/fail					2	
+	/project/fail/@unless	available.dir2xml				1	
+	/project/fail/@message	Can't find dir2xml				1	
+	/project/available					2	
+	/project/available/@resource	net/sf/antcontrib/antlib.xml				1	
+	/project/available/@property	available.antcontrib				1	
+	/project/available/@classpathref	main.classpath				1	
+	/project/fail					2	
+	/project/fail/@unless	available.antcontrib				1	
+	/project/fail/@message	Can't find antcontrib				1	
+	/project/taskdef					2	
+	/project/taskdef/@name	dir2xml				1	
+	/project/taskdef/@classname	com.wallandbinkley.ant.dir2xml.Dir2xml				1	
+	/project/taskdef/@classpathref	main.classpath				1	
+	/project/taskdef					2	
+	/project/taskdef/@resource	net/sf/antcontrib/antlib.xml				1	
+	/project/taskdef/@classpathref	main.classpath				1	
+	/project/property					1	
+	/project/property/@file	build.properties				1	
+	/project/target					29	
+	/project/target/@name	build				1	
+	/project/target/@description	Whole process for this item				1	
+	/project/target/@depends	init				1	
+	/project/target/antcall					7	
+	/project/target/antcall/@target	folders				1	
+	/project/target/antcall					7	
+	/project/target/antcall/@target	rename				1	
+	/project/target/antcall					7	
+	/project/target/antcall/@target	metadata				1	
+	/project/target/antcall					7	
+	/project/target/antcall/@target	web				1	
+	/project/target/antcall					7	
+	/project/target/antcall/@target	thumbs				1	
+	/project/target/antcall					7	
+	/project/target/antcall/@target	dirlists				1	
+	/project/target/antcall					7	
+	/project/target/antcall/@target	enhance-mods				1	
+	/project/target					29	
+	/project/target/@name	init				1	
+	/project/target/tstamp					1	
+	/project/target/tstamp/format					1	
+	/project/target/tstamp/format/@property	created				1	
+	/project/target/tstamp/format/@pattern	yyyy-MM-dd				1	
+	/project/target					29	
+	/project/target/@name	check.id				1	
+	/project/target/fail					1	
+	/project/target/fail/@unless	id				1	
+	/project/target/fail/@message	You must set an item id, like this: -Did=123				1	
+	/project/target					29	
+	/project/target/@name	metadata				1	
+	/project/target/@description	Create image metadata using jhove for this item				1	
+	/project/target/@depends	check.id				1	
+	/project/target/@unless	skip.metadata				1	
+	/project/target/foreach					1	
+	/project/target/foreach/@param	tiffile				1	
+	/project/target/foreach/@target	jhove-single				1	
+	/project/target/foreach/path					1	
+	/project/target/foreach/path/@id	tif.path				1	
+	/project/target/foreach/path/fileset					1	
+	/project/target/foreach/path/fileset/@dir	${dir.images.source}				1	
+	/project/target/foreach/path/fileset/@includes	*.tif				1	
+	/project/target					29	
+	/project/target/@name	jhove-single				1	
+	/project/target/propertyregex					1	
+	/project/target/propertyregex/@property	filename				1	
+	/project/target/propertyregex/@input	${tiffile}				1	
+	/project/target/propertyregex/@regexp	(.*)\${file.separator}(.*)\.tif				1	
+	/project/target/propertyregex/@select	\2				1	
+	/project/target/uptodate					1	
+	/project/target/uptodate/@property	jhove.uptodate				1	
+	/project/target/uptodate/@srcfile	${tiffile}				1	
+	/project/target/uptodate/@targetfile	${dir.metadata}${file.separator}${filename}.xml				1	
+	/project/target/antcall					1	
+	/project/target/antcall/@target	jhove-single-do-it				1	
+	/project/target/antcall/@inheritall	true				1	
+	/project/target					29	
+	/project/target/@name	jhove-single-do-it				1	
+	/project/target/@unless	jhove.uptodate				1	
+	/project/target/java					1	
+	/project/target/java/@jar	lib/jhoveapp.jar				1	
+	/project/target/java/@fork	true				1	
+	/project/target/java/arg					9	
+	/project/target/java/arg/@value	-c				1	
+	/project/target/java/arg					9	
+	/project/target/java/arg/@value	lib/jhove.conf				1	
+	/project/target/java/arg					9	
+	/project/target/java/arg/@value	-o				1	
+	/project/target/java/arg					9	
+	/project/target/java/arg/@value	${dir.metadata}${file.separator}${filename}.xml				1	
+	/project/target/java/arg					9	
+	/project/target/java/arg/@value	-h				1	
+	/project/target/java/arg					9	
+	/project/target/java/arg/@value	xml				1	
+	/project/target/java/arg					9	
+	/project/target/java/arg/@value	-m				1	
+	/project/target/java/arg					9	
+	/project/target/java/arg/@value	tifF-hul				1	
+	/project/target/java/arg					9	
+	/project/target/java/arg/@value	${tiffile}				1	
+	/project/target					29	
+	/project/target/@name	thumbs				1	
+	/project/target/@description	Create thumbnail images for this item				1	
+	/project/target/@depends	check.id				1	
+	/project/target/@unless	skip.thumbs				1	
+	/project/target/apply					1	
+	/project/target/apply/@executable	${im.convert}				1	
+	/project/target/apply/@dest	${dir.images.thumbs}				1	
+	/project/target/apply/srcfile					1	
+	/project/target/apply/arg					4	
+	/project/target/apply/arg/@value	-thumbnail				1	
+	/project/target/apply/arg					4	
+	/project/target/apply/arg/@value	200x200				1	
+	/project/target/apply/arg					4	
+	/project/target/apply/arg/@value	-depth				1	
+	/project/target/apply/arg					4	
+	/project/target/apply/arg/@value	8				1	
+	/project/target/apply/targetfile					1	
+	/project/target/apply/fileset					1	
+	/project/target/apply/fileset/@dir	${dir.images.web}				1	
+	/project/target/apply/fileset/@includes	PC*.jpg				1	
+	/project/target/apply/mapper					1	
+	/project/target/apply/mapper/@type	glob				1	
+	/project/target/apply/mapper/@from	*.jpg				1	
+	/project/target/apply/mapper/@to	*.jpg				1	
+	/project/target					29	
+	/project/target/@name	rename				1	
+	/project/target/@depends	check.id				1	
+	/project/target/@unless	skip.rename				1	
+	/project/target/move					1	
+	/project/target/move/@todir	${dir.images.source}				1	
+	/project/target/move/fileset					1	
+	/project/target/move/fileset/@dir	${dir.images.source}				1	
+	/project/target/move/fileset/include					1	
+	/project/target/move/fileset/include/@name	*_*.tif				1	
+	/project/target/move/mapper					1	
+	/project/target/move/mapper/@type	regexp				1	
+	/project/target/move/mapper/@from	(.*)_(.*)				1	
+	/project/target/move/mapper/@to	\1.\2				1	
+	/project/target					29	
+	/project/target/@name	web				1	
+	/project/target/@description	Create web images for this item				1	
+	/project/target/@depends	check.id				1	
+	/project/target/@unless	skip-web				1	
+	/project/target/condition					1	
+	/project/target/condition/@property	fuzz				1	
+	/project/target/condition/@value	75%				1	
+	/project/target/condition/@else	25%				1	
+	/project/target/condition/os					1	
+	/project/target/condition/os/@family	windows				1	
+	/project/target/apply					1	
+	/project/target/apply/@executable	${im.convert}				1	
+	/project/target/apply/@dest	${dir.images.web}				1	
+	/project/target/apply/srcfile					1	
+	/project/target/apply/arg					15	
+	/project/target/apply/arg/@value	-fuzz				1	
+	/project/target/apply/arg					15	
+	/project/target/apply/arg/@value	${fuzz}				1	
+	/project/target/apply/arg					15	
+	/project/target/apply/arg/@value	-trim				1	
+	/project/target/apply/arg					15	
+	/project/target/apply/arg/@value	+repage				1	
+	/project/target/apply/arg					15	
+	/project/target/apply/arg/@value	-normalize				1	
+	/project/target/apply/arg					15	
+	/project/target/apply/arg/@value	-unsharp				1	
+	/project/target/apply/arg					15	
+	/project/target/apply/arg/@value	6x3+1+0				1	
+	/project/target/apply/arg					15	
+	/project/target/apply/arg/@value	-colors				1	
+	/project/target/apply/arg					15	
+	/project/target/apply/arg/@value	256				1	
+	/project/target/apply/arg					15	
+	/project/target/apply/arg/@value	-depth				1	
+	/project/target/apply/arg					15	
+	/project/target/apply/arg/@value	8				1	
+	/project/target/apply/arg					15	
+	/project/target/apply/arg/@value	-thumbnail				1	
+	/project/target/apply/arg					15	
+	/project/target/apply/arg/@value	800x800				1	
+	/project/target/apply/arg					15	
+	/project/target/apply/arg/@value	-quality				1	
+	/project/target/apply/arg					15	
+	/project/target/apply/arg/@value	91				1	
+	/project/target/apply/targetfile					1	
+	/project/target/apply/fileset					1	
+	/project/target/apply/fileset/@dir	${dir.images.source}				1	
+	/project/target/apply/fileset/@includes	*.tif				1	
+	/project/target/apply/mapper					1	
+	/project/target/apply/mapper/@type	glob				1	
+	/project/target/apply/mapper/@from	*.tif				1	
+	/project/target/apply/mapper/@to	*.jpg				1	
+	/project/target					29	
+	/project/target/@name	web-recrop				1	
+	/project/target/@description	Create web images for this item				1	
+	/project/target/condition					1	
+	/project/target/condition/@property	fuzz				1	
+	/project/target/condition/@value	75%				1	
+	/project/target/condition/@else	25%				1	
+	/project/target/condition/os					1	
+	/project/target/condition/os/@family	windows				1	
+	/project/target/apply					1	
+	/project/target/apply/@executable	${im.convert}				1	
+	/project/target/apply/@dest	${dir.images.recrop}				1	
+	/project/target/apply/srcfile					1	
+	/project/target/apply/arg					11	
+	/project/target/apply/arg/@value	-normalize				1	
+	/project/target/apply/arg					11	
+	/project/target/apply/arg/@value	-unsharp				1	
+	/project/target/apply/arg					11	
+	/project/target/apply/arg/@value	6x3+1+0				1	
+	/project/target/apply/arg					11	
+	/project/target/apply/arg/@value	-colors				1	
+	/project/target/apply/arg					11	
+	/project/target/apply/arg/@value	256				1	
+	/project/target/apply/arg					11	
+	/project/target/apply/arg/@value	-depth				1	
+	/project/target/apply/arg					11	
+	/project/target/apply/arg/@value	8				1	
+	/project/target/apply/arg					11	
+	/project/target/apply/arg/@value	-thumbnail				1	
+	/project/target/apply/arg					11	
+	/project/target/apply/arg/@value	1200x1200				1	
+	/project/target/apply/arg					11	
+	/project/target/apply/arg/@value	-quality				1	
+	/project/target/apply/arg					11	
+	/project/target/apply/arg/@value	91				1	
+	/project/target/apply/targetfile					1	
+	/project/target/apply/fileset					1	
+	/project/target/apply/fileset/@dir	${dir.images.source}				1	
+	/project/target/apply/fileset/@includes	*.tif				1	
+	/project/target/apply/mapper					1	
+	/project/target/apply/mapper/@type	glob				1	
+	/project/target/apply/mapper/@from	*.tif				1	
+	/project/target/apply/mapper/@to	*.jpg				1	
+	/project/target					29	
+	/project/target/@name	web-text				1	
+	/project/target/@description	Create web images for this item				1	
+	/project/target/@depends	check.id				1	
+	/project/target/apply					1	
+	/project/target/apply/@executable	${im.convert}				1	
+	/project/target/apply/@dest	${dir.images.web}				1	
+	/project/target/apply/srcfile					1	
+	/project/target/apply/arg					5	
+	/project/target/apply/arg/@value	-fuzz				1	
+	/project/target/apply/arg					5	
+	/project/target/apply/arg/@value	75%				1	
+	/project/target/apply/arg					5	
+	/project/target/apply/arg/@value	-trim				1	
+	/project/target/apply/arg					5	
+	/project/target/apply/arg/@value	+repage				1	
+	/project/target/apply/arg					5	
+	/project/target/apply/arg/@value	-normalize				1	
+	/project/target/apply/targetfile					1	
+	/project/target/apply/fileset					1	
+	/project/target/apply/fileset/@dir	${dir.images.source}				1	
+	/project/target/apply/fileset/@includes	*.tif				1	
+	/project/target/apply/mapper					1	
+	/project/target/apply/mapper/@type	glob				1	
+	/project/target/apply/mapper/@from	*.tif				1	
+	/project/target/apply/mapper/@to	temp-*.jpg				1	
+	/project/target/foreach					1	
+	/project/target/foreach/@param	webfile				1	
+	/project/target/foreach/@target	web-single				1	
+	/project/target/foreach/path					1	
+	/project/target/foreach/path/@id	web.path				1	
+	/project/target/foreach/path/fileset					1	
+	/project/target/foreach/path/fileset/@dir	${dir.images.web}				1	
+	/project/target/foreach/path/fileset/@includes	temp-*.jpg				1	
+	/project/target					29	
+	/project/target/@name	web-single-text				1	
+	/project/target/propertyregex					1	
+	/project/target/propertyregex/@property	filename				1	
+	/project/target/propertyregex/@input	${webfile}				1	
+	/project/target/propertyregex/@regexp	(.*)\${file.separator}temp-(.*)\.jpg				1	
+	/project/target/propertyregex/@select	\2				1	
+	/project/target/echo					1	
+	/project/target/echo/@message	filename: ${filename}				1	
+	/project/target/apply					1	
+	/project/target/apply/@executable	${im.convert}				1	
+	/project/target/apply/@dest	${dir.images.web}				1	
+	/project/target/apply/srcfile					1	
+	/project/target/apply/arg					10	
+	/project/target/apply/arg/@value	-unsharp				1	
+	/project/target/apply/arg					10	
+	/project/target/apply/arg/@value	6x3+1+0				1	
+	/project/target/apply/arg					10	
+	/project/target/apply/arg/@value	-colors				1	
+	/project/target/apply/arg					10	
+	/project/target/apply/arg/@value	256				1	
+	/project/target/apply/arg					10	
+	/project/target/apply/arg/@value	-depth				1	
+	/project/target/apply/arg					10	
+	/project/target/apply/arg/@value	8				1	
+	/project/target/apply/arg					10	
+	/project/target/apply/arg/@value	-thumbnail				1	
+	/project/target/apply/arg					10	
+	/project/target/apply/arg/@value	800x800				1	
+	/project/target/apply/arg					10	
+	/project/target/apply/arg/@value	-quality				1	
+	/project/target/apply/arg					10	
+	/project/target/apply/arg/@value	91				1	
+	/project/target/apply/targetfile					1	
+	/project/target/apply/fileset					1	
+	/project/target/apply/fileset/@dir	${dir.images.web}				1	
+	/project/target/apply/fileset/@includes	temp-${filename}.jpg				1	
+	/project/target/apply/mapper					1	
+	/project/target/apply/mapper/@type	glob				1	
+	/project/target/apply/mapper/@from	temp-*.jpg				1	
+	/project/target/apply/mapper/@to	*.jpg				1	
+	/project/target					29	
+	/project/target/@name	dirlists				1	
+	/project/target/@description	Create directory listings for this item				1	
+	/project/target/@depends	check.id				1	
+	/project/target/@unless	skip.dirlists				1	
+	/project/target/dir2xml					4	
+	/project/target/dir2xml/@dirpath	${dir.images.source}				1	
+	/project/target/dir2xml/@file	${dir.dirlists}/dirsource.xml				1	
+	/project/target/dir2xml/@md5	true				1	
+	/project/target/dir2xml					4	
+	/project/target/dir2xml/@dirpath	${dir.images.thumbs}				1	
+	/project/target/dir2xml/@file	${dir.dirlists}/dirthumbs.xml				1	
+	/project/target/dir2xml/@md5	true				1	
+	/project/target/dir2xml/@dimensions	true				1	
+	/project/target/dir2xml					4	
+	/project/target/dir2xml/@dirpath	${dir.images.web}				1	
+	/project/target/dir2xml/@file	${dir.dirlists}/dirweb.xml				1	
+	/project/target/dir2xml/@md5	true				1	
+	/project/target/dir2xml/@dimensions	true				1	
+	/project/target/dir2xml					4	
+	/project/target/dir2xml/@dirpath	${dir.metadata}				1	
+	/project/target/dir2xml/@file	${dir.dirlists}/dirmetadata.xml				1	
+	/project/target/dir2xml/@md5	true				1	
+	/project/target					29	
+	/project/target/@name	clean				1	
+	/project/target/@description	Delete all generated files for this item				1	
+	/project/target/@depends	init, folders, check.id				1	
+	/project/target/delete					1	
+	/project/target/delete/fileset					6	
+	/project/target/delete/fileset/@dir	${dir.images.thumbs}				1	
+	/project/target/delete/fileset/@includes	*				1	
+	/project/target/delete/fileset					6	
+	/project/target/delete/fileset/@dir	${dir.images.web}				1	
+	/project/target/delete/fileset/@includes	*				1	
+	/project/target/delete/fileset					6	
+	/project/target/delete/fileset/@dir	${dir.metadata}				1	
+	/project/target/delete/fileset/@includes	*				1	
+	/project/target/delete/fileset					6	
+	/project/target/delete/fileset/@dir	${dir.dirlists}				1	
+	/project/target/delete/fileset/@includes	*				1	
+	/project/target/delete/fileset					6	
+	/project/target/delete/fileset/@dir	${dir.item}				1	
+	/project/target/delete/fileset/@includes	index.html ${id}.mets.xml				1	
+	/project/target/delete/fileset					6	
+	/project/target/delete/fileset/@dir	${dir.logs}				1	
+	/project/target/delete/fileset/@includes	*				1	
+	/project/target					29	
+	/project/target/@name	folders				1	
+	/project/target/@description	Make folders in item directory				1	
+	/project/target/@depends	init, check.id				1	
+	/project/target/@unless	skip.folders				1	
+	/project/target/mkdir					7	
+	/project/target/mkdir/@dir	${dir.images.source}				1	
+	/project/target/mkdir					7	
+	/project/target/mkdir/@dir	${dir.images.thumbs}				1	
+	/project/target/mkdir					7	
+	/project/target/mkdir/@dir	${dir.images.web}				1	
+	/project/target/mkdir					7	
+	/project/target/mkdir/@dir	${dir.metadata}				1	
+	/project/target/mkdir					7	
+	/project/target/mkdir/@dir	${dir.dirlists}				1	
+	/project/target/mkdir					7	
+	/project/target/mkdir/@dir	${dir.logs}				1	
+	/project/target/mkdir					7	
+	/project/target/mkdir/@dir	${dir.logs}/solr				1	
+	/project/target					29	
+	/project/target/@name	mets				1	
+	/project/target/@description	Generate METS record for this item				1	
+	/project/target/@depends	check.id				1	
+	/project/target/@unless	skip.mets				1	
+	/project/target/property					1	
+	/project/target/property/@file	${dir.item}/metadata.properties				1	
+	/project/target/tstamp					1	
+	/project/target/tstamp/format					1	
+	/project/target/tstamp/format/@property	mets.timestamp				1	
+	/project/target/tstamp/format/@pattern	yyyy-MM-dd'T'hh:mm:ss'Z'				1	
+	/project/target/tstamp/format/@timezone	UTC				1	
+	/project/target/xslt					1	
+	/project/target/xslt/@style	xsl/mets.xsl				1	
+	/project/target/xslt/@in	${dir.dirlists}/dirsource.xml				1	
+	/project/target/xslt/@out	${dir.item}/mets.xml				1	
+	/project/target/xslt/param					17	
+	/project/target/xslt/param/@name	mets.creator				1	
+	/project/target/xslt/param/@expression	${mets.creator}				1	
+	/project/target/xslt/param					17	
+	/project/target/xslt/param/@name	mets.timestamp				1	
+	/project/target/xslt/param/@expression	${mets.timestamp}				1	
+	/project/target/xslt/param					17	
+	/project/target/xslt/param/@name	mets.objid				1	
+	/project/target/xslt/param/@expression	${mets.objid}				1	
+	/project/target/xslt/param					17	
+	/project/target/xslt/param/@name	mets.label				1	
+	/project/target/xslt/param/@expression	${mets.label}				1	
+	/project/target/xslt/param					17	
+	/project/target/xslt/param/@name	dc.title				1	
+	/project/target/xslt/param/@expression	${dc.title}				1	
+	/project/target/xslt/param					17	
+	/project/target/xslt/param/@name	dc.creator				1	
+	/project/target/xslt/param/@expression	${dc.creator}				1	
+	/project/target/xslt/param					17	
+	/project/target/xslt/param/@name	dc.date				1	
+	/project/target/xslt/param/@expression	${dc.date}				1	
+	/project/target/xslt/param					17	
+	/project/target/xslt/param/@name	dc.publisher				1	
+	/project/target/xslt/param/@expression	${dc.publisher}				1	
+	/project/target/xslt/param					17	
+	/project/target/xslt/param/@name	dc.type				1	
+	/project/target/xslt/param/@expression	${dc.type}				1	
+	/project/target/xslt/param					17	
+	/project/target/xslt/param/@name	app.scan.name				1	
+	/project/target/xslt/param/@expression	${app.scan.name}				1	
+	/project/target/xslt/param					17	
+	/project/target/xslt/param/@name	app.scan.version				1	
+	/project/target/xslt/param/@expression	${app.scan.version}				1	
+	/project/target/xslt/param					17	
+	/project/target/xslt/param/@name	app.ocr.name				1	
+	/project/target/xslt/param/@expression	${app.ocr.name}				1	
+	/project/target/xslt/param					17	
+	/project/target/xslt/param/@name	app.ocr.version				1	
+	/project/target/xslt/param/@expression	${app.ocr.version}				1	
+	/project/target/xslt/param					17	
+	/project/target/xslt/param/@name	app.convert.name				1	
+	/project/target/xslt/param/@expression	${app.convert.name}				1	
+	/project/target/xslt/param					17	
+	/project/target/xslt/param/@name	app.convert.version				1	
+	/project/target/xslt/param/@expression	${app.convert.version}				1	
+	/project/target/xslt/param					17	
+	/project/target/xslt/param/@name	listingroot				1	
+	/project/target/xslt/param/@expression	${dir.dirlists}				1	
+	/project/target/xslt/param					17	
+	/project/target/xslt/param/@name	metadataroot				1	
+	/project/target/xslt/param/@expression	${dir.metadata}				1	
+	/project/target					29	
+	/project/target/@name	solr.update				1	
+	/project/target/@description	Post Solr records to the index, for this item				1	
+	/project/target/@depends	check.id				1	
+	/project/target/concat					1	
+	/project/target/concat/@destfile	${dir.solr}/solr.xml				1	
+	/project/target/concat/@append	false				1	
+	/project/target/concat/filelist					2	
+	/project/target/concat/filelist/@dir	resources				1	
+	/project/target/concat/filelist/@files	solr-template-head.txt				1	
+	/project/target/concat/fileset					1	
+	/project/target/concat/fileset/@dir	${dir.solr}				1	
+	/project/target/concat/fileset/include					1	
+	/project/target/concat/fileset/include/@name	*.xml				1	
+	/project/target/concat/fileset/exclude					1	
+	/project/target/concat/fileset/exclude/@name	solr.xml				1	
+	/project/target/concat/filelist					2	
+	/project/target/concat/filelist/@dir	resources				1	
+	/project/target/concat/filelist/@files	solr-template-foot.txt				1	
+	/project/target/foreach					1	
+	/project/target/foreach/@target	dopost				1	
+	/project/target/foreach/@param	filename				1	
+	/project/target/foreach/path					1	
+	/project/target/foreach/path/fileset					1	
+	/project/target/foreach/path/fileset/@dir	${dir.solr}				1	
+	/project/target/foreach/path/fileset/include					1	
+	/project/target/foreach/path/fileset/include/@name	solr.xml				1	
+	/project/target/antcall					1	
+	/project/target/antcall/@target	solr.commit				1	
+	/project/target					29	
+	/project/target/@name	dopost				1	
+	/project/target/mkdir					1	
+	/project/target/mkdir/@dir	${dir.logs}/solr				1	
+	/project/target/propertyregex					1	
+	/project/target/propertyregex/@property	logfile				1	
+	/project/target/propertyregex/@input	${filename}				1	
+	/project/target/propertyregex/@regexp	(.*)\${file.separator}(.*)				1	
+	/project/target/propertyregex/@select	\2				1	
+	/project/target/echo	Posting ${filename} to ${url.solr.update}; log file: ${dir.logs}/solr/${logfile}				1	
+	/project/target/postMethod					1	
+	/project/target/postMethod/@url	${url.solr.update}				1	
+	/project/target/postMethod/@responseDataFile	${dir.logs}/solr/${logfile}				1	
+	/project/target/postMethod/file					1	
+	/project/target/postMethod/file/@path	${filename}				1	
+	/project/target/postMethod/file/@contentType	text/xml;charset=utf-8				1	
+	/project/target					29	
+	/project/target/@name	solr.commit				1	
+	/project/target/@description	Commit changes to Solr				1	
+	/project/target/mkdir					1	
+	/project/target/mkdir/@dir	${dir.logs}/solr				1	
+	/project/target/postMethod					1	
+	/project/target/postMethod/@url	${url.solr.update}				1	
+	/project/target/postMethod/@responseDataFile	${dir.logs}/solr/commit.xml				1	
+	/project/target/postMethod/text					1	
+	/project/target/postMethod/text/@value	<commit/>				1	
+	/project/target					29	
+	/project/target/@name	solr.optimize				1	
+	/project/target/@description	Optimize Solr index				1	
+	/project/target/mkdir					1	
+	/project/target/mkdir/@dir	${dir.logs}/solr				1	
+	/project/target/postMethod					1	
+	/project/target/postMethod/@url	${url.solr.update}				1	
+	/project/target/postMethod/@responseDataFile	${dir.logs}/solr/optimize.xml				1	
+	/project/target/postMethod/text					1	
+	/project/target/postMethod/text/@value	<optimize/>				1	
+	/project/target					29	
+	/project/target/@name	copydvd				1	
+	/project/target/@description	Copy tiffs from dvd to repository				1	
+	/project/target/copy					1	
+	/project/target/copy/@verbose	true				1	
+	/project/target/copy/@todir	${dir.repo}				1	
+	/project/target/copy/@preservelastmodified	true				1	
+	/project/target/copy/fileset					1	
+	/project/target/copy/fileset/@dir	${dir.dvd}				1	
+	/project/target/copy/fileset/include					2	
+	/project/target/copy/fileset/include/@name	**/*.tif				1	
+	/project/target/copy/fileset/include					2	
+	/project/target/copy/fileset/include/@name	**/*.*.tif				1	
+	/project/target/copy/chainedmapper					1	
+	/project/target/copy/chainedmapper/flattenmapper					1	
+	/project/target/copy/chainedmapper/regexpmapper					1	
+	/project/target/copy/chainedmapper/regexpmapper/@handledirsep	yes				1	
+	/project/target/copy/chainedmapper/regexpmapper/@from	PC(\d{3}+)(.*)				1	
+	/project/target/copy/chainedmapper/regexpmapper/@to	\1/tiffs/PC\1\2				1	
+	/project/target					29	
+	/project/target/@name	solrrecs				1	
+	/project/target/@description	Generate Solr records				1	
+	/project/target/@depends	check.id				1	
+	/project/target/xslt					1	
+	/project/target/xslt/@basedir	${dir.mods.enhanced}				1	
+	/project/target/xslt/@destdir	${dir.solr}				1	
+	/project/target/xslt/@includes	*.xml				1	
+	/project/target/xslt/@style	xsl/mods2solr.xsl				1	
+	/project/target/xslt/mapper					1	
+	/project/target/xslt/mapper/@type	glob				1	
+	/project/target/xslt/mapper/@from	*.xml				1	
+	/project/target/xslt/mapper/@to	*.xml				1	
+	/project/target					29	
+	/project/target/@name	enhance-mods-single-do-it				1	
+	/project/target/@if	needs.solr				1	
+	/project/target/xslt					1	
+	/project/target/xslt/@basedir	${dir.mods}				1	
+	/project/target/xslt/@destdir	${dir.mods.enhanced}				1	
+	/project/target/xslt/@includes	*.xml				1	
+	/project/target/xslt/@style	xsl/enhancemods.xsl				1	
+	/project/target/xslt/param					1	
+	/project/target/xslt/param/@name	root				1	
+	/project/target/xslt/param/@expression	${dir.item}				1	
+	/project/target/xslt/mapper					1	
+	/project/target/xslt/mapper/@type	glob				1	
+	/project/target/xslt/mapper/@from	${filename}.xml				1	
+	/project/target/xslt/mapper/@to	${filename}.xml				1	
+	/project/target					29	
+	/project/target/@name	enhance-mods				1	
+	/project/target/@depends	check.id				1	
+	/project/target/@unless	skip.enhance-mods				1	
+	/project/target/xslt					1	
+	/project/target/xslt/@basedir	${dir.mods}				1	
+	/project/target/xslt/@destdir	${dir.mods.enhanced}				1	
+	/project/target/xslt/@style	xsl/enhancemods.xsl				1	
+	/project/target/xslt/param					1	
+	/project/target/xslt/param/@name	root				1	
+	/project/target/xslt/param/@expression	${dir.item}				1	
+	/project/target/xslt/mapper					1	
+	/project/target/xslt/mapper/@type	glob				1	
+	/project/target/xslt/mapper/@from	*.xml				1	
+	/project/target/xslt/mapper/@to	*.xml				1	
+	/project/target					29	
+	/project/target/@name	re-enhance-mods				1	
+	/project/target/@depends	check.id				1	
+	/project/target/@unless	skip.re-enhance-mods				1	
+	/project/target/copy					1	
+	/project/target/copy/@todir	${dir.mods}				1	
+	/project/target/copy/@overwrite	true				1	
+	/project/target/copy/@preservelastmodified	true				1	
+	/project/target/copy/fileset					1	
+	/project/target/copy/fileset/@dir	${dir.mods.enhanced}				1	
+	/project/target/copy/fileset/@includes	*.xml				1	
+	/project/target/xslt					1	
+	/project/target/xslt/@force	true				1	
+	/project/target/xslt/@basedir	${dir.mods}				1	
+	/project/target/xslt/@destdir	${dir.mods.enhanced}				1	
+	/project/target/xslt/@style	xsl/enhancemods.xsl				1	
+	/project/target/xslt/param					2	
+	/project/target/xslt/param/@name	root				1	
+	/project/target/xslt/param/@expression	${dir.item}				1	
+	/project/target/xslt/param					2	
+	/project/target/xslt/param/@name	reenhance				1	
+	/project/target/xslt/param/@expression	true				1	
+	/project/target/xslt/mapper					1	
+	/project/target/xslt/mapper/@type	glob				1	
+	/project/target/xslt/mapper/@from	*.xml				1	
+	/project/target/xslt/mapper/@to	*.xml				1	
+	/project/target					29	
+	/project/target/@name	fix-tiffs				1	
+	/project/target/@description	run tiffs through ImageMagick				1	
+	/project/target/@depends	check.id				1	
+	/project/target/apply					1	
+	/project/target/apply/@executable	${im.convert}				1	
+	/project/target/apply/@dest	fix				1	
+	/project/target/apply/srcfile					1	
+	/project/target/apply/targetfile					1	
+	/project/target/apply/fileset					1	
+	/project/target/apply/fileset/@dir	${dir.images.source}				1	
+	/project/target/apply/fileset/@includes	*.tif				1	
+	/project/target/apply/mapper					1	
+	/project/target/apply/mapper/@type	glob				1	
+	/project/target/apply/mapper/@from	*.tif				1	
+	/project/target/apply/mapper/@to	*.tif				1	
+	/project/target/move					1	
+	/project/target/move/@todir	${dir.images.source}				1	
+	/project/target/move/fileset					1	
+	/project/target/move/fileset/@dir	fix				1	
+	/project/target/move/fileset/include					1	
+	/project/target/move/fileset/include/@name	*.tif				1	
+	/project/target					29	
+	/project/target/@name	normalize-mods				1	
+	/project/target/@depends	check.id				1	
+	/project/target/xslt					5	
+	/project/target/xslt/@basedir	${dir.mods.enhanced}				1	
+	/project/target/xslt/@destdir	${dir.item}/temp1				1	
+	/project/target/xslt/@includes	*.xml				1	
+	/project/target/xslt/@style	../postcardeditor/xsl/strip-namespaces.xsl				1	
+	/project/target/xslt/mapper					1	
+	/project/target/xslt/mapper/@type	glob				1	
+	/project/target/xslt/mapper/@from	*.xml				1	
+	/project/target/xslt/mapper/@to	*.xml				1	
+	/project/target/xslt					5	
+	/project/target/xslt/@basedir	${dir.item}/temp1				1	
+	/project/target/xslt/@destdir	${dir.item}/temp2				1	
+	/project/target/xslt/@includes	*.xml				1	
+	/project/target/xslt/@style	../postcardeditor/xsl/postcards_preprocess.xsl				1	
+	/project/target/xslt/mapper					1	
+	/project/target/xslt/mapper/@type	glob				1	
+	/project/target/xslt/mapper/@from	*.xml				1	
+	/project/target/xslt/mapper/@to	*.xml				1	
+	/project/target/xslt					5	
+	/project/target/xslt/@basedir	${dir.item}/temp2				1	
+	/project/target/xslt/@destdir	${dir.item}/temp3				1	
+	/project/target/xslt/@includes	*.xml				1	
+	/project/target/xslt/@style	../postcardeditor/xsl/postcards_postprocess.xsl				1	
+	/project/target/xslt/mapper					1	
+	/project/target/xslt/mapper/@type	glob				1	
+	/project/target/xslt/mapper/@from	*.xml				1	
+	/project/target/xslt/mapper/@to	*.xml				1	
+	/project/target/xslt					5	
+	/project/target/xslt/@basedir	${dir.item}/temp3				1	
+	/project/target/xslt/@destdir	${dir.item}/temp4				1	
+	/project/target/xslt/@includes	*.xml				1	
+	/project/target/xslt/@style	../postcardeditor/xsl/add-namespaces.xsl				1	
+	/project/target/xslt/mapper					1	
+	/project/target/xslt/mapper/@type	glob				1	
+	/project/target/xslt/mapper/@from	*.xml				1	
+	/project/target/xslt/mapper/@to	*.xml				1	
+	/project/target/xslt					5	
+	/project/target/xslt/@basedir	${dir.item}/temp4				1	
+	/project/target/xslt/@destdir	${dir.item}/temp5				1	
+	/project/target/xslt/@includes	*.xml				1	
+	/project/target/xslt/@style	../postcardeditor/xsl/clear-prefixes.xsl				1	
+	/project/target/xslt/mapper					1	
+	/project/target/xslt/mapper/@type	glob				1	
+	/project/target/xslt/mapper/@from	*.xml				1	
+	/project/target/xslt/mapper/@to	*.xml				1	
+	/project/target					29	
+	/project/target/@name	reindex				1	
+	/project/target/@description	regenerate and reload all Solr records				1	
+	/project/target/antcall					15	
+	/project/target/antcall/@target	reindex-do-it				1	
+	/project/target/antcall/param					1	
+	/project/target/antcall/param/@name	this				1	
+	/project/target/antcall/param/@value	000				1	
+	/project/target/antcall					15	
+	/project/target/antcall/@target	reindex-do-it				1	
+	/project/target/antcall/param					1	
+	/project/target/antcall/param/@name	this				1	
+	/project/target/antcall/param/@value	001				1	
+	/project/target/antcall					15	
+	/project/target/antcall/@target	reindex-do-it				1	
+	/project/target/antcall/param					1	
+	/project/target/antcall/param/@name	this				1	
+	/project/target/antcall/param/@value	002				1	
+	/project/target/antcall					15	
+	/project/target/antcall/@target	reindex-do-it				1	
+	/project/target/antcall/param					1	
+	/project/target/antcall/param/@name	this				1	
+	/project/target/antcall/param/@value	003				1	
+	/project/target/antcall					15	
+	/project/target/antcall/@target	reindex-do-it				1	
+	/project/target/antcall/param					1	
+	/project/target/antcall/param/@name	this				1	
+	/project/target/antcall/param/@value	004				1	
+	/project/target/antcall					15	
+	/project/target/antcall/@target	reindex-do-it				1	
+	/project/target/antcall/param					1	
+	/project/target/antcall/param/@name	this				1	
+	/project/target/antcall/param/@value	005				1	
+	/project/target/antcall					15	
+	/project/target/antcall/@target	reindex-do-it				1	
+	/project/target/antcall/param					1	
+	/project/target/antcall/param/@name	this				1	
+	/project/target/antcall/param/@value	006				1	
+	/project/target/antcall					15	
+	/project/target/antcall/@target	reindex-do-it				1	
+	/project/target/antcall/param					1	
+	/project/target/antcall/param/@name	this				1	
+	/project/target/antcall/param/@value	007				1	
+	/project/target/antcall					15	
+	/project/target/antcall/@target	reindex-do-it				1	
+	/project/target/antcall/param					1	
+	/project/target/antcall/param/@name	this				1	
+	/project/target/antcall/param/@value	008				1	
+	/project/target/antcall					15	
+	/project/target/antcall/@target	reindex-do-it				1	
+	/project/target/antcall/param					1	
+	/project/target/antcall/param/@name	this				1	
+	/project/target/antcall/param/@value	009				1	
+	/project/target/antcall					15	
+	/project/target/antcall/@target	reindex-do-it				1	
+	/project/target/antcall/param					1	
+	/project/target/antcall/param/@name	this				1	
+	/project/target/antcall/param/@value	010				1	
+	/project/target/antcall					15	
+	/project/target/antcall/@target	reindex-do-it				1	
+	/project/target/antcall/param					1	
+	/project/target/antcall/param/@name	this				1	
+	/project/target/antcall/param/@value	011				1	
+	/project/target/antcall					15	
+	/project/target/antcall/@target	reindex-do-it				1	
+	/project/target/antcall/param					1	
+	/project/target/antcall/param/@name	this				1	
+	/project/target/antcall/param/@value	012				1	
+	/project/target/antcall					15	
+	/project/target/antcall/@target	reindex-do-it				1	
+	/project/target/antcall/param					1	
+	/project/target/antcall/param/@name	this				1	
+	/project/target/antcall/param/@value	013				1	
+	/project/target/antcall					15	
+	/project/target/antcall/@target	reindex-do-it				1	
+	/project/target/antcall/param					1	
+	/project/target/antcall/param/@name	this				1	
+	/project/target/antcall/param/@value	014				1	
+	/project/target					29	
+	/project/target/@name	reindex-do-it				1	
+	/project/target/mkdir					2	
+	/project/target/mkdir/@dir	${dir.repo}/${this}/logs				1	
+	/project/target/mkdir					2	
+	/project/target/mkdir/@dir	${dir.repo}/${this}/logs/solr				1	
+	/project/target/antcall					2	
+	/project/target/antcall/@target	solrrecs				1	
+	/project/target/antcall/param					4	
+	/project/target/antcall/param/@name	id				1	
+	/project/target/antcall/param/@value	${this}				1	
+	/project/target/antcall/param					4	
+	/project/target/antcall/param/@name	dir.mods.enhanced				1	
+	/project/target/antcall/param/@value	${dir.repo}/${this}/mods-enhanced				1	
+	/project/target/antcall/param					4	
+	/project/target/antcall/param/@name	dir.solr				1	
+	/project/target/antcall/param/@value	${dir.repo}/${this}/solr				1	
+	/project/target/antcall/param					4	
+	/project/target/antcall/param/@name	dir.logs				1	
+	/project/target/antcall/param/@value	${dir.repo}/${this}/logs				1	
+	/project/target/antcall					2	
+	/project/target/antcall/@target	solr.update				1	
+	/project/target/antcall/param					4	
+	/project/target/antcall/param/@name	id				1	
+	/project/target/antcall/param/@value	${this}				1	
+	/project/target/antcall/param					4	
+	/project/target/antcall/param/@name	dir.mods.enhanced				1	
+	/project/target/antcall/param/@value	${dir.repo}/${this}/mods-enhanced				1	
+	/project/target/antcall/param					4	
+	/project/target/antcall/param/@name	dir.solr				1	
+	/project/target/antcall/param/@value	${dir.repo}/${this}/solr				1	
+	/project/target/antcall/param					4	
+	/project/target/antcall/param/@name	dir.logs				1	
+	/project/target/antcall/param/@value	${dir.repo}/${this}/logs				1	
+	/@project	
+	
+	
+		
+			
+		
+		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+	
+	
+		
+			
+		
+	
+	
+	
+		
+	
+	
+	
+		
+			
+				
+			
+		
+	
+	
+	
+		
+		
+		
+		
+	
+	
+	
+		
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+	
+	
+	
+		
+			
+			
+			
+			
+			
+			
+			
+			
+		
+	
+	
+		
+		
+			
+				
+			
+			
+		
+	
+	
+	
+		
+
+		
+			
+		
+		
+		
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+	
+	
+	
+	
+	
+		
+		
+		
+			
+		
+				
+		
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+	
+	
+	
+	
+		
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+		
+			
+				
+			
+		
+	
+	
+	
+		
+		
+		
+		
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+	
+	
+	
+		
+		
+		
+		
+	
+	
+		
+			
+			
+			
+			
+			
+			
+		
+	
+	
+	
+		
+		
+		
+		
+		
+		
+		
+	
+	
+	
+		
+		
+			
+		
+		
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+	
+	
+	
+		
+			
+			
+				
+				
+			
+			
+		
+		
+			
+				
+					
+				
+			
+		
+		
+	
+	
+	
+		
+		
+		
+		Posting ${filename} to ${url.solr.update}; log file: ${dir.logs}/solr/${logfile}
+		
+			
+		
+	
+	
+	
+		
+		
+			
+		
+	
+	
+	
+		
+		
+			
+		
+	
+	
+		
+			
+				
+				
+			
+			
+			
+				
+				
+			
+		
+	
+	
+		
+		
+			
+		
+	
+	
+		
+			
+			
+		
+	
+	
+		
+			
+			
+		
+	
+   
+      
+         
+      
+      
+         
+         
+         
+      
+   
+   
+		
+			
+			
+			
+			
+		
+		
+			
+				
+			
+		
+	
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+	
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+	
+	
+		
+		
+		
+			
+			
+			
+			
+		
+		
+			
+			
+			
+			
+		
+	
+				1	
+	

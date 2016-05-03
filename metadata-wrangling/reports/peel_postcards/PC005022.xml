@@ -1,0 +1,147 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		bstearns	PC005022	postcards	1	3.2
+	/mods/@version	3.2	bstearns	PC005022	postcards	1	3.2
+	/mods/titleInfo		bstearns	PC005022	postcards	1	3.2
+	/mods/titleInfo/@lang	english	bstearns	PC005022	postcards	1	3.2
+	/mods/titleInfo/title	Union Bank Wainwright	bstearns	PC005022	postcards	1	3.2
+	/mods/name		bstearns	PC005022	postcards	1	3.2
+	/mods/name/@type	personal	bstearns	PC005022	postcards	1	3.2
+	/mods/name/namePart	Gano	bstearns	PC005022	postcards	2	3.2
+	/mods/name/namePart/@type	family	bstearns	PC005022	postcards	1	3.2
+	/mods/name/namePart	J.H.	bstearns	PC005022	postcards	2	3.2
+	/mods/name/namePart/@type	given	bstearns	PC005022	postcards	1	3.2
+	/mods/name/role		bstearns	PC005022	postcards	1	3.2
+	/mods/name/role/roleTerm	Photographer	bstearns	PC005022	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	bstearns	PC005022	postcards	1	3.2
+	/mods/typeOfResource	still image	bstearns	PC005022	postcards	1	3.2
+	/mods/genre	postcards	bstearns	PC005022	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	bstearns	PC005022	postcards	1	3.2
+	/mods/originInfo		bstearns	PC005022	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	bstearns	PC005022	postcards	1	3.2
+	/mods/originInfo/publisher	J.H. Gano	bstearns	PC005022	postcards	1	3.2
+	/mods/originInfo/dateIssued	before 1920	bstearns	PC005022	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	inferred	bstearns	PC005022	postcards	1	3.2
+	/mods/originInfo/place		bstearns	PC005022	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	[Wainwright]	bstearns	PC005022	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	bstearns	PC005022	postcards	1	3.2
+	/mods/language		bstearns	PC005022	postcards	1	3.2
+	/mods/language/languageTerm	English	bstearns	PC005022	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	bstearns	PC005022	postcards	1	3.2
+	/mods/physicalDescription		bstearns	PC005022	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : b&w ; 9 x 14 cm.	bstearns	PC005022	postcards	1	3.2
+	/mods/note	125	bstearns	PC005022	postcards	5	3.2
+	/mods/note/@type	price	bstearns	PC005022	postcards	1	3.2
+	/mods/note	false	bstearns	PC005022	postcards	5	3.2
+	/mods/note/@type	notable	bstearns	PC005022	postcards	1	3.2
+	/mods/note	false	bstearns	PC005022	postcards	5	3.2
+	/mods/note/@type	imgprobs	bstearns	PC005022	postcards	1	3.2
+	/mods/note	View of the Union Bank along with other storefronts in Wainwright, Alberta.	bstearns	PC005022	postcards	5	3.2
+	/mods/note/@type	public_description	bstearns	PC005022	postcards	1	3.2
+	/mods/note	Written in ms.: Edythe Clyne	bstearns	PC005022	postcards	5	3.2
+	/mods/note/@type	public_on_back	bstearns	PC005022	postcards	1	3.2
+	/mods/subject		bstearns	PC005022	postcards	6	3.2
+	/mods/subject/geographic	Wainwright, AB	bstearns	PC005022	postcards	1	3.2
+	/mods/subject		bstearns	PC005022	postcards	6	3.2
+	/mods/subject/hierarchicalGeographic		bstearns	PC005022	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	bstearns	PC005022	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	bstearns	PC005022	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Wainwright	bstearns	PC005022	postcards	1	3.2
+	/mods/subject		bstearns	PC005022	postcards	6	3.2
+	/mods/subject/genre	Postcards	bstearns	PC005022	postcards	1	3.2
+	/mods/subject		bstearns	PC005022	postcards	6	3.2
+	/mods/subject/topic	Banks	bstearns	PC005022	postcards	1	3.2
+	/mods/subject		bstearns	PC005022	postcards	6	3.2
+	/mods/subject/topic	Commercial streets	bstearns	PC005022	postcards	1	3.2
+	/mods/subject		bstearns	PC005022	postcards	6	3.2
+	/mods/subject/name		bstearns	PC005022	postcards	1	3.2
+	/mods/subject/name/namePart	Union Bank of Canada (Wainwright, Alta.)	bstearns	PC005022	postcards	1	3.2
+	/mods/identifier	PC005022	bstearns	PC005022	postcards	1	3.2
+	/mods/identifier/@type	local	bstearns	PC005022	postcards	1	3.2
+	/mods/location		bstearns	PC005022	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 5	bstearns	PC005022	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC005022.html	bstearns	PC005022	postcards	3	3.2
+	/mods/location/url/@access	object in context	bstearns	PC005022	postcards	1	3.2
+	/mods/location/url/@usage	primary display	bstearns	PC005022	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/005/web/PC005022.jpg	bstearns	PC005022	postcards	3	3.2
+	/mods/location/url/@access	raw object	bstearns	PC005022	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='510' 	bstearns	PC005022	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/005/thumbs/PC005022.jpg	bstearns	PC005022	postcards	3	3.2
+	/mods/location/url/@access	preview	bstearns	PC005022	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='128'	bstearns	PC005022	postcards	1	3.2
+	/mods/recordInfo		bstearns	PC005022	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	bstearns	PC005022	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC005022	bstearns	PC005022	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	bstearns	bstearns	PC005022	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2009-12-02T12:31:00-0700	bstearns	PC005022	postcards	1	3.2
+	/@mods	
+
+Union Bank Wainwright
+
+
+Gano
+J.H.
+
+Photographer
+
+
+still image
+postcards
+
+monographic
+J.H. Gano
+before 1920
+
+
+[Wainwright]
+
+
+
+English
+
+
+1 postcard : b&w ; 9 x 14 cm.
+
+125
+false
+false
+View of the Union Bank along with other storefronts in Wainwright, Alberta.
+Written in ms.: Edythe Clyne
+
+Wainwright, AB
+
+
+
+Canada
+Alberta
+Wainwright
+
+
+
+Postcards
+
+
+Banks
+
+
+Commercial streets
+
+
+
+Union Bank of Canada (Wainwright, Alta.)
+
+
+PC005022
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 5
+http://peel.library.ualberta.ca/postcards/PC005022.html
+http://peel.library.ualberta.ca/pcimages/PC/005/web/PC005022.jpg
+http://peel.library.ualberta.ca/pcimages/PC/005/thumbs/PC005022.jpg
+
+
+2007-06-25T16:49:56-0600
+PC005022
+bstearns
+2009-12-02T12:31:00-0700
+
+	bstearns	PC005022	postcards	1	3.2
+	

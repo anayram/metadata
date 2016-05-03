@@ -1,0 +1,204 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.2
+	/mods/@version	3.2		1	3.2
+	/mods/titleInfo			1	3.2
+	/mods/titleInfo/title	Glaciers of the Rockies and Selkirks		1	3.2
+	/mods/name			2	3.2
+	/mods/name/@type	personal		1	3.2
+	/mods/name/namePart	Coleman, A. P. (Arthur Philemon)		2	3.2
+	/mods/name/namePart	1852-1939		2	3.2
+	/mods/name/namePart/@type	date		1	3.2
+	/mods/name			2	3.2
+	/mods/name/@type	corporate		1	3.2
+	/mods/name/namePart	Canada.		2	3.2
+	/mods/name/namePart	Dominion Parks Branch.		2	3.2
+	/mods/typeOfResource	text		1	3.2
+	/mods/originInfo			1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	onc		1	3.2
+	/mods/originInfo/place/placeTerm/@authority	marccountry		1	3.2
+	/mods/originInfo/place/placeTerm/@type	code		1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	[Ottawa]		1	3.2
+	/mods/originInfo/place/placeTerm/@type	text		1	3.2
+	/mods/originInfo/publisher	Department of the Interior, Dominon Parks Branch		1	3.2
+	/mods/originInfo/dateIssued	[1914]		1	3.2
+	/mods/originInfo/issuance	monographic		1	3.2
+	/mods/language			1	3.2
+	/mods/language/languageTerm	eng		1	3.2
+	/mods/language/languageTerm/@authority	iso639-2b		1	3.2
+	/mods/language/languageTerm/@type	code		1	3.2
+	/mods/physicalDescription			1	3.2
+	/mods/physicalDescription/form	print		1	3.2
+	/mods/physicalDescription/form/@authority	marcform		1	3.2
+	/mods/physicalDescription/extent	29 p. : ill. ; 23 cm.		1	3.2
+	/mods/note	by A.P. Coleman.		6	3.2
+	/mods/note/@type	statement of responsibility		1	3.2
+	/mods/note	At head of title: Department of the Interior. Dominion Parks Branch.		6	3.2
+	/mods/note	http://chelsea.library.ualberta.ca:8081/peel_master/select/?q=%28authorAuthority%3A%22Coleman%2C+A.+P.+%28Arthur+Philemon%29%22+AND+authorDates%3A1852-1939*%29+OR+%28authorAuthority%3A%22Canada%22%29+OR+%28subjectAuthority%3A%22Glaciers--British+Columbia%22%29+OR+%28subjectAuthority%3A%22Glaciers--Rocheuses+canadiennes+%28C.-B.+et+Alb.%29%22%29+OR+%28subjectAuthority%3A%22Glaciers--Colombie-Britannique%22%29+OR+%28subjectAuthority%3A%22Glaciers--Rocky+Mountains%2C+Canadian+%28B.C.+and+Alta.%29%22%29+OR+%28subjectAuthority%3A%22Glaciers--Selkirk+Mountains%22%29+OR+%28subjectAuthority%3A%22Glaciers--Selkirk%2C+Monts%22%29&fl=id+authorAuthority+authorDates+subjectAuthority+authorityAuthority&rows=100		6	3.2
+	/mods/note/@type	solr		1	3.2
+	/mods/note	DOA: 1914 Spatial: Rocky Mountains, Canadian (B.C. and Alta.)		6	3.2
+	/mods/note/@type	local		1	3.2
+	/mods/note	main		6	3.2
+	/mods/note/@type	local:frbr		1	3.2
+	/mods/note	Also published, [1921?] ed., <i>Glaciers of the Rockies and Selkirks: With notes on five great glaciers of the Canadian national parks</i>, [Ottawa]: Department of the Interior, Dominion Parks Branch, [1921?].		6	3.2
+	/mods/note/@type	public		1	3.2
+	/mods/subject			7	3.2
+	/mods/subject/geographicCode	n-cn-bc		2	3.2
+	/mods/subject/geographicCode/@authority	marcgac		1	3.2
+	/mods/subject/geographicCode	n-cn-ab		2	3.2
+	/mods/subject/geographicCode/@authority	marcgac		1	3.2
+	/mods/subject			7	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/topic	Glaciers		1	3.2
+	/mods/subject/geographic	British Columbia		1	3.2
+	/mods/subject			7	3.2
+	/mods/subject/@authority	rvm		1	3.2
+	/mods/subject/topic	Glaciers		1	3.2
+	/mods/subject/geographic	Rocheuses canadiennes (C.-B. et Alb.)		1	3.2
+	/mods/subject			7	3.2
+	/mods/subject/@authority	rvm		1	3.2
+	/mods/subject/topic	Glaciers		1	3.2
+	/mods/subject/geographic	Colombie-Britannique		1	3.2
+	/mods/subject			7	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/topic	Glaciers		1	3.2
+	/mods/subject/geographic	Rocky Mountains, Canadian (B.C. and Alta.)		1	3.2
+	/mods/subject			7	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/topic	Glaciers		1	3.2
+	/mods/subject/geographic	Selkirk Mountains		1	3.2
+	/mods/subject			7	3.2
+	/mods/subject/@authority	rvm		1	3.2
+	/mods/subject/topic	Glaciers		1	3.2
+	/mods/subject/geographic	Selkirk, Monts		1	3.2
+	/mods/classification	551.31209711		1	3.2
+	/mods/classification/@authority	ddc		1	3.2
+	/mods/classification/@edition	20		1	3.2
+	/mods/relatedItem			2	3.2
+	/mods/relatedItem/@type	otherFormat		1	3.2
+	/mods/relatedItem/titleInfo			1	3.2
+	/mods/relatedItem/titleInfo/title	CIHM/ICMH microfiche series ; no. 81810		1	3.2
+	/mods/relatedItem/physicalDescription			1	3.2
+	/mods/relatedItem/physicalDescription/form	microfiche		1	3.2
+	/mods/relatedItem/physicalDescription/form/@authority	marcform		1	3.2
+	/mods/relatedItem/physicalDescription/extent	1 microfiche (20 fr.) : ill.		1	3.2
+	/mods/relatedItem/identifier	81810		1	3.2
+	/mods/relatedItem/identifier/@type	cihm		1	3.2
+	/mods/relatedItem			2	3.2
+	/mods/relatedItem/@ID	t2		1	3.2
+	/mods/relatedItem/@displayLabel	[1921?] ed.		1	3.2
+	/mods/relatedItem/@type	otherVersion		1	3.2
+	/mods/relatedItem/@href	P009402.1		1	3.2
+	/mods/identifier	0665818106		4	3.2
+	/mods/identifier/@type	isbn		1	3.2
+	/mods/identifier	3238302		4	3.2
+	/mods/identifier/@type	local:neos		1	3.2
+	/mods/identifier	9402		4	3.2
+	/mods/identifier/@type	local:peel3		1	3.2
+	/mods/identifier	N008444		4	3.2
+	/mods/identifier/@type	local:peel_new		1	3.2
+	/mods/recordInfo			1	3.2
+	/mods/recordInfo/recordContentSource	RC		2	3.2
+	/mods/recordInfo/recordContentSource	RC		2	3.2
+	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.2
+	/mods/recordInfo/recordCreationDate	1997-09-22T12:00:00-0700		1	3.2
+	/mods/recordInfo/recordIdentifier	P009402		1	3.2
+	/mods/recordInfo/recordChangeDate	2009-12-22T20:47:08-0700		1	3.2
+	/@mods	
+
+Glaciers of the Rockies and Selkirks
+
+
+Coleman, A. P. (Arthur Philemon)
+1852-1939
+
+
+Canada.
+Dominion Parks Branch.
+
+text
+
+
+onc
+
+
+[Ottawa]
+
+Department of the Interior, Dominon Parks Branch
+[1914]
+monographic
+
+
+eng
+
+
+print
+29 p. : ill. ; 23 cm.
+
+by A.P. Coleman.
+At head of title: Department of the Interior. Dominion Parks Branch.
+http://chelsea.library.ualberta.ca:8081/peel_master/select/?q=%28authorAuthority%3A%22Coleman%2C+A.+P.+%28Arthur+Philemon%29%22+AND+authorDates%3A1852-1939*%29+OR+%28authorAuthority%3A%22Canada%22%29+OR+%28subjectAuthority%3A%22Glaciers--British+Columbia%22%29+OR+%28subjectAuthority%3A%22Glaciers--Rocheuses+canadiennes+%28C.-B.+et+Alb.%29%22%29+OR+%28subjectAuthority%3A%22Glaciers--Colombie-Britannique%22%29+OR+%28subjectAuthority%3A%22Glaciers--Rocky+Mountains%2C+Canadian+%28B.C.+and+Alta.%29%22%29+OR+%28subjectAuthority%3A%22Glaciers--Selkirk+Mountains%22%29+OR+%28subjectAuthority%3A%22Glaciers--Selkirk%2C+Monts%22%29&fl=id+authorAuthority+authorDates+subjectAuthority+authorityAuthority&rows=100
+DOA: 1914 Spatial: Rocky Mountains, Canadian (B.C. and Alta.)
+main
+Also published, [1921?] ed., <i>Glaciers of the Rockies and Selkirks: With notes on five great glaciers of the Canadian national parks</i>, [Ottawa]: Department of the Interior, Dominion Parks Branch, [1921?].
+
+				n-cn-bc
+			
+				n-cn-ab
+			
+
+				Glaciers
+			
+				British Columbia
+			
+
+				Glaciers
+			
+				Rocheuses canadiennes (C.-B. et Alb.)
+			
+
+				Glaciers
+			
+				Colombie-Britannique
+			
+
+				Glaciers
+			
+				Rocky Mountains, Canadian (B.C. and Alta.)
+			
+
+				Glaciers
+			
+				Selkirk Mountains
+			
+
+				Glaciers
+			
+				Selkirk, Monts
+			
+551.31209711
+
+
+CIHM/ICMH microfiche series ; no. 81810
+
+
+microfiche
+1 microfiche (20 fr.) : ill.
+
+81810
+
+
+0665818106
+3238302
+9402
+N008444
+
+RC
+RC
+1997-09-22T12:00:00-0700
+P009402
+2009-12-22T20:47:08-0700
+
+		1	3.2
+	

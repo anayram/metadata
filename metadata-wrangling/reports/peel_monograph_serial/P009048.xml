@@ -1,0 +1,125 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.2
+	/mods/@version	3.2		1	3.2
+	/mods/titleInfo			2	3.2
+	/mods/titleInfo/title	development of the Department of Educational Psychology		1	3.2
+	/mods/titleInfo/subTitle	The University of Alberta, 1950-51 to 1980-81		1	3.2
+	/mods/titleInfo/nonSort	The 		1	3.2
+	/mods/titleInfo			2	3.2
+	/mods/titleInfo/@type	alternative		1	3.2
+	/mods/titleInfo/title	The development of Educational Psychology		1	3.2
+	/mods/name			1	3.2
+	/mods/name/@type	personal		1	3.2
+	/mods/name/namePart	Clarke, S. C. T. (Stanley Charles Tremayne)		2	3.2
+	/mods/name/namePart	1912-		2	3.2
+	/mods/name/namePart/@type	date		1	3.2
+	/mods/typeOfResource	text		1	3.2
+	/mods/originInfo			1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	abc		1	3.2
+	/mods/originInfo/place/placeTerm/@authority	marccountry		1	3.2
+	/mods/originInfo/place/placeTerm/@type	code		1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	Edmonton		1	3.2
+	/mods/originInfo/place/placeTerm/@type	text		1	3.2
+	/mods/originInfo/publisher	Department of Educational Psychology, University of Alberta		1	3.2
+	/mods/originInfo/dateIssued	1982		1	3.2
+	/mods/originInfo/issuance	monographic		1	3.2
+	/mods/language			1	3.2
+	/mods/language/languageTerm	eng		1	3.2
+	/mods/language/languageTerm/@authority	iso639-2b		1	3.2
+	/mods/language/languageTerm/@type	code		1	3.2
+	/mods/physicalDescription			1	3.2
+	/mods/physicalDescription/form	print		1	3.2
+	/mods/physicalDescription/form/@authority	marcform		1	3.2
+	/mods/physicalDescription/extent	[2], 185, [8] leaves : ports. ; 29 cm.		1	3.2
+	/mods/note	Personal notes in pocket.		5	3.2
+	/mods/note	Personal photographs pasted in on 3 leaves (6 p.) at end.		5	3.2
+	/mods/note	uahistory		5	3.2
+	/mods/note/@type	local:oaiset		1	3.2
+	/mods/note	DOA: 1950 Spatial: Edmonton (Alta.)		5	3.2
+	/mods/note/@type	local		1	3.2
+	/mods/note	Spine title: <i>The development of Educational Psychology</i>.		5	3.2
+	/mods/note/@type	public		1	3.2
+	/mods/subject			2	3.2
+	/mods/subject/geographicCode	n-cn-ab		1	3.2
+	/mods/subject/geographicCode/@authority	marcgac		1	3.2
+	/mods/subject			2	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/@lang	eng		1	3.2
+	/mods/subject/name			1	3.2
+	/mods/subject/name/@type	corporate		1	3.2
+	/mods/subject/name/namePart	University of Alberta.		2	3.2
+	/mods/subject/name/namePart	Department of Educational Psychology		2	3.2
+	/mods/subject/topic	History		1	3.2
+	/mods/classification	LE 3 A61 C612 1982		1	3.2
+	/mods/classification/@authority	lcc		1	3.2
+	/mods/identifier	423463		2	3.2
+	/mods/identifier/@type	local:neos		1	3.2
+	/mods/identifier	9048		2	3.2
+	/mods/identifier/@type	local:peel3		1	3.2
+	/mods/recordInfo			1	3.2
+	/mods/recordInfo/recordContentSource	RC		1	3.2
+	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.2
+	/mods/recordInfo/recordCreationDate	2008-09-10T17:04:39-0600		1	3.2
+	/mods/recordInfo/recordIdentifier	P009048		1	3.2
+	/mods/recordInfo/recordChangeDate	2010-03-17T22:16:48-0600		1	3.2
+	/@mods	
+
+development of the Department of Educational Psychology
+The University of Alberta, 1950-51 to 1980-81
+The 
+
+
+The development of Educational Psychology
+
+
+Clarke, S. C. T. (Stanley Charles Tremayne)
+1912-
+
+text
+
+
+abc
+
+
+Edmonton
+
+Department of Educational Psychology, University of Alberta
+1982
+monographic
+
+
+eng
+
+
+print
+[2], 185, [8] leaves : ports. ; 29 cm.
+
+Personal notes in pocket.
+Personal photographs pasted in on 3 leaves (6 p.) at end.
+uahistory
+DOA: 1950 Spatial: Edmonton (Alta.)
+Spine title: <i>The development of Educational Psychology</i>.
+
+				n-cn-ab
+			
+
+				
+University of Alberta.
+					Department of Educational Psychology
+
+			
+				History
+			
+LE 3 A61 C612 1982
+423463
+9048
+
+RC
+2008-09-10T17:04:39-0600
+P009048
+2010-03-17T22:16:48-0600
+
+		1	3.2
+	

@@ -1,0 +1,152 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		bstearns	PC000302	postcards	1	3.2
+	/mods/@version	3.2	bstearns	PC000302	postcards	1	3.2
+	/mods/titleInfo		bstearns	PC000302	postcards	1	3.2
+	/mods/titleInfo/@lang	english	bstearns	PC000302	postcards	1	3.2
+	/mods/titleInfo/title	Elmwood	bstearns	PC000302	postcards	1	3.2
+	/mods/name		bstearns	PC000302	postcards	1	3.2
+	/mods/name/@type	corporate	bstearns	PC000302	postcards	1	3.2
+	/mods/name/namePart	Eureka Photo Post Card Company	bstearns	PC000302	postcards	1	3.2
+	/mods/name/role		bstearns	PC000302	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	bstearns	PC000302	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	bstearns	PC000302	postcards	1	3.2
+	/mods/typeOfResource	still image	bstearns	PC000302	postcards	1	3.2
+	/mods/genre	postcards	bstearns	PC000302	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	bstearns	PC000302	postcards	1	3.2
+	/mods/originInfo		bstearns	PC000302	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	bstearns	PC000302	postcards	1	3.2
+	/mods/originInfo/publisher	Eureka Photo Post Card Company, Winnipeg, Man.	bstearns	PC000302	postcards	1	3.2
+	/mods/originInfo/dateIssued	1911	bstearns	PC000302	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	approximate	bstearns	PC000302	postcards	1	3.2
+	/mods/originInfo/dateOther	1911-12-11	bstearns	PC000302	postcards	1	3.2
+	/mods/originInfo/place		bstearns	PC000302	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	Winnipeg	bstearns	PC000302	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	bstearns	PC000302	postcards	1	3.2
+	/mods/language		bstearns	PC000302	postcards	1	3.2
+	/mods/language/languageTerm	English	bstearns	PC000302	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	bstearns	PC000302	postcards	1	3.2
+	/mods/physicalDescription		bstearns	PC000302	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : b&w ; 14 x 9 cm.	bstearns	PC000302	postcards	1	3.2
+	/mods/note	60	bstearns	PC000302	postcards	9	3.2
+	/mods/note/@type	price	bstearns	PC000302	postcards	1	3.2
+	/mods/note	false	bstearns	PC000302	postcards	9	3.2
+	/mods/note/@type	notable	bstearns	PC000302	postcards	1	3.2
+	/mods/note	true	bstearns	PC000302	postcards	9	3.2
+	/mods/note/@type	imgprobs	bstearns	PC000302	postcards	1	3.2
+	/mods/note	Mr. M. Matthews	bstearns	PC000302	postcards	9	3.2
+	/mods/note/@type	public_to	bstearns	PC000302	postcards	1	3.2
+	/mods/note	[J. Melb?]	bstearns	PC000302	postcards	9	3.2
+	/mods/note/@type	public_from	bstearns	PC000302	postcards	1	3.2
+	/mods/note	16 George Street, Woburn, Beds.	bstearns	PC000302	postcards	9	3.2
+	/mods/note/@type	public_address	bstearns	PC000302	postcards	1	3.2
+	/mods/note	Shall be back Tuesday, [J. Melb?], Too dark to come tonight.	bstearns	PC000302	postcards	9	3.2
+	/mods/note/@type	public_message	bstearns	PC000302	postcards	1	3.2
+	/mods/note	Bletchley, 1911-12-11	bstearns	PC000302	postcards	9	3.2
+	/mods/note/@type	public_postmark_date	bstearns	PC000302	postcards	1	3.2
+	/mods/note	Exterior view of a Canadian Bank of Commerce  building. A wheelbarrow and several boards are visible in the foreground.	bstearns	PC000302	postcards	9	3.2
+	/mods/note/@type	public_description	bstearns	PC000302	postcards	1	3.2
+	/mods/subject		bstearns	PC000302	postcards	5	3.2
+	/mods/subject/geographic	Elmwood, MB	bstearns	PC000302	postcards	1	3.2
+	/mods/subject		bstearns	PC000302	postcards	5	3.2
+	/mods/subject/hierarchicalGeographic		bstearns	PC000302	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	bstearns	PC000302	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Manitoba	bstearns	PC000302	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Elmwood	bstearns	PC000302	postcards	1	3.2
+	/mods/subject		bstearns	PC000302	postcards	5	3.2
+	/mods/subject/genre	Postcards	bstearns	PC000302	postcards	1	3.2
+	/mods/subject		bstearns	PC000302	postcards	5	3.2
+	/mods/subject/topic	Banks	bstearns	PC000302	postcards	1	3.2
+	/mods/subject		bstearns	PC000302	postcards	5	3.2
+	/mods/subject/name		bstearns	PC000302	postcards	1	3.2
+	/mods/subject/name/namePart	Canadian Bank of Commerce (Elmwood, Man.)	bstearns	PC000302	postcards	1	3.2
+	/mods/identifier	PC000302	bstearns	PC000302	postcards	1	3.2
+	/mods/identifier/@type	local	bstearns	PC000302	postcards	1	3.2
+	/mods/location		bstearns	PC000302	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 1	bstearns	PC000302	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC000302.html	bstearns	PC000302	postcards	3	3.2
+	/mods/location/url/@access	object in context	bstearns	PC000302	postcards	1	3.2
+	/mods/location/url/@usage	primary display	bstearns	PC000302	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/000/web/PC000302.jpg	bstearns	PC000302	postcards	3	3.2
+	/mods/location/url/@access	raw object	bstearns	PC000302	postcards	1	3.2
+	/mods/location/url/@note	width='492' height='800' 	bstearns	PC000302	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/000/thumbs/PC000302.jpg	bstearns	PC000302	postcards	3	3.2
+	/mods/location/url/@access	preview	bstearns	PC000302	postcards	1	3.2
+	/mods/location/url/@note	width='123' height='200'	bstearns	PC000302	postcards	1	3.2
+	/mods/recordInfo		bstearns	PC000302	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-20T16:05:12-0600	bstearns	PC000302	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC000302	bstearns	PC000302	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	bstearns	bstearns	PC000302	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2009-12-03T23:08:42-0700	bstearns	PC000302	postcards	1	3.2
+	/@mods	
+
+Elmwood
+
+
+Eureka Photo Post Card Company
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+Eureka Photo Post Card Company, Winnipeg, Man.
+1911
+1911-12-11
+
+
+Winnipeg
+
+
+
+English
+
+
+1 postcard : b&w ; 14 x 9 cm.
+
+60
+false
+true
+Mr. M. Matthews
+[J. Melb?]
+16 George Street, Woburn, Beds.
+Shall be back Tuesday, [J. Melb?], Too dark to come tonight.
+Bletchley, 1911-12-11
+Exterior view of a Canadian Bank of Commerce  building. A wheelbarrow and several boards are visible in the foreground.
+
+Elmwood, MB
+
+
+
+Canada
+Manitoba
+Elmwood
+
+
+
+Postcards
+
+
+Banks
+
+
+
+Canadian Bank of Commerce (Elmwood, Man.)
+
+
+PC000302
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 1
+http://peel.library.ualberta.ca/postcards/PC000302.html
+http://peel.library.ualberta.ca/pcimages/PC/000/web/PC000302.jpg
+http://peel.library.ualberta.ca/pcimages/PC/000/thumbs/PC000302.jpg
+
+
+2007-06-20T16:05:12-0600
+PC000302
+bstearns
+2009-12-03T23:08:42-0700
+
+	bstearns	PC000302	postcards	1	3.2
+	

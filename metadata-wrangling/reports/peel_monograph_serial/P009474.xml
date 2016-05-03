@@ -1,0 +1,128 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.2
+	/mods/@version	3.2		1	3.2
+	/mods/titleInfo			1	3.2
+	/mods/titleInfo/title	Winnipeg, the city of public welfare		1	3.2
+	/mods/titleInfo/subTitle	Being the third of a series of booklets on the activities and development of a city		1	3.2
+	/mods/typeOfResource	text		1	3.2
+	/mods/originInfo			1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	mbc		1	3.2
+	/mods/originInfo/place/placeTerm/@authority	marccountry		1	3.2
+	/mods/originInfo/place/placeTerm/@type	code		1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	Winnipeg		1	3.2
+	/mods/originInfo/place/placeTerm/@type	text		1	3.2
+	/mods/originInfo/publisher	Stovel Company		1	3.2
+	/mods/originInfo/dateIssued	[1923?]		2	3.2
+	/mods/originInfo/dateIssued	1923		2	3.2
+	/mods/originInfo/dateIssued/@encoding	marc		1	3.2
+	/mods/originInfo/issuance	monographic		1	3.2
+	/mods/language			1	3.2
+	/mods/language/languageTerm	eng		1	3.2
+	/mods/language/languageTerm/@authority	iso639-2b		1	3.2
+	/mods/language/languageTerm/@type	code		1	3.2
+	/mods/physicalDescription			1	3.2
+	/mods/physicalDescription/form	print		1	3.2
+	/mods/physicalDescription/form/@authority	marcform		1	3.2
+	/mods/physicalDescription/extent	[15] p. : ill., ports. ; 24 cm.		1	3.2
+	/mods/note	http://chelsea.library.ualberta.ca:8081/peel_master/select/?q=%28authorAuthority%3A%22Stovel+Co%22%29+OR+%28subjectAuthority%3A%22Public+welfare--Manitoba--Winnipeg%22%29+OR+%28subjectAuthority%3A%22Winnipeg+%28Man.%29--Social+conditions%22%29+OR+%28subjectAuthority%3A%22Winnipeg+%28Man.%29--Description+and+travel%22%29+OR+%28subjectAuthority%3A%22Winnipeg+%28Man.%29--History%22%29&fl=id+authorAuthority+authorDates+subjectAuthority+authorityAuthority&rows=100		2	3.2
+	/mods/note/@type	solr		1	3.2
+	/mods/note	DOA: 1923 Spatial: Winnipeg (Man.)		2	3.2
+	/mods/note/@type	local		1	3.2
+	/mods/subject			4	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/topic	Public welfare		1	3.2
+	/mods/subject/geographic	Manitoba		2	3.2
+	/mods/subject/geographic	Winnipeg		2	3.2
+	/mods/subject			4	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/@href	MS004826		1	3.2
+	/mods/subject/geographic	Winnipeg (Man.)		1	3.2
+	/mods/subject/topic	Social conditions		1	3.2
+	/mods/subject			4	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/geographic	Winnipeg (Man.)		1	3.2
+	/mods/subject/topic	Description and travel		1	3.2
+	/mods/subject			4	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/@href	MS004823		1	3.2
+	/mods/subject/geographic	Winnipeg (Man.)		1	3.2
+	/mods/subject/topic	History		1	3.2
+	/mods/classification	HV110.W56 W56 1920		1	3.2
+	/mods/classification/@authority	lcc		1	3.2
+	/mods/identifier	3979498		3	3.2
+	/mods/identifier/@type	local:neos		1	3.2
+	/mods/identifier	N008847		3	3.2
+	/mods/identifier/@type	local:peel_new		1	3.2
+	/mods/identifier	9474		3	3.2
+	/mods/identifier/@type	local:peel3		1	3.2
+	/mods/recordInfo			1	3.2
+	/mods/recordInfo/recordContentSource	fsalehi		2	3.2
+	/mods/recordInfo/recordContentSource	RC		2	3.2
+	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.2
+	/mods/recordInfo/recordCreationDate	2002-07-26T12:00:00-0700		1	3.2
+	/mods/recordInfo/recordIdentifier	P009474		1	3.2
+	/mods/recordInfo/recordChangeDate	2010-06-27T10:45:39-0600		1	3.2
+	/@mods	
+
+Winnipeg, the city of public welfare
+Being the third of a series of booklets on the activities and development of a city
+
+text
+
+
+mbc
+
+
+Winnipeg
+
+Stovel Company
+[1923?]
+1923
+monographic
+
+
+eng
+
+
+print
+[15] p. : ill., ports. ; 24 cm.
+
+http://chelsea.library.ualberta.ca:8081/peel_master/select/?q=%28authorAuthority%3A%22Stovel+Co%22%29+OR+%28subjectAuthority%3A%22Public+welfare--Manitoba--Winnipeg%22%29+OR+%28subjectAuthority%3A%22Winnipeg+%28Man.%29--Social+conditions%22%29+OR+%28subjectAuthority%3A%22Winnipeg+%28Man.%29--Description+and+travel%22%29+OR+%28subjectAuthority%3A%22Winnipeg+%28Man.%29--History%22%29&fl=id+authorAuthority+authorDates+subjectAuthority+authorityAuthority&rows=100
+DOA: 1923 Spatial: Winnipeg (Man.)
+
+				Public welfare
+			
+				Manitoba
+			
+				Winnipeg
+			
+
+				Winnipeg (Man.)
+			
+				Social conditions
+			
+
+				Winnipeg (Man.)
+			
+				Description and travel
+			
+
+				Winnipeg (Man.)
+			
+				History
+			
+HV110.W56 W56 1920
+3979498
+N008847
+9474
+
+fsalehi
+RC
+2002-07-26T12:00:00-0700
+P009474
+2010-06-27T10:45:39-0600
+
+		1	3.2
+	

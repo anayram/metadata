@@ -1,0 +1,184 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	Empire day no. 1-1904		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	corporate		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA001202		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Manitoba. Department of Education		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	Winnipeg		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	Manitoba Department of Education		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1904		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	English		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	Illus., ports.; 26 cm.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	Intended to be an annual. Also published, Manitoba. Department of Education, <i>Empire day, May 23, 1911 </i>(32p.); <i>Empire day, 1912 </i>([40]p.); <i>Empire day, 1913 </i>(29p.); <i>Empire day, 1914 </i>([48]p.); <i>Empire day, 1915 </i>(21, [3]p.); <i>Empire day, 1916 </i>(24p.); <i>Empire day, 1917 </i>(36p.); <i>Empire day, 1919 </i>(36p.); <i>Empire day, 1921: Four empire builders </i>(35p.); <i>Empire day, nineteen twenty-two </i>(24, [4]p.); <i>Empire day, May 22nd, 1925 </i>(24p.); <i>Empire day, twenty-third of May, nineteen hundred and twenty-eight </i>(15, [1]p.); <i>Empire day [1929] </i>([29]p.); <i>Empire day, May 23, 1931 </i>(32p.); <i>Empire day, May 23, 1941 </i>(16p.). For other separately titled "Empire day" publications <i>see </i>Peel <xref>4616</xref> and <xref>5463</xref>.		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	public		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	main		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	local:frbr		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002717		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Manitoba		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	History		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1904		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem			15	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@ID	t2		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@displayLabel	1911 ed.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@type	otherVersion		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@href	N021025		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem			15	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@ID	t3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@displayLabel	1912 ed.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@type	otherVersion		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@href	N021026		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem			15	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@ID	t4		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@displayLabel	1913 ed.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@type	otherVersion		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@href	N021027		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem			15	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@ID	t5		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@displayLabel	1914 ed.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@type	otherVersion		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@href	N021028		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem			15	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@ID	t6		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@displayLabel	1915 ed.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@type	otherVersion		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@href	N021029		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem			15	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@ID	t7		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@displayLabel	1916 ed.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@type	otherVersion		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@href	N021030		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem			15	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@ID	t8		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@displayLabel	1917 ed.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@type	otherVersion		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@href	N021031		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem			15	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@ID	t9		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@displayLabel	1919 ed.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@type	otherVersion		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@href	N021032		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem			15	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@ID	t10		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@displayLabel	1921 ed.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@type	otherVersion		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@href	N021033		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem			15	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@ID	t11		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@displayLabel	1922 ed.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@type	otherVersion		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@href	N021034		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem			15	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@ID	t12		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@displayLabel	1925 ed.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@type	otherVersion		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@href	N021035		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem			15	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@ID	t13		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@displayLabel	1928 ed.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@type	otherVersion		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@href	N021036		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem			15	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@ID	t14		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@displayLabel	[1929] ed.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@type	otherVersion		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@href	N021037		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem			15	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@ID	t15		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@displayLabel	1931 ed.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@type	otherVersion		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@href	N021038		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem			15	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@ID	t16		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@displayLabel	1941 ed.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@type	otherVersion		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@href	N021039		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	2726		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel2		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	2777		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	2774		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel-procite-id		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	RC		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P002777		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordChangeDate	2011-07-23T12:14:53-0600		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+
+Empire day no. 1-1904
+
+
+Manitoba. Department of Education
+
+text
+
+
+Winnipeg
+
+Manitoba Department of Education
+1904
+
+
+English
+
+
+print
+Illus., ports.; 26 cm.
+
+Intended to be an annual. Also published, Manitoba. Department of Education, <i>Empire day, May 23, 1911 </i>(32p.); <i>Empire day, 1912 </i>([40]p.); <i>Empire day, 1913 </i>(29p.); <i>Empire day, 1914 </i>([48]p.); <i>Empire day, 1915 </i>(21, [3]p.); <i>Empire day, 1916 </i>(24p.); <i>Empire day, 1917 </i>(36p.); <i>Empire day, 1919 </i>(36p.); <i>Empire day, 1921: Four empire builders </i>(35p.); <i>Empire day, nineteen twenty-two </i>(24, [4]p.); <i>Empire day, May 22nd, 1925 </i>(24p.); <i>Empire day, twenty-third of May, nineteen hundred and twenty-eight </i>(15, [1]p.); <i>Empire day [1929] </i>([29]p.); <i>Empire day, May 23, 1931 </i>(32p.); <i>Empire day, May 23, 1941 </i>(16p.). For other separately titled "Empire day" publications <i>see </i>Peel <xref>4616</xref> and <xref>5463</xref>.
+main
+
+				Manitoba
+			
+				History
+			
+
+				1904
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2726
+2777
+2774
+
+Peel's Prairie Portal
+RC
+2003-01-01T12:00:00-0700
+P002777
+2011-07-23T12:14:53-0600
+
+		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

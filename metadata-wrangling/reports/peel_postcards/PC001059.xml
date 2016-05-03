@@ -1,0 +1,188 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		sfarnel	PC001059	postcards	1	3.2
+	/mods/@version	3.2	sfarnel	PC001059	postcards	1	3.2
+	/mods/titleInfo		sfarnel	PC001059	postcards	1	3.2
+	/mods/titleInfo/@lang	english	sfarnel	PC001059	postcards	1	3.2
+	/mods/titleInfo/title	Cafe' Royal, Alexandra Hotel, Winnipeg, Canada.	sfarnel	PC001059	postcards	1	3.2
+	/mods/name		sfarnel	PC001059	postcards	2	3.2
+	/mods/name/@type	personal	sfarnel	PC001059	postcards	1	3.2
+	/mods/name/namePart	Tom	sfarnel	PC001059	postcards	2	3.2
+	/mods/name/namePart/@type	given	sfarnel	PC001059	postcards	1	3.2
+	/mods/name/namePart	Jones	sfarnel	PC001059	postcards	2	3.2
+	/mods/name/namePart/@type	family	sfarnel	PC001059	postcards	1	3.2
+	/mods/name/role		sfarnel	PC001059	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	sfarnel	PC001059	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	sfarnel	PC001059	postcards	1	3.2
+	/mods/name		sfarnel	PC001059	postcards	2	3.2
+	/mods/name/@type	corporate	sfarnel	PC001059	postcards	1	3.2
+	/mods/name/namePart	Clubb	sfarnel	PC001059	postcards	2	3.2
+	/mods/name/namePart/@type	family	sfarnel	PC001059	postcards	1	3.2
+	/mods/name/namePart	W. J.	sfarnel	PC001059	postcards	2	3.2
+	/mods/name/namePart/@type	given	sfarnel	PC001059	postcards	1	3.2
+	/mods/name/role		sfarnel	PC001059	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	sfarnel	PC001059	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	sfarnel	PC001059	postcards	1	3.2
+	/mods/typeOfResource	still image	sfarnel	PC001059	postcards	1	3.2
+	/mods/genre	postcards	sfarnel	PC001059	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	sfarnel	PC001059	postcards	1	3.2
+	/mods/originInfo		sfarnel	PC001059	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	sfarnel	PC001059	postcards	1	3.2
+	/mods/originInfo/publisher	Tom Jones -"Glace"- Cincinnati, O.; Published for W. J. Clubb, Royal Alexandra, Winnipeg.	sfarnel	PC001059	postcards	1	3.2
+	/mods/originInfo/dateIssued	1911	sfarnel	PC001059	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	inferred	sfarnel	PC001059	postcards	1	3.2
+	/mods/originInfo/place		sfarnel	PC001059	postcards	2	3.2
+	/mods/originInfo/place/placeTerm	Cincinnati.OH	sfarnel	PC001059	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	sfarnel	PC001059	postcards	1	3.2
+	/mods/originInfo/place		sfarnel	PC001059	postcards	2	3.2
+	/mods/originInfo/place/placeTerm	Winnipeg	sfarnel	PC001059	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	sfarnel	PC001059	postcards	1	3.2
+	/mods/language		sfarnel	PC001059	postcards	1	3.2
+	/mods/language/languageTerm	English	sfarnel	PC001059	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	sfarnel	PC001059	postcards	1	3.2
+	/mods/physicalDescription		sfarnel	PC001059	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : b&w ; 9 x 14 cm.	sfarnel	PC001059	postcards	1	3.2
+	/mods/note	30	sfarnel	PC001059	postcards	4	3.2
+	/mods/note/@type	price	sfarnel	PC001059	postcards	1	3.2
+	/mods/note	false	sfarnel	PC001059	postcards	4	3.2
+	/mods/note/@type	notable	sfarnel	PC001059	postcards	1	3.2
+	/mods/note	false	sfarnel	PC001059	postcards	4	3.2
+	/mods/note/@type	imgprobs	sfarnel	PC001059	postcards	1	3.2
+	/mods/note	Interior of the Café (also referred to as the "European Dining Room")was one of the finer features of the Royal Alexandra Hotel with tables and chairs.	sfarnel	PC001059	postcards	4	3.2
+	/mods/note/@type	public_description	sfarnel	PC001059	postcards	1	3.2
+	/mods/subject		sfarnel	PC001059	postcards	10	3.2
+	/mods/subject/geographic	Winnipeg, MB	sfarnel	PC001059	postcards	1	3.2
+	/mods/subject		sfarnel	PC001059	postcards	10	3.2
+	/mods/subject/hierarchicalGeographic		sfarnel	PC001059	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	sfarnel	PC001059	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Manitoba	sfarnel	PC001059	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Winnipeg	sfarnel	PC001059	postcards	1	3.2
+	/mods/subject		sfarnel	PC001059	postcards	10	3.2
+	/mods/subject/genre	Postcards	sfarnel	PC001059	postcards	1	3.2
+	/mods/subject		sfarnel	PC001059	postcards	10	3.2
+	/mods/subject/topic	Hotels	sfarnel	PC001059	postcards	1	3.2
+	/mods/subject		sfarnel	PC001059	postcards	10	3.2
+	/mods/subject/topic	Dining rooms	sfarnel	PC001059	postcards	1	3.2
+	/mods/subject		sfarnel	PC001059	postcards	10	3.2
+	/mods/subject/topic	Dining tables	sfarnel	PC001059	postcards	1	3.2
+	/mods/subject		sfarnel	PC001059	postcards	10	3.2
+	/mods/subject/topic	Eating & drinking	sfarnel	PC001059	postcards	1	3.2
+	/mods/subject		sfarnel	PC001059	postcards	10	3.2
+	/mods/subject/topic	Table settings & decorations	sfarnel	PC001059	postcards	1	3.2
+	/mods/subject		sfarnel	PC001059	postcards	10	3.2
+	/mods/subject/topic	Light fixtures	sfarnel	PC001059	postcards	1	3.2
+	/mods/subject		sfarnel	PC001059	postcards	10	3.2
+	/mods/subject/name		sfarnel	PC001059	postcards	1	3.2
+	/mods/subject/name/@type	corporate	sfarnel	PC001059	postcards	1	3.2
+	/mods/subject/name/namePart	Royal Alexandra Hotel (Winnipeg, Man.)	sfarnel	PC001059	postcards	1	3.2
+	/mods/identifier	PC001059	sfarnel	PC001059	postcards	1	3.2
+	/mods/identifier/@type	local	sfarnel	PC001059	postcards	1	3.2
+	/mods/location		sfarnel	PC001059	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 3	sfarnel	PC001059	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC001059.html	sfarnel	PC001059	postcards	3	3.2
+	/mods/location/url/@access	object in context	sfarnel	PC001059	postcards	1	3.2
+	/mods/location/url/@usage	primary display	sfarnel	PC001059	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/001/web/PC001059.jpg	sfarnel	PC001059	postcards	3	3.2
+	/mods/location/url/@access	raw object	sfarnel	PC001059	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='508' 	sfarnel	PC001059	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/001/thumbs/PC001059.jpg	sfarnel	PC001059	postcards	3	3.2
+	/mods/location/url/@access	preview	sfarnel	PC001059	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='127'	sfarnel	PC001059	postcards	1	3.2
+	/mods/recordInfo		sfarnel	PC001059	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-20T16:05:12-0600	sfarnel	PC001059	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC001059	sfarnel	PC001059	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	sfarnel	sfarnel	PC001059	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2009-09-28T11:26:56-0600	sfarnel	PC001059	postcards	1	3.2
+	/@mods	
+
+Cafe' Royal, Alexandra Hotel, Winnipeg, Canada.
+
+
+Tom
+Jones
+
+Publisher
+
+
+
+Clubb
+W. J.
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+Tom Jones -"Glace"- Cincinnati, O.; Published for W. J. Clubb, Royal Alexandra, Winnipeg.
+1911
+
+
+
+Cincinnati.OH
+
+
+Winnipeg
+
+
+
+English
+
+
+1 postcard : b&w ; 9 x 14 cm.
+
+30
+false
+false
+Interior of the Café (also referred to as the "European Dining Room")was one of the finer features of the Royal Alexandra Hotel with tables and chairs.
+
+Winnipeg, MB
+
+
+
+Canada
+Manitoba
+Winnipeg
+
+
+
+Postcards
+
+
+Hotels
+
+
+Dining rooms
+
+
+Dining tables
+
+
+Eating & drinking
+
+
+Table settings & decorations
+
+
+Light fixtures
+
+
+
+Royal Alexandra Hotel (Winnipeg, Man.)
+
+
+PC001059
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 3
+http://peel.library.ualberta.ca/postcards/PC001059.html
+http://peel.library.ualberta.ca/pcimages/PC/001/web/PC001059.jpg
+http://peel.library.ualberta.ca/pcimages/PC/001/thumbs/PC001059.jpg
+
+
+2007-06-20T16:05:12-0600
+PC001059
+sfarnel
+2009-09-28T11:26:56-0600
+
+	sfarnel	PC001059	postcards	1	3.2
+	

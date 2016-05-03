@@ -1,0 +1,155 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		rschramm	PC005347	postcards	1	3.2
+	/mods/@version	3.2	rschramm	PC005347	postcards	1	3.2
+	/mods/titleInfo		rschramm	PC005347	postcards	1	3.2
+	/mods/titleInfo/@lang	english	rschramm	PC005347	postcards	1	3.2
+	/mods/titleInfo/title	The Canadian Pacific Rly. depot and Palliser Hotel, Calgary, Alberta	rschramm	PC005347	postcards	1	3.2
+	/mods/name		rschramm	PC005347	postcards	2	3.2
+	/mods/name/@type	personal	rschramm	PC005347	postcards	1	3.2
+	/mods/name/namePart	Spalding	rschramm	PC005347	postcards	2	3.2
+	/mods/name/namePart/@type	family	rschramm	PC005347	postcards	1	3.2
+	/mods/name/namePart	J. Fred	rschramm	PC005347	postcards	2	3.2
+	/mods/name/namePart/@type	given	rschramm	PC005347	postcards	1	3.2
+	/mods/name/role		rschramm	PC005347	postcards	1	3.2
+	/mods/name/role/roleTerm	Photographer	rschramm	PC005347	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	rschramm	PC005347	postcards	1	3.2
+	/mods/name		rschramm	PC005347	postcards	2	3.2
+	/mods/name/@type	corporate	rschramm	PC005347	postcards	1	3.2
+	/mods/name/namePart	Camera Products Co.	rschramm	PC005347	postcards	1	3.2
+	/mods/name/role		rschramm	PC005347	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	rschramm	PC005347	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	rschramm	PC005347	postcards	1	3.2
+	/mods/typeOfResource	still image	rschramm	PC005347	postcards	1	3.2
+	/mods/genre	postcards	rschramm	PC005347	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	rschramm	PC005347	postcards	1	3.2
+	/mods/originInfo		rschramm	PC005347	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	rschramm	PC005347	postcards	1	3.2
+	/mods/originInfo/publisher	Camera Products Co., 1731 Dunbar Street, Vancouver, B.C.	rschramm	PC005347	postcards	1	3.2
+	/mods/originInfo/dateIssued	ca. 1920	rschramm	PC005347	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	approximate	rschramm	PC005347	postcards	1	3.2
+	/mods/originInfo/place		rschramm	PC005347	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	Vancouver	rschramm	PC005347	postcards	1	3.2
+	/mods/language		rschramm	PC005347	postcards	1	3.2
+	/mods/language/languageTerm	English	rschramm	PC005347	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	rschramm	PC005347	postcards	1	3.2
+	/mods/physicalDescription		rschramm	PC005347	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : col.; 9 x 14 cm.	rschramm	PC005347	postcards	1	3.2
+	/mods/note	20	rschramm	PC005347	postcards	8	3.2
+	/mods/note/@type	price	rschramm	PC005347	postcards	1	3.2
+	/mods/note	false	rschramm	PC005347	postcards	8	3.2
+	/mods/note/@type	notable	rschramm	PC005347	postcards	1	3.2
+	/mods/note	false	rschramm	PC005347	postcards	8	3.2
+	/mods/note/@type	imgprobs	rschramm	PC005347	postcards	1	3.2
+	/mods/note	View of the CPR train station and Palliser Hotel in Calgary, Alberta including a view of the surrounding buildings.	rschramm	PC005347	postcards	8	3.2
+	/mods/note/@type	public_description	rschramm	PC005347	postcards	1	3.2
+	/mods/note	This is a real photograph. Hand coloured.	rschramm	PC005347	postcards	8	3.2
+	/mods/note/@type	public_on_back	rschramm	PC005347	postcards	1	3.2
+	/mods/note	Printed in England	rschramm	PC005347	postcards	8	3.2
+	/mods/note/@type	public_on_back	rschramm	PC005347	postcards	1	3.2
+	/mods/note	Calgary Series No.22	rschramm	PC005347	postcards	8	3.2
+	/mods/note/@type	public_on_front	rschramm	PC005347	postcards	1	3.2
+	/mods/note	Duplicate: PC005335	rschramm	PC005347	postcards	8	3.2
+	/mods/note/@type	private	rschramm	PC005347	postcards	1	3.2
+	/mods/subject		rschramm	PC005347	postcards	4	3.2
+	/mods/subject/geographic	Calgary, AB	rschramm	PC005347	postcards	1	3.2
+	/mods/subject		rschramm	PC005347	postcards	4	3.2
+	/mods/subject/hierarchicalGeographic		rschramm	PC005347	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	rschramm	PC005347	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	rschramm	PC005347	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Calgary	rschramm	PC005347	postcards	1	3.2
+	/mods/subject		rschramm	PC005347	postcards	4	3.2
+	/mods/subject/genre	Postcards	rschramm	PC005347	postcards	1	3.2
+	/mods/subject		rschramm	PC005347	postcards	4	3.2
+	/mods/subject/topic	Cityscapes	rschramm	PC005347	postcards	1	3.2
+	/mods/identifier	PC005347	rschramm	PC005347	postcards	1	3.2
+	/mods/identifier/@type	local	rschramm	PC005347	postcards	1	3.2
+	/mods/location		rschramm	PC005347	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 6	rschramm	PC005347	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC005347.html	rschramm	PC005347	postcards	3	3.2
+	/mods/location/url/@access	object in context	rschramm	PC005347	postcards	1	3.2
+	/mods/location/url/@usage	primary display	rschramm	PC005347	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/005/web/PC005347.jpg	rschramm	PC005347	postcards	3	3.2
+	/mods/location/url/@access	raw object	rschramm	PC005347	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='515' 	rschramm	PC005347	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/005/thumbs/PC005347.jpg	rschramm	PC005347	postcards	3	3.2
+	/mods/location/url/@access	preview	rschramm	PC005347	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='129'	rschramm	PC005347	postcards	1	3.2
+	/mods/recordInfo		rschramm	PC005347	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	rschramm	PC005347	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC005347	rschramm	PC005347	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	rschramm	rschramm	PC005347	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2008-05-26T14:00:13-0600	rschramm	PC005347	postcards	1	3.2
+	/@mods	
+
+The Canadian Pacific Rly. depot and Palliser Hotel, Calgary, Alberta
+
+
+Spalding
+J. Fred
+
+Photographer
+
+
+
+Camera Products Co.
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+Camera Products Co., 1731 Dunbar Street, Vancouver, B.C.
+ca. 1920
+
+Vancouver
+
+
+
+English
+
+
+1 postcard : col.; 9 x 14 cm.
+
+20
+false
+false
+View of the CPR train station and Palliser Hotel in Calgary, Alberta including a view of the surrounding buildings.
+This is a real photograph. Hand coloured.
+Printed in England
+Calgary Series No.22
+Duplicate: PC005335
+
+Calgary, AB
+
+
+
+Canada
+Alberta
+Calgary
+
+
+
+Postcards
+
+
+Cityscapes
+
+PC005347
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 6
+http://peel.library.ualberta.ca/postcards/PC005347.html
+http://peel.library.ualberta.ca/pcimages/PC/005/web/PC005347.jpg
+http://peel.library.ualberta.ca/pcimages/PC/005/thumbs/PC005347.jpg
+
+
+
+
+2007-06-25T16:49:56-0600
+PC005347
+rschramm
+2008-05-26T14:00:13-0600
+
+	rschramm	PC005347	postcards	1	3.2
+	

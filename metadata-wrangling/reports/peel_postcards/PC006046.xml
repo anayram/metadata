@@ -1,0 +1,160 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		bstearns	PC006046	postcards	1	3.2
+	/mods/@version	3.2	bstearns	PC006046	postcards	1	3.2
+	/mods/titleInfo		bstearns	PC006046	postcards	1	3.2
+	/mods/titleInfo/@lang	english	bstearns	PC006046	postcards	1	3.2
+	/mods/titleInfo/title	In the Manufacturing District, Calgary, Alta.	bstearns	PC006046	postcards	1	3.2
+	/mods/name		bstearns	PC006046	postcards	1	3.2
+	/mods/name/@type	corporate	bstearns	PC006046	postcards	1	3.2
+	/mods/name/namePart	Osborne Bros.	bstearns	PC006046	postcards	1	3.2
+	/mods/name/role		bstearns	PC006046	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	bstearns	PC006046	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	bstearns	PC006046	postcards	1	3.2
+	/mods/typeOfResource	still image	bstearns	PC006046	postcards	1	3.2
+	/mods/genre	postcards	bstearns	PC006046	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	bstearns	PC006046	postcards	1	3.2
+	/mods/originInfo		bstearns	PC006046	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	bstearns	PC006046	postcards	1	3.2
+	/mods/originInfo/publisher	Osborne Bros., Stationers, Calgary, Alta.	bstearns	PC006046	postcards	1	3.2
+	/mods/originInfo/dateIssued	1910	bstearns	PC006046	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	approximate	bstearns	PC006046	postcards	1	3.2
+	/mods/originInfo/place		bstearns	PC006046	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	Calgary	bstearns	PC006046	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	bstearns	PC006046	postcards	1	3.2
+	/mods/language		bstearns	PC006046	postcards	1	3.2
+	/mods/language/languageTerm	English	bstearns	PC006046	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	bstearns	PC006046	postcards	1	3.2
+	/mods/physicalDescription		bstearns	PC006046	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : col.; 9 x 14 cm.	bstearns	PC006046	postcards	1	3.2
+	/mods/note	40	bstearns	PC006046	postcards	9	3.2
+	/mods/note/@type	price	bstearns	PC006046	postcards	1	3.2
+	/mods/note	false	bstearns	PC006046	postcards	9	3.2
+	/mods/note/@type	notable	bstearns	PC006046	postcards	1	3.2
+	/mods/note	true	bstearns	PC006046	postcards	9	3.2
+	/mods/note/@type	imgprobs	bstearns	PC006046	postcards	1	3.2
+	/mods/note	Miss Myrtle Rush	bstearns	PC006046	postcards	9	3.2
+	/mods/note/@type	public_to	bstearns	PC006046	postcards	1	3.2
+	/mods/note	Armstrong, B.C.	bstearns	PC006046	postcards	9	3.2
+	/mods/note/@type	public_address	bstearns	PC006046	postcards	1	3.2
+	/mods/note	Field, Jan 16/10, Dear Myrt. Well here is another one of those post cards I promised to send you. Say but is was cold up here last night. gee I wish I was back in the sunny Okanagan again for a month or so. Remember me to Bob but I can not cry even if I tried my very best, not even a tear. Will write soon [---], I can not play five hundred	bstearns	PC006046	postcards	9	3.2
+	/mods/note/@type	public_message	bstearns	PC006046	postcards	1	3.2
+	/mods/note	1910-01-16	bstearns	PC006046	postcards	9	3.2
+	/mods/note/@type	public_postmark_date	bstearns	PC006046	postcards	1	3.2
+	/mods/note	Printed in Germany	bstearns	PC006046	postcards	9	3.2
+	/mods/note/@type	public_on_back	bstearns	PC006046	postcards	1	3.2
+	/mods/note	Hand-tinted photograph of the Calgary stockyards. Burns packing plant is in the background. Photograph shows pens with cattle. In the foreground a man in a horse drawn carriage is seen in one of the pens.	bstearns	PC006046	postcards	9	3.2
+	/mods/note/@type	public_description	bstearns	PC006046	postcards	1	3.2
+	/mods/subject		bstearns	PC006046	postcards	7	3.2
+	/mods/subject/geographic	Calgary, AB	bstearns	PC006046	postcards	1	3.2
+	/mods/subject		bstearns	PC006046	postcards	7	3.2
+	/mods/subject/hierarchicalGeographic		bstearns	PC006046	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	bstearns	PC006046	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	bstearns	PC006046	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Calgary	bstearns	PC006046	postcards	1	3.2
+	/mods/subject		bstearns	PC006046	postcards	7	3.2
+	/mods/subject/genre	Postcards	bstearns	PC006046	postcards	1	3.2
+	/mods/subject		bstearns	PC006046	postcards	7	3.2
+	/mods/subject/topic	Stockyards	bstearns	PC006046	postcards	1	3.2
+	/mods/subject		bstearns	PC006046	postcards	7	3.2
+	/mods/subject/topic	Cattle	bstearns	PC006046	postcards	1	3.2
+	/mods/subject		bstearns	PC006046	postcards	7	3.2
+	/mods/subject/topic	Industrial facilities	bstearns	PC006046	postcards	1	3.2
+	/mods/subject		bstearns	PC006046	postcards	7	3.2
+	/mods/subject/name		bstearns	PC006046	postcards	1	3.2
+	/mods/subject/name/namePart	Burns, Patrick, 1856-1937	bstearns	PC006046	postcards	1	3.2
+	/mods/identifier	PC006046	bstearns	PC006046	postcards	1	3.2
+	/mods/identifier/@type	local	bstearns	PC006046	postcards	1	3.2
+	/mods/location		bstearns	PC006046	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 7	bstearns	PC006046	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC006046.html	bstearns	PC006046	postcards	3	3.2
+	/mods/location/url/@access	object in context	bstearns	PC006046	postcards	1	3.2
+	/mods/location/url/@usage	primary display	bstearns	PC006046	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/006/web/PC006046.jpg	bstearns	PC006046	postcards	3	3.2
+	/mods/location/url/@access	raw object	bstearns	PC006046	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='519' 	bstearns	PC006046	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/006/thumbs/PC006046.jpg	bstearns	PC006046	postcards	3	3.2
+	/mods/location/url/@access	preview	bstearns	PC006046	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='130'	bstearns	PC006046	postcards	1	3.2
+	/mods/recordInfo		bstearns	PC006046	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	bstearns	PC006046	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC006046	bstearns	PC006046	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	bstearns	bstearns	PC006046	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2009-11-30T15:14:01-0700	bstearns	PC006046	postcards	1	3.2
+	/@mods	
+
+In the Manufacturing District, Calgary, Alta.
+
+
+Osborne Bros.
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+Osborne Bros., Stationers, Calgary, Alta.
+1910
+
+
+Calgary
+
+
+
+English
+
+
+1 postcard : col.; 9 x 14 cm.
+
+40
+false
+true
+Miss Myrtle Rush
+Armstrong, B.C.
+Field, Jan 16/10, Dear Myrt. Well here is another one of those post cards I promised to send you. Say but is was cold up here last night. gee I wish I was back in the sunny Okanagan again for a month or so. Remember me to Bob but I can not cry even if I tried my very best, not even a tear. Will write soon [---], I can not play five hundred
+1910-01-16
+Printed in Germany
+Hand-tinted photograph of the Calgary stockyards. Burns packing plant is in the background. Photograph shows pens with cattle. In the foreground a man in a horse drawn carriage is seen in one of the pens.
+
+Calgary, AB
+
+
+
+Canada
+Alberta
+Calgary
+
+
+
+Postcards
+
+
+Stockyards
+
+
+Cattle
+
+
+Industrial facilities
+
+
+
+Burns, Patrick, 1856-1937
+
+
+PC006046
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 7
+http://peel.library.ualberta.ca/postcards/PC006046.html
+http://peel.library.ualberta.ca/pcimages/PC/006/web/PC006046.jpg
+http://peel.library.ualberta.ca/pcimages/PC/006/thumbs/PC006046.jpg
+
+
+2007-06-25T16:49:56-0600
+PC006046
+bstearns
+2009-11-30T15:14:01-0700
+
+	bstearns	PC006046	postcards	1	3.2
+	

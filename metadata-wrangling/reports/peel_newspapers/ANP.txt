@@ -1,0 +1,92 @@
+Path	Content	URL	Form or Genre	Occurrence	MODS version
+
+/mods/titleInfo		http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	1	3.3
+/mods/titleInfo/title	Alberta non-partisan	http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	1	3.3
+/mods/titleInfo/nonSort	The 	http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	1	3.3
+
+/mods/typeOfResource	text	http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	1	3.3
+
+/mods/genre	newspaper	http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	1	3.3
+/mods/genre/@authority	marcgt	http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	1	3.3
+
+/mods/originInfo		http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	1	3.3
+/mods/originInfo/place		http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	2	3.3
+/mods/originInfo/place/placeTerm	abc	http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	1	3.3
+/mods/originInfo/place/placeTerm/@authority	marccountry	http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	1	3.3
+/mods/originInfo/place/placeTerm/@type	code	http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	1	3.3
+/mods/originInfo/place		http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	2	3.3
+/mods/originInfo/place/placeTerm	Calgary	http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	1	3.3
+/mods/originInfo/place/placeTerm/@type	text	http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	1	3.3
+/mods/originInfo/publisher	"Nutcracker" Pub. Syndicate	http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	1	3.3
+/mods/originInfo/dateIssued	[1917]-1919	http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	3	3.3
+/mods/originInfo/dateIssued	[1917]	http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	3	3.3
+/mods/originInfo/dateIssued/@encoding	iso8601	http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	1	3.3
+/mods/originInfo/dateIssued/@point	start	http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	1	3.3
+/mods/originInfo/dateIssued	1919	http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	3	3.3
+/mods/originInfo/dateIssued/@encoding	iso8601	http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	1	3.3
+/mods/originInfo/dateIssued/@point	end	http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	1	3.3
+/mods/originInfo/issuance	continuing	http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	1	3.3
+/mods/originInfo/frequency	Biweekly.	http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	1	3.3
+
+/mods/language		http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	1	3.3
+/mods/language/languageTerm	eng	http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	1	3.3
+/mods/language/languageTerm/@authority	iso639-2b	http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	1	3.3
+/mods/language/languageTerm/@type	code	http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	1	3.3
+
+/mods/physicalDescription		http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	1	3.3
+/mods/physicalDescription/form	microfilm	http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	1	3.3
+/mods/physicalDescription/form/@authority	marcform	http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	1	3.3
+/mods/physicalDescription/extent	v. : ill.	http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	1	3.3
+
+/mods/note	Description based on: Vol. 1, no. 25 (Oct. 26, 1917).	http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	4	3.3
+
+/mods/note	Microfilm. Edmonton, Alta. : Western Microfilm, [19--]. 1 microfilm reel : ill. ; 35 mm. Oct. 26, 1917-July 7, 1919 filmed. With: Nutcracker (Calgary, Alta.).	http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	4	3.3
+/mods/note/@type	reproduction	http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	1	3.3
+
+/mods/note	Biweekly. Official publication of the Non-partisan League, an agrarian protest movement. From 17 November 1916 to [September?] 1917, issued under the title <i>Nutcracker</i>. In 1919, <i>Alberta non-partisan</i> is absorbed by <i>Western independent</i>, the official publication of the United Farmers of Alberta.	http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	4	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	1	3.3
+
+/mods/note	newspapers	http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	4	3.3
+/mods/note/@type	local:oaiset	http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	2	3.3
+/mods/subject/hierarchicalGeographic		http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	1	3.3
+/mods/subject/hierarchicalGeographic/country	Canada	http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	1	3.3
+/mods/subject/hierarchicalGeographic/province	Alberta	http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	1	3.3
+/mods/subject/hierarchicalGeographic/city	Calgary	http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	2	3.3
+/mods/subject/geographic	Alberta	http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	1	3.3
+/mods/subject/topic	Politics and government	http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	1	3.3
+/mods/subject/temporal	1905-1921	http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	1	3.3
+
+/mods/identifier	0702-3634	http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	4	3.3
+/mods/identifier/@type	issn	http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	1	3.3
+
+/mods/identifier	589225	http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	4	3.3
+/mods/identifier/@type	local:neos	http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	1	3.3
+
+/mods/identifier	ANP	http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	4	3.3
+/mods/identifier/@type	local:newspaper	http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	1	3.3
+
+    /mods/identifier	N017976	http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	4	3.3
+/mods/identifier/@type	local:peel_new	http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	1	3.3
+
+    /mods/location		http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	1	3.3
+/mods/location/physicalLocation	CaAEU	http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	1	3.3
+/mods/location/physicalLocation/@authority	marcorg	http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	1	3.3
+/mods/location/holdingSimple		http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	1	3.3
+/mods/location/holdingSimple/copyInformation		http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	1	3.3
+/mods/location/holdingSimple/copyInformation/form	electronic	http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	1	3.3
+/mods/location/holdingSimple/copyInformation/form/@authority	marcform	http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	1	3.3
+/mods/location/holdingSimple/copyInformation/electronicLocator	http://peel.library.ualberta.ca/newspapers/ANP/	http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	1	3.3
+/mods/location/holdingSimple/copyInformation/enumerationAndChronology	1917-1919	http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	1	3.3
+/mods/location/holdingSimple/copyInformation/enumerationAndChronology/@unitType	1	http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	1	3.3
+
+/mods/recordInfo		http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	1	3.3
+/mods/recordInfo/recordContentSource	RC	http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	1	3.3
+/mods/recordInfo/recordContentSource/@authority	local:person	http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	1	3.3
+/mods/recordInfo/recordCreationDate	2009-03-27T14:20:50-0700	http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	1	3.3
+/mods/recordInfo/recordIdentifier	QANP	http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	1	3.3
+/mods/recordInfo/recordChangeDate	2009-03-28T11:37:36-0700	http://peel.library.ualberta.ca/newspapers/ANP.html	newspaper	1	3.3
+

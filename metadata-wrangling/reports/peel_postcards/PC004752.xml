@@ -1,0 +1,145 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		sfarnel	PC004752	postcards	1	3.2
+	/mods/@version	3.2	sfarnel	PC004752	postcards	1	3.2
+	/mods/titleInfo		sfarnel	PC004752	postcards	1	3.2
+	/mods/titleInfo/@lang	english	sfarnel	PC004752	postcards	1	3.2
+	/mods/titleInfo/title	Specimens in Dr. George's museum, Red Deer, Alta.	sfarnel	PC004752	postcards	1	3.2
+	/mods/name		sfarnel	PC004752	postcards	1	3.2
+	/mods/name/@type	corporate	sfarnel	PC004752	postcards	1	3.2
+	/mods/name/namePart	Rumsey & Co.	sfarnel	PC004752	postcards	1	3.2
+	/mods/name/role		sfarnel	PC004752	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	sfarnel	PC004752	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	sfarnel	PC004752	postcards	1	3.2
+	/mods/typeOfResource	still image	sfarnel	PC004752	postcards	1	3.2
+	/mods/genre	postcards	sfarnel	PC004752	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	sfarnel	PC004752	postcards	1	3.2
+	/mods/originInfo		sfarnel	PC004752	postcards	1	3.2
+	/mods/originInfo/place		sfarnel	PC004752	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	Toronto	sfarnel	PC004752	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	sfarnel	PC004752	postcards	1	3.2
+	/mods/originInfo/publisher	Rumsey & Co., 1528 Queen St. West, Toronto, Canada.	sfarnel	PC004752	postcards	1	3.2
+	/mods/originInfo/dateIssued	ca. 1910	sfarnel	PC004752	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	approximate	sfarnel	PC004752	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	sfarnel	PC004752	postcards	1	3.2
+	/mods/language		sfarnel	PC004752	postcards	1	3.2
+	/mods/language/languageTerm	English	sfarnel	PC004752	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	sfarnel	PC004752	postcards	1	3.2
+	/mods/physicalDescription		sfarnel	PC004752	postcards	1	3.2
+	/mods/physicalDescription/form		sfarnel	PC004752	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : b&w ; 9 x 14 cm.	sfarnel	PC004752	postcards	1	3.2
+	/mods/note	30	sfarnel	PC004752	postcards	4	3.2
+	/mods/note/@type	price	sfarnel	PC004752	postcards	1	3.2
+	/mods/note	false	sfarnel	PC004752	postcards	4	3.2
+	/mods/note/@type	notable	sfarnel	PC004752	postcards	1	3.2
+	/mods/note	false	sfarnel	PC004752	postcards	4	3.2
+	/mods/note/@type	imgprobs	sfarnel	PC004752	postcards	1	3.2
+	/mods/note	View of the Doctor George's natural history museum, Red Deer, Alberta, the heads of what appear to be deers are mounted on the wall.	sfarnel	PC004752	postcards	4	3.2
+	/mods/note/@type	public_description	sfarnel	PC004752	postcards	1	3.2
+	/mods/subject		sfarnel	PC004752	postcards	6	3.2
+	/mods/subject/geographic	Red Deer, AB	sfarnel	PC004752	postcards	1	3.2
+	/mods/subject		sfarnel	PC004752	postcards	6	3.2
+	/mods/subject/hierarchicalGeographic		sfarnel	PC004752	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	sfarnel	PC004752	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	sfarnel	PC004752	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Red Deer	sfarnel	PC004752	postcards	1	3.2
+	/mods/subject		sfarnel	PC004752	postcards	6	3.2
+	/mods/subject/topic	Galleries & museums	sfarnel	PC004752	postcards	1	3.2
+	/mods/subject		sfarnel	PC004752	postcards	6	3.2
+	/mods/subject/topic	Horns (Anatomy)	sfarnel	PC004752	postcards	1	3.2
+	/mods/subject		sfarnel	PC004752	postcards	6	3.2
+	/mods/subject/topic	Taxidermy	sfarnel	PC004752	postcards	1	3.2
+	/mods/subject		sfarnel	PC004752	postcards	6	3.2
+	/mods/subject/name		sfarnel	PC004752	postcards	1	3.2
+	/mods/subject/name/@type	personal	sfarnel	PC004752	postcards	1	3.2
+	/mods/subject/name/namePart	Dr. George Museum (Innisfail, Alta.)	sfarnel	PC004752	postcards	1	3.2
+	/mods/identifier	PC004752	sfarnel	PC004752	postcards	1	3.2
+	/mods/identifier/@type	local	sfarnel	PC004752	postcards	1	3.2
+	/mods/location		sfarnel	PC004752	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 4	sfarnel	PC004752	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC004752.html	sfarnel	PC004752	postcards	3	3.2
+	/mods/location/url/@access	object in context	sfarnel	PC004752	postcards	1	3.2
+	/mods/location/url/@usage	primary display	sfarnel	PC004752	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/004/web/PC004752.jpg	sfarnel	PC004752	postcards	3	3.2
+	/mods/location/url/@access	raw object	sfarnel	PC004752	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='506'	sfarnel	PC004752	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/004/thumbs/PC004752.jpg	sfarnel	PC004752	postcards	3	3.2
+	/mods/location/url/@access	preview	sfarnel	PC004752	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='127'	sfarnel	PC004752	postcards	1	3.2
+	/mods/recordInfo		sfarnel	PC004752	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	sfarnel	sfarnel	PC004752	postcards	2	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	sfarnel	PC004752	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC004752	sfarnel	PC004752	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2010-05-28T15:20:20-0600	sfarnel	PC004752	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	aharrigan	sfarnel	PC004752	postcards	2	3.2
+	/mods/recordInfo/recordContentSource/@authority	local:person	sfarnel	PC004752	postcards	1	3.2
+	/@mods	
+
+Specimens in Dr. George's museum, Red Deer, Alta.
+
+
+Rumsey & Co.
+
+Publisher
+
+
+still image
+postcards
+
+
+Toronto
+
+Rumsey & Co., 1528 Queen St. West, Toronto, Canada.
+ca. 1910
+monographic
+
+
+English
+
+
+
+1 postcard : b&w ; 9 x 14 cm.
+
+30
+false
+false
+View of the Doctor George's natural history museum, Red Deer, Alberta, the heads of what appear to be deers are mounted on the wall.
+
+				Red Deer, AB
+			
+
+				
+Canada
+Alberta
+Red Deer
+
+			
+
+				Galleries & museums
+			
+
+				Horns (Anatomy)
+			
+
+				Taxidermy
+			
+
+				
+Dr. George Museum (Innisfail, Alta.)
+
+			
+PC004752
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 4
+http://peel.library.ualberta.ca/postcards/PC004752.html
+http://peel.library.ualberta.ca/pcimages/PC/004/web/PC004752.jpg
+http://peel.library.ualberta.ca/pcimages/PC/004/thumbs/PC004752.jpg
+
+
+sfarnel
+2007-06-25T16:49:56-0600
+PC004752
+2010-05-28T15:20:20-0600
+aharrigan
+
+	sfarnel	PC004752	postcards	1	3.2
+	

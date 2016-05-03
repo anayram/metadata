@@ -1,0 +1,144 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		sfarnel	PC005537	postcards	1	3.2
+	/mods/@version	3.2	sfarnel	PC005537	postcards	1	3.2
+	/mods/titleInfo		sfarnel	PC005537	postcards	1	3.2
+	/mods/titleInfo/@lang	english	sfarnel	PC005537	postcards	1	3.2
+	/mods/titleInfo/title	Y.W.C.A., Calgary, Alta.	sfarnel	PC005537	postcards	1	3.2
+	/mods/name		sfarnel	PC005537	postcards	1	3.2
+	/mods/name/@type	corporate	sfarnel	PC005537	postcards	1	3.2
+	/mods/name/namePart	L.C. Wilson Bookseller and Stationer	sfarnel	PC005537	postcards	1	3.2
+	/mods/name/role		sfarnel	PC005537	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	sfarnel	PC005537	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	sfarnel	PC005537	postcards	1	3.2
+	/mods/typeOfResource	still image	sfarnel	PC005537	postcards	1	3.2
+	/mods/genre	postcards	sfarnel	PC005537	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	sfarnel	PC005537	postcards	1	3.2
+	/mods/originInfo		sfarnel	PC005537	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	sfarnel	PC005537	postcards	1	3.2
+	/mods/originInfo/publisher	L.C. Wilson, Bookseller and Stationer, Calgary, Canada	sfarnel	PC005537	postcards	1	3.2
+	/mods/originInfo/dateIssued	1910	sfarnel	PC005537	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	inferred	sfarnel	PC005537	postcards	1	3.2
+	/mods/originInfo/place		sfarnel	PC005537	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	Calgary	sfarnel	PC005537	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	sfarnel	PC005537	postcards	1	3.2
+	/mods/language		sfarnel	PC005537	postcards	1	3.2
+	/mods/language/languageTerm	English	sfarnel	PC005537	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	sfarnel	PC005537	postcards	1	3.2
+	/mods/physicalDescription		sfarnel	PC005537	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : col.; 9 x 14 cm.	sfarnel	PC005537	postcards	1	3.2
+	/mods/note	20	sfarnel	PC005537	postcards	5	3.2
+	/mods/note/@type	price	sfarnel	PC005537	postcards	1	3.2
+	/mods/note	false	sfarnel	PC005537	postcards	5	3.2
+	/mods/note/@type	notable	sfarnel	PC005537	postcards	1	3.2
+	/mods/note	true	sfarnel	PC005537	postcards	5	3.2
+	/mods/note/@type	imgprobs	sfarnel	PC005537	postcards	1	3.2
+	/mods/note	[Printer's no.] 22380	sfarnel	PC005537	postcards	5	3.2
+	/mods/note/@type	public_on_back	sfarnel	PC005537	postcards	1	3.2
+	/mods/note	Bordered image of old Y.W.C.A building located on 223 12th Avenue S.W. The building was constructed from 1910 to 1911 and designed by David S. McIlroy. The Young Women's Christian Association of Calgary was organized in 1907 by a group of local women concerned about the city's lack of accommodation for single women new to Calgary.	sfarnel	PC005537	postcards	5	3.2
+	/mods/note/@type	public_description	sfarnel	PC005537	postcards	1	3.2
+	/mods/subject		sfarnel	PC005537	postcards	6	3.2
+	/mods/subject/geographic	Calgary, AB	sfarnel	PC005537	postcards	1	3.2
+	/mods/subject		sfarnel	PC005537	postcards	6	3.2
+	/mods/subject/hierarchicalGeographic		sfarnel	PC005537	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	sfarnel	PC005537	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	sfarnel	PC005537	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Calgary	sfarnel	PC005537	postcards	1	3.2
+	/mods/subject		sfarnel	PC005537	postcards	6	3.2
+	/mods/subject/genre	Postcards	sfarnel	PC005537	postcards	1	3.2
+	/mods/subject		sfarnel	PC005537	postcards	6	3.2
+	/mods/subject/topic	Young Women's Christian associations	sfarnel	PC005537	postcards	1	3.2
+	/mods/subject		sfarnel	PC005537	postcards	6	3.2
+	/mods/subject/topic	Organizations' facilities	sfarnel	PC005537	postcards	1	3.2
+	/mods/subject		sfarnel	PC005537	postcards	6	3.2
+	/mods/subject/name		sfarnel	PC005537	postcards	1	3.2
+	/mods/subject/name/@type	corporate	sfarnel	PC005537	postcards	1	3.2
+	/mods/subject/name/namePart	Young Women's Christian Association (Calgary, Alta.)	sfarnel	PC005537	postcards	1	3.2
+	/mods/identifier	PC005537	sfarnel	PC005537	postcards	1	3.2
+	/mods/identifier/@type	local	sfarnel	PC005537	postcards	1	3.2
+	/mods/location		sfarnel	PC005537	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 6	sfarnel	PC005537	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC005537.html	sfarnel	PC005537	postcards	3	3.2
+	/mods/location/url/@access	object in context	sfarnel	PC005537	postcards	1	3.2
+	/mods/location/url/@usage	primary display	sfarnel	PC005537	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/005/web/PC005537.jpg	sfarnel	PC005537	postcards	3	3.2
+	/mods/location/url/@access	raw object	sfarnel	PC005537	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='512' 	sfarnel	PC005537	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/005/thumbs/PC005537.jpg	sfarnel	PC005537	postcards	3	3.2
+	/mods/location/url/@access	preview	sfarnel	PC005537	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='128'	sfarnel	PC005537	postcards	1	3.2
+	/mods/recordInfo		sfarnel	PC005537	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	sfarnel	PC005537	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC005537	sfarnel	PC005537	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	sfarnel	sfarnel	PC005537	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2009-12-05T14:32:48-0700	sfarnel	PC005537	postcards	1	3.2
+	/@mods	
+
+Y.W.C.A., Calgary, Alta.
+
+
+L.C. Wilson Bookseller and Stationer
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+L.C. Wilson, Bookseller and Stationer, Calgary, Canada
+1910
+
+
+Calgary
+
+
+
+English
+
+
+1 postcard : col.; 9 x 14 cm.
+
+20
+false
+true
+[Printer's no.] 22380
+Bordered image of old Y.W.C.A building located on 223 12th Avenue S.W. The building was constructed from 1910 to 1911 and designed by David S. McIlroy. The Young Women's Christian Association of Calgary was organized in 1907 by a group of local women concerned about the city's lack of accommodation for single women new to Calgary.
+
+Calgary, AB
+
+
+
+Canada
+Alberta
+Calgary
+
+
+
+Postcards
+
+
+Young Women's Christian associations
+
+
+Organizations' facilities
+
+
+
+Young Women's Christian Association (Calgary, Alta.)
+
+
+PC005537
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 6
+http://peel.library.ualberta.ca/postcards/PC005537.html
+http://peel.library.ualberta.ca/pcimages/PC/005/web/PC005537.jpg
+http://peel.library.ualberta.ca/pcimages/PC/005/thumbs/PC005537.jpg
+
+
+2007-06-25T16:49:56-0600
+PC005537
+sfarnel
+2009-12-05T14:32:48-0700
+
+	sfarnel	PC005537	postcards	1	3.2
+	

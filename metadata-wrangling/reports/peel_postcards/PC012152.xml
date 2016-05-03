@@ -1,0 +1,158 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		sfarnel	PC012152	postcards	1	3.3
+	/mods/@version	3.3	sfarnel	PC012152	postcards	1	3.3
+	/mods/titleInfo		sfarnel	PC012152	postcards	1	3.3
+	/mods/titleInfo/@lang	english	sfarnel	PC012152	postcards	1	3.3
+	/mods/titleInfo/title	Interior, Imperial Bank of Edmonton, Alta.	sfarnel	PC012152	postcards	1	3.3
+	/mods/name		sfarnel	PC012152	postcards	1	3.3
+	/mods/name/@type	personal	sfarnel	PC012152	postcards	1	3.3
+	/mods/name/namePart	Jones	sfarnel	PC012152	postcards	2	3.3
+	/mods/name/namePart/@type	family	sfarnel	PC012152	postcards	1	3.3
+	/mods/name/namePart	Tom	sfarnel	PC012152	postcards	2	3.3
+	/mods/name/namePart/@type	given	sfarnel	PC012152	postcards	1	3.3
+	/mods/name/role		sfarnel	PC012152	postcards	1	3.3
+	/mods/name/role/roleTerm	Photographer	sfarnel	PC012152	postcards	1	3.3
+	/mods/name/role/roleTerm/@type	text	sfarnel	PC012152	postcards	1	3.3
+	/mods/typeOfResource	still image	sfarnel	PC012152	postcards	1	3.3
+	/mods/genre	postcards	sfarnel	PC012152	postcards	1	3.3
+	/mods/genre/@authority	gmgpc	sfarnel	PC012152	postcards	1	3.3
+	/mods/originInfo		sfarnel	PC012152	postcards	1	3.3
+	/mods/originInfo/issuance	monographic	sfarnel	PC012152	postcards	1	3.3
+	/mods/originInfo/publisher	Published for Little's Souvenir Store, Edmonton, Alta. Can	sfarnel	PC012152	postcards	1	3.3
+	/mods/originInfo/dateIssued	1920-1950	sfarnel	PC012152	postcards	1	3.3
+	/mods/originInfo/dateIssued/@qualifier	inferred	sfarnel	PC012152	postcards	1	3.3
+	/mods/originInfo/place		sfarnel	PC012152	postcards	1	3.3
+	/mods/originInfo/place/placeTerm	Edmonton	sfarnel	PC012152	postcards	1	3.3
+	/mods/originInfo/place/placeTerm/@type	text	sfarnel	PC012152	postcards	1	3.3
+	/mods/language		sfarnel	PC012152	postcards	1	3.3
+	/mods/language/languageTerm	English	sfarnel	PC012152	postcards	1	3.3
+	/mods/language/languageTerm/@type	text	sfarnel	PC012152	postcards	1	3.3
+	/mods/physicalDescription		sfarnel	PC012152	postcards	1	3.3
+	/mods/physicalDescription/extent	1 postcard : sepia ; 9 x 14 cm.	sfarnel	PC012152	postcards	1	3.3
+	/mods/note	40	sfarnel	PC012152	postcards	5	3.3
+	/mods/note/@type	price	sfarnel	PC012152	postcards	1	3.3
+	/mods/note	false	sfarnel	PC012152	postcards	5	3.3
+	/mods/note/@type	notable	sfarnel	PC012152	postcards	1	3.3
+	/mods/note	false	sfarnel	PC012152	postcards	5	3.3
+	/mods/note/@type	imgprobs	sfarnel	PC012152	postcards	1	3.3
+	/mods/note	Tom Jones ---- "Glace" ---- Cincinnati, O.	sfarnel	PC012152	postcards	5	3.3
+	/mods/note/@type	public_on_back	sfarnel	PC012152	postcards	1	3.3
+	/mods/note	An interior view of The Imperial Bank of Canada (mistitled as the Imperial Bank of Edmonton.)	sfarnel	PC012152	postcards	5	3.3
+	/mods/note/@type	public_description	sfarnel	PC012152	postcards	1	3.3
+	/mods/subject		sfarnel	PC012152	postcards	8	3.3
+	/mods/subject/geographic	Edmonton, MB	sfarnel	PC012152	postcards	1	3.3
+	/mods/subject		sfarnel	PC012152	postcards	8	3.3
+	/mods/subject/hierarchicalGeographic		sfarnel	PC012152	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/country	Canada	sfarnel	PC012152	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/province	Alberta	sfarnel	PC012152	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/city	Edmonton	sfarnel	PC012152	postcards	1	3.3
+	/mods/subject		sfarnel	PC012152	postcards	8	3.3
+	/mods/subject/genre	Postcards	sfarnel	PC012152	postcards	1	3.3
+	/mods/subject		sfarnel	PC012152	postcards	8	3.3
+	/mods/subject/topic	Banks	sfarnel	PC012152	postcards	1	3.3
+	/mods/subject		sfarnel	PC012152	postcards	8	3.3
+	/mods/subject/topic	Interiors	sfarnel	PC012152	postcards	1	3.3
+	/mods/subject		sfarnel	PC012152	postcards	8	3.3
+	/mods/subject/topic	Marble	sfarnel	PC012152	postcards	1	3.3
+	/mods/subject		sfarnel	PC012152	postcards	8	3.3
+	/mods/subject/topic	Furnishings	sfarnel	PC012152	postcards	1	3.3
+	/mods/subject		sfarnel	PC012152	postcards	8	3.3
+	/mods/subject/name		sfarnel	PC012152	postcards	1	3.3
+	/mods/subject/name/@type	corporate	sfarnel	PC012152	postcards	1	3.3
+	/mods/subject/name/namePart	Imperial Bank of Canada (Edmonton, Alta.)	sfarnel	PC012152	postcards	1	3.3
+	/mods/identifier	PC012152	sfarnel	PC012152	postcards	1	3.3
+	/mods/identifier/@type	local	sfarnel	PC012152	postcards	1	3.3
+	/mods/location		sfarnel	PC012152	postcards	1	3.3
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 4 (set 2)	sfarnel	PC012152	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC012152.html	sfarnel	PC012152	postcards	3	3.3
+	/mods/location/url/@access	object in context	sfarnel	PC012152	postcards	1	3.3
+	/mods/location/url/@usage	primary display	sfarnel	PC012152	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/012/web/PC012152.jpg	sfarnel	PC012152	postcards	3	3.3
+	/mods/location/url/@access	raw object	sfarnel	PC012152	postcards	1	3.3
+	/mods/location/url/@note	width='800' height='501' 	sfarnel	PC012152	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/012/thumbs/PC012152.jpg	sfarnel	PC012152	postcards	3	3.3
+	/mods/location/url/@access	preview	sfarnel	PC012152	postcards	1	3.3
+	/mods/location/url/@note	width='200' height='125'	sfarnel	PC012152	postcards	1	3.3
+	/mods/recordInfo		sfarnel	PC012152	postcards	1	3.3
+	/mods/recordInfo/recordCreationDate	2009-01-23T14:03:00-0700	sfarnel	PC012152	postcards	1	3.3
+	/mods/recordInfo/recordIdentifier	PC012152	sfarnel	PC012152	postcards	1	3.3
+	/mods/recordInfo/recordContentSource	sfarnel	sfarnel	PC012152	postcards	1	3.3
+	/mods/recordInfo/recordChangeDate	2009-12-06T16:48:09-0700	sfarnel	PC012152	postcards	1	3.3
+	/@mods	
+
+Interior, Imperial Bank of Edmonton, Alta.
+
+
+Jones
+Tom
+
+Photographer
+
+
+still image
+postcards
+
+monographic
+Published for Little's Souvenir Store, Edmonton, Alta. Can
+1920-1950
+
+
+Edmonton
+
+
+
+English
+
+
+1 postcard : sepia ; 9 x 14 cm.
+
+40
+false
+false
+Tom Jones ---- "Glace" ---- Cincinnati, O.
+An interior view of The Imperial Bank of Canada (mistitled as the Imperial Bank of Edmonton.)
+
+Edmonton, MB
+
+
+
+Canada
+Alberta
+Edmonton
+
+
+
+Postcards
+
+
+Banks
+
+
+Interiors
+
+
+Marble
+
+
+Furnishings
+
+
+
+Imperial Bank of Canada (Edmonton, Alta.)
+
+
+PC012152
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 4 (set 2)
+http://peel.library.ualberta.ca/postcards/PC012152.html
+    http://peel.library.ualberta.ca/pcimages/PC/012/web/PC012152.jpg
+    http://peel.library.ualberta.ca/pcimages/PC/012/thumbs/PC012152.jpg
+
+
+2009-01-23T14:03:00-0700
+PC012152
+sfarnel
+2009-12-06T16:48:09-0700
+
+	sfarnel	PC012152	postcards	1	3.3
+	

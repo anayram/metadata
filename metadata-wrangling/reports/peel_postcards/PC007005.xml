@@ -1,0 +1,153 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		rschramm	PC007005	postcards	1	3.2
+	/mods/@version	3.2	rschramm	PC007005	postcards	1	3.2
+	/mods/titleInfo		rschramm	PC007005	postcards	1	3.2
+	/mods/titleInfo/@lang	english	rschramm	PC007005	postcards	1	3.2
+	/mods/titleInfo/title	Visit of Earl Grey to Edmonton Alta. 1.10.09	rschramm	PC007005	postcards	1	3.2
+	/mods/name		rschramm	PC007005	postcards	1	3.2
+	/mods/name/@type	corporate	rschramm	PC007005	postcards	1	3.2
+	/mods/name/namePart	Sanderson Photo	rschramm	PC007005	postcards	1	3.2
+	/mods/name/role		rschramm	PC007005	postcards	1	3.2
+	/mods/name/role/roleTerm	Photographer	rschramm	PC007005	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	rschramm	PC007005	postcards	1	3.2
+	/mods/typeOfResource	still image	rschramm	PC007005	postcards	1	3.2
+	/mods/genre	postcards	rschramm	PC007005	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	rschramm	PC007005	postcards	1	3.2
+	/mods/originInfo		rschramm	PC007005	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	rschramm	PC007005	postcards	1	3.2
+	/mods/originInfo/publisher	Sanderson Photo	rschramm	PC007005	postcards	1	3.2
+	/mods/originInfo/dateIssued	1909	rschramm	PC007005	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	approximate	rschramm	PC007005	postcards	1	3.2
+	/mods/originInfo/place		rschramm	PC007005	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	[Edmonton]	rschramm	PC007005	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	rschramm	PC007005	postcards	1	3.2
+	/mods/language		rschramm	PC007005	postcards	1	3.2
+	/mods/language/languageTerm	English	rschramm	PC007005	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	rschramm	PC007005	postcards	1	3.2
+	/mods/physicalDescription		rschramm	PC007005	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : b&w ; 9 x 14 cm.	rschramm	PC007005	postcards	1	3.2
+	/mods/note	60	rschramm	PC007005	postcards	10	3.2
+	/mods/note/@type	price	rschramm	PC007005	postcards	1	3.2
+	/mods/note	false	rschramm	PC007005	postcards	10	3.2
+	/mods/note/@type	notable	rschramm	PC007005	postcards	1	3.2
+	/mods/note	false	rschramm	PC007005	postcards	10	3.2
+	/mods/note/@type	imgprobs	rschramm	PC007005	postcards	1	3.2
+	/mods/note	Scene of a crowd of people gathered in the streets to commemorate the visit of Earl Grey to Edmonton, Alberta.	rschramm	PC007005	postcards	10	3.2
+	/mods/note/@type	public_description	rschramm	PC007005	postcards	1	3.2
+	/mods/note	Mr W. Mitchell Esq	rschramm	PC007005	postcards	10	3.2
+	/mods/note/@type	public_to	rschramm	PC007005	postcards	1	3.2
+	/mods/note	A.N.A.	rschramm	PC007005	postcards	10	3.2
+	/mods/note/@type	public_from	rschramm	PC007005	postcards	1	3.2
+	/mods/note	BA of Ottawa, Tisdale, Sask.	rschramm	PC007005	postcards	10	3.2
+	/mods/note/@type	public_address	rschramm	PC007005	postcards	1	3.2
+	/mods/note	Edmonton on the busy day almost as bad as crowd at Tisdale can gather on [---] day. Write soon. A.N.A.	rschramm	PC007005	postcards	10	3.2
+	/mods/note/@type	public_message	rschramm	PC007005	postcards	1	3.2
+	/mods/note	Edmonton, Alta., 1909-10-06	rschramm	PC007005	postcards	10	3.2
+	/mods/note/@type	public_postmark_date	rschramm	PC007005	postcards	1	3.2
+	/mods/note	Tisdale, Sask., 1909-10-16	rschramm	PC007005	postcards	10	3.2
+	/mods/note/@type	public_postmark_date	rschramm	PC007005	postcards	1	3.2
+	/mods/subject		rschramm	PC007005	postcards	5	3.2
+	/mods/subject/geographic	Edmonton, AB	rschramm	PC007005	postcards	1	3.2
+	/mods/subject		rschramm	PC007005	postcards	5	3.2
+	/mods/subject/hierarchicalGeographic		rschramm	PC007005	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	rschramm	PC007005	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	rschramm	PC007005	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Edmonton	rschramm	PC007005	postcards	1	3.2
+	/mods/subject		rschramm	PC007005	postcards	5	3.2
+	/mods/subject/genre	Postcards	rschramm	PC007005	postcards	1	3.2
+	/mods/subject		rschramm	PC007005	postcards	5	3.2
+	/mods/subject/topic	Visits of state	rschramm	PC007005	postcards	1	3.2
+	/mods/subject		rschramm	PC007005	postcards	5	3.2
+	/mods/subject/topic	Crowds	rschramm	PC007005	postcards	1	3.2
+	/mods/identifier	PC007005	rschramm	PC007005	postcards	1	3.2
+	/mods/identifier/@type	local	rschramm	PC007005	postcards	1	3.2
+	/mods/location		rschramm	PC007005	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 9	rschramm	PC007005	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC007005.html	rschramm	PC007005	postcards	3	3.2
+	/mods/location/url/@access	object in context	rschramm	PC007005	postcards	1	3.2
+	/mods/location/url/@usage	primary display	rschramm	PC007005	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/007/web/PC007005.jpg	rschramm	PC007005	postcards	3	3.2
+	/mods/location/url/@access	raw object	rschramm	PC007005	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='479' 	rschramm	PC007005	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/007/thumbs/PC007005.jpg	rschramm	PC007005	postcards	3	3.2
+	/mods/location/url/@access	preview	rschramm	PC007005	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='120'	rschramm	PC007005	postcards	1	3.2
+	/mods/recordInfo		rschramm	PC007005	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	rschramm	PC007005	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC007005	rschramm	PC007005	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	rschramm	rschramm	PC007005	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2008-07-11T15:53:49-0600	rschramm	PC007005	postcards	1	3.2
+	/@mods	
+
+Visit of Earl Grey to Edmonton Alta. 1.10.09
+
+
+Sanderson Photo
+
+Photographer
+
+
+still image
+postcards
+
+monographic
+Sanderson Photo
+1909
+
+[Edmonton]
+
+
+
+English
+
+
+1 postcard : b&w ; 9 x 14 cm.
+
+60
+false
+false
+Scene of a crowd of people gathered in the streets to commemorate the visit of Earl Grey to Edmonton, Alberta.
+Mr W. Mitchell Esq
+A.N.A.
+BA of Ottawa, Tisdale, Sask.
+Edmonton on the busy day almost as bad as crowd at Tisdale can gather on [---] day. Write soon. A.N.A.
+Edmonton, Alta., 1909-10-06
+Tisdale, Sask., 1909-10-16
+
+Edmonton, AB
+
+
+
+Canada
+Alberta
+Edmonton
+
+
+
+Postcards
+
+
+Visits of state
+
+
+Crowds
+
+PC007005
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 9
+http://peel.library.ualberta.ca/postcards/PC007005.html
+http://peel.library.ualberta.ca/pcimages/PC/007/web/PC007005.jpg
+http://peel.library.ualberta.ca/pcimages/PC/007/thumbs/PC007005.jpg
+
+
+
+
+
+
+2007-06-25T16:49:56-0600
+PC007005
+rschramm
+2008-07-11T15:53:49-0600
+
+	rschramm	PC007005	postcards	1	3.2
+	

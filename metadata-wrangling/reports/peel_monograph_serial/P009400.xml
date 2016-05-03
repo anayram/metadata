@@ -1,0 +1,100 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.2
+	/mods/@version	3.2		1	3.2
+	/mods/titleInfo			1	3.2
+	/mods/titleInfo/title	Among the mountains		1	3.2
+	/mods/name			1	3.2
+	/mods/name/@type	personal		1	3.2
+	/mods/name/namePart	Hargadon, Michael A		1	3.2
+	/mods/typeOfResource	text		1	3.2
+	/mods/originInfo			1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	quc		1	3.2
+	/mods/originInfo/place/placeTerm/@authority	marccountry		1	3.2
+	/mods/originInfo/place/placeTerm/@type	code		1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	Montreal		1	3.2
+	/mods/originInfo/place/placeTerm/@type	text		1	3.2
+	/mods/originInfo/publisher	Southam Press		1	3.2
+	/mods/originInfo/dateIssued	c1925		2	3.2
+	/mods/originInfo/dateIssued	1925		2	3.2
+	/mods/originInfo/dateIssued/@encoding	marc		1	3.2
+	/mods/originInfo/issuance	monographic		1	3.2
+	/mods/language			1	3.2
+	/mods/language/languageTerm	eng		1	3.2
+	/mods/language/languageTerm/@authority	iso639-2b		1	3.2
+	/mods/language/languageTerm/@type	code		1	3.2
+	/mods/physicalDescription			1	3.2
+	/mods/physicalDescription/form	print		1	3.2
+	/mods/physicalDescription/form/@authority	marcform		1	3.2
+	/mods/physicalDescription/extent	[32] p. : col. ill. ; 24 cm.		1	3.2
+	/mods/note	by Michael Hargadon.		4	3.2
+	/mods/note/@type	statement of responsibility		1	3.2
+	/mods/note	http://chelsea.library.ualberta.ca:8081/peel_master/select/?q=%28authorAuthority%3A%22Hargadon%2C+Michael+A%22%29+OR+%28subjectAuthority%3A%22Mountains%22%29&fl=id+authorAuthority+authorDates+subjectAuthority+authorityAuthority&rows=100		4	3.2
+	/mods/note/@type	solr		1	3.2
+	/mods/note	DOA: 1925 Spatial: Rocky Mountains, Canadian (B.C. and Alta.)		4	3.2
+	/mods/note/@type	local		1	3.2
+	/mods/note	Poetry. Collection of poems describing the beauty of the Canadian Rockies.		4	3.2
+	/mods/note/@type	public		1	3.2
+	/mods/subject			1	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/topic	Mountains		1	3.2
+	/mods/identifier	3838522		3	3.2
+	/mods/identifier/@type	local:neos		1	3.2
+	/mods/identifier	N008441		3	3.2
+	/mods/identifier/@type	local:peel_new		1	3.2
+	/mods/identifier	9400		3	3.2
+	/mods/identifier/@type	local:peel3		1	3.2
+	/mods/recordInfo			1	3.2
+	/mods/recordInfo/recordContentSource	RC		2	3.2
+	/mods/recordInfo/recordContentSource	RC		2	3.2
+	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.2
+	/mods/recordInfo/recordCreationDate	1988-11-07T12:00:00-0700		1	3.2
+	/mods/recordInfo/recordIdentifier	P009400		1	3.2
+	/mods/recordInfo/recordChangeDate	2009-12-22T20:42:49-0700		1	3.2
+	/@mods	
+
+Among the mountains
+
+
+Hargadon, Michael A
+
+text
+
+
+quc
+
+
+Montreal
+
+Southam Press
+c1925
+1925
+monographic
+
+
+eng
+
+
+print
+[32] p. : col. ill. ; 24 cm.
+
+by Michael Hargadon.
+http://chelsea.library.ualberta.ca:8081/peel_master/select/?q=%28authorAuthority%3A%22Hargadon%2C+Michael+A%22%29+OR+%28subjectAuthority%3A%22Mountains%22%29&fl=id+authorAuthority+authorDates+subjectAuthority+authorityAuthority&rows=100
+DOA: 1925 Spatial: Rocky Mountains, Canadian (B.C. and Alta.)
+Poetry. Collection of poems describing the beauty of the Canadian Rockies.
+
+				Mountains
+			
+3838522
+N008441
+9400
+
+RC
+RC
+1988-11-07T12:00:00-0700
+P009400
+2009-12-22T20:42:49-0700
+
+		1	3.2
+	

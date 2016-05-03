@@ -1,0 +1,65 @@
+Path	Content	URL	Form or Genre	Occurrence	MODS version
+
+/mods/titleInfo		http://peel.library.ualberta.ca/newspapers/DBP.html	newspaper	1	3.0
+/mods/titleInfo/title	Didsbury pioneer	http://peel.library.ualberta.ca/newspapers/DBP.html	newspaper	1	3.0
+
+/mods/typeOfResource	text	http://peel.library.ualberta.ca/newspapers/DBP.html	newspaper	1	3.0
+
+/mods/genre	newspaper	http://peel.library.ualberta.ca/newspapers/DBP.html	newspaper	1	3.0
+/mods/genre/@authority	marcgt	http://peel.library.ualberta.ca/newspapers/DBP.html	newspaper	1	3.0
+
+/mods/originInfo		http://peel.library.ualberta.ca/newspapers/DBP.html	newspaper	1	3.0
+/mods/originInfo/place		http://peel.library.ualberta.ca/newspapers/DBP.html	newspaper	1	3.0
+/mods/originInfo/place/placeTerm	Didsbury, Alta.	http://peel.library.ualberta.ca/newspapers/DBP.html	newspaper	1	3.0
+/mods/originInfo/place/placeTerm/@type	text	http://peel.library.ualberta.ca/newspapers/DBP.html	newspaper	1	3.0
+/mods/originInfo/dateIssued	1903	http://peel.library.ualberta.ca/newspapers/DBP.html	newspaper	2	3.0
+/mods/originInfo/dateIssued/@encoding	iso8601	http://peel.library.ualberta.ca/newspapers/DBP.html	newspaper	1	3.0
+/mods/originInfo/dateIssued/@point	start	http://peel.library.ualberta.ca/newspapers/DBP.html	newspaper	1	3.0
+/mods/originInfo/dateIssued	1974	http://peel.library.ualberta.ca/newspapers/DBP.html	newspaper	2	3.0
+/mods/originInfo/dateIssued/@encoding	iso8601	http://peel.library.ualberta.ca/newspapers/DBP.html	newspaper	1	3.0
+/mods/originInfo/dateIssued/@point	end	http://peel.library.ualberta.ca/newspapers/DBP.html	newspaper	1	3.0
+/mods/originInfo/issuance	continuing	http://peel.library.ualberta.ca/newspapers/DBP.html	newspaper	1	3.0
+
+/mods/language		http://peel.library.ualberta.ca/newspapers/DBP.html	newspaper	1	3.0
+/mods/language/languageTerm	English	http://peel.library.ualberta.ca/newspapers/DBP.html	newspaper	1	3.0
+/mods/language/languageTerm/@type	text	http://peel.library.ualberta.ca/newspapers/DBP.html	newspaper	1	3.0
+
+/mods/physicalDescription		http://peel.library.ualberta.ca/newspapers/DBP.html	newspaper	1	3.0
+/mods/physicalDescription/form	print	http://peel.library.ualberta.ca/newspapers/DBP.html	newspaper	1	3.0
+/mods/physicalDescription/form/@authority	marcform	http://peel.library.ualberta.ca/newspapers/DBP.html	newspaper	1	3.0
+/mods/physicalDescription/extent	v. : ill.	http://peel.library.ualberta.ca/newspapers/DBP.html	newspaper	1	3.0
+
+/mods/note	Weekly. Imprint varies. Published 13 February 1903 to 2 January 1974. Amalgamated 9 January 1974 with <i>Didsbury booster</i> to from <i>Didsbury booster and Mountain View country news</i>.	http://peel.library.ualberta.ca/newspapers/DBP.html	newspaper	2	3.0
+/mods/note/@type	public	http://peel.library.ualberta.ca/newspapers/DBP.html	newspaper	1	3.0
+
+/mods/note	newspapers	http://peel.library.ualberta.ca/newspapers/DBP.html	newspaper	2	3.0
+/mods/note/@type	local:oaiset	http://peel.library.ualberta.ca/newspapers/DBP.html	newspaper	1	3.0
+
+/mods/subject		http://peel.library.ualberta.ca/newspapers/DBP.html	newspaper	1	3.0
+/mods/subject/hierarchicalGeographic		http://peel.library.ualberta.ca/newspapers/DBP.html	newspaper	1	3.0
+/mods/subject/hierarchicalGeographic/country	Canada	http://peel.library.ualberta.ca/newspapers/DBP.html	newspaper	1	3.0
+/mods/subject/hierarchicalGeographic/province	Alberta	http://peel.library.ualberta.ca/newspapers/DBP.html	newspaper	1	3.0
+/mods/subject/hierarchicalGeographic/city	Didsbury	http://peel.library.ualberta.ca/newspapers/DBP.html	newspaper	1	3.0
+
+/mods/identifier	DBP	http://peel.library.ualberta.ca/newspapers/DBP.html	newspaper	1	3.0
+/mods/identifier/@type	local:newspaper	http://peel.library.ualberta.ca/newspapers/DBP.html	newspaper	1	3.0
+
+    /mods/location		http://peel.library.ualberta.ca/newspapers/DBP.html	newspaper	1	3.0
+/mods/location/physicalLocation	CaAEU	http://peel.library.ualberta.ca/newspapers/DBP.html	newspaper	1	3.0
+/mods/location/physicalLocation/@authority	marcorg	http://peel.library.ualberta.ca/newspapers/DBP.html	newspaper	1	3.0
+/mods/location/holdingSimple		http://peel.library.ualberta.ca/newspapers/DBP.html	newspaper	1	3.0
+/mods/location/holdingSimple/copyInformation		http://peel.library.ualberta.ca/newspapers/DBP.html	newspaper	1	3.0
+/mods/location/holdingSimple/copyInformation/form	electronic	http://peel.library.ualberta.ca/newspapers/DBP.html	newspaper	1	3.0
+/mods/location/holdingSimple/copyInformation/form/@authority	marcform	http://peel.library.ualberta.ca/newspapers/DBP.html	newspaper	1	3.0
+/mods/location/holdingSimple/copyInformation/electronicLocator	http://peel.library.ualberta.ca/newspapers/DBP/	http://peel.library.ualberta.ca/newspapers/DBP.html	newspaper	1	3.0
+/mods/location/holdingSimple/copyInformation/enumerationAndChronology	1903,1907-1959	http://peel.library.ualberta.ca/newspapers/DBP.html	newspaper	1	3.0
+/mods/location/holdingSimple/copyInformation/enumerationAndChronology/@unitType	1	http://peel.library.ualberta.ca/newspapers/DBP.html	newspaper	1	3.0
+
+/mods/recordInfo		http://peel.library.ualberta.ca/newspapers/DBP.html	newspaper	1	3.0
+/mods/recordInfo/recordContentSource	Peel's Prairie Provinces	http://peel.library.ualberta.ca/newspapers/DBP.html	newspaper	2	3.0
+/mods/recordInfo/recordContentSource	sfarnel	http://peel.library.ualberta.ca/newspapers/DBP.html	newspaper	2	3.0
+/mods/recordInfo/recordContentSource/@authority	local:person	http://peel.library.ualberta.ca/newspapers/DBP.html	newspaper	1	3.0
+/mods/recordInfo/recordCreationDate	2010-08-26T13:14:39-0600	http://peel.library.ualberta.ca/newspapers/DBP.html	newspaper	1	3.0
+/mods/recordInfo/recordIdentifier	QDBP	http://peel.library.ualberta.ca/newspapers/DBP.html	newspaper	1	3.0
+/mods/recordInfo/recordChangeDate	2010-08-26T13:20:34-0600	http://peel.library.ualberta.ca/newspapers/DBP.html	newspaper	1	3.0
+

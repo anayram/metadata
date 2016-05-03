@@ -1,0 +1,150 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		bstearns	PC014092	postcards	1	3.3
+	/mods/@version	3.3	bstearns	PC014092	postcards	1	3.3
+	/mods/titleInfo		bstearns	PC014092	postcards	1	3.3
+	/mods/titleInfo/@lang	english	bstearns	PC014092	postcards	1	3.3
+	/mods/titleInfo/title	Namayo St., Edmonton, Alta.	bstearns	PC014092	postcards	1	3.3
+	/mods/name		bstearns	PC014092	postcards	1	3.3
+	/mods/name/@type	corporate	bstearns	PC014092	postcards	1	3.3
+	/mods/name/namePart	Stedman Bros. Limited	bstearns	PC014092	postcards	1	3.3
+	/mods/name/role		bstearns	PC014092	postcards	1	3.3
+	/mods/name/role/roleTerm	Publisher	bstearns	PC014092	postcards	1	3.3
+	/mods/name/role/roleTerm/@type	text	bstearns	PC014092	postcards	1	3.3
+	/mods/typeOfResource	still image	bstearns	PC014092	postcards	1	3.3
+	/mods/genre	postcards	bstearns	PC014092	postcards	1	3.3
+	/mods/genre/@authority	gmgpc	bstearns	PC014092	postcards	1	3.3
+	/mods/originInfo		bstearns	PC014092	postcards	1	3.3
+	/mods/originInfo/issuance	monographic	bstearns	PC014092	postcards	1	3.3
+	/mods/originInfo/publisher	Pub. by Stedman Bros. Limited Brantford and Winnipeg, Canada	bstearns	PC014092	postcards	1	3.3
+	/mods/originInfo/dateIssued	ca. 1910	bstearns	PC014092	postcards	1	3.3
+	/mods/originInfo/dateIssued/@qualifier	approximate	bstearns	PC014092	postcards	1	3.3
+	/mods/originInfo/place		bstearns	PC014092	postcards	2	3.3
+	/mods/originInfo/place/placeTerm	Brantford	bstearns	PC014092	postcards	1	3.3
+	/mods/originInfo/place/placeTerm/@type	text	bstearns	PC014092	postcards	1	3.3
+	/mods/originInfo/place		bstearns	PC014092	postcards	2	3.3
+	/mods/originInfo/place/placeTerm	Winnipeg	bstearns	PC014092	postcards	1	3.3
+	/mods/originInfo/place/placeTerm/@type	text	bstearns	PC014092	postcards	1	3.3
+	/mods/language		bstearns	PC014092	postcards	1	3.3
+	/mods/language/languageTerm	English	bstearns	PC014092	postcards	1	3.3
+	/mods/language/languageTerm/@type	text	bstearns	PC014092	postcards	1	3.3
+	/mods/physicalDescription		bstearns	PC014092	postcards	1	3.3
+	/mods/physicalDescription/extent	1 postcard : col. ; 9 x 14 cm.	bstearns	PC014092	postcards	1	3.3
+	/mods/note	18	bstearns	PC014092	postcards	6	3.3
+	/mods/note/@type	price	bstearns	PC014092	postcards	1	3.3
+	/mods/note	false	bstearns	PC014092	postcards	6	3.3
+	/mods/note/@type	notable	bstearns	PC014092	postcards	1	3.3
+	/mods/note	false	bstearns	PC014092	postcards	6	3.3
+	/mods/note/@type	imgprobs	bstearns	PC014092	postcards	1	3.3
+	/mods/note	Made in Germany	bstearns	PC014092	postcards	6	3.3
+	/mods/note/@type	public_on_back	bstearns	PC014092	postcards	1	3.3
+	/mods/note	S.B. 4582	bstearns	PC014092	postcards	6	3.3
+	/mods/note/@type	public_on_back	bstearns	PC014092	postcards	1	3.3
+	/mods/note	Namayo Avenue [97th Street], Edmonton, Alberta. The streetcar line can be seen down the street, with two streetcars in service.	bstearns	PC014092	postcards	6	3.3
+	/mods/note/@type	public_description	bstearns	PC014092	postcards	1	3.3
+	/mods/subject		bstearns	PC014092	postcards	6	3.3
+	/mods/subject/geographic	Edmonton, MB	bstearns	PC014092	postcards	1	3.3
+	/mods/subject		bstearns	PC014092	postcards	6	3.3
+	/mods/subject/hierarchicalGeographic		bstearns	PC014092	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/country	Canada	bstearns	PC014092	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/province	Alberta	bstearns	PC014092	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/city	Edmonton	bstearns	PC014092	postcards	1	3.3
+	/mods/subject		bstearns	PC014092	postcards	6	3.3
+	/mods/subject/genre	Postcards	bstearns	PC014092	postcards	1	3.3
+	/mods/subject		bstearns	PC014092	postcards	6	3.3
+	/mods/subject/topic	Commercial streets	bstearns	PC014092	postcards	1	3.3
+	/mods/subject		bstearns	PC014092	postcards	6	3.3
+	/mods/subject/topic	Street railroads	bstearns	PC014092	postcards	1	3.3
+	/mods/subject		bstearns	PC014092	postcards	6	3.3
+	/mods/subject/topic	Storefronts	bstearns	PC014092	postcards	1	3.3
+	/mods/identifier	PC014092	bstearns	PC014092	postcards	1	3.3
+	/mods/identifier/@type	local	bstearns	PC014092	postcards	1	3.3
+	/mods/location		bstearns	PC014092	postcards	1	3.3
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 4 (set 2)	bstearns	PC014092	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC014092.html	bstearns	PC014092	postcards	3	3.3
+	/mods/location/url/@access	object in context	bstearns	PC014092	postcards	1	3.3
+	/mods/location/url/@usage	primary display	bstearns	PC014092	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/014/web/PC014092.jpg	bstearns	PC014092	postcards	3	3.3
+	/mods/location/url/@access	raw object	bstearns	PC014092	postcards	1	3.3
+	/mods/location/url/@note	width='1080' height='675' 	bstearns	PC014092	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/014/thumbs/PC014092.jpg	bstearns	PC014092	postcards	3	3.3
+	/mods/location/url/@access	preview	bstearns	PC014092	postcards	1	3.3
+	/mods/location/url/@note	width='200' height='125'	bstearns	PC014092	postcards	1	3.3
+	/mods/recordInfo		bstearns	PC014092	postcards	1	3.3
+	/mods/recordInfo/recordCreationDate	2009-01-23T14:03:00-0700	bstearns	PC014092	postcards	1	3.3
+	/mods/recordInfo/recordIdentifier	PC014092	bstearns	PC014092	postcards	1	3.3
+	/mods/recordInfo/recordContentSource	bstearns	bstearns	PC014092	postcards	1	3.3
+	/mods/recordInfo/recordChangeDate	2009-10-30T13:50:53-0700	bstearns	PC014092	postcards	1	3.3
+	/@mods	
+
+Namayo St., Edmonton, Alta.
+
+
+Stedman Bros. Limited
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+Pub. by Stedman Bros. Limited Brantford and Winnipeg, Canada
+ca. 1910
+
+
+
+Brantford
+
+
+Winnipeg
+
+
+
+English
+
+
+1 postcard : col. ; 9 x 14 cm.
+
+18
+false
+false
+Made in Germany
+S.B. 4582
+Namayo Avenue [97th Street], Edmonton, Alberta. The streetcar line can be seen down the street, with two streetcars in service.
+
+Edmonton, MB
+
+
+
+Canada
+Alberta
+Edmonton
+
+
+
+Postcards
+
+
+Commercial streets
+
+
+Street railroads
+
+
+Storefronts
+
+PC014092
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 4 (set 2)
+http://peel.library.ualberta.ca/postcards/PC014092.html
+http://peel.library.ualberta.ca/pcimages/PC/014/web/PC014092.jpg
+http://peel.library.ualberta.ca/pcimages/PC/014/thumbs/PC014092.jpg
+
+
+2009-01-23T14:03:00-0700
+PC014092
+bstearns
+2009-10-30T13:50:53-0700
+
+	bstearns	PC014092	postcards	1	3.3
+	

@@ -1,0 +1,156 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		rschramm	PC001469	postcards	1	3.2
+	/mods/@version	3.2	rschramm	PC001469	postcards	1	3.2
+	/mods/titleInfo		rschramm	PC001469	postcards	1	3.2
+	/mods/titleInfo/@lang	english	rschramm	PC001469	postcards	1	3.2
+	/mods/titleInfo/title	Main St. Somerset, Man.	rschramm	PC001469	postcards	1	3.2
+	/mods/name		rschramm	PC001469	postcards	1	3.2
+	/mods/name/@type	corporate	rschramm	PC001469	postcards	1	3.2
+	/mods/name/namePart	Rumsey & Co.	rschramm	PC001469	postcards	1	3.2
+	/mods/name/role		rschramm	PC001469	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	rschramm	PC001469	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	rschramm	PC001469	postcards	1	3.2
+	/mods/typeOfResource	still image	rschramm	PC001469	postcards	1	3.2
+	/mods/genre	postcards	rschramm	PC001469	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	rschramm	PC001469	postcards	1	3.2
+	/mods/originInfo		rschramm	PC001469	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	rschramm	PC001469	postcards	1	3.2
+	/mods/originInfo/publisher	Real Photo, published by Rumsey & Co., Toronto, Can.	rschramm	PC001469	postcards	1	3.2
+	/mods/originInfo/dateIssued	1911	rschramm	PC001469	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	approximate	rschramm	PC001469	postcards	1	3.2
+	/mods/originInfo/dateOther	1911-08-05	rschramm	PC001469	postcards	1	3.2
+	/mods/originInfo/place		rschramm	PC001469	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	Toronto	rschramm	PC001469	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	rschramm	PC001469	postcards	1	3.2
+	/mods/language		rschramm	PC001469	postcards	1	3.2
+	/mods/language/languageTerm	English	rschramm	PC001469	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	rschramm	PC001469	postcards	1	3.2
+	/mods/physicalDescription		rschramm	PC001469	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : b&w ; 9 x 14 cm.	rschramm	PC001469	postcards	1	3.2
+	/mods/note	150	rschramm	PC001469	postcards	9	3.2
+	/mods/note/@type	price	rschramm	PC001469	postcards	1	3.2
+	/mods/note	false	rschramm	PC001469	postcards	9	3.2
+	/mods/note/@type	notable	rschramm	PC001469	postcards	1	3.2
+	/mods/note	false	rschramm	PC001469	postcards	9	3.2
+	/mods/note/@type	imgprobs	rschramm	PC001469	postcards	1	3.2
+	/mods/note	Street scene with store fronts along the left side. There are cars on the street around the buildings, as well as pedestrians.	rschramm	PC001469	postcards	9	3.2
+	/mods/note/@type	public_description	rschramm	PC001469	postcards	1	3.2
+	/mods/note	Mrs Geo F Richardson	rschramm	PC001469	postcards	9	3.2
+	/mods/note/@type	public_to	rschramm	PC001469	postcards	1	3.2
+	/mods/note	RC Fuller	rschramm	PC001469	postcards	9	3.2
+	/mods/note/@type	public_from	rschramm	PC001469	postcards	1	3.2
+	/mods/note	577 Newton Lower Falls, Mass, USA	rschramm	PC001469	postcards	9	3.2
+	/mods/note/@type	public_address	rschramm	PC001469	postcards	1	3.2
+	/mods/note	Friday Aug 4/11, Dear Sister, We took dinner at this place, The Engineers gave the Brotherhood [a---] here and there are hundreds here, I cant write much, RC Fuller	rschramm	PC001469	postcards	9	3.2
+	/mods/note/@type	public_message	rschramm	PC001469	postcards	1	3.2
+	/mods/note	Somerset, Man., 1911-08-05	rschramm	PC001469	postcards	9	3.2
+	/mods/note/@type	public_postmark_date	rschramm	PC001469	postcards	1	3.2
+	/mods/subject		rschramm	PC001469	postcards	6	3.2
+	/mods/subject/geographic	Somerset, MB	rschramm	PC001469	postcards	1	3.2
+	/mods/subject		rschramm	PC001469	postcards	6	3.2
+	/mods/subject/hierarchicalGeographic		rschramm	PC001469	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	rschramm	PC001469	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Manitoba	rschramm	PC001469	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Somerset	rschramm	PC001469	postcards	1	3.2
+	/mods/subject		rschramm	PC001469	postcards	6	3.2
+	/mods/subject/genre	Postcards	rschramm	PC001469	postcards	1	3.2
+	/mods/subject		rschramm	PC001469	postcards	6	3.2
+	/mods/subject/topic	Commercial streets	rschramm	PC001469	postcards	1	3.2
+	/mods/subject		rschramm	PC001469	postcards	6	3.2
+	/mods/subject/topic	Storefronts	rschramm	PC001469	postcards	1	3.2
+	/mods/subject		rschramm	PC001469	postcards	6	3.2
+	/mods/subject/topic	City & town life	rschramm	PC001469	postcards	1	3.2
+	/mods/identifier	PC001469	rschramm	PC001469	postcards	1	3.2
+	/mods/identifier/@type	local	rschramm	PC001469	postcards	1	3.2
+	/mods/location		rschramm	PC001469	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 3	rschramm	PC001469	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC001469.html	rschramm	PC001469	postcards	3	3.2
+	/mods/location/url/@access	object in context	rschramm	PC001469	postcards	1	3.2
+	/mods/location/url/@usage	primary display	rschramm	PC001469	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/001/web/PC001469.jpg	rschramm	PC001469	postcards	3	3.2
+	/mods/location/url/@access	raw object	rschramm	PC001469	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='490' 	rschramm	PC001469	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/001/thumbs/PC001469.jpg	rschramm	PC001469	postcards	3	3.2
+	/mods/location/url/@access	preview	rschramm	PC001469	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='123'	rschramm	PC001469	postcards	1	3.2
+	/mods/recordInfo		rschramm	PC001469	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-20T16:05:12-0600	rschramm	PC001469	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC001469	rschramm	PC001469	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	rschramm	rschramm	PC001469	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2008-05-21T10:18:17-0600	rschramm	PC001469	postcards	1	3.2
+	/@mods	
+
+Main St. Somerset, Man.
+
+
+Rumsey & Co.
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+Real Photo, published by Rumsey & Co., Toronto, Can.
+1911
+1911-08-05
+
+
+Toronto
+
+
+
+English
+
+
+1 postcard : b&w ; 9 x 14 cm.
+
+150
+false
+false
+Street scene with store fronts along the left side. There are cars on the street around the buildings, as well as pedestrians.
+Mrs Geo F Richardson
+RC Fuller
+577 Newton Lower Falls, Mass, USA
+Friday Aug 4/11, Dear Sister, We took dinner at this place, The Engineers gave the Brotherhood [a---] here and there are hundreds here, I cant write much, RC Fuller
+Somerset, Man., 1911-08-05
+
+Somerset, MB
+
+
+
+Canada
+Manitoba
+Somerset
+
+
+
+Postcards
+
+
+Commercial streets
+
+
+Storefronts
+
+
+City & town life
+
+PC001469
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 3
+http://peel.library.ualberta.ca/postcards/PC001469.html
+http://peel.library.ualberta.ca/pcimages/PC/001/web/PC001469.jpg
+http://peel.library.ualberta.ca/pcimages/PC/001/thumbs/PC001469.jpg
+
+
+
+
+2007-06-20T16:05:12-0600
+PC001469
+rschramm
+2008-05-21T10:18:17-0600
+
+	rschramm	PC001469	postcards	1	3.2
+	

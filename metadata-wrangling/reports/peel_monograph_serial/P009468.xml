@@ -1,0 +1,129 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.2
+	/mods/@version	3.2		1	3.2
+	/mods/titleInfo			1	3.2
+	/mods/titleInfo/title	Victory Torch dedication		1	3.2
+	/mods/titleInfo/subTitle	Sunday, June 1st, 1941, 3.00 o'clock, Legislative Building Grounds, Broadway Avenue, Winnipeg		1	3.2
+	/mods/name			1	3.2
+	/mods/name/@type	corporate		1	3.2
+	/mods/name/namePart	Manitoba		1	3.2
+	/mods/typeOfResource	text		1	3.2
+	/mods/originInfo			1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	mbc		1	3.2
+	/mods/originInfo/place/placeTerm/@authority	marccountry		1	3.2
+	/mods/originInfo/place/placeTerm/@type	code		1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	Winnipeg		1	3.2
+	/mods/originInfo/place/placeTerm/@type	text		1	3.2
+	/mods/originInfo/publisher	Government of Manitoba		1	3.2
+	/mods/originInfo/dateIssued	[1941]		2	3.2
+	/mods/originInfo/dateIssued	1941		2	3.2
+	/mods/originInfo/dateIssued/@encoding	marc		1	3.2
+	/mods/originInfo/issuance	monographic		1	3.2
+	/mods/language			1	3.2
+	/mods/language/languageTerm	eng		1	3.2
+	/mods/language/languageTerm/@authority	iso639-2b		1	3.2
+	/mods/language/languageTerm/@type	code		1	3.2
+	/mods/physicalDescription			1	3.2
+	/mods/physicalDescription/form	print		1	3.2
+	/mods/physicalDescription/form/@authority	marcform		1	3.2
+	/mods/physicalDescription/extent	1 fold. sheet ([4] p.) ; 23 cm.		1	3.2
+	/mods/note	Consists of one folded sheet, with one loose song sheet inserted into it.		4	3.2
+	/mods/note	http://chelsea.library.ualberta.ca:8081/peel_master/select/?q=%28subjectAuthority%3A%22World+War%2C+1939-1945--Monuments--Manitoba--Winnipeg--Anniversaries%2C+etc%22%29+OR+%28subjectAuthority%3A%22Hymns%22%29+OR+%28subjectAuthority%3A%22Patriotic+music%22%29&fl=id+authorAuthority+authorDates+subjectAuthority+authorityAuthority&rows=100		4	3.2
+	/mods/note/@type	solr		1	3.2
+	/mods/note	DOA: 1941 Spatial: Winnipeg (Man.)		4	3.2
+	/mods/note/@type	local		1	3.2
+	/mods/note	Cover title. Song sheet laid in. Programme.		4	3.2
+	/mods/note/@type	public		1	3.2
+	/mods/subject			3	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/topic	World War, 1939-1945		3	3.2
+	/mods/subject/topic	Monuments		3	3.2
+	/mods/subject/geographic	Manitoba		2	3.2
+	/mods/subject/geographic	Winnipeg		2	3.2
+	/mods/subject/topic	Anniversaries, etc		3	3.2
+	/mods/subject			3	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/@href	MS001985		1	3.2
+	/mods/subject/topic	Hymns		1	3.2
+	/mods/subject			3	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/topic	Patriotic music		1	3.2
+	/mods/classification	D838.C22 W568 1941		1	3.2
+	/mods/classification/@authority	lcc		1	3.2
+	/mods/identifier	3979536		3	3.2
+	/mods/identifier/@type	local:neos		1	3.2
+	/mods/identifier	N008841		3	3.2
+	/mods/identifier/@type	local:peel_new		1	3.2
+	/mods/identifier	9468		3	3.2
+	/mods/identifier/@type	local:peel3		1	3.2
+	/mods/recordInfo			1	3.2
+	/mods/recordInfo/recordContentSource	fsalehi		2	3.2
+	/mods/recordInfo/recordContentSource	RC		2	3.2
+	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.2
+	/mods/recordInfo/recordCreationDate	2007-08-29T12:00:00-0700		1	3.2
+	/mods/recordInfo/recordIdentifier	P009468		1	3.2
+	/mods/recordInfo/recordChangeDate	2010-07-02T14:00:59-0600		1	3.2
+	/@mods	
+
+Victory Torch dedication
+Sunday, June 1st, 1941, 3.00 o'clock, Legislative Building Grounds, Broadway Avenue, Winnipeg
+
+
+Manitoba
+
+text
+
+
+mbc
+
+
+Winnipeg
+
+Government of Manitoba
+[1941]
+1941
+monographic
+
+
+eng
+
+
+print
+1 fold. sheet ([4] p.) ; 23 cm.
+
+Consists of one folded sheet, with one loose song sheet inserted into it.
+http://chelsea.library.ualberta.ca:8081/peel_master/select/?q=%28subjectAuthority%3A%22World+War%2C+1939-1945--Monuments--Manitoba--Winnipeg--Anniversaries%2C+etc%22%29+OR+%28subjectAuthority%3A%22Hymns%22%29+OR+%28subjectAuthority%3A%22Patriotic+music%22%29&fl=id+authorAuthority+authorDates+subjectAuthority+authorityAuthority&rows=100
+DOA: 1941 Spatial: Winnipeg (Man.)
+Cover title. Song sheet laid in. Programme.
+
+				World War, 1939-1945
+			
+				Monuments
+			
+				Manitoba
+			
+				Winnipeg
+			
+				Anniversaries, etc
+			
+
+				Hymns
+			
+
+				Patriotic music
+			
+D838.C22 W568 1941
+3979536
+N008841
+9468
+
+fsalehi
+RC
+2007-08-29T12:00:00-0700
+P009468
+2010-07-02T14:00:59-0600
+
+		1	3.2
+	

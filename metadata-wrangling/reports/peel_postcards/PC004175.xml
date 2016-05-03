@@ -1,0 +1,179 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		tkitagawa	PC004175	postcards	1	3.2
+	/mods/@version	3.2	tkitagawa	PC004175	postcards	1	3.2
+	/mods/titleInfo		tkitagawa	PC004175	postcards	1	3.2
+	/mods/titleInfo/@lang	english	tkitagawa	PC004175	postcards	1	3.2
+	/mods/titleInfo/title	New C. P. R. Bridge, Lethbridge, Alta.	tkitagawa	PC004175	postcards	1	3.2
+	/mods/name		tkitagawa	PC004175	postcards	2	3.2
+	/mods/name/@type	corporate	tkitagawa	PC004175	postcards	1	3.2
+	/mods/name/namePart	C. S. Co. Ltd.	tkitagawa	PC004175	postcards	1	3.2
+	/mods/name/role		tkitagawa	PC004175	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	tkitagawa	PC004175	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	tkitagawa	PC004175	postcards	1	3.2
+	/mods/name		tkitagawa	PC004175	postcards	2	3.2
+	/mods/name/@type	personal	tkitagawa	PC004175	postcards	1	3.2
+	/mods/name/namePart	Ott	tkitagawa	PC004175	postcards	2	3.2
+	/mods/name/namePart/@type	family	tkitagawa	PC004175	postcards	1	3.2
+	/mods/name/namePart	W.A.	tkitagawa	PC004175	postcards	2	3.2
+	/mods/name/namePart/@type	given	tkitagawa	PC004175	postcards	1	3.2
+	/mods/name/role		tkitagawa	PC004175	postcards	1	3.2
+	/mods/name/role/roleTerm	Copyright holder	tkitagawa	PC004175	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	tkitagawa	PC004175	postcards	1	3.2
+	/mods/typeOfResource	still image	tkitagawa	PC004175	postcards	1	3.2
+	/mods/genre	postcards	tkitagawa	PC004175	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	tkitagawa	PC004175	postcards	1	3.2
+	/mods/originInfo		tkitagawa	PC004175	postcards	1	3.2
+	/mods/originInfo/place		tkitagawa	PC004175	postcards	2	3.2
+	/mods/originInfo/place/placeTerm	Winnipeg	tkitagawa	PC004175	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	tkitagawa	PC004175	postcards	1	3.2
+	/mods/originInfo/place		tkitagawa	PC004175	postcards	2	3.2
+	/mods/originInfo/place/placeTerm	Lethbridge	tkitagawa	PC004175	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	tkitagawa	PC004175	postcards	1	3.2
+	/mods/originInfo/publisher	C. S. Co. Ltd. Winnipeg; Published for W.A. Ott, Lethbridge, Alta.	tkitagawa	PC004175	postcards	1	3.2
+	/mods/originInfo/dateIssued	1907-1909	tkitagawa	PC004175	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	inferred	tkitagawa	PC004175	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	tkitagawa	PC004175	postcards	1	3.2
+	/mods/language		tkitagawa	PC004175	postcards	1	3.2
+	/mods/language/languageTerm	English	tkitagawa	PC004175	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	tkitagawa	PC004175	postcards	1	3.2
+	/mods/physicalDescription		tkitagawa	PC004175	postcards	1	3.2
+	/mods/physicalDescription/form		tkitagawa	PC004175	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : sepia ; 9 x 14 cm.	tkitagawa	PC004175	postcards	1	3.2
+	/mods/note	20	tkitagawa	PC004175	postcards	5	3.2
+	/mods/note/@type	price	tkitagawa	PC004175	postcards	1	3.2
+	/mods/note	false	tkitagawa	PC004175	postcards	5	3.2
+	/mods/note/@type	notable	tkitagawa	PC004175	postcards	1	3.2
+	/mods/note	false	tkitagawa	PC004175	postcards	5	3.2
+	/mods/note/@type	imgprobs	tkitagawa	PC004175	postcards	1	3.2
+	/mods/note	[printer's no.] 271	tkitagawa	PC004175	postcards	5	3.2
+	/mods/note/@type	public_on_back	tkitagawa	PC004175	postcards	1	3.2
+	/mods/note	A view showing the construction of the C.P.R. Viaduct (also known as the High Level Bridge) in Lethbridge.	tkitagawa	PC004175	postcards	5	3.2
+	/mods/note/@type	public_description	tkitagawa	PC004175	postcards	1	3.2
+	/mods/subject		tkitagawa	PC004175	postcards	7	3.2
+	/mods/subject/geographic	Lethbridge, AB	tkitagawa	PC004175	postcards	1	3.2
+	/mods/subject		tkitagawa	PC004175	postcards	7	3.2
+	/mods/subject/hierarchicalGeographic		tkitagawa	PC004175	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	tkitagawa	PC004175	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	tkitagawa	PC004175	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Lethbridge	tkitagawa	PC004175	postcards	1	3.2
+	/mods/subject		tkitagawa	PC004175	postcards	7	3.2
+	/mods/subject/topic	Bridge construction	tkitagawa	PC004175	postcards	1	3.2
+	/mods/subject		tkitagawa	PC004175	postcards	7	3.2
+	/mods/subject/topic	Trestles	tkitagawa	PC004175	postcards	1	3.2
+	/mods/subject		tkitagawa	PC004175	postcards	7	3.2
+	/mods/subject/topic	Railroad bridges	tkitagawa	PC004175	postcards	1	3.2
+	/mods/subject		tkitagawa	PC004175	postcards	7	3.2
+	/mods/subject/name		tkitagawa	PC004175	postcards	1	3.2
+	/mods/subject/name/@type	personal	tkitagawa	PC004175	postcards	1	3.2
+	/mods/subject/name/namePart	Lethbridge Viaduct (Lethbridge, Alta.)	tkitagawa	PC004175	postcards	1	3.2
+	/mods/subject		tkitagawa	PC004175	postcards	7	3.2
+	/mods/subject/name		tkitagawa	PC004175	postcards	1	3.2
+	/mods/subject/name/@type	personal	tkitagawa	PC004175	postcards	1	3.2
+	/mods/subject/name/namePart	High Level Bridge (Lethbridge, Alta.)	tkitagawa	PC004175	postcards	1	3.2
+	/mods/identifier	PC004175	tkitagawa	PC004175	postcards	1	3.2
+	/mods/identifier/@type	local	tkitagawa	PC004175	postcards	1	3.2
+	/mods/location		tkitagawa	PC004175	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 2	tkitagawa	PC004175	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC004175.html	tkitagawa	PC004175	postcards	3	3.2
+	/mods/location/url/@access	object in context	tkitagawa	PC004175	postcards	1	3.2
+	/mods/location/url/@usage	primary display	tkitagawa	PC004175	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/004/web/PC004175.jpg	tkitagawa	PC004175	postcards	3	3.2
+	/mods/location/url/@access	raw object	tkitagawa	PC004175	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='516'	tkitagawa	PC004175	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/004/thumbs/PC004175.jpg	tkitagawa	PC004175	postcards	3	3.2
+	/mods/location/url/@access	preview	tkitagawa	PC004175	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='129'	tkitagawa	PC004175	postcards	1	3.2
+	/mods/recordInfo		tkitagawa	PC004175	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	tkitagawa	tkitagawa	PC004175	postcards	2	3.2
+	/mods/recordInfo/recordContentSource	aharrigan	tkitagawa	PC004175	postcards	2	3.2
+	/mods/recordInfo/recordContentSource/@authority	local:person	tkitagawa	PC004175	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	tkitagawa	PC004175	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC004175	tkitagawa	PC004175	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2010-05-27T14:51:33-0600	tkitagawa	PC004175	postcards	1	3.2
+	/@mods	
+
+New C. P. R. Bridge, Lethbridge, Alta.
+
+
+C. S. Co. Ltd.
+
+Publisher
+
+
+
+Ott
+W.A.
+
+Copyright holder
+
+
+still image
+postcards
+
+
+Winnipeg
+
+
+Lethbridge
+
+C. S. Co. Ltd. Winnipeg; Published for W.A. Ott, Lethbridge, Alta.
+1907-1909
+monographic
+
+
+English
+
+
+
+1 postcard : sepia ; 9 x 14 cm.
+
+20
+false
+false
+[printer's no.] 271
+A view showing the construction of the C.P.R. Viaduct (also known as the High Level Bridge) in Lethbridge.
+
+				Lethbridge, AB
+			
+
+				
+Canada
+Alberta
+Lethbridge
+
+			
+
+				Bridge construction
+			
+
+				Trestles
+			
+
+				Railroad bridges
+			
+
+				
+Lethbridge Viaduct (Lethbridge, Alta.)
+
+			
+
+				
+High Level Bridge (Lethbridge, Alta.)
+
+			
+PC004175
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 2
+http://peel.library.ualberta.ca/postcards/PC004175.html
+http://peel.library.ualberta.ca/pcimages/PC/004/web/PC004175.jpg
+http://peel.library.ualberta.ca/pcimages/PC/004/thumbs/PC004175.jpg
+
+
+tkitagawa
+aharrigan
+2007-06-25T16:49:56-0600
+PC004175
+2010-05-27T14:51:33-0600
+
+	tkitagawa	PC004175	postcards	1	3.2
+	

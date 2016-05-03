@@ -1,0 +1,166 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		fsalehi	PC009956	postcards	1	3.3
+	/mods/@version	3.3	fsalehi	PC009956	postcards	1	3.3
+	/mods/titleInfo		fsalehi	PC009956	postcards	1	3.3
+	/mods/titleInfo/@lang	english	fsalehi	PC009956	postcards	1	3.3
+	/mods/titleInfo/title	Bow River fom C.P.R. Hotel	fsalehi	PC009956	postcards	1	3.3
+	/mods/name		fsalehi	PC009956	postcards	1	3.3
+	/mods/name/@type	corporate	fsalehi	PC009956	postcards	1	3.3
+	/mods/name/namePart	Gowen Sutton Co. Ltd.	fsalehi	PC009956	postcards	1	3.3
+	/mods/name/role		fsalehi	PC009956	postcards	1	3.3
+	/mods/name/role/roleTerm	Publisher	fsalehi	PC009956	postcards	1	3.3
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC009956	postcards	1	3.3
+	/mods/typeOfResource	still image	fsalehi	PC009956	postcards	1	3.3
+	/mods/genre	postcards	fsalehi	PC009956	postcards	1	3.3
+	/mods/genre/@authority	gmgpc	fsalehi	PC009956	postcards	1	3.3
+	/mods/originInfo		fsalehi	PC009956	postcards	1	3.3
+	/mods/originInfo/issuance	monographic	fsalehi	PC009956	postcards	1	3.3
+	/mods/originInfo/publisher	Published by Gowen Sutton Co. Ltd., Vancouver, B.C.	fsalehi	PC009956	postcards	1	3.3
+	/mods/originInfo/dateIssued	after 1921	fsalehi	PC009956	postcards	1	3.3
+	/mods/originInfo/dateIssued/@qualifier	inferred	fsalehi	PC009956	postcards	1	3.3
+	/mods/originInfo/place		fsalehi	PC009956	postcards	1	3.3
+	/mods/originInfo/place/placeTerm	Vancouver	fsalehi	PC009956	postcards	1	3.3
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC009956	postcards	1	3.3
+	/mods/language		fsalehi	PC009956	postcards	1	3.3
+	/mods/language/languageTerm	English	fsalehi	PC009956	postcards	1	3.3
+	/mods/language/languageTerm/@type	text	fsalehi	PC009956	postcards	1	3.3
+	/mods/physicalDescription		fsalehi	PC009956	postcards	1	3.3
+	/mods/physicalDescription/extent	1 postcard : sepia ; 9 x 14 cm.	fsalehi	PC009956	postcards	1	3.3
+	/mods/note	6	fsalehi	PC009956	postcards	4	3.3
+	/mods/note/@type	price	fsalehi	PC009956	postcards	1	3.3
+	/mods/note	false	fsalehi	PC009956	postcards	4	3.3
+	/mods/note/@type	notable	fsalehi	PC009956	postcards	1	3.3
+	/mods/note	true	fsalehi	PC009956	postcards	4	3.3
+	/mods/note/@type	imgprobs	fsalehi	PC009956	postcards	1	3.3
+	/mods/note	A view of the Bow River Valley and newly-snow-capped mountains from The Banff Springs Hotel in Banff National Park.	fsalehi	PC009956	postcards	4	3.3
+	/mods/note/@type	public_description	fsalehi	PC009956	postcards	1	3.3
+	/mods/subject		fsalehi	PC009956	postcards	10	3.3
+	/mods/subject/geographic	Banff, AB	fsalehi	PC009956	postcards	1	3.3
+	/mods/subject		fsalehi	PC009956	postcards	10	3.3
+	/mods/subject/hierarchicalGeographic		fsalehi	PC009956	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/country	Canada	fsalehi	PC009956	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/province	Alberta	fsalehi	PC009956	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/city	Banff	fsalehi	PC009956	postcards	1	3.3
+	/mods/subject		fsalehi	PC009956	postcards	10	3.3
+	/mods/subject/genre	Postcards	fsalehi	PC009956	postcards	1	3.3
+	/mods/subject		fsalehi	PC009956	postcards	10	3.3
+	/mods/subject/topic	Rivers	fsalehi	PC009956	postcards	1	3.3
+	/mods/subject		fsalehi	PC009956	postcards	10	3.3
+	/mods/subject/topic	Valleys	fsalehi	PC009956	postcards	1	3.3
+	/mods/subject		fsalehi	PC009956	postcards	10	3.3
+	/mods/subject/topic	Mountains	fsalehi	PC009956	postcards	1	3.3
+	/mods/subject		fsalehi	PC009956	postcards	10	3.3
+	/mods/subject/topic	Trees	fsalehi	PC009956	postcards	1	3.3
+	/mods/subject		fsalehi	PC009956	postcards	10	3.3
+	/mods/subject/name		fsalehi	PC009956	postcards	1	3.3
+	/mods/subject/name/namePart	Bow River (Alta.)	fsalehi	PC009956	postcards	1	3.3
+	/mods/subject		fsalehi	PC009956	postcards	10	3.3
+	/mods/subject/name		fsalehi	PC009956	postcards	1	3.3
+	/mods/subject/name/namePart	Bow River Valley (Alta.)	fsalehi	PC009956	postcards	1	3.3
+	/mods/subject		fsalehi	PC009956	postcards	10	3.3
+	/mods/subject/name		fsalehi	PC009956	postcards	1	3.3
+	/mods/subject/name/namePart	Banff National Park (Alta.)	fsalehi	PC009956	postcards	1	3.3
+	/mods/identifier	PC009956	fsalehi	PC009956	postcards	1	3.3
+	/mods/identifier/@type	local	fsalehi	PC009956	postcards	1	3.3
+	/mods/location		fsalehi	PC009956	postcards	1	3.3
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 1 (set 2)	fsalehi	PC009956	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC009956.html	fsalehi	PC009956	postcards	3	3.3
+	/mods/location/url/@access	object in context	fsalehi	PC009956	postcards	1	3.3
+	/mods/location/url/@usage	primary display	fsalehi	PC009956	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/009/web/PC009956.jpg	fsalehi	PC009956	postcards	3	3.3
+	/mods/location/url/@access	raw object	fsalehi	PC009956	postcards	1	3.3
+	/mods/location/url/@note	width='800' height='521' 	fsalehi	PC009956	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/009/thumbs/PC009956.jpg	fsalehi	PC009956	postcards	3	3.3
+	/mods/location/url/@access	preview	fsalehi	PC009956	postcards	1	3.3
+	/mods/location/url/@note	width='200' height='130'	fsalehi	PC009956	postcards	1	3.3
+	/mods/recordInfo		fsalehi	PC009956	postcards	1	3.3
+	/mods/recordInfo/recordCreationDate	2009-01-23T14:02:58-0700	fsalehi	PC009956	postcards	1	3.3
+	/mods/recordInfo/recordIdentifier	PC009956	fsalehi	PC009956	postcards	1	3.3
+	/mods/recordInfo/recordContentSource	fsalehi	fsalehi	PC009956	postcards	1	3.3
+	/mods/recordInfo/recordChangeDate	2009-12-15T14:55:49-0700	fsalehi	PC009956	postcards	1	3.3
+	/@mods	
+
+Bow River fom C.P.R. Hotel
+
+
+Gowen Sutton Co. Ltd.
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+Published by Gowen Sutton Co. Ltd., Vancouver, B.C.
+after 1921
+
+
+Vancouver
+
+
+
+English
+
+
+1 postcard : sepia ; 9 x 14 cm.
+
+6
+false
+true
+A view of the Bow River Valley and newly-snow-capped mountains from The Banff Springs Hotel in Banff National Park.
+
+Banff, AB
+
+
+
+Canada
+Alberta
+Banff
+
+
+
+Postcards
+
+
+Rivers
+
+
+Valleys
+
+
+Mountains
+
+
+Trees
+
+
+
+Bow River (Alta.)
+
+
+
+
+Bow River Valley (Alta.)
+
+
+
+
+Banff National Park (Alta.)
+
+
+PC009956
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 1 (set 2)
+http://peel.library.ualberta.ca/postcards/PC009956.html
+http://peel.library.ualberta.ca/pcimages/PC/009/web/PC009956.jpg
+http://peel.library.ualberta.ca/pcimages/PC/009/thumbs/PC009956.jpg
+
+
+2009-01-23T14:02:58-0700
+PC009956
+fsalehi
+2009-12-15T14:55:49-0700
+
+	fsalehi	PC009956	postcards	1	3.3
+	

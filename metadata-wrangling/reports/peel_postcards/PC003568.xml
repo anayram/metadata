@@ -1,0 +1,128 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		rschramm	PC003568	postcards	1	3.2
+	/mods/@version	3.2	rschramm	PC003568	postcards	1	3.2
+	/mods/titleInfo		rschramm	PC003568	postcards	1	3.2
+	/mods/titleInfo/@lang	english	rschramm	PC003568	postcards	1	3.2
+	/mods/titleInfo/title	[Evansburg, Alta.]	rschramm	PC003568	postcards	1	3.2
+	/mods/typeOfResource	still image	rschramm	PC003568	postcards	1	3.2
+	/mods/genre	postcards	rschramm	PC003568	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	rschramm	PC003568	postcards	1	3.2
+	/mods/originInfo		rschramm	PC003568	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	rschramm	PC003568	postcards	1	3.2
+	/mods/originInfo/dateIssued	ca. 1910	rschramm	PC003568	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	inferred	rschramm	PC003568	postcards	1	3.2
+	/mods/originInfo/place		rschramm	PC003568	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	[Evansburg]	rschramm	PC003568	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	rschramm	PC003568	postcards	1	3.2
+	/mods/language		rschramm	PC003568	postcards	1	3.2
+	/mods/language/languageTerm	English	rschramm	PC003568	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	rschramm	PC003568	postcards	1	3.2
+	/mods/physicalDescription		rschramm	PC003568	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : b&w ; 9 x 14 cm.	rschramm	PC003568	postcards	1	3.2
+	/mods/note	40	rschramm	PC003568	postcards	5	3.2
+	/mods/note/@type	price	rschramm	PC003568	postcards	1	3.2
+	/mods/note	false	rschramm	PC003568	postcards	5	3.2
+	/mods/note/@type	notable	rschramm	PC003568	postcards	1	3.2
+	/mods/note	true	rschramm	PC003568	postcards	5	3.2
+	/mods/note/@type	imgprobs	rschramm	PC003568	postcards	1	3.2
+	/mods/note	View of a two story house behind a fence with forest in the background. Uprooted trees are visible in the foreground.	rschramm	PC003568	postcards	5	3.2
+	/mods/note/@type	public_description	rschramm	PC003568	postcards	1	3.2
+	/mods/note	Written in ms.: Trees uprooted & broken after a heavy wind storm.	rschramm	PC003568	postcards	5	3.2
+	/mods/note/@type	public_on_back	rschramm	PC003568	postcards	1	3.2
+	/mods/subject		rschramm	PC003568	postcards	6	3.2
+	/mods/subject/geographic	Evansburg, AB	rschramm	PC003568	postcards	1	3.2
+	/mods/subject		rschramm	PC003568	postcards	6	3.2
+	/mods/subject/hierarchicalGeographic		rschramm	PC003568	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	rschramm	PC003568	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	rschramm	PC003568	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Evansburg	rschramm	PC003568	postcards	1	3.2
+	/mods/subject		rschramm	PC003568	postcards	6	3.2
+	/mods/subject/genre	Postcards	rschramm	PC003568	postcards	1	3.2
+	/mods/subject		rschramm	PC003568	postcards	6	3.2
+	/mods/subject/topic	Houses	rschramm	PC003568	postcards	1	3.2
+	/mods/subject		rschramm	PC003568	postcards	6	3.2
+	/mods/subject/topic	Trees	rschramm	PC003568	postcards	1	3.2
+	/mods/subject		rschramm	PC003568	postcards	6	3.2
+	/mods/subject/topic	Forests	rschramm	PC003568	postcards	1	3.2
+	/mods/identifier	PC003568	rschramm	PC003568	postcards	1	3.2
+	/mods/identifier/@type	local	rschramm	PC003568	postcards	1	3.2
+	/mods/location		rschramm	PC003568	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 1	rschramm	PC003568	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC003568.html	rschramm	PC003568	postcards	3	3.2
+	/mods/location/url/@access	object in context	rschramm	PC003568	postcards	1	3.2
+	/mods/location/url/@usage	primary display	rschramm	PC003568	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/003/web/PC003568.jpg	rschramm	PC003568	postcards	3	3.2
+	/mods/location/url/@access	raw object	rschramm	PC003568	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='480' 	rschramm	PC003568	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/003/thumbs/PC003568.jpg	rschramm	PC003568	postcards	3	3.2
+	/mods/location/url/@access	preview	rschramm	PC003568	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='120'	rschramm	PC003568	postcards	1	3.2
+	/mods/recordInfo		rschramm	PC003568	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	rschramm	PC003568	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC003568	rschramm	PC003568	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	rschramm	rschramm	PC003568	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2008-07-08T14:10:16-0600	rschramm	PC003568	postcards	1	3.2
+	/@mods	
+
+[Evansburg, Alta.]
+
+still image
+postcards
+
+monographic
+ca. 1910
+
+
+[Evansburg]
+
+
+
+English
+
+
+1 postcard : b&w ; 9 x 14 cm.
+
+40
+false
+true
+View of a two story house behind a fence with forest in the background. Uprooted trees are visible in the foreground.
+Written in ms.: Trees uprooted & broken after a heavy wind storm.
+
+Evansburg, AB
+
+
+
+Canada
+Alberta
+Evansburg
+
+
+
+Postcards
+
+
+Houses
+
+
+Trees
+
+
+Forests
+
+PC003568
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 1
+http://peel.library.ualberta.ca/postcards/PC003568.html
+http://peel.library.ualberta.ca/pcimages/PC/003/web/PC003568.jpg
+http://peel.library.ualberta.ca/pcimages/PC/003/thumbs/PC003568.jpg
+
+
+
+
+2007-06-25T16:49:56-0600
+PC003568
+rschramm
+2008-07-08T14:10:16-0600
+
+	rschramm	PC003568	postcards	1	3.2
+	

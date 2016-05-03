@@ -1,0 +1,4738 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods		periodical	1	3.3
+	/mods/@version	3.3	periodical	1	3.3
+	/mods/@schemaLocation	http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd	periodical	1	3.3
+	/mods/titleInfo		periodical	1	3.3
+	/mods/titleInfo/title	new trail	periodical	1	3.3
+	/mods/titleInfo/nonSort	The 	periodical	1	3.3
+	/mods/name		periodical	1	3.3
+	/mods/name/@href	MA003343	periodical	1	3.3
+	/mods/name/namePart	University of Alberta	periodical	2	3.3
+	/mods/name/namePart	Alumni Association	periodical	2	3.3
+	/mods/typeOfResource	text	periodical	1	3.3
+	/mods/genre	periodical	periodical	1	3.3
+	/mods/genre/@authority	marcgt	periodical	1	3.3
+	/mods/originInfo		periodical	1	3.3
+	/mods/originInfo/place		periodical	2	3.3
+	/mods/originInfo/place/placeTerm	abc	periodical	1	3.3
+	/mods/originInfo/place/placeTerm/@authority	marccountry	periodical	1	3.3
+	/mods/originInfo/place/placeTerm/@type	code	periodical	1	3.3
+	/mods/originInfo/place		periodical	2	3.3
+	/mods/originInfo/place/placeTerm	[Edmonton]	periodical	1	3.3
+	/mods/originInfo/place/placeTerm/@type	text	periodical	1	3.3
+	/mods/originInfo/publisher	[Alumni Association of the University of Alberta]	periodical	1	3.3
+	/mods/originInfo/dateIssued	1942-1978	periodical	3	3.3
+	/mods/originInfo/dateIssued	1942	periodical	3	3.3
+	/mods/originInfo/dateIssued/@encoding	marc	periodical	1	3.3
+	/mods/originInfo/dateIssued/@point	start	periodical	1	3.3
+	/mods/originInfo/dateIssued	9999	periodical	3	3.3
+	/mods/originInfo/dateIssued/@encoding	marc	periodical	1	3.3
+	/mods/originInfo/dateIssued/@point	end	periodical	1	3.3
+	/mods/originInfo/issuance	continuing	periodical	1	3.3
+	/mods/language		periodical	1	3.3
+	/mods/language/languageTerm	eng	periodical	1	3.3
+	/mods/language/languageTerm/@authority	iso639-2b	periodical	1	3.3
+	/mods/language/languageTerm/@type	code	periodical	1	3.3
+	/mods/physicalDescription		periodical	1	3.3
+	/mods/physicalDescription/form	microfilm	periodical	1	3.3
+	/mods/physicalDescription/form/@authority	marcform	periodical	1	3.3
+	/mods/physicalDescription/extent	v. : ill. ; 28 cm.	periodical	1	3.3
+	/mods/note	the University of Alberta Alumni Association.	periodical	5	3.3
+	/mods/note/@type	statement of responsibility	periodical	1	3.3
+	/mods/note	Microfilm. Vol. 1, no. 1 (1942)-v. 47, no. 3 (autumn 1992). Edmonton, Alta. : University of Alberta Library, 1993. 4 microfilm reels ; 35 mm. (With The Trail [microform], 1920-1941) d19421992abcuua	periodical	5	3.3
+	/mods/note/@type	reproduction	periodical	1	3.3
+	/mods/note	http://chelsea.library.ualberta.ca:8081/peel_master/select/?q=%28authorAuthority%3A%22University+of+Alberta%22%29+OR+%28subjectAuthority%3A%22University+of+Alberta--Alumni+and+alumnae%22%29+OR+%28subjectAuthority%3A%22University+of+Alberta%22%29&fl=id+authorAuthority+authorDates+subjectAuthority+authorityAuthority&rows=100	periodical	5	3.3
+	/mods/note/@type	solr	periodical	1	3.3
+	/mods/note		periodical	5	3.3
+	/mods/note/@type	local:mountable	periodical	1	3.3
+	/mods/note	uahistory	periodical	5	3.3
+	/mods/note/@type	local:oaiset	periodical	1	3.3
+	/mods/subject		periodical	3	3.3
+	/mods/subject/geographicCode	n-cn-ab	periodical	1	3.3
+	/mods/subject/geographicCode/@authority	marcgac	periodical	1	3.3
+	/mods/subject		periodical	3	3.3
+	/mods/subject/@authority	lcsh	periodical	1	3.3
+	/mods/subject/name		periodical	1	3.3
+	/mods/subject/name/namePart	University of Alberta	periodical	1	3.3
+	/mods/subject/topic	Alumni and alumnae	periodical	1	3.3
+	/mods/subject		periodical	3	3.3
+	/mods/subject/@authority	lcsh	periodical	1	3.3
+	/mods/subject/@href	MS004617	periodical	1	3.3
+	/mods/subject/name		periodical	1	3.3
+	/mods/subject/name/namePart	University of Alberta	periodical	1	3.3
+	/mods/classification	378.7123/3	periodical	1	3.3
+	/mods/classification/@authority	ddc	periodical	1	3.3
+	/mods/classification/@edition	19	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.1	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	1	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	1	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1942-11	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.1	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.2	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	1	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	2	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1943-01	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.2	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.3	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	1	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	3	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1943-04	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.3	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.4	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	1	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	4	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1943-07	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.4	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.5	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	2	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	1	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1944-01	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.5	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.6	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	2	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	2	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1944-04	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.6	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.7	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	2	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	3	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1944-07	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.7	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.8	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	2	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	4	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1944-10	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.8	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.9	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	3	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	1	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1945-01	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.9	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.10	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	3	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	2	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1945-04	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.10	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.11	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	3	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	3	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1945	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.11	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.12	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	3	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	4	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1945-10	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.12	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.13	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	4	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	1	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1946-01	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.13	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.14	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	4	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	2	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1946-04	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.14	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.15	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	4	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	3	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1946-07	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.15	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.16	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	4	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	4	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1946-10	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.16	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.17	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	5	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	1	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1947-01	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.17	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.18	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	5	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	2	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1947-04	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.18	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.19	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	5	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	3	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1947-07	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.19	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.20	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	5	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	4	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1947-10	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.20	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.21	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	6	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	1	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1948-01	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.21	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.22	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	6	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	2	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1948-04	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.22	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.23	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	6	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	3	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1948-07	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.23	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.24	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	6	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	4	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1948-10	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.24	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.25	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	7	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	1	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1949-02	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.25	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.26	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	7	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	2	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1949-05	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.26	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.27	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	7	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	3	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1949-08	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.27	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.28	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	7	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	4	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1949-11	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.28	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.29	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	8	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	1	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1950	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Spring	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.29	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.30	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	8	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	2	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1950	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Summer	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.30	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.31	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	8	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	3	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1950	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Fall	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.31	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.32	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	8	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	4	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1950	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Winter	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.32	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.33	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	9	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	1	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1951	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Spring	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.33	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.34	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	9	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	2	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1951	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Summer	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.34	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.35	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	9	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	3	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1951	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Fall	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.35	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.36	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	9	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	4	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1951	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Winter	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.36	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.37	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	10	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	1	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1952	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Spring	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.37	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.38	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	10	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	2	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1952	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Summer	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.38	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.39	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	10	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	3	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1952	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Fall	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.39	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.40	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	10	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	4	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1952	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Winter	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.40	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.41	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	11	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	1	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1953	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Spring	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.41	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.42	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	11	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	2	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1953	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Summer	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.42	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.43	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	11	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	3	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1953	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.43	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.44	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	11	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	4	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1953	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Winter	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.44	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.45	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	12	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	1	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1954	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Spring	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.45	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.46	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	12	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	2	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1954	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Summer	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.46	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.47	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	12	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	3	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1954	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Fall	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.47	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.48	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	12	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	4	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1954	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Winter	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.48	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.49	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	13	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	1	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1955	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Spring	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.49	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.50	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	13	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	2	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1955	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Summer	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.50	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.51	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	13	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	3	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1955	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Fall	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.51	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.52	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	13	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	4	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1955	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Winter	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.52	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.53	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	14	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	1	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1956-05	periodical	2	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/part/date/@point	start	periodical	1	3.3
+	/mods/relatedItem/part/date	1956-07	periodical	2	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/part/date/@point	end	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.53	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.54	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	14	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	2	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1956-08	periodical	2	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/part/date/@point	start	periodical	1	3.3
+	/mods/relatedItem/part/date	1956-10	periodical	2	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/part/date/@point	end	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.54	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.55	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	14	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	3	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1956-11	periodical	2	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/part/date/@point	start	periodical	1	3.3
+	/mods/relatedItem/part/date	1957-01	periodical	2	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/part/date/@point	end	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.55	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.56	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	14	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	4	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1957	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Spring	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.56	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.57	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	15	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	1	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/extent		periodical	1	3.3
+	/mods/relatedItem/part/extent/@unit	pages	periodical	1	3.3
+	/mods/relatedItem/part/date	1957	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Summer	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.57	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.58	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	15	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	3	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/extent		periodical	1	3.3
+	/mods/relatedItem/part/extent/@unit	pages	periodical	1	3.3
+	/mods/relatedItem/part/date	1957	periodical	2	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/part/date/@point	start	periodical	1	3.3
+	/mods/relatedItem/part/date	1958	periodical	2	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/part/date/@point	end	periodical	1	3.3
+	/mods/relatedItem/note	Winter	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.58	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.59	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	15	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	4	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/extent		periodical	1	3.3
+	/mods/relatedItem/part/extent/@unit	pages	periodical	1	3.3
+	/mods/relatedItem/part/date	1958	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Spring/Summer	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.59	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.60	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	16	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	1	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/extent		periodical	1	3.3
+	/mods/relatedItem/part/extent/@unit	pages	periodical	1	3.3
+	/mods/relatedItem/part/date	1958	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Fall/Winter	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.60	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.61	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	16	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	2	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/extent		periodical	1	3.3
+	/mods/relatedItem/part/extent/@unit	pages	periodical	1	3.3
+	/mods/relatedItem/part/date	1959	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Spring	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.61	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.62	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	17	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	3	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/extent		periodical	1	3.3
+	/mods/relatedItem/part/extent/@unit	pages	periodical	1	3.3
+	/mods/relatedItem/part/date	1959/1960	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Winter	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.62	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.63	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	19	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	1	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/extent		periodical	1	3.3
+	/mods/relatedItem/part/extent/@unit	pages	periodical	1	3.3
+	/mods/relatedItem/part/date	1961	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Summer	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.63	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.64	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	19	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	2	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/extent		periodical	1	3.3
+	/mods/relatedItem/part/extent/@unit	pages	periodical	1	3.3
+	/mods/relatedItem/part/date	1961	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Fall	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.64	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.65	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	19	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	3	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/extent		periodical	1	3.3
+	/mods/relatedItem/part/extent/@unit	pages	periodical	1	3.3
+	/mods/relatedItem/part/date	1961/1962	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Winter	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.65	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.66	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	20	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	1	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/extent		periodical	1	3.3
+	/mods/relatedItem/part/extent/@unit	pages	periodical	1	3.3
+	/mods/relatedItem/part/date	1962	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Spring/Summer	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.66	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.67	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	20	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	2	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/extent		periodical	1	3.3
+	/mods/relatedItem/part/extent/@unit	pages	periodical	1	3.3
+	/mods/relatedItem/part/date	1962	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Fall	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.67	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.68	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	21	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	1	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/extent		periodical	1	3.3
+	/mods/relatedItem/part/extent/@unit	pages	periodical	1	3.3
+	/mods/relatedItem/part/date	1963	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Summer	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.68	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.69	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	21	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	2	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/extent		periodical	1	3.3
+	/mods/relatedItem/part/extent/@unit	pages	periodical	1	3.3
+	/mods/relatedItem/part/date	1963	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Fall	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.69	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.70	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	21	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	3	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/extent		periodical	1	3.3
+	/mods/relatedItem/part/extent/@unit	pages	periodical	1	3.3
+	/mods/relatedItem/part/date	1963/1964	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Winter	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.70	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.71	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	21	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	4	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/extent		periodical	1	3.3
+	/mods/relatedItem/part/extent/@unit	pages	periodical	1	3.3
+	/mods/relatedItem/part/date	1964	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Spring	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.71	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.72	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	22	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	1	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/extent		periodical	1	3.3
+	/mods/relatedItem/part/extent/@unit	pages	periodical	1	3.3
+	/mods/relatedItem/part/date	1964	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Summer	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.72	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.73	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	22	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	2	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/extent		periodical	1	3.3
+	/mods/relatedItem/part/extent/@unit	pages	periodical	1	3.3
+	/mods/relatedItem/part/date	1964	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Fall	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.73	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.74	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	22	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	3	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/extent		periodical	1	3.3
+	/mods/relatedItem/part/extent/@unit	pages	periodical	1	3.3
+	/mods/relatedItem/part/date	1964/1965	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Winter	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.74	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.75	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	22	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	4	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/extent		periodical	1	3.3
+	/mods/relatedItem/part/extent/@unit	pages	periodical	1	3.3
+	/mods/relatedItem/part/date	1965	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Spring	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.75	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.76	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	23	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	1	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/extent		periodical	1	3.3
+	/mods/relatedItem/part/extent/@unit	pages	periodical	1	3.3
+	/mods/relatedItem/part/date	1965	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Summer	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.76	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.77	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	23	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	2	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/extent		periodical	1	3.3
+	/mods/relatedItem/part/extent/@unit	pages	periodical	1	3.3
+	/mods/relatedItem/part/date	1965	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Fall	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.77	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.78	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	23	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	3	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/extent		periodical	1	3.3
+	/mods/relatedItem/part/extent/@unit	pages	periodical	1	3.3
+	/mods/relatedItem/part/date	1965/1966	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Winter	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.78	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.79	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	23	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	4	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/extent		periodical	1	3.3
+	/mods/relatedItem/part/extent/@unit	pages	periodical	1	3.3
+	/mods/relatedItem/part/date	1966	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Spring	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.79	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.80	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	24	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	1	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/extent		periodical	1	3.3
+	/mods/relatedItem/part/extent/@unit	pages	periodical	1	3.3
+	/mods/relatedItem/part/date	1966	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Summer	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.80	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.81	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	24	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	2	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/extent		periodical	1	3.3
+	/mods/relatedItem/part/extent/@unit	pages	periodical	1	3.3
+	/mods/relatedItem/part/date	1966	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Fall	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.81	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.82	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	24	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	3	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/extent		periodical	1	3.3
+	/mods/relatedItem/part/extent/@unit	pages	periodical	1	3.3
+	/mods/relatedItem/part/date	1966/1967	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Winter	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.82	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.83	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	25	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	1	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1967-12	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.83	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.84	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	25	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	2	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1968-05	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.84	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.85	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	25	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	3	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1968-11	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.85	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.86	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	26	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	1	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1969-04	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.86	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.87	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	26	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	2	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1969-06	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.87	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.88	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	26	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	3	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1969-10	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.88	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.89	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	26	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	4	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1970-02	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.89	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.90	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	27	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	1	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/extent		periodical	1	3.3
+	/mods/relatedItem/part/extent/@unit	pages	periodical	1	3.3
+	/mods/relatedItem/part/date	1970	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Summer	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.90	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.91	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	27	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	2	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/extent		periodical	1	3.3
+	/mods/relatedItem/part/extent/@unit	pages	periodical	1	3.3
+	/mods/relatedItem/part/date	1971	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Spring	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.91	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.92	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	27	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	3	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/extent		periodical	1	3.3
+	/mods/relatedItem/part/extent/@unit	pages	periodical	1	3.3
+	/mods/relatedItem/part/date	1971	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Autumn	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.92	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.93	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	27	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	4	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/extent		periodical	1	3.3
+	/mods/relatedItem/part/extent/@unit	pages	periodical	1	3.3
+	/mods/relatedItem/part/date	1972	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Winter	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.93	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.94	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	28	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	1	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1972-05	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.94	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.95	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	28	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	2	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/extent		periodical	1	3.3
+	/mods/relatedItem/part/extent/@unit	pages	periodical	1	3.3
+	/mods/relatedItem/part/date	1972	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Summer	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.95	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.96	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	28	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	4	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/extent		periodical	1	3.3
+	/mods/relatedItem/part/extent/@unit	pages	periodical	1	3.3
+	/mods/relatedItem/part/date	1973	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Spring	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.96	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.97	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	29	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	1	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1973-08	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.97	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.98	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	29	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	2	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1973-10	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.98	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.99	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	29	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	3	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1973-12	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.99	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.100	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	29	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	4	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1974-02	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.100	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.101	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	29	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	5	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1974-04	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.101	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.102	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	29	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	6	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1974-06	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.102	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.103	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	30	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	1	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1974-08	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.103	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.104	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	30	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	2	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1974-10	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.104	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.105	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	30	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	3	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1974-12	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.105	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.106	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	30	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	4	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1975-02	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.106	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.107	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	30	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	5	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1975-04	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.107	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.108	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	31	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	2	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/extent		periodical	1	3.3
+	/mods/relatedItem/part/extent/@unit	pages	periodical	1	3.3
+	/mods/relatedItem/part/date	1975	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Winter	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.108	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.109	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	31	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	3	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/extent		periodical	1	3.3
+	/mods/relatedItem/part/extent/@unit	pages	periodical	1	3.3
+	/mods/relatedItem/part/date	1976	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Spring	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.109	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.110	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	32	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	1	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/extent		periodical	1	3.3
+	/mods/relatedItem/part/extent/@unit	pages	periodical	1	3.3
+	/mods/relatedItem/part/date	1976	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Fall	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.110	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.111	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	32	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	2	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/extent		periodical	1	3.3
+	/mods/relatedItem/part/extent/@unit	pages	periodical	1	3.3
+	/mods/relatedItem/part/date	1976	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Winter	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.111	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.112	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	32	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	3	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/extent		periodical	1	3.3
+	/mods/relatedItem/part/extent/@unit	pages	periodical	1	3.3
+	/mods/relatedItem/part/date	1977	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Spring	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.112	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.113	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	33	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	1	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/extent		periodical	1	3.3
+	/mods/relatedItem/part/extent/@unit	pages	periodical	1	3.3
+	/mods/relatedItem/part/date	1977	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Fall	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.113	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.114	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	33	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	2	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/extent		periodical	1	3.3
+	/mods/relatedItem/part/extent/@unit	pages	periodical	1	3.3
+	/mods/relatedItem/part/date	1978	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Winter	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.114	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.115	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	33	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	3	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/extent		periodical	1	3.3
+	/mods/relatedItem/part/extent/@unit	pages	periodical	1	3.3
+	/mods/relatedItem/part/date	1978	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Summer	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.115	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.116	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	33	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	4	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/extent		periodical	1	3.3
+	/mods/relatedItem/part/extent/@unit	pages	periodical	1	3.3
+	/mods/relatedItem/part/date	1978	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/note	Fall	periodical	1	3.3
+	/mods/relatedItem/note/@type	season	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.116	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.117	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/titleInfo		periodical	1	3.3
+	/mods/relatedItem/titleInfo/title	Folio/New Trail	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	16	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	21	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1979-11	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.117	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.118	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/titleInfo		periodical	1	3.3
+	/mods/relatedItem/titleInfo/title	Folio/New Trail	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	16	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	35	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1980-03	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.118	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.119	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/titleInfo		periodical	1	3.3
+	/mods/relatedItem/titleInfo/title	Folio/New Trail	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	16	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	50	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1980-06	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.119	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.120	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/titleInfo		periodical	1	3.3
+	/mods/relatedItem/titleInfo/title	Folio/New Trail	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/date	1980-08	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.120	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.121	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/titleInfo		periodical	1	3.3
+	/mods/relatedItem/titleInfo/title	Folio/New Trail	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	17	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	30	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1981-02	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.121	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.122	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/titleInfo		periodical	1	3.3
+	/mods/relatedItem/titleInfo/title	Folio/New Trail	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	17	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	43	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1981-05	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.122	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.123	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/titleInfo		periodical	1	3.3
+	/mods/relatedItem/titleInfo/title	Folio/New Trail	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	18	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	7	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1981-08	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.123	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	relatedItem.124	periodical	1	3.3
+	/mods/relatedItem/@type	constituent	periodical	1	3.3
+	/mods/relatedItem/titleInfo		periodical	1	3.3
+	/mods/relatedItem/titleInfo/title	Folio/New Trail	periodical	1	3.3
+	/mods/relatedItem/genre	journal issue	periodical	1	3.3
+	/mods/relatedItem/part		periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	18	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	v.	periodical	1	3.3
+	/mods/relatedItem/part/detail		periodical	2	3.3
+	/mods/relatedItem/part/detail/@type	issue	periodical	1	3.3
+	/mods/relatedItem/part/detail/number	21	periodical	1	3.3
+	/mods/relatedItem/part/detail/caption	no.	periodical	1	3.3
+	/mods/relatedItem/part/date	1981-11	periodical	1	3.3
+	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.3
+	/mods/relatedItem/recordInfo		periodical	1	3.3
+	/mods/relatedItem/recordInfo/recordIdentifier	9094.2.124	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	t1	periodical	1	3.3
+	/mods/relatedItem/@type	preceding	periodical	1	3.3
+	/mods/relatedItem/@displayLabel	Continues	periodical	1	3.3
+	/mods/relatedItem/@href	9094.1	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	t3	periodical	1	3.3
+	/mods/relatedItem/@type	succeeding	periodical	1	3.3
+	/mods/relatedItem/@displayLabel	Absorbed by	periodical	1	3.3
+	/mods/relatedItem/@href	QFOL	periodical	1	3.3
+	/mods/relatedItem		periodical	127	3.3
+	/mods/relatedItem/@ID	t4	periodical	1	3.3
+	/mods/relatedItem/@type	succeeding	periodical	1	3.3
+	/mods/relatedItem/@displayLabel	Continued by	periodical	1	3.3
+	/mods/relatedItem/@href	9094.3	periodical	1	3.3
+	/mods/identifier	0028-6907	periodical	6	3.3
+	/mods/identifier/@type	issn	periodical	1	3.3
+	/mods/identifier	0824-8125	periodical	6	3.3
+	/mods/identifier/@type	issn	periodical	1	3.3
+	/mods/identifier	cn 84030317	periodical	6	3.3
+	/mods/identifier/@type	lccn	periodical	1	3.3
+	/mods/identifier		periodical	6	3.3
+	/mods/identifier/@type	lccn	periodical	1	3.3
+	/mods/identifier	2016500	periodical	6	3.3
+	/mods/identifier/@type	local:neos	periodical	1	3.3
+	/mods/identifier	9094.2	periodical	6	3.3
+	/mods/identifier/@type	local:peel3	periodical	1	3.3
+	/mods/location		periodical	1	3.3
+	/mods/location/physicalLocation		periodical	1	3.3
+	/mods/location/url		periodical	1	3.3
+	/mods/recordInfo		periodical	1	3.3
+	/mods/recordInfo/recordContentSource	PAB	periodical	2	3.3
+	/mods/recordInfo/recordContentSource	RC	periodical	2	3.3
+	/mods/recordInfo/recordContentSource/@authority	local:person	periodical	1	3.3
+	/mods/recordInfo/recordCreationDate	1993-02-22T12:00:00-0700	periodical	1	3.3
+	/mods/recordInfo/recordIdentifier	P009094.2	periodical	1	3.3
+	/mods/recordInfo/recordChangeDate	2008-09-15T16:54:16-0600	periodical	1	3.3
+	/@mods	
+
+new trail
+The 
+
+
+University of Alberta
+Alumni Association
+
+text
+periodical
+
+
+abc
+
+
+[Edmonton]
+
+[Alumni Association of the University of Alberta]
+1942-1978
+1942
+9999
+continuing
+
+
+eng
+
+
+microfilm
+v. : ill. ; 28 cm.
+
+the University of Alberta Alumni Association.
+Microfilm. Vol. 1, no. 1 (1942)-v. 47, no. 3 (autumn 1992). Edmonton, Alta. : University of Alberta Library, 1993. 4 microfilm reels ; 35 mm. (With The Trail [microform], 1920-1941) d19421992abcuua
+http://chelsea.library.ualberta.ca:8081/peel_master/select/?q=%28authorAuthority%3A%22University+of+Alberta%22%29+OR+%28subjectAuthority%3A%22University+of+Alberta--Alumni+and+alumnae%22%29+OR+%28subjectAuthority%3A%22University+of+Alberta%22%29&fl=id+authorAuthority+authorDates+subjectAuthority+authorityAuthority&rows=100
+
+    uahistory
+
+				n-cn-ab
+			
+
+				
+University of Alberta
+
+			
+				Alumni and alumnae
+			
+
+				
+University of Alberta
+
+			
+378.7123/3
+
+journal issue
+
+
+1
+v.
+
+
+1
+no.
+
+1942-11
+
+
+9094.2.1
+
+
+
+journal issue
+
+
+1
+v.
+
+
+2
+no.
+
+1943-01
+
+
+9094.2.2
+
+
+
+journal issue
+
+
+1
+v.
+
+
+3
+no.
+
+1943-04
+
+
+9094.2.3
+
+
+
+journal issue
+
+
+1
+v.
+
+
+4
+no.
+
+1943-07
+
+
+9094.2.4
+
+
+
+journal issue
+
+
+2
+v.
+
+
+1
+no.
+
+1944-01
+
+
+9094.2.5
+
+
+
+journal issue
+
+
+2
+v.
+
+
+2
+no.
+
+1944-04
+
+
+9094.2.6
+
+
+
+journal issue
+
+
+2
+v.
+
+
+3
+no.
+
+1944-07
+
+
+9094.2.7
+
+
+
+journal issue
+
+
+2
+v.
+
+
+4
+no.
+
+1944-10
+
+
+9094.2.8
+
+
+
+journal issue
+
+
+3
+v.
+
+
+1
+no.
+
+1945-01
+
+
+9094.2.9
+
+
+
+journal issue
+
+
+3
+v.
+
+
+2
+no.
+
+1945-04
+
+
+9094.2.10
+
+
+
+journal issue
+
+
+3
+v.
+
+
+3
+no.
+
+1945
+
+
+9094.2.11
+
+
+
+journal issue
+
+
+3
+v.
+
+
+4
+no.
+
+1945-10
+
+
+9094.2.12
+
+
+
+journal issue
+
+
+4
+v.
+
+
+1
+no.
+
+1946-01
+
+
+9094.2.13
+
+
+
+journal issue
+
+
+4
+v.
+
+
+2
+no.
+
+1946-04
+
+
+9094.2.14
+
+
+
+journal issue
+
+
+4
+v.
+
+
+3
+no.
+
+1946-07
+
+
+9094.2.15
+
+
+
+journal issue
+
+
+4
+v.
+
+
+4
+no.
+
+1946-10
+
+
+9094.2.16
+
+
+
+journal issue
+
+
+5
+v.
+
+
+1
+no.
+
+1947-01
+
+
+9094.2.17
+
+
+
+journal issue
+
+
+5
+v.
+
+
+2
+no.
+
+1947-04
+
+
+9094.2.18
+
+
+
+journal issue
+
+
+5
+v.
+
+
+3
+no.
+
+1947-07
+
+
+9094.2.19
+
+
+
+journal issue
+
+
+5
+v.
+
+
+4
+no.
+
+1947-10
+
+
+9094.2.20
+
+
+
+journal issue
+
+
+6
+v.
+
+
+1
+no.
+
+1948-01
+
+
+9094.2.21
+
+
+
+journal issue
+
+
+6
+v.
+
+
+2
+no.
+
+1948-04
+
+
+9094.2.22
+
+
+
+journal issue
+
+
+6
+v.
+
+
+3
+no.
+
+1948-07
+
+
+9094.2.23
+
+
+
+journal issue
+
+
+6
+v.
+
+
+4
+no.
+
+1948-10
+
+
+9094.2.24
+
+
+
+journal issue
+
+
+7
+v.
+
+
+1
+no.
+
+1949-02
+
+
+9094.2.25
+
+
+
+journal issue
+
+
+7
+v.
+
+
+2
+no.
+
+1949-05
+
+
+9094.2.26
+
+
+
+journal issue
+
+
+7
+v.
+
+
+3
+no.
+
+1949-08
+
+
+9094.2.27
+
+
+
+journal issue
+
+
+7
+v.
+
+
+4
+no.
+
+1949-11
+
+
+9094.2.28
+
+
+
+journal issue
+
+
+8
+v.
+
+
+1
+no.
+
+1950
+
+Spring
+
+9094.2.29
+
+
+
+journal issue
+
+
+8
+v.
+
+
+2
+no.
+
+1950
+
+Summer
+
+9094.2.30
+
+
+
+journal issue
+
+
+8
+v.
+
+
+3
+no.
+
+1950
+
+Fall
+
+9094.2.31
+
+
+
+journal issue
+
+
+8
+v.
+
+
+4
+no.
+
+1950
+
+Winter
+
+9094.2.32
+
+
+
+journal issue
+
+
+9
+v.
+
+
+1
+no.
+
+1951
+
+Spring
+
+9094.2.33
+
+
+
+journal issue
+
+
+9
+v.
+
+
+2
+no.
+
+1951
+
+Summer
+
+9094.2.34
+
+
+
+journal issue
+
+
+9
+v.
+
+
+3
+no.
+
+1951
+
+Fall
+
+9094.2.35
+
+
+
+journal issue
+
+
+9
+v.
+
+
+4
+no.
+
+1951
+
+Winter
+
+9094.2.36
+
+
+
+journal issue
+
+
+10
+v.
+
+
+1
+no.
+
+1952
+
+Spring
+
+9094.2.37
+
+
+
+journal issue
+
+
+10
+v.
+
+
+2
+no.
+
+1952
+
+Summer
+
+9094.2.38
+
+
+
+journal issue
+
+
+10
+v.
+
+
+3
+no.
+
+1952
+
+Fall
+
+9094.2.39
+
+
+
+journal issue
+
+
+10
+v.
+
+
+4
+no.
+
+1952
+
+Winter
+
+9094.2.40
+
+
+
+journal issue
+
+
+11
+v.
+
+
+1
+no.
+
+1953
+
+Spring
+
+9094.2.41
+
+
+
+journal issue
+
+
+11
+v.
+
+
+2
+no.
+
+1953
+
+Summer
+
+9094.2.42
+
+
+
+journal issue
+
+
+11
+v.
+
+
+3
+no.
+
+1953
+
+
+9094.2.43
+
+
+
+journal issue
+
+
+11
+v.
+
+
+4
+no.
+
+1953
+
+Winter
+
+9094.2.44
+
+
+
+journal issue
+
+
+12
+v.
+
+
+1
+no.
+
+1954
+
+Spring
+
+9094.2.45
+
+
+
+journal issue
+
+
+12
+v.
+
+
+2
+no.
+
+1954
+
+Summer
+
+9094.2.46
+
+
+
+journal issue
+
+
+12
+v.
+
+
+3
+no.
+
+1954
+
+Fall
+
+9094.2.47
+
+
+
+journal issue
+
+
+12
+v.
+
+
+4
+no.
+
+1954
+
+Winter
+
+9094.2.48
+
+
+
+journal issue
+
+
+13
+v.
+
+
+1
+no.
+
+1955
+
+Spring
+
+9094.2.49
+
+
+
+journal issue
+
+
+13
+v.
+
+
+2
+no.
+
+1955
+
+Summer
+
+9094.2.50
+
+
+
+journal issue
+
+
+13
+v.
+
+
+3
+no.
+
+1955
+
+Fall
+
+9094.2.51
+
+
+
+journal issue
+
+
+13
+v.
+
+
+4
+no.
+
+1955
+
+Winter
+
+9094.2.52
+
+
+
+journal issue
+
+
+14
+v.
+
+
+1
+no.
+
+1956-05
+1956-07
+
+
+9094.2.53
+
+
+
+journal issue
+
+
+14
+v.
+
+
+2
+no.
+
+1956-08
+1956-10
+
+
+9094.2.54
+
+
+
+journal issue
+
+
+14
+v.
+
+
+3
+no.
+
+1956-11
+1957-01
+
+
+9094.2.55
+
+
+
+journal issue
+
+
+14
+v.
+
+
+4
+no.
+
+1957
+
+Spring
+
+9094.2.56
+
+
+
+journal issue
+
+
+15
+v.
+
+
+1
+no.
+
+
+1957
+
+Summer
+
+9094.2.57
+
+
+
+journal issue
+
+
+15
+v.
+
+
+3
+no.
+
+
+1957
+1958
+
+Winter
+
+9094.2.58
+
+
+
+journal issue
+
+
+15
+v.
+
+
+4
+no.
+
+
+1958
+
+Spring/Summer
+
+9094.2.59
+
+
+
+journal issue
+
+
+16
+v.
+
+
+1
+no.
+
+
+1958
+
+Fall/Winter
+
+9094.2.60
+
+
+
+journal issue
+
+
+16
+v.
+
+
+2
+no.
+
+
+1959
+
+Spring
+
+9094.2.61
+
+
+
+journal issue
+
+
+17
+v.
+
+
+3
+no.
+
+
+1959/1960
+
+Winter
+
+9094.2.62
+
+
+
+journal issue
+
+
+19
+v.
+
+
+1
+no.
+
+
+1961
+
+Summer
+
+9094.2.63
+
+
+
+journal issue
+
+
+19
+v.
+
+
+2
+no.
+
+
+1961
+
+Fall
+
+9094.2.64
+
+
+
+journal issue
+
+
+19
+v.
+
+
+3
+no.
+
+
+1961/1962
+
+Winter
+
+9094.2.65
+
+
+
+journal issue
+
+
+20
+v.
+
+
+1
+no.
+
+
+1962
+
+Spring/Summer
+
+9094.2.66
+
+
+
+journal issue
+
+
+20
+v.
+
+
+2
+no.
+
+
+1962
+
+Fall
+
+9094.2.67
+
+
+
+journal issue
+
+
+21
+v.
+
+
+1
+no.
+
+
+1963
+
+Summer
+
+9094.2.68
+
+
+
+journal issue
+
+
+21
+v.
+
+
+2
+no.
+
+
+1963
+
+Fall
+
+9094.2.69
+
+
+
+journal issue
+
+
+21
+v.
+
+
+3
+no.
+
+
+1963/1964
+
+Winter
+
+9094.2.70
+
+
+
+journal issue
+
+
+21
+v.
+
+
+4
+no.
+
+
+1964
+
+Spring
+
+9094.2.71
+
+
+
+journal issue
+
+
+22
+v.
+
+
+1
+no.
+
+
+1964
+
+Summer
+
+9094.2.72
+
+
+
+journal issue
+
+
+22
+v.
+
+
+2
+no.
+
+
+1964
+
+Fall
+
+9094.2.73
+
+
+
+journal issue
+
+
+22
+v.
+
+
+3
+no.
+
+
+1964/1965
+
+Winter
+
+9094.2.74
+
+
+
+journal issue
+
+
+22
+v.
+
+
+4
+no.
+
+
+1965
+
+Spring
+
+9094.2.75
+
+
+
+journal issue
+
+
+23
+v.
+
+
+1
+no.
+
+
+1965
+
+Summer
+
+9094.2.76
+
+
+
+journal issue
+
+
+23
+v.
+
+
+2
+no.
+
+
+1965
+
+Fall
+
+9094.2.77
+
+
+
+journal issue
+
+
+23
+v.
+
+
+3
+no.
+
+
+1965/1966
+
+Winter
+
+9094.2.78
+
+
+
+journal issue
+
+
+23
+v.
+
+
+4
+no.
+
+
+1966
+
+Spring
+
+9094.2.79
+
+
+
+journal issue
+
+
+24
+v.
+
+
+1
+no.
+
+
+1966
+
+Summer
+
+9094.2.80
+
+
+
+journal issue
+
+
+24
+v.
+
+
+2
+no.
+
+
+1966
+
+Fall
+
+9094.2.81
+
+
+
+journal issue
+
+
+24
+v.
+
+
+3
+no.
+
+
+1966/1967
+
+Winter
+
+9094.2.82
+
+
+
+journal issue
+
+
+25
+v.
+
+
+1
+no.
+
+1967-12
+
+
+9094.2.83
+
+
+
+journal issue
+
+
+25
+v.
+
+
+2
+no.
+
+1968-05
+
+
+9094.2.84
+
+
+
+journal issue
+
+
+25
+v.
+
+
+3
+no.
+
+1968-11
+
+
+9094.2.85
+
+
+
+journal issue
+
+
+26
+v.
+
+
+1
+no.
+
+1969-04
+
+
+9094.2.86
+
+
+
+journal issue
+
+
+26
+v.
+
+
+2
+no.
+
+1969-06
+
+
+9094.2.87
+
+
+
+journal issue
+
+
+26
+v.
+
+
+3
+no.
+
+1969-10
+
+
+9094.2.88
+
+
+
+journal issue
+
+
+26
+v.
+
+
+4
+no.
+
+1970-02
+
+
+9094.2.89
+
+
+
+journal issue
+
+
+27
+v.
+
+
+1
+no.
+
+
+1970
+
+Summer
+
+9094.2.90
+
+
+
+journal issue
+
+
+27
+v.
+
+
+2
+no.
+
+
+1971
+
+Spring
+
+9094.2.91
+
+
+
+journal issue
+
+
+27
+v.
+
+
+3
+no.
+
+
+1971
+
+Autumn
+
+9094.2.92
+
+
+
+journal issue
+
+
+27
+v.
+
+
+4
+no.
+
+
+1972
+
+Winter
+
+9094.2.93
+
+
+
+journal issue
+
+
+28
+v.
+
+
+1
+no.
+
+1972-05
+
+
+9094.2.94
+
+
+
+journal issue
+
+
+28
+v.
+
+
+2
+no.
+
+
+1972
+
+Summer
+
+9094.2.95
+
+
+
+journal issue
+
+
+28
+v.
+
+
+4
+no.
+
+
+1973
+
+Spring
+
+9094.2.96
+
+
+
+journal issue
+
+
+29
+v.
+
+
+1
+no.
+
+1973-08
+
+
+9094.2.97
+
+
+
+journal issue
+
+
+29
+v.
+
+
+2
+no.
+
+1973-10
+
+
+9094.2.98
+
+
+
+journal issue
+
+
+29
+v.
+
+
+3
+no.
+
+1973-12
+
+
+9094.2.99
+
+
+
+journal issue
+
+
+29
+v.
+
+
+4
+no.
+
+1974-02
+
+
+9094.2.100
+
+
+
+journal issue
+
+
+29
+v.
+
+
+5
+no.
+
+1974-04
+
+
+9094.2.101
+
+
+
+journal issue
+
+
+29
+v.
+
+
+6
+no.
+
+1974-06
+
+
+9094.2.102
+
+
+
+journal issue
+
+
+30
+v.
+
+
+1
+no.
+
+1974-08
+
+
+9094.2.103
+
+
+
+journal issue
+
+
+30
+v.
+
+
+2
+no.
+
+1974-10
+
+
+9094.2.104
+
+
+
+journal issue
+
+
+30
+v.
+
+
+3
+no.
+
+1974-12
+
+
+9094.2.105
+
+
+
+journal issue
+
+
+30
+v.
+
+
+4
+no.
+
+1975-02
+
+
+9094.2.106
+
+
+
+journal issue
+
+
+30
+v.
+
+
+5
+no.
+
+1975-04
+
+
+9094.2.107
+
+
+
+journal issue
+
+
+31
+v.
+
+
+2
+no.
+
+
+1975
+
+Winter
+
+9094.2.108
+
+
+
+journal issue
+
+
+31
+v.
+
+
+3
+no.
+
+
+1976
+
+Spring
+
+9094.2.109
+
+
+
+journal issue
+
+
+32
+v.
+
+
+1
+no.
+
+
+1976
+
+Fall
+
+9094.2.110
+
+
+
+journal issue
+
+
+32
+v.
+
+
+2
+no.
+
+
+1976
+
+Winter
+
+9094.2.111
+
+
+
+journal issue
+
+
+32
+v.
+
+
+3
+no.
+
+
+1977
+
+Spring
+
+9094.2.112
+
+
+
+journal issue
+
+
+33
+v.
+
+
+1
+no.
+
+
+1977
+
+Fall
+
+9094.2.113
+
+
+
+journal issue
+
+
+33
+v.
+
+
+2
+no.
+
+
+1978
+
+Winter
+
+9094.2.114
+
+
+
+journal issue
+
+
+33
+v.
+
+
+3
+no.
+
+
+1978
+
+Summer
+
+9094.2.115
+
+
+
+journal issue
+
+
+33
+v.
+
+
+4
+no.
+
+
+1978
+
+Fall
+
+9094.2.116
+
+
+
+Folio/New Trail
+journal issue
+
+
+16
+v.
+
+
+21
+no.
+
+1979-11
+
+
+9094.2.117
+
+
+
+Folio/New Trail
+journal issue
+
+
+16
+v.
+
+
+35
+no.
+
+1980-03
+
+
+9094.2.118
+
+
+
+Folio/New Trail
+journal issue
+
+
+16
+v.
+
+
+50
+no.
+
+1980-06
+
+
+9094.2.119
+
+
+
+Folio/New Trail
+journal issue
+
+1980-08
+
+
+9094.2.120
+
+
+
+Folio/New Trail
+journal issue
+
+
+17
+v.
+
+
+30
+no.
+
+1981-02
+
+
+9094.2.121
+
+
+
+Folio/New Trail
+journal issue
+
+
+17
+v.
+
+
+43
+no.
+
+1981-05
+
+
+9094.2.122
+
+
+
+Folio/New Trail
+journal issue
+
+
+18
+v.
+
+
+7
+no.
+
+1981-08
+
+
+9094.2.123
+
+
+
+Folio/New Trail
+journal issue
+
+
+18
+v.
+
+
+21
+no.
+
+1981-11
+
+
+9094.2.124
+
+
+
+
+
+0028-6907
+0824-8125
+cn 84030317
+
+2016500
+9094.2
+
+
+
+
+
+PAB
+RC
+1993-02-22T12:00:00-0700
+P009094.2
+2008-09-15T16:54:16-0600
+
+	periodical	1	3.3
+	

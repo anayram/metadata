@@ -1,0 +1,168 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		tkitagawa	PC012181	postcards	1	3.3
+	/mods/@version	3.3	tkitagawa	PC012181	postcards	1	3.3
+	/mods/titleInfo		tkitagawa	PC012181	postcards	1	3.3
+	/mods/titleInfo/@lang	english	tkitagawa	PC012181	postcards	1	3.3
+	/mods/titleInfo/title	Panoramic view of Edmonton, Alta.	tkitagawa	PC012181	postcards	1	3.3
+	/mods/name		tkitagawa	PC012181	postcards	1	3.3
+	/mods/name/@type	personal	tkitagawa	PC012181	postcards	1	3.3
+	/mods/name/namePart	Graydon	tkitagawa	PC012181	postcards	2	3.3
+	/mods/name/namePart/@type	family	tkitagawa	PC012181	postcards	1	3.3
+	/mods/name/namePart	George H.	tkitagawa	PC012181	postcards	2	3.3
+	/mods/name/namePart/@type	given	tkitagawa	PC012181	postcards	1	3.3
+	/mods/name/role		tkitagawa	PC012181	postcards	1	3.3
+	/mods/name/role/roleTerm	Publisher	tkitagawa	PC012181	postcards	1	3.3
+	/mods/name/role/roleTerm/@type	text	tkitagawa	PC012181	postcards	1	3.3
+	/mods/typeOfResource	still image	tkitagawa	PC012181	postcards	1	3.3
+	/mods/genre	postcards	tkitagawa	PC012181	postcards	1	3.3
+	/mods/genre/@authority	gmgpc	tkitagawa	PC012181	postcards	1	3.3
+	/mods/originInfo		tkitagawa	PC012181	postcards	1	3.3
+	/mods/originInfo/issuance	monographic	tkitagawa	PC012181	postcards	1	3.3
+	/mods/originInfo/publisher	Published for George H. Graydon, Edmonton, Alta.	tkitagawa	PC012181	postcards	1	3.3
+	/mods/originInfo/dateIssued	1915-1935	tkitagawa	PC012181	postcards	1	3.3
+	/mods/originInfo/dateIssued/@qualifier	inferred	tkitagawa	PC012181	postcards	1	3.3
+	/mods/originInfo/place		tkitagawa	PC012181	postcards	1	3.3
+	/mods/originInfo/place/placeTerm	Edmonton	tkitagawa	PC012181	postcards	1	3.3
+	/mods/originInfo/place/placeTerm/@type	text	tkitagawa	PC012181	postcards	1	3.3
+	/mods/language		tkitagawa	PC012181	postcards	1	3.3
+	/mods/language/languageTerm	English	tkitagawa	PC012181	postcards	1	3.3
+	/mods/language/languageTerm/@type	text	tkitagawa	PC012181	postcards	1	3.3
+	/mods/physicalDescription		tkitagawa	PC012181	postcards	1	3.3
+	/mods/physicalDescription/extent	1 postcard : b&w ; 9 x 14 cm.	tkitagawa	PC012181	postcards	1	3.3
+	/mods/note	20	tkitagawa	PC012181	postcards	8	3.3
+	/mods/note/@type	price	tkitagawa	PC012181	postcards	1	3.3
+	/mods/note	false	tkitagawa	PC012181	postcards	8	3.3
+	/mods/note/@type	notable	tkitagawa	PC012181	postcards	1	3.3
+	/mods/note	false	tkitagawa	PC012181	postcards	8	3.3
+	/mods/note/@type	imgprobs	tkitagawa	PC012181	postcards	1	3.3
+	/mods/note	Printed in Germany	tkitagawa	PC012181	postcards	8	3.3
+	/mods/note/@type	public_on_back	tkitagawa	PC012181	postcards	1	3.3
+	/mods/note	[printer's no.?] To.431-1	tkitagawa	PC012181	postcards	8	3.3
+	/mods/note/@type	public_on_back	tkitagawa	PC012181	postcards	1	3.3
+	/mods/note	[printer's no.?] 7723	tkitagawa	PC012181	postcards	8	3.3
+	/mods/note/@type	public_on_back	tkitagawa	PC012181	postcards	1	3.3
+	/mods/note	[photographer's no.?] No. 1	tkitagawa	PC012181	postcards	8	3.3
+	/mods/note/@type	public_on_front	tkitagawa	PC012181	postcards	1	3.3
+	/mods/note	A bird's-eye view of various types of buildings  in Edmonton.	tkitagawa	PC012181	postcards	8	3.3
+	/mods/note/@type	public_description	tkitagawa	PC012181	postcards	1	3.3
+	/mods/subject		tkitagawa	PC012181	postcards	9	3.3
+	/mods/subject/geographic	Edmonton, MB	tkitagawa	PC012181	postcards	1	3.3
+	/mods/subject		tkitagawa	PC012181	postcards	9	3.3
+	/mods/subject/hierarchicalGeographic		tkitagawa	PC012181	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/country	Canada	tkitagawa	PC012181	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/province	Alberta	tkitagawa	PC012181	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/city	Edmonton	tkitagawa	PC012181	postcards	1	3.3
+	/mods/subject		tkitagawa	PC012181	postcards	9	3.3
+	/mods/subject/genre	Postcards	tkitagawa	PC012181	postcards	1	3.3
+	/mods/subject		tkitagawa	PC012181	postcards	9	3.3
+	/mods/subject/topic	Cities & towns	tkitagawa	PC012181	postcards	1	3.3
+	/mods/subject		tkitagawa	PC012181	postcards	9	3.3
+	/mods/subject/topic	Cityscapes	tkitagawa	PC012181	postcards	1	3.3
+	/mods/subject		tkitagawa	PC012181	postcards	9	3.3
+	/mods/subject/topic	Buildings	tkitagawa	PC012181	postcards	1	3.3
+	/mods/subject		tkitagawa	PC012181	postcards	9	3.3
+	/mods/subject/topic	Houses	tkitagawa	PC012181	postcards	1	3.3
+	/mods/subject		tkitagawa	PC012181	postcards	9	3.3
+	/mods/subject/topic	Roofs	tkitagawa	PC012181	postcards	1	3.3
+	/mods/subject		tkitagawa	PC012181	postcards	9	3.3
+	/mods/subject/topic	Commercial facilities	tkitagawa	PC012181	postcards	1	3.3
+	/mods/identifier	PC012181	tkitagawa	PC012181	postcards	1	3.3
+	/mods/identifier/@type	local	tkitagawa	PC012181	postcards	1	3.3
+	/mods/location		tkitagawa	PC012181	postcards	1	3.3
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 4 (set 2)	tkitagawa	PC012181	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC012181.html	tkitagawa	PC012181	postcards	3	3.3
+	/mods/location/url/@access	object in context	tkitagawa	PC012181	postcards	1	3.3
+	/mods/location/url/@usage	primary display	tkitagawa	PC012181	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/012/web/PC012181.jpg	tkitagawa	PC012181	postcards	3	3.3
+	/mods/location/url/@access	raw object	tkitagawa	PC012181	postcards	1	3.3
+	/mods/location/url/@note	width='800' height='506' 	tkitagawa	PC012181	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/012/thumbs/PC012181.jpg	tkitagawa	PC012181	postcards	3	3.3
+	/mods/location/url/@access	preview	tkitagawa	PC012181	postcards	1	3.3
+	/mods/location/url/@note	width='200' height='127'	tkitagawa	PC012181	postcards	1	3.3
+	/mods/recordInfo		tkitagawa	PC012181	postcards	1	3.3
+	/mods/recordInfo/recordCreationDate	2009-01-23T14:03:00-0700	tkitagawa	PC012181	postcards	1	3.3
+	/mods/recordInfo/recordIdentifier	PC012181	tkitagawa	PC012181	postcards	1	3.3
+	/mods/recordInfo/recordContentSource	tkitagawa	tkitagawa	PC012181	postcards	1	3.3
+	/mods/recordInfo/recordChangeDate	2009-09-25T09:45:15-0600	tkitagawa	PC012181	postcards	1	3.3
+	/@mods	
+
+Panoramic view of Edmonton, Alta.
+
+
+Graydon
+George H.
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+Published for George H. Graydon, Edmonton, Alta.
+1915-1935
+
+Edmonton
+
+
+
+English
+
+
+1 postcard : b&w ; 9 x 14 cm.
+
+20
+false
+false
+Printed in Germany
+[printer's no.?] To.431-1
+[printer's no.?] 7723
+[photographer's no.?] No. 1
+A bird's-eye view of various types of buildings  in Edmonton.
+
+Edmonton, MB
+
+
+
+Canada
+Alberta
+Edmonton
+
+
+
+Postcards
+
+
+Cities & towns
+
+
+Cityscapes
+
+
+Buildings
+
+
+Houses
+
+
+Roofs
+
+
+Commercial facilities
+
+PC012181
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 4 (set 2)
+http://peel.library.ualberta.ca/postcards/PC012181.html
+    http://peel.library.ualberta.ca/pcimages/PC/012/web/PC012181.jpg
+    http://peel.library.ualberta.ca/pcimages/PC/012/thumbs/PC012181.jpg
+    
+
+
+2009-01-23T14:03:00-0700
+PC012181
+tkitagawa
+2009-09-25T09:45:15-0600
+
+	tkitagawa	PC012181	postcards	1	3.3
+	

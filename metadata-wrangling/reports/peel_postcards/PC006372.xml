@@ -1,0 +1,158 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		bstearns	PC006372	postcards	1	3.2
+	/mods/@version	3.2	bstearns	PC006372	postcards	1	3.2
+	/mods/titleInfo		bstearns	PC006372	postcards	1	3.2
+	/mods/titleInfo/@lang	english	bstearns	PC006372	postcards	1	3.2
+	/mods/titleInfo/title	Edmonton, Alberta	bstearns	PC006372	postcards	1	3.2
+	/mods/name		bstearns	PC006372	postcards	1	3.2
+	/mods/name/@type	corporate	bstearns	PC006372	postcards	1	3.2
+	/mods/name/namePart	Willson Stationery Co., Ltd.	bstearns	PC006372	postcards	1	3.2
+	/mods/name/role		bstearns	PC006372	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	bstearns	PC006372	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	bstearns	PC006372	postcards	1	3.2
+	/mods/typeOfResource	still image	bstearns	PC006372	postcards	1	3.2
+	/mods/genre	postcards	bstearns	PC006372	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	bstearns	PC006372	postcards	1	3.2
+	/mods/originInfo		bstearns	PC006372	postcards	1	3.2
+	/mods/originInfo/place		bstearns	PC006372	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	Edmonton	bstearns	PC006372	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	bstearns	PC006372	postcards	1	3.2
+	/mods/originInfo/publisher	Photographed and Finished by the Willson Stationery Co., Ltd., Edmonton, Alberta	bstearns	PC006372	postcards	1	3.2
+	/mods/originInfo/dateIssued	after 1920	bstearns	PC006372	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	inferred	bstearns	PC006372	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	bstearns	PC006372	postcards	1	3.2
+	/mods/language		bstearns	PC006372	postcards	1	3.2
+	/mods/language/languageTerm	English	bstearns	PC006372	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	bstearns	PC006372	postcards	1	3.2
+	/mods/physicalDescription		bstearns	PC006372	postcards	1	3.2
+	/mods/physicalDescription/form		bstearns	PC006372	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : b&w ; 9 x 14 cm.	bstearns	PC006372	postcards	1	3.2
+	/mods/note	30	bstearns	PC006372	postcards	5	3.2
+	/mods/note/@type	price	bstearns	PC006372	postcards	1	3.2
+	/mods/note	false	bstearns	PC006372	postcards	5	3.2
+	/mods/note/@type	notable	bstearns	PC006372	postcards	1	3.2
+	/mods/note	false	bstearns	PC006372	postcards	5	3.2
+	/mods/note/@type	imgprobs	bstearns	PC006372	postcards	1	3.2
+	/mods/note	This is a real photograph.	bstearns	PC006372	postcards	5	3.2
+	/mods/note/@type	public_on_back	bstearns	PC006372	postcards	1	3.2
+	/mods/note	A montage postcard consisting of four panels depicting, Riverside Drive, McDougall Hill and MacDonald Hotel, the High Level Bridge and the Parliament Buildings.	bstearns	PC006372	postcards	5	3.2
+	/mods/note/@type	public_description	bstearns	PC006372	postcards	1	3.2
+	/mods/subject		bstearns	PC006372	postcards	8	3.2
+	/mods/subject/geographic	Edmonton, AB	bstearns	PC006372	postcards	1	3.2
+	/mods/subject		bstearns	PC006372	postcards	8	3.2
+	/mods/subject/hierarchicalGeographic		bstearns	PC006372	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	bstearns	PC006372	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	bstearns	PC006372	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Edmonton	bstearns	PC006372	postcards	1	3.2
+	/mods/subject		bstearns	PC006372	postcards	8	3.2
+	/mods/subject/topic	Roads	bstearns	PC006372	postcards	1	3.2
+	/mods/subject		bstearns	PC006372	postcards	8	3.2
+	/mods/subject/topic	Hotels	bstearns	PC006372	postcards	1	3.2
+	/mods/subject		bstearns	PC006372	postcards	8	3.2
+	/mods/subject/topic	Bridges	bstearns	PC006372	postcards	1	3.2
+	/mods/subject		bstearns	PC006372	postcards	8	3.2
+	/mods/subject/topic	Capitols	bstearns	PC006372	postcards	1	3.2
+	/mods/subject		bstearns	PC006372	postcards	8	3.2
+	/mods/subject/topic	Montages	bstearns	PC006372	postcards	1	3.2
+	/mods/subject		bstearns	PC006372	postcards	8	3.2
+	/mods/subject/name		bstearns	PC006372	postcards	1	3.2
+	/mods/subject/name/@type	personal	bstearns	PC006372	postcards	1	3.2
+	/mods/subject/name/namePart	High Level Bridge (Edmonton, Alta.)	bstearns	PC006372	postcards	1	3.2
+	/mods/identifier	PC006372	bstearns	PC006372	postcards	1	3.2
+	/mods/identifier/@type	local	bstearns	PC006372	postcards	1	3.2
+	/mods/location		bstearns	PC006372	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 8	bstearns	PC006372	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC006372.html	bstearns	PC006372	postcards	3	3.2
+	/mods/location/url/@access	object in context	bstearns	PC006372	postcards	1	3.2
+	/mods/location/url/@usage	primary display	bstearns	PC006372	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/006/web/PC006372.jpg	bstearns	PC006372	postcards	3	3.2
+	/mods/location/url/@access	raw object	bstearns	PC006372	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='500'	bstearns	PC006372	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/006/thumbs/PC006372.jpg	bstearns	PC006372	postcards	3	3.2
+	/mods/location/url/@access	preview	bstearns	PC006372	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='125'	bstearns	PC006372	postcards	1	3.2
+	/mods/recordInfo		bstearns	PC006372	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	bstearns	bstearns	PC006372	postcards	2	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	bstearns	PC006372	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC006372	bstearns	PC006372	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2010-05-28T13:29:50-0600	bstearns	PC006372	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	aharrigan	bstearns	PC006372	postcards	2	3.2
+	/mods/recordInfo/recordContentSource/@authority	local:person	bstearns	PC006372	postcards	1	3.2
+	/@mods	
+
+Edmonton, Alberta
+
+
+Willson Stationery Co., Ltd.
+
+Publisher
+
+
+still image
+postcards
+
+
+Edmonton
+
+Photographed and Finished by the Willson Stationery Co., Ltd., Edmonton, Alberta
+after 1920
+monographic
+
+
+English
+
+
+
+1 postcard : b&w ; 9 x 14 cm.
+
+30
+false
+false
+This is a real photograph.
+A montage postcard consisting of four panels depicting, Riverside Drive, McDougall Hill and MacDonald Hotel, the High Level Bridge and the Parliament Buildings.
+
+				Edmonton, AB
+			
+
+				
+Canada
+Alberta
+Edmonton
+
+			
+
+				Roads
+			
+
+				Hotels
+			
+
+				Bridges
+			
+
+				Capitols
+			
+
+				Montages
+			
+
+				
+High Level Bridge (Edmonton, Alta.)
+
+			
+PC006372
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 8
+http://peel.library.ualberta.ca/postcards/PC006372.html
+http://peel.library.ualberta.ca/pcimages/PC/006/web/PC006372.jpg
+http://peel.library.ualberta.ca/pcimages/PC/006/thumbs/PC006372.jpg
+
+
+bstearns
+2007-06-25T16:49:56-0600
+PC006372
+2010-05-28T13:29:50-0600
+aharrigan
+
+	bstearns	PC006372	postcards	1	3.2
+	

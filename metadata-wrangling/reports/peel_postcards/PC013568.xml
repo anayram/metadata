@@ -1,0 +1,168 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		sfarnel	PC013568	postcards	1	3.3
+	/mods/@version	3.3	sfarnel	PC013568	postcards	1	3.3
+	/mods/titleInfo		sfarnel	PC013568	postcards	1	3.3
+	/mods/titleInfo/@lang	english	sfarnel	PC013568	postcards	1	3.3
+	/mods/titleInfo/title	McKay Avenue School, Edmonton, Alta.	sfarnel	PC013568	postcards	1	3.3
+	/mods/name		sfarnel	PC013568	postcards	1	3.3
+	/mods/name/@type	corporate	sfarnel	PC013568	postcards	1	3.3
+	/mods/name/namePart	The Valentine & Sons Publishing Co., Ltd.	sfarnel	PC013568	postcards	1	3.3
+	/mods/name/role		sfarnel	PC013568	postcards	1	3.3
+	/mods/name/role/roleTerm	Publisher	sfarnel	PC013568	postcards	1	3.3
+	/mods/name/role/roleTerm/@type	text	sfarnel	PC013568	postcards	1	3.3
+	/mods/typeOfResource	still image	sfarnel	PC013568	postcards	1	3.3
+	/mods/genre	postcards	sfarnel	PC013568	postcards	1	3.3
+	/mods/genre/@authority	gmgpc	sfarnel	PC013568	postcards	1	3.3
+	/mods/originInfo		sfarnel	PC013568	postcards	1	3.3
+	/mods/originInfo/issuance	monographic	sfarnel	PC013568	postcards	1	3.3
+	/mods/originInfo/publisher	The Valentine & Sons Publishing Co., Ltd., Montreal, Toronto, winnipeg and Vancouver	sfarnel	PC013568	postcards	1	3.3
+	/mods/originInfo/dateIssued	1925	sfarnel	PC013568	postcards	1	3.3
+	/mods/originInfo/dateIssued/@qualifier	approximate	sfarnel	PC013568	postcards	1	3.3
+	/mods/originInfo/place		sfarnel	PC013568	postcards	4	3.3
+	/mods/originInfo/place/placeTerm	Montreal	sfarnel	PC013568	postcards	1	3.3
+	/mods/originInfo/place/placeTerm/@type	text	sfarnel	PC013568	postcards	1	3.3
+	/mods/originInfo/place		sfarnel	PC013568	postcards	4	3.3
+	/mods/originInfo/place/placeTerm	Toronto	sfarnel	PC013568	postcards	1	3.3
+	/mods/originInfo/place/placeTerm/@type	text	sfarnel	PC013568	postcards	1	3.3
+	/mods/originInfo/place		sfarnel	PC013568	postcards	4	3.3
+	/mods/originInfo/place/placeTerm	Winnipeg	sfarnel	PC013568	postcards	1	3.3
+	/mods/originInfo/place/placeTerm/@type	text	sfarnel	PC013568	postcards	1	3.3
+	/mods/originInfo/place		sfarnel	PC013568	postcards	4	3.3
+	/mods/originInfo/place/placeTerm	Vancouver	sfarnel	PC013568	postcards	1	3.3
+	/mods/originInfo/place/placeTerm/@type	text	sfarnel	PC013568	postcards	1	3.3
+	/mods/language		sfarnel	PC013568	postcards	1	3.3
+	/mods/language/languageTerm	English	sfarnel	PC013568	postcards	1	3.3
+	/mods/language/languageTerm/@type	text	sfarnel	PC013568	postcards	1	3.3
+	/mods/physicalDescription		sfarnel	PC013568	postcards	1	3.3
+	/mods/physicalDescription/extent	1 postcard : col. ; 9 x 14 cm.	sfarnel	PC013568	postcards	1	3.3
+	/mods/note	7	sfarnel	PC013568	postcards	8	3.3
+	/mods/note/@type	price	sfarnel	PC013568	postcards	1	3.3
+	/mods/note	false	sfarnel	PC013568	postcards	8	3.3
+	/mods/note/@type	notable	sfarnel	PC013568	postcards	1	3.3
+	/mods/note	false	sfarnel	PC013568	postcards	8	3.3
+	/mods/note/@type	imgprobs	sfarnel	PC013568	postcards	1	3.3
+	/mods/note	Printed in Great Britain	sfarnel	PC013568	postcards	8	3.3
+	/mods/note/@type	public_on_back	sfarnel	PC013568	postcards	1	3.3
+	/mods/note	Edmonton, Alberta, 1925-07-12	sfarnel	PC013568	postcards	8	3.3
+	/mods/note/@type	public_postmark_date	sfarnel	PC013568	postcards	1	3.3
+	/mods/note	Edmonton, Alberta, 1926-07-14	sfarnel	PC013568	postcards	8	3.3
+	/mods/note/@type	public_postmark_date	sfarnel	PC013568	postcards	1	3.3
+	/mods/note	[printer's no.] 110104 (J.V.)	sfarnel	PC013568	postcards	8	3.3
+	/mods/note/@type	public_on_front	sfarnel	PC013568	postcards	1	3.3
+	/mods/note	View of the exterior of McKay Avenue School in Edmonton, Alberta.	sfarnel	PC013568	postcards	8	3.3
+	/mods/note/@type	public_description	sfarnel	PC013568	postcards	1	3.3
+	/mods/subject		sfarnel	PC013568	postcards	5	3.3
+	/mods/subject/geographic	Edmonton, MB	sfarnel	PC013568	postcards	1	3.3
+	/mods/subject		sfarnel	PC013568	postcards	5	3.3
+	/mods/subject/hierarchicalGeographic		sfarnel	PC013568	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/country	Canada	sfarnel	PC013568	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/province	Alberta	sfarnel	PC013568	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/city	Edmonton	sfarnel	PC013568	postcards	1	3.3
+	/mods/subject		sfarnel	PC013568	postcards	5	3.3
+	/mods/subject/genre	Postcards	sfarnel	PC013568	postcards	1	3.3
+	/mods/subject		sfarnel	PC013568	postcards	5	3.3
+	/mods/subject/topic	Schools	sfarnel	PC013568	postcards	1	3.3
+	/mods/subject		sfarnel	PC013568	postcards	5	3.3
+	/mods/subject/name		sfarnel	PC013568	postcards	1	3.3
+	/mods/subject/name/namePart	McKay Avenue School (Edmonton, Alta.)	sfarnel	PC013568	postcards	1	3.3
+	/mods/identifier	PC013568	sfarnel	PC013568	postcards	1	3.3
+	/mods/identifier/@type	local	sfarnel	PC013568	postcards	1	3.3
+	/mods/location		sfarnel	PC013568	postcards	1	3.3
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 4 (set 2)	sfarnel	PC013568	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC013568.html	sfarnel	PC013568	postcards	3	3.3
+	/mods/location/url/@access	object in context	sfarnel	PC013568	postcards	1	3.3
+	/mods/location/url/@usage	primary display	sfarnel	PC013568	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/013/web/PC013568.jpg	sfarnel	PC013568	postcards	3	3.3
+	/mods/location/url/@access	raw object	sfarnel	PC013568	postcards	1	3.3
+	/mods/location/url/@note	width='1093' height='685' 	sfarnel	PC013568	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/013/thumbs/PC013568.jpg	sfarnel	PC013568	postcards	3	3.3
+	/mods/location/url/@access	preview	sfarnel	PC013568	postcards	1	3.3
+	/mods/location/url/@note	width='200' height='125'	sfarnel	PC013568	postcards	1	3.3
+	/mods/recordInfo		sfarnel	PC013568	postcards	1	3.3
+	/mods/recordInfo/recordCreationDate	2009-01-23T14:03:00-0700	sfarnel	PC013568	postcards	1	3.3
+	/mods/recordInfo/recordIdentifier	PC013568	sfarnel	PC013568	postcards	1	3.3
+	/mods/recordInfo/recordContentSource	sfarnel	sfarnel	PC013568	postcards	1	3.3
+	/mods/recordInfo/recordChangeDate	2009-11-10T08:03:17-0700	sfarnel	PC013568	postcards	1	3.3
+	/@mods	
+
+McKay Avenue School, Edmonton, Alta.
+
+
+The Valentine & Sons Publishing Co., Ltd.
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+The Valentine & Sons Publishing Co., Ltd., Montreal, Toronto, winnipeg and Vancouver
+1925
+
+
+
+
+
+Montreal
+
+
+Toronto
+
+
+Winnipeg
+
+
+Vancouver
+
+
+
+English
+
+
+1 postcard : col. ; 9 x 14 cm.
+
+7
+false
+false
+Printed in Great Britain
+Edmonton, Alberta, 1925-07-12
+Edmonton, Alberta, 1926-07-14
+[printer's no.] 110104 (J.V.)
+View of the exterior of McKay Avenue School in Edmonton, Alberta.
+
+Edmonton, MB
+
+
+
+Canada
+Alberta
+Edmonton
+
+
+
+Postcards
+
+
+Schools
+
+
+
+McKay Avenue School (Edmonton, Alta.)
+
+
+PC013568
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 4 (set 2)
+http://peel.library.ualberta.ca/postcards/PC013568.html
+http://peel.library.ualberta.ca/pcimages/PC/013/web/PC013568.jpg
+http://peel.library.ualberta.ca/pcimages/PC/013/thumbs/PC013568.jpg
+
+
+2009-01-23T14:03:00-0700
+PC013568
+sfarnel
+2009-11-10T08:03:17-0700
+
+	sfarnel	PC013568	postcards	1	3.3
+	

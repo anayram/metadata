@@ -1,0 +1,108 @@
+Path	Content	URL	Form or Genre	Occurrence	MODS version
+
+/mods/titleInfo		http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	1	3.3
+/mods/titleInfo/title	C?t?'s map of Grouard	http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	1	3.3
+/mods/titleInfo/subTitle	Compiled by C?t?, Tremblay & Pearson, Engineers and Surveyors	http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/name		http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	1	3.3
+/mods/name/@type	corporate	http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	1	3.3
+/mods/name/namePart	C?t?, Tremblay & Pearson	http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/typeOfResource	cartographic	http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/genre	map	http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	3	3.3
+/mods/genre/@authority	marcgt	http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/genre	Digital maps	http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	3	3.3
+/mods/genre/@authority	lcgft	http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/genre	Cadastral maps	http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	3	3.3
+/mods/genre/@authority	lcgft	http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/originInfo		http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	1	3.3
+/mods/originInfo/place		http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	1	3.3
+/mods/originInfo/place/placeTerm	Edmonton	http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	1	3.3
+/mods/originInfo/place/placeTerm/@type	text	http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	1	3.3
+/mods/originInfo/publisher	C?t?, Tremblay & Pearson	http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	1	3.3
+/mods/originInfo/dateIssued	1912	http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	1	3.3
+/mods/originInfo/dateIssued/@qualifier	questionable	http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/language		http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	1	3.3
+/mods/language/languageTerm	English	http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	1	3.3
+/mods/language/languageTerm/@type	text	http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/physicalDescription		http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	1	3.3
+/mods/physicalDescription/form		http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	1	3.3
+/mods/physicalDescription/extent	1 map ; 56.1 x 41.3 cm. on sheet 61 x 45.5 cm.	http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/note	Subdivisions shown where they have arisen. Lots are depicted otherwise. To the north along Buffalo Bay, interspersed with lots, is a Hudson's Bay Co. Reserve and an Indian Reserve.	http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	8	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/note	Map is signed by J. L. C?t? as an Alberta Land Surveyor.	http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	8	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/note	C?t?, Tremblay & Pearson have offices in Edmonton, Grouard, Ft. McMurray, and Athabasca.	http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	8	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/note	peelmaps	http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	8	3.3
+/mods/note/@type	local:oaiset	http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/note	1	http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	8	3.3
+/mods/note/@type	local:sheetcount	http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/note	61 x 45.5 cm.	http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	8	3.3
+/mods/note/@type	local:sheetsize	http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/note	61	http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	8	3.3
+/mods/note/@type	local:sheetlength	http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/note	45.5	http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	8	3.3
+/mods/note/@type	local:sheetwidth	http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	3	3.3
+/mods/subject/@authority	lcsh	http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	1	3.3
+/mods/subject/@lang	eng	http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	1	3.3
+/mods/subject/geographic	Grouard (Alta.)	http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	3	3.3
+/mods/subject/temporal	1912	http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	3	3.3
+/mods/subject/cartographics		http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	1	3.3
+/mods/subject/cartographics/coordinates	w1160940/n0553113	http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	1	3.3
+/mods/subject/cartographics/scale	1:14,400	http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/classification	Alberta-Cities and towns-Grouard 1	http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/identifier	2399	http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	5	3.3
+/mods/identifier/@type	local:mapsproject	http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/identifier	AAA-2483	http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	5	3.3
+/mods/identifier/@type	local:mapsdb	http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/identifier	2399.xml	http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	5	3.3
+/mods/identifier/@type	local:mapsproject_filename	http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	1	3.3
+
+
+                
+                /mods/identifier	M000148	http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	5	3.3
+/mods/identifier/@type	local:peel3	http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	1	3.3
+
+                /mods/identifier	N018761	http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	5	3.3
+/mods/identifier/@type	local:old_peel_new	http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	1	3.3
+
+                
+            /mods/location		http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	1	3.3
+/mods/location/physicalLocation	UA Cameron Staff Access-Maps	http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	1	3.3
+/mods/location/url	http://peel.library.ualberta.ca/maps/M/00/01/M000148/M000148.tif	http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	1	3.3
+/mods/location/url/@access	raw object	http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	1	3.3
+/mods/location/url/@note	width='5433' height='7206'	http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/recordInfo		http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	1	3.3
+/mods/recordInfo/recordContentSource	mapsproject	http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	2	3.3
+/mods/recordInfo/recordContentSource/@authority	local:project	http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	1	3.3
+/mods/recordInfo/recordContentSource	sfarnel	http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	2	3.3
+/mods/recordInfo/recordContentSource/@authority	local:person	http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	1	3.3
+/mods/recordInfo/recordIdentifier	M000148	http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	1	3.3
+/mods/recordInfo/recordChangeDate	2010-11-26T13:40:37-0700	http://peel.library.ualberta.ca/maps/M000148.html	map Digital maps Cadastral maps 	1	3.3
+

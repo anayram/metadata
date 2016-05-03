@@ -1,0 +1,155 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		fsalehi	PC010320	postcards	1	3.2
+	/mods/@version	3.2	fsalehi	PC010320	postcards	1	3.2
+	/mods/titleInfo		fsalehi	PC010320	postcards	1	3.2
+	/mods/titleInfo/@lang	english	fsalehi	PC010320	postcards	1	3.2
+	/mods/titleInfo/title	Corner 1st Street, East, and 8 Avenue, showing Post Office, Calgary, Alberta, Canada	fsalehi	PC010320	postcards	1	3.2
+	/mods/name		fsalehi	PC010320	postcards	1	3.2
+	/mods/name/@type	corporate	fsalehi	PC010320	postcards	1	3.2
+	/mods/name/namePart	The Valentine & Son Publishing Co., Ltd.	fsalehi	PC010320	postcards	1	3.2
+	/mods/name/role		fsalehi	PC010320	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	fsalehi	PC010320	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC010320	postcards	1	3.2
+	/mods/typeOfResource	still image	fsalehi	PC010320	postcards	1	3.2
+	/mods/genre	postcards	fsalehi	PC010320	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	fsalehi	PC010320	postcards	1	3.2
+	/mods/originInfo		fsalehi	PC010320	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	fsalehi	PC010320	postcards	1	3.2
+	/mods/originInfo/publisher	The Valentine & Son Publishing Co., Ltd., Montreal and Toronto	fsalehi	PC010320	postcards	1	3.2
+	/mods/originInfo/dateIssued	1915	fsalehi	PC010320	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	inferred	fsalehi	PC010320	postcards	1	3.2
+	/mods/originInfo/place		fsalehi	PC010320	postcards	2	3.2
+	/mods/originInfo/place/placeTerm	Montreal	fsalehi	PC010320	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC010320	postcards	1	3.2
+	/mods/originInfo/place		fsalehi	PC010320	postcards	2	3.2
+	/mods/originInfo/place/placeTerm	Toronto	fsalehi	PC010320	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC010320	postcards	1	3.2
+	/mods/language		fsalehi	PC010320	postcards	1	3.2
+	/mods/language/languageTerm	English	fsalehi	PC010320	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	fsalehi	PC010320	postcards	1	3.2
+	/mods/physicalDescription		fsalehi	PC010320	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : col. ; 9 x 14 cm.	fsalehi	PC010320	postcards	1	3.2
+	/mods/note	12	fsalehi	PC010320	postcards	5	3.2
+	/mods/note/@type	price	fsalehi	PC010320	postcards	1	3.2
+	/mods/note	false	fsalehi	PC010320	postcards	5	3.2
+	/mods/note/@type	notable	fsalehi	PC010320	postcards	1	3.2
+	/mods/note	true	fsalehi	PC010320	postcards	5	3.2
+	/mods/note/@type	imgprobs	fsalehi	PC010320	postcards	1	3.2
+	/mods/note	Printed in Great Britain	fsalehi	PC010320	postcards	5	3.2
+	/mods/note/@type	public_on_back	fsalehi	PC010320	postcards	1	3.2
+	/mods/note	A hand-tinted photograph of the corner of 1st Street East and 8th Avenue. Cars driving along 8th Avenue. The Post Office, built in 1894, is on the left-hand side.	fsalehi	PC010320	postcards	5	3.2
+	/mods/note/@type	public_description	fsalehi	PC010320	postcards	1	3.2
+	/mods/subject		fsalehi	PC010320	postcards	8	3.2
+	/mods/subject/geographic	Calgary, AB	fsalehi	PC010320	postcards	1	3.2
+	/mods/subject		fsalehi	PC010320	postcards	8	3.2
+	/mods/subject/hierarchicalGeographic		fsalehi	PC010320	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	fsalehi	PC010320	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	fsalehi	PC010320	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Calgary	fsalehi	PC010320	postcards	1	3.2
+	/mods/subject		fsalehi	PC010320	postcards	8	3.2
+	/mods/subject/genre	Postcards	fsalehi	PC010320	postcards	1	3.2
+	/mods/subject		fsalehi	PC010320	postcards	8	3.2
+	/mods/subject/topic	Commercial streets	fsalehi	PC010320	postcards	1	3.2
+	/mods/subject		fsalehi	PC010320	postcards	8	3.2
+	/mods/subject/topic	Post offices	fsalehi	PC010320	postcards	1	3.2
+	/mods/subject		fsalehi	PC010320	postcards	8	3.2
+	/mods/subject/topic	Automobiles	fsalehi	PC010320	postcards	1	3.2
+	/mods/subject		fsalehi	PC010320	postcards	8	3.2
+	/mods/subject/topic	Pedestrians	fsalehi	PC010320	postcards	1	3.2
+	/mods/subject		fsalehi	PC010320	postcards	8	3.2
+	/mods/subject/topic	Utility poles	fsalehi	PC010320	postcards	1	3.2
+	/mods/identifier	PC010320	fsalehi	PC010320	postcards	1	3.2
+	/mods/identifier/@type	local	fsalehi	PC010320	postcards	1	3.2
+	/mods/location		fsalehi	PC010320	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 1	fsalehi	PC010320	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC010320.html	fsalehi	PC010320	postcards	3	3.2
+	/mods/location/url/@access	object in context	fsalehi	PC010320	postcards	1	3.2
+	/mods/location/url/@usage	primary display	fsalehi	PC010320	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/010/web/PC010320.jpg	fsalehi	PC010320	postcards	3	3.2
+	/mods/location/url/@access	raw object	fsalehi	PC010320	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='537' 	fsalehi	PC010320	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/010/thumbs/PC010320.jpg	fsalehi	PC010320	postcards	3	3.2
+	/mods/location/url/@access	preview	fsalehi	PC010320	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='134'	fsalehi	PC010320	postcards	1	3.2
+	/mods/recordInfo		fsalehi	PC010320	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2009-01-19T16:18:42-0700	fsalehi	PC010320	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC010320	fsalehi	PC010320	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	fsalehi	fsalehi	PC010320	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2009-03-19T08:21:00-0700	fsalehi	PC010320	postcards	1	3.2
+	/@mods	
+
+Corner 1st Street, East, and 8 Avenue, showing Post Office, Calgary, Alberta, Canada
+
+
+The Valentine & Son Publishing Co., Ltd.
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+The Valentine & Son Publishing Co., Ltd., Montreal and Toronto
+1915
+
+Montreal
+
+
+Toronto
+
+
+
+English
+
+
+1 postcard : col. ; 9 x 14 cm.
+
+12
+false
+true
+Printed in Great Britain
+A hand-tinted photograph of the corner of 1st Street East and 8th Avenue. Cars driving along 8th Avenue. The Post Office, built in 1894, is on the left-hand side.
+
+Calgary, AB
+
+
+
+Canada
+Alberta
+Calgary
+
+
+
+Postcards
+
+
+Commercial streets
+
+
+Post offices
+
+
+Automobiles
+
+
+Pedestrians
+
+
+Utility poles
+
+PC010320
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 1
+http://peel.library.ualberta.ca/postcards/PC010320.html
+http://peel.library.ualberta.ca/pcimages/PC/010/web/PC010320.jpg
+http://peel.library.ualberta.ca/pcimages/PC/010/thumbs/PC010320.jpg
+
+
+2009-01-19T16:18:42-0700
+PC010320
+fsalehi
+2009-03-19T08:21:00-0700
+
+	fsalehi	PC010320	postcards	1	3.2
+	

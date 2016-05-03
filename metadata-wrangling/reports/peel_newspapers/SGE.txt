@@ -1,0 +1,107 @@
+Path	Content	URL	Form or Genre	Occurrence	MODS version
+
+/mods/titleInfo		http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	4	3.2
+/mods/titleInfo/title	gazette	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+/mods/titleInfo/nonSort	The 	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+
+    /mods/titleInfo		http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	4	3.2
+/mods/titleInfo/@type	uniform	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+/mods/titleInfo/title	Gazette (St. Albert, Alta. : 1974 : Online)	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+
+    /mods/titleInfo		http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	4	3.2
+/mods/titleInfo/@type	alternative	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+/mods/titleInfo/title	St. Albert & Sturgeon gazette	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+
+    /mods/titleInfo		http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	4	3.2
+/mods/titleInfo/@type	alternative	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+/mods/titleInfo/title	St. Albert and Sturgeon gazette	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+
+    /mods/typeOfResource	text	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+
+/mods/genre	newspaper	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+/mods/genre/@authority	marcgt	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+
+/mods/originInfo		http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+/mods/originInfo/place		http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	2	3.2
+/mods/originInfo/place/placeTerm	abc	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@authority	marccountry	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@type	code	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+/mods/originInfo/place		http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	2	3.2
+/mods/originInfo/place/placeTerm	St. Albert, Alberta	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@type	text	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+/mods/originInfo/publisher	W.E.J. Printing & Publishing Ltd.	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+/mods/originInfo/dateIssued	1974	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	2	3.2
+/mods/originInfo/dateIssued/@point	start	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+/mods/originInfo/dateIssued/@encoding	iso8601	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+/mods/originInfo/dateIssued	1989	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	2	3.2
+/mods/originInfo/dateIssued/@point	end	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+/mods/originInfo/dateIssued/@encoding	iso8601	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+/mods/originInfo/issuance	continuing	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+
+/mods/language		http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+/mods/language/languageTerm	eng	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+/mods/language/languageTerm/@authority	iso639-2b	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+/mods/language/languageTerm/@type	code	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+
+/mods/physicalDescription		http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+/mods/physicalDescription/form	print	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+/mods/physicalDescription/form/@authority	marcform	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+/mods/physicalDescription/extent	 volumes	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+
+    /mods/note	Began with Vol. 15, No. 12 (March 20th, 1974); ceased in 1989?	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	6	3.2
+/mods/note/@type	public	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+
+    /mods/note	Not published: Jan. 1 & July 2, 1975; July 18, 1979; and: last week of each Dec. for 1974-	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	6	3.2
+/mods/note/@type	public	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+
+    /mods/note	Vol. 16, no. 26 and vol. 20, no. 29 each skipped in numbering.	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	6	3.2
+/mods/note/@type	public	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+
+    /mods/note	Appears to have merged with: Gazette (Morinville, Alta.), to form: St. Albert & Morinville gazette.	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	6	3.2
+/mods/note/@type	public	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+
+    /mods/note	Thank you to the St. Albert Gazette, the St. Albert Community Foundation, and the St. Albert Public Library for their generous contributions of funding for the digitization of this newspaper for the Peel's Prairie Province's website; to the St. Albert Gazette for providing issues in print, and to the Musée Héritage Museum and the St. Albert Public Library for providing microfilmed copies of the newspaper.	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	6	3.2
+/mods/note/@type	public	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+
+    /mods/note	newspapers	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	6	3.2
+/mods/note/@type	local:oaiset	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+
+/mods/subject		http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic		http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/country	Canada	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/province	Alberta	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/city	St. Albert	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+
+    /mods/relatedItem		http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+/mods/relatedItem/@displayLabel	Continues	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+/mods/relatedItem/@type	preceding	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+/mods/relatedItem/@href	SGD	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+/mods/relatedItem/titleInfo		http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+/mods/relatedItem/titleInfo/title	St. Albert & Sturgeon gazette (Online)	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+
+/mods/classification	071/.1	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+/mods/classification/@authority	ddc	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+/mods/classification/@edition	19	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+
+/mods/identifier	SGE	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+/mods/identifier/@type	local:newspaper	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+
+    
+    /mods/location		http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+/mods/location/physicalLocation	CaAEU	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+/mods/location/physicalLocation/@authority	marcorg	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+/mods/location/holdingSimple		http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation		http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/form	electronic	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/form/@authority	marcform	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/electronicLocator	http://peel.library.ualberta.ca/newspapers/SGE/	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/enumerationAndChronology	1974-1989	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/enumerationAndChronology/@unitType	1	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+
+/mods/recordInfo		http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+/mods/recordInfo/recordContentSource	JH	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+/mods/recordInfo/recordContentSource/@authority	local:person	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+/mods/recordInfo/recordCreationDate	2014-04-01T16:17:00-0700	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+/mods/recordInfo/recordIdentifier	QSGE	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+/mods/recordInfo/recordChangeDate	2014-04-01T16:17:00-0700	http://peel.library.ualberta.ca/newspapers/SGE.html	newspaper	1	3.2
+

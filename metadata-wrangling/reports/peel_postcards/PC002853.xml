@@ -1,0 +1,147 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		bstearns	PC002853	postcards	1	3.2
+	/mods/@version	3.2	bstearns	PC002853	postcards	1	3.2
+	/mods/titleInfo		bstearns	PC002853	postcards	1	3.2
+	/mods/titleInfo/@lang	english	bstearns	PC002853	postcards	1	3.2
+	/mods/titleInfo/title	Saskatoon, Quaker Oats Mills	bstearns	PC002853	postcards	1	3.2
+	/mods/name		bstearns	PC002853	postcards	1	3.2
+	/mods/name/@type	corporate	bstearns	PC002853	postcards	1	3.2
+	/mods/name/namePart	Western Card Co.	bstearns	PC002853	postcards	1	3.2
+	/mods/name/role		bstearns	PC002853	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	bstearns	PC002853	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	bstearns	PC002853	postcards	1	3.2
+	/mods/typeOfResource	still image	bstearns	PC002853	postcards	1	3.2
+	/mods/genre	postcards	bstearns	PC002853	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	bstearns	PC002853	postcards	1	3.2
+	/mods/originInfo		bstearns	PC002853	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	bstearns	PC002853	postcards	1	3.2
+	/mods/originInfo/publisher	Copyright Western Card Co., Calgary, Alta	bstearns	PC002853	postcards	1	3.2
+	/mods/originInfo/dateIssued	ca. 1920	bstearns	PC002853	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	approximate	bstearns	PC002853	postcards	1	3.2
+	/mods/originInfo/place		bstearns	PC002853	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	Calgary	bstearns	PC002853	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	bstearns	PC002853	postcards	1	3.2
+	/mods/language		bstearns	PC002853	postcards	1	3.2
+	/mods/language/languageTerm	English	bstearns	PC002853	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	bstearns	PC002853	postcards	1	3.2
+	/mods/physicalDescription		bstearns	PC002853	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : b&w ; 9 x 14 cm.	bstearns	PC002853	postcards	1	3.2
+	/mods/note	45	bstearns	PC002853	postcards	6	3.2
+	/mods/note/@type	price	bstearns	PC002853	postcards	1	3.2
+	/mods/note	false	bstearns	PC002853	postcards	6	3.2
+	/mods/note/@type	notable	bstearns	PC002853	postcards	1	3.2
+	/mods/note	false	bstearns	PC002853	postcards	6	3.2
+	/mods/note/@type	imgprobs	bstearns	PC002853	postcards	1	3.2
+	/mods/note	Printed in Germany.	bstearns	PC002853	postcards	6	3.2
+	/mods/note/@type	public_on_back	bstearns	PC002853	postcards	1	3.2
+	/mods/note	View of the Quaker Oats Mill in Saskatoon. Plant was built by Archibald Peter McNab who was joined by the Wilson Bros in 1906. Sold out to Quaker Oats in 1912.	bstearns	PC002853	postcards	6	3.2
+	/mods/note/@type	public_description	bstearns	PC002853	postcards	1	3.2
+	/mods/note	Glossy print postcard.	bstearns	PC002853	postcards	6	3.2
+	/mods/note/@type	public_other	bstearns	PC002853	postcards	1	3.2
+	/mods/subject		bstearns	PC002853	postcards	6	3.2
+	/mods/subject/geographic	Saskatoon, SK	bstearns	PC002853	postcards	1	3.2
+	/mods/subject		bstearns	PC002853	postcards	6	3.2
+	/mods/subject/hierarchicalGeographic		bstearns	PC002853	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	bstearns	PC002853	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Saskatchewan	bstearns	PC002853	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Saskatoon	bstearns	PC002853	postcards	1	3.2
+	/mods/subject		bstearns	PC002853	postcards	6	3.2
+	/mods/subject/genre	Postcards	bstearns	PC002853	postcards	1	3.2
+	/mods/subject		bstearns	PC002853	postcards	6	3.2
+	/mods/subject/topic	Flour & meal industry	bstearns	PC002853	postcards	1	3.2
+	/mods/subject		bstearns	PC002853	postcards	6	3.2
+	/mods/subject/topic	Factories	bstearns	PC002853	postcards	1	3.2
+	/mods/subject		bstearns	PC002853	postcards	6	3.2
+	/mods/subject/name		bstearns	PC002853	postcards	1	3.2
+	/mods/subject/name/@type	corporate	bstearns	PC002853	postcards	1	3.2
+	/mods/subject/name/namePart	Quaker Oats Mill (Saskatoon, Sask.)	bstearns	PC002853	postcards	1	3.2
+	/mods/identifier	PC002853	bstearns	PC002853	postcards	1	3.2
+	/mods/identifier/@type	local	bstearns	PC002853	postcards	1	3.2
+	/mods/location		bstearns	PC002853	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Sask. Box 1	bstearns	PC002853	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC002853.html	bstearns	PC002853	postcards	3	3.2
+	/mods/location/url/@access	object in context	bstearns	PC002853	postcards	1	3.2
+	/mods/location/url/@usage	primary display	bstearns	PC002853	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/002/web/PC002853.jpg	bstearns	PC002853	postcards	3	3.2
+	/mods/location/url/@access	raw object	bstearns	PC002853	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='512' 	bstearns	PC002853	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/002/thumbs/PC002853.jpg	bstearns	PC002853	postcards	3	3.2
+	/mods/location/url/@access	preview	bstearns	PC002853	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='128'	bstearns	PC002853	postcards	1	3.2
+	/mods/recordInfo		bstearns	PC002853	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	bstearns	PC002853	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC002853	bstearns	PC002853	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	bstearns	bstearns	PC002853	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2009-12-07T16:07:01-0700	bstearns	PC002853	postcards	1	3.2
+	/@mods	
+
+Saskatoon, Quaker Oats Mills
+
+
+Western Card Co.
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+Copyright Western Card Co., Calgary, Alta
+ca. 1920
+
+
+Calgary
+
+
+
+English
+
+
+1 postcard : b&w ; 9 x 14 cm.
+
+45
+false
+false
+Printed in Germany.
+View of the Quaker Oats Mill in Saskatoon. Plant was built by Archibald Peter McNab who was joined by the Wilson Bros in 1906. Sold out to Quaker Oats in 1912.
+Glossy print postcard.
+
+Saskatoon, SK
+
+
+
+Canada
+Saskatchewan
+Saskatoon
+
+
+
+Postcards
+
+
+Flour & meal industry
+
+
+Factories
+
+
+
+Quaker Oats Mill (Saskatoon, Sask.)
+
+
+PC002853
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Sask. Box 1
+http://peel.library.ualberta.ca/postcards/PC002853.html
+http://peel.library.ualberta.ca/pcimages/PC/002/web/PC002853.jpg
+http://peel.library.ualberta.ca/pcimages/PC/002/thumbs/PC002853.jpg
+
+
+2007-06-25T16:49:56-0600
+PC002853
+bstearns
+2009-12-07T16:07:01-0700
+
+	bstearns	PC002853	postcards	1	3.2
+	

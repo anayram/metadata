@@ -1,0 +1,146 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.2
+	/mods/@version	3.2		1	3.2
+	/mods/titleInfo			1	3.2
+	/mods/titleInfo/title	Wasagaming		1	3.2
+	/mods/name			2	3.2
+	/mods/name/@type	personal		1	3.2
+	/mods/name/namePart	Arnett, Jonathan Hughes		1	3.2
+	/mods/name/role			1	3.2
+	/mods/name/role/roleTerm	composer		1	3.2
+	/mods/name			2	3.2
+	/mods/name/@type	personal		1	3.2
+	/mods/name/namePart	Poole, E. W.		1	3.2
+	/mods/name/role			1	3.2
+	/mods/name/role/roleTerm	composer		1	3.2
+	/mods/typeOfResource	notated music		1	3.2
+	/mods/originInfo			1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	mbc		1	3.2
+	/mods/originInfo/place/placeTerm/@authority	marccountry		1	3.2
+	/mods/originInfo/place/placeTerm/@type	code		1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	Wasagaming, Man.		1	3.2
+	/mods/originInfo/place/placeTerm/@type	text		1	3.2
+	/mods/originInfo/publisher	J.H. Arnett and E.W. Poole		1	3.2
+	/mods/originInfo/dateIssued	c1937		1	3.2
+	/mods/originInfo/issuance	monographic		1	3.2
+	/mods/language			1	3.2
+	/mods/language/languageTerm	eng		1	3.2
+	/mods/language/languageTerm/@authority	iso639-2b		1	3.2
+	/mods/language/languageTerm/@type	code		1	3.2
+	/mods/physicalDescription			1	3.2
+	/mods/physicalDescription/form	print		1	3.2
+	/mods/physicalDescription/form/@authority	marcform		1	3.2
+	/mods/physicalDescription/extent	5, [1] p. (including covers) : music, ill. ; 31 cm.		1	3.2
+	/mods/note	words by Jonathan Hughes Arnett and E.W. Poole ; music by Jonathan Hughes Arnett.		7	3.2
+	/mods/note/@type	statement of responsibility		1	3.2
+	/mods/note	Includes the full song, for medium voice with piano acc., chord symbols and ukelele chord diagrams (p. 3-5), as well as the refrain for 3-part chorus, unacc. (p. 2).		7	3.2
+	/mods/note	Includes a description of Clear Lake and Riding Mountain National Park after last numbered page.		7	3.2
+	/mods/note	English words.		7	3.2
+	/mods/note	http://chelsea.library.ualberta.ca:8081/peel_master/select/?q=%28authorAuthority%3A%22Arnett%2C+Jonathan+Hughes%22%29+OR+%28authorAuthority%3A%22Poole%2C+E.W%22%29+OR+%28subjectAuthority%3A%22Wasagaming+%28Man.%29%22%29+OR+%28subjectAuthority%3A%22Clear+Lake+%28Man.%29%22%29+OR+%28subjectAuthority%3A%22Riding+Mountain+National+Park+%28Man.%29%22%29+OR+%28subjectAuthority%3A%22Songs+%28Medium+voice%29+with+piano%22%29+OR+%28subjectAuthority%3A%22Choruses%2C+Secular%2C+Unaccompanied%22%29&fl=id+authorAuthority+authorDates+subjectAuthority+authorityAuthority&rows=100		7	3.2
+	/mods/note/@type	solr		1	3.2
+	/mods/note	DOA: 1937 Spatial: Wasagaming (Man.)		7	3.2
+	/mods/note/@type	local		1	3.2
+	/mods/note	Cover title. Musical score. Contains a description of Clear Lake and Riding Mountain National Park.		7	3.2
+	/mods/note/@type	public		1	3.2
+	/mods/subject			5	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/geographic	Wasagaming (Man.)		1	3.2
+	/mods/subject			5	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/geographic	Clear Lake (Man.)		1	3.2
+	/mods/subject			5	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/geographic	Riding Mountain National Park (Man.)		1	3.2
+	/mods/subject			5	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/topic	Songs (Medium voice) with piano		1	3.2
+	/mods/subject			5	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/topic	Choruses, Secular, Unaccompanied		1	3.2
+	/mods/classification	M1679.A748 W3 1937		1	3.2
+	/mods/classification/@authority	lcc		1	3.2
+	/mods/identifier	3979553		3	3.2
+	/mods/identifier/@type	local:neos		1	3.2
+	/mods/identifier	N008800		3	3.2
+	/mods/identifier/@type	local:peel_new		1	3.2
+	/mods/identifier	9429		3	3.2
+	/mods/identifier/@type	local:peel3		1	3.2
+	/mods/recordInfo			1	3.2
+	/mods/recordInfo/recordContentSource	fsalehi		2	3.2
+	/mods/recordInfo/recordContentSource	RC		2	3.2
+	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.2
+	/mods/recordInfo/recordCreationDate	2007-08-30T12:00:00-0700		1	3.2
+	/mods/recordInfo/recordIdentifier	P009429		1	3.2
+	/mods/recordInfo/recordChangeDate	2010-07-01T09:59:33-0600		1	3.2
+	/@mods	
+
+Wasagaming
+
+
+Arnett, Jonathan Hughes
+
+composer
+
+
+
+Poole, E. W.
+
+composer
+
+
+notated music
+
+
+mbc
+
+
+Wasagaming, Man.
+
+J.H. Arnett and E.W. Poole
+c1937
+monographic
+
+
+eng
+
+
+print
+5, [1] p. (including covers) : music, ill. ; 31 cm.
+
+words by Jonathan Hughes Arnett and E.W. Poole ; music by Jonathan Hughes Arnett.
+Includes the full song, for medium voice with piano acc., chord symbols and ukelele chord diagrams (p. 3-5), as well as the refrain for 3-part chorus, unacc. (p. 2).
+Includes a description of Clear Lake and Riding Mountain National Park after last numbered page.
+English words.
+http://chelsea.library.ualberta.ca:8081/peel_master/select/?q=%28authorAuthority%3A%22Arnett%2C+Jonathan+Hughes%22%29+OR+%28authorAuthority%3A%22Poole%2C+E.W%22%29+OR+%28subjectAuthority%3A%22Wasagaming+%28Man.%29%22%29+OR+%28subjectAuthority%3A%22Clear+Lake+%28Man.%29%22%29+OR+%28subjectAuthority%3A%22Riding+Mountain+National+Park+%28Man.%29%22%29+OR+%28subjectAuthority%3A%22Songs+%28Medium+voice%29+with+piano%22%29+OR+%28subjectAuthority%3A%22Choruses%2C+Secular%2C+Unaccompanied%22%29&fl=id+authorAuthority+authorDates+subjectAuthority+authorityAuthority&rows=100
+DOA: 1937 Spatial: Wasagaming (Man.)
+Cover title. Musical score. Contains a description of Clear Lake and Riding Mountain National Park.
+
+				Wasagaming (Man.)
+			
+
+				Clear Lake (Man.)
+			
+
+				Riding Mountain National Park (Man.)
+			
+
+				Songs (Medium voice) with piano
+			
+
+				Choruses, Secular, Unaccompanied
+			
+M1679.A748 W3 1937
+3979553
+N008800
+9429
+
+fsalehi
+RC
+2007-08-30T12:00:00-0700
+P009429
+2010-07-01T09:59:33-0600
+
+		1	3.2
+	

@@ -1,0 +1,177 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		sfarnel	PC013461	postcards	1	3.3
+	/mods/@version	3.3	sfarnel	PC013461	postcards	1	3.3
+	/mods/titleInfo		sfarnel	PC013461	postcards	1	3.3
+	/mods/titleInfo/@lang	english	sfarnel	PC013461	postcards	1	3.3
+	/mods/titleInfo/title	Empire Hotel and Union Station, Main Street, Winnipeg, Man., Canada	sfarnel	PC013461	postcards	1	3.3
+	/mods/name		sfarnel	PC013461	postcards	1	3.3
+	/mods/name/@type	corporate	sfarnel	PC013461	postcards	1	3.3
+	/mods/name/namePart	The Valentine & Sons Publishing Co.	sfarnel	PC013461	postcards	1	3.3
+	/mods/name/role		sfarnel	PC013461	postcards	1	3.3
+	/mods/name/role/roleTerm	Publisher	sfarnel	PC013461	postcards	1	3.3
+	/mods/name/role/roleTerm/@type	text	sfarnel	PC013461	postcards	1	3.3
+	/mods/typeOfResource	still image	sfarnel	PC013461	postcards	1	3.3
+	/mods/genre	postcards	sfarnel	PC013461	postcards	1	3.3
+	/mods/genre/@authority	gmgpc	sfarnel	PC013461	postcards	1	3.3
+	/mods/originInfo		sfarnel	PC013461	postcards	1	3.3
+	/mods/originInfo/issuance	monographic	sfarnel	PC013461	postcards	1	3.3
+	/mods/originInfo/publisher	The Valentine & Sons Publishing Co., Ltd., Montreal, Toronto, Winnipeg, Vancouver	sfarnel	PC013461	postcards	1	3.3
+	/mods/originInfo/dateIssued		sfarnel	PC013461	postcards	1	3.3
+	/mods/originInfo/dateIssued/@qualifier	inferred	sfarnel	PC013461	postcards	1	3.3
+	/mods/originInfo/place		sfarnel	PC013461	postcards	4	3.3
+	/mods/originInfo/place/placeTerm	Montreal	sfarnel	PC013461	postcards	1	3.3
+	/mods/originInfo/place/placeTerm/@type	text	sfarnel	PC013461	postcards	1	3.3
+	/mods/originInfo/place		sfarnel	PC013461	postcards	4	3.3
+	/mods/originInfo/place/placeTerm	Toronto	sfarnel	PC013461	postcards	1	3.3
+	/mods/originInfo/place/placeTerm/@type	text	sfarnel	PC013461	postcards	1	3.3
+	/mods/originInfo/place		sfarnel	PC013461	postcards	4	3.3
+	/mods/originInfo/place/placeTerm	Winnipeg	sfarnel	PC013461	postcards	1	3.3
+	/mods/originInfo/place/placeTerm/@type	text	sfarnel	PC013461	postcards	1	3.3
+	/mods/originInfo/place		sfarnel	PC013461	postcards	4	3.3
+	/mods/originInfo/place/placeTerm	Vancouver	sfarnel	PC013461	postcards	1	3.3
+	/mods/originInfo/place/placeTerm/@type	text	sfarnel	PC013461	postcards	1	3.3
+	/mods/language		sfarnel	PC013461	postcards	1	3.3
+	/mods/language/languageTerm	English	sfarnel	PC013461	postcards	1	3.3
+	/mods/language/languageTerm/@type	text	sfarnel	PC013461	postcards	1	3.3
+	/mods/physicalDescription		sfarnel	PC013461	postcards	1	3.3
+	/mods/physicalDescription/extent	1 postcard : col. ; 9 x 14 cm.	sfarnel	PC013461	postcards	1	3.3
+	/mods/note	8	sfarnel	PC013461	postcards	6	3.3
+	/mods/note/@type	price	sfarnel	PC013461	postcards	1	3.3
+	/mods/note	false	sfarnel	PC013461	postcards	6	3.3
+	/mods/note/@type	notable	sfarnel	PC013461	postcards	1	3.3
+	/mods/note	false	sfarnel	PC013461	postcards	6	3.3
+	/mods/note/@type	imgprobs	sfarnel	PC013461	postcards	1	3.3
+	/mods/note	[printer's no.] 109,499 (J.V.)	sfarnel	PC013461	postcards	6	3.3
+	/mods/note/@type	public_to	sfarnel	PC013461	postcards	1	3.3
+	/mods/note	Main Street south of Portage Avenue at York Avenue, near Empire Hotel (now demolished).	sfarnel	PC013461	postcards	6	3.3
+	/mods/note/@type	public_description	sfarnel	PC013461	postcards	1	3.3
+	/mods/note	Printed in Great Britain	sfarnel	PC013461	postcards	6	3.3
+	/mods/note/@type	public_to	sfarnel	PC013461	postcards	1	3.3
+	/mods/subject		sfarnel	PC013461	postcards	8	3.3
+	/mods/subject/geographic	Winnipeg, MB	sfarnel	PC013461	postcards	1	3.3
+	/mods/subject		sfarnel	PC013461	postcards	8	3.3
+	/mods/subject/hierarchicalGeographic		sfarnel	PC013461	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/country	Canada	sfarnel	PC013461	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/province	Manitoba	sfarnel	PC013461	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/city	Winnipeg	sfarnel	PC013461	postcards	1	3.3
+	/mods/subject		sfarnel	PC013461	postcards	8	3.3
+	/mods/subject/genre	Postcards	sfarnel	PC013461	postcards	1	3.3
+	/mods/subject		sfarnel	PC013461	postcards	8	3.3
+	/mods/subject/topic	Commercial streets	sfarnel	PC013461	postcards	1	3.3
+	/mods/subject		sfarnel	PC013461	postcards	8	3.3
+	/mods/subject/topic	Hotels	sfarnel	PC013461	postcards	1	3.3
+	/mods/subject		sfarnel	PC013461	postcards	8	3.3
+	/mods/subject/topic	Street railroads	sfarnel	PC013461	postcards	1	3.3
+	/mods/subject		sfarnel	PC013461	postcards	8	3.3
+	/mods/subject/topic	Carts & wagons	sfarnel	PC013461	postcards	1	3.3
+	/mods/subject		sfarnel	PC013461	postcards	8	3.3
+	/mods/subject/name		sfarnel	PC013461	postcards	1	3.3
+	/mods/subject/name/namePart	Empire Hotel (Winnipeg, Man.)	sfarnel	PC013461	postcards	1	3.3
+	/mods/identifier	PC013461	sfarnel	PC013461	postcards	1	3.3
+	/mods/identifier/@type	local	sfarnel	PC013461	postcards	1	3.3
+	/mods/location		sfarnel	PC013461	postcards	1	3.3
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 4 (set 2)	sfarnel	PC013461	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC013461.html	sfarnel	PC013461	postcards	3	3.3
+	/mods/location/url/@access	object in context	sfarnel	PC013461	postcards	1	3.3
+	/mods/location/url/@usage	primary display	sfarnel	PC013461	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/013/web/PC013461.jpg	sfarnel	PC013461	postcards	3	3.3
+	/mods/location/url/@access	raw object	sfarnel	PC013461	postcards	1	3.3
+	/mods/location/url/@note	width='1102' height='683' 	sfarnel	PC013461	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/013/thumbs/PC013461.jpg	sfarnel	PC013461	postcards	3	3.3
+	/mods/location/url/@access	preview	sfarnel	PC013461	postcards	1	3.3
+	/mods/location/url/@note	width='200' height='124'	sfarnel	PC013461	postcards	1	3.3
+	/mods/recordInfo		sfarnel	PC013461	postcards	1	3.3
+	/mods/recordInfo/recordCreationDate	2009-01-23T14:03:00-0700	sfarnel	PC013461	postcards	1	3.3
+	/mods/recordInfo/recordIdentifier	PC013461	sfarnel	PC013461	postcards	1	3.3
+	/mods/recordInfo/recordContentSource	sfarnel	sfarnel	PC013461	postcards	1	3.3
+	/mods/recordInfo/recordChangeDate	2009-11-09T16:08:47-0700	sfarnel	PC013461	postcards	1	3.3
+	/@mods	
+
+Empire Hotel and Union Station, Main Street, Winnipeg, Man., Canada
+
+
+The Valentine & Sons Publishing Co.
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+The Valentine & Sons Publishing Co., Ltd., Montreal, Toronto, Winnipeg, Vancouver
+
+
+
+
+
+
+Montreal
+
+
+Toronto
+
+
+Winnipeg
+
+
+Vancouver
+
+
+
+English
+
+
+1 postcard : col. ; 9 x 14 cm.
+
+8
+false
+false
+[printer's no.] 109,499 (J.V.)
+Main Street south of Portage Avenue at York Avenue, near Empire Hotel (now demolished).
+Printed in Great Britain
+
+Winnipeg, MB
+
+
+
+Canada
+Manitoba
+Winnipeg
+
+
+
+Postcards
+
+
+Commercial streets
+
+
+Hotels
+
+
+Street railroads
+
+
+Carts & wagons
+
+
+
+Empire Hotel (Winnipeg, Man.)
+
+
+PC013461
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 4 (set 2)
+http://peel.library.ualberta.ca/postcards/PC013461.html
+http://peel.library.ualberta.ca/pcimages/PC/013/web/PC013461.jpg
+http://peel.library.ualberta.ca/pcimages/PC/013/thumbs/PC013461.jpg
+
+
+2009-01-23T14:03:00-0700
+PC013461
+sfarnel
+2009-11-09T16:08:47-0700
+
+	sfarnel	PC013461	postcards	1	3.3
+	

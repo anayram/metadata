@@ -1,0 +1,135 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.2
+	/mods/@version	3.2		1	3.2
+	/mods/titleInfo			2	3.2
+	/mods/titleInfo/title	Ecclesiastes		1	3.2
+	/mods/titleInfo/subTitle	The wisdom under the sun		1	3.2
+	/mods/titleInfo			2	3.2
+	/mods/titleInfo/@type	alternative		1	3.2
+	/mods/titleInfo/title	One of God's poetical books analyzed		1	3.2
+	/mods/name			2	3.2
+	/mods/name/@type	personal		1	3.2
+	/mods/name/@href	MA003228		1	3.2
+	/mods/name/namePart	Aberhart, William		2	3.2
+	/mods/name/namePart	1878-1943		2	3.2
+	/mods/name/namePart/@type	date		1	3.2
+	/mods/name			2	3.2
+	/mods/name/@type	corporate		1	3.2
+	/mods/name/namePart	Calgary Prophetic Conference		1	3.2
+	/mods/typeOfResource	text		1	3.2
+	/mods/originInfo			1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	abc		1	3.2
+	/mods/originInfo/place/placeTerm/@authority	marccountry		1	3.2
+	/mods/originInfo/place/placeTerm/@type	code		1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	Calgary		1	3.2
+	/mods/originInfo/place/placeTerm/@type	text		1	3.2
+	/mods/originInfo/publisher	Calgary Prophetic Conference		1	3.2
+	/mods/originInfo/dateIssued	[ca. 1930]		2	3.2
+	/mods/originInfo/dateIssued	1930		2	3.2
+	/mods/originInfo/dateIssued/@encoding	marc		1	3.2
+	/mods/originInfo/issuance	monographic		1	3.2
+	/mods/language			1	3.2
+	/mods/language/languageTerm	eng		1	3.2
+	/mods/language/languageTerm/@authority	iso639-2b		1	3.2
+	/mods/language/languageTerm/@type	code		1	3.2
+	/mods/physicalDescription			1	3.2
+	/mods/physicalDescription/form	print		1	3.2
+	/mods/physicalDescription/form/@authority	marcform		1	3.2
+	/mods/physicalDescription/extent	24 p. ; 23 cm.		1	3.2
+	/mods/note	analyzed by William Aberhart.		4	3.2
+	/mods/note/@type	statement of responsibility		1	3.2
+	/mods/note	http://chelsea.library.ualberta.ca:8081/peel_master/select/?q=%28authorAuthority%3A%22Aberhart%2C+William%22+AND+authorDates%3A1878-1943*%29+OR+%28subjectAuthority%3A%22Criticism%2C+interpretation%2C+etc%22%29+OR+%28subjectAuthority%3A%22Modernism+%28Christian+theology%29%22%29&fl=id+authorAuthority+authorDates+subjectAuthority+authorityAuthority&rows=100		4	3.2
+	/mods/note/@type	solr		1	3.2
+	/mods/note	DOA: 1930 Spatial: Alberta		4	3.2
+	/mods/note/@type	local		1	3.2
+	/mods/note	Cover title: <i>One of God's poetical books analyzed</i>. Exegesis of the Book of Ecclesiastes by William Aberhart, premier of Alberta from 1935 to 1943.		4	3.2
+	/mods/note/@type	public		1	3.2
+	/mods/subject			2	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/titleInfo			1	3.2
+	/mods/subject/titleInfo/title	Bible		1	3.2
+	/mods/subject/titleInfo/partName	O.T. Ecclesiastes		1	3.2
+	/mods/subject/topic	Criticism, interpretation, etc		1	3.2
+	/mods/subject			2	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/topic	Modernism (Christian theology)		1	3.2
+	/mods/classification	BS1475 .A24 1940		1	3.2
+	/mods/classification/@authority	lcc		1	3.2
+	/mods/identifier	3979493		3	3.2
+	/mods/identifier/@type	local:neos		1	3.2
+	/mods/identifier	N008849		3	3.2
+	/mods/identifier/@type	local:peel_new		1	3.2
+	/mods/identifier	9476		3	3.2
+	/mods/identifier/@type	local:peel3		1	3.2
+	/mods/recordInfo			1	3.2
+	/mods/recordInfo/recordContentSource	fsalehi		2	3.2
+	/mods/recordInfo/recordContentSource	RC		2	3.2
+	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.2
+	/mods/recordInfo/recordCreationDate	2007-08-23T12:00:00-0700		1	3.2
+	/mods/recordInfo/recordIdentifier	P009476		1	3.2
+	/mods/recordInfo/recordChangeDate	2010-07-02T11:48:32-0600		1	3.2
+	/@mods	
+
+Ecclesiastes
+The wisdom under the sun
+
+
+One of God's poetical books analyzed
+
+
+Aberhart, William
+1878-1943
+
+
+Calgary Prophetic Conference
+
+text
+
+
+abc
+
+
+Calgary
+
+Calgary Prophetic Conference
+[ca. 1930]
+1930
+monographic
+
+
+eng
+
+
+print
+24 p. ; 23 cm.
+
+analyzed by William Aberhart.
+http://chelsea.library.ualberta.ca:8081/peel_master/select/?q=%28authorAuthority%3A%22Aberhart%2C+William%22+AND+authorDates%3A1878-1943*%29+OR+%28subjectAuthority%3A%22Criticism%2C+interpretation%2C+etc%22%29+OR+%28subjectAuthority%3A%22Modernism+%28Christian+theology%29%22%29&fl=id+authorAuthority+authorDates+subjectAuthority+authorityAuthority&rows=100
+DOA: 1930 Spatial: Alberta
+Cover title: <i>One of God's poetical books analyzed</i>. Exegesis of the Book of Ecclesiastes by William Aberhart, premier of Alberta from 1935 to 1943.
+
+				
+Bible
+O.T. Ecclesiastes
+
+			
+				Criticism, interpretation, etc
+			
+
+				Modernism (Christian theology)
+			
+BS1475 .A24 1940
+3979493
+N008849
+9476
+
+fsalehi
+RC
+2007-08-23T12:00:00-0700
+P009476
+2010-07-02T11:48:32-0600
+
+		1	3.2
+	

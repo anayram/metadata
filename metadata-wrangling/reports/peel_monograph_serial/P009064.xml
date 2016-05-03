@@ -1,0 +1,96 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.2
+	/mods/@version	3.2		1	3.2
+	/mods/titleInfo			1	3.2
+	/mods/titleInfo/title	Institutional analysis of Mount Royal College, Calgary, Alberta		1	3.2
+	/mods/name			1	3.2
+	/mods/name/@type	personal		1	3.2
+	/mods/name/namePart	Anderson, Robert Newton		2	3.2
+	/mods/name/namePart	1929-		2	3.2
+	/mods/name/namePart/@type	date		1	3.2
+	/mods/typeOfResource	text		1	3.2
+	/mods/originInfo			1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	abc		1	3.2
+	/mods/originInfo/place/placeTerm/@authority	marccountry		1	3.2
+	/mods/originInfo/place/placeTerm/@type	code		1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	[Calgary]		1	3.2
+	/mods/originInfo/place/placeTerm/@type	text		1	3.2
+	/mods/originInfo/publisher	Robert Anderson		1	3.2
+	/mods/originInfo/dateIssued	1964		1	3.2
+	/mods/originInfo/issuance	monographic		1	3.2
+	/mods/language			1	3.2
+	/mods/language/languageTerm	eng		1	3.2
+	/mods/language/languageTerm/@authority	iso639-2b		1	3.2
+	/mods/language/languageTerm/@type	code		1	3.2
+	/mods/physicalDescription			1	3.2
+	/mods/physicalDescription/form	print		1	3.2
+	/mods/physicalDescription/form/@authority	marcform		1	3.2
+	/mods/physicalDescription/extent	242, 5 p. ; 29 cm.		1	3.2
+	/mods/note	uahistory		2	3.2
+	/mods/note/@type	local:oaiset		1	3.2
+	/mods/note	DOA: 1910 Spatial: Calgary (Alta.)		2	3.2
+	/mods/note/@type	local		1	3.2
+	/mods/subject			1	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/name			1	3.2
+	/mods/subject/name/@type	personal		1	3.2
+	/mods/subject/name/namePart	Mount Royal College.		1	3.2
+	/mods/identifier	1795537		2	3.2
+	/mods/identifier/@type	local:neos		1	3.2
+	/mods/identifier	9064		2	3.2
+	/mods/identifier/@type	local:peel3		1	3.2
+	/mods/recordInfo			1	3.2
+	/mods/recordInfo/recordContentSource	neos		2	3.2
+	/mods/recordInfo/recordContentSource/@authority	marcorg		1	3.2
+	/mods/recordInfo/recordContentSource	RC		2	3.2
+	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.2
+	/mods/recordInfo/recordCreationDate	2008-09-10T15:13:02-0600		1	3.2
+	/mods/recordInfo/recordIdentifier	P009064		1	3.2
+	/mods/recordInfo/recordChangeDate	2010-03-18T19:35:15-0600		1	3.2
+	/@mods	
+
+Institutional analysis of Mount Royal College, Calgary, Alberta
+
+
+Anderson, Robert Newton
+1929-
+
+text
+
+
+abc
+
+
+[Calgary]
+
+Robert Anderson
+1964
+monographic
+
+
+eng
+
+
+print
+242, 5 p. ; 29 cm.
+
+uahistory
+DOA: 1910 Spatial: Calgary (Alta.)
+
+				
+Mount Royal College.
+
+			
+1795537
+9064
+
+neos
+RC
+2008-09-10T15:13:02-0600
+P009064
+2010-03-18T19:35:15-0600
+
+		1	3.2
+	

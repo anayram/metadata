@@ -1,0 +1,156 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		fsalehi	PC013501	postcards	1	3.3
+	/mods/@version	3.3	fsalehi	PC013501	postcards	1	3.3
+	/mods/titleInfo		fsalehi	PC013501	postcards	1	3.3
+	/mods/titleInfo/@lang	english	fsalehi	PC013501	postcards	1	3.3
+	/mods/titleInfo/title	Bird's eye view of Winnipeg from Union Bank	fsalehi	PC013501	postcards	1	3.3
+	/mods/name		fsalehi	PC013501	postcards	1	3.3
+	/mods/name/@type	personal	fsalehi	PC013501	postcards	1	3.3
+	/mods/name/namePart	MacFarlane	fsalehi	PC013501	postcards	2	3.3
+	/mods/name/namePart/@type	family	fsalehi	PC013501	postcards	1	3.3
+	/mods/name/namePart	W.G.	fsalehi	PC013501	postcards	2	3.3
+	/mods/name/namePart/@type	given	fsalehi	PC013501	postcards	1	3.3
+	/mods/name/role		fsalehi	PC013501	postcards	1	3.3
+	/mods/name/role/roleTerm	Publisher	fsalehi	PC013501	postcards	1	3.3
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC013501	postcards	1	3.3
+	/mods/typeOfResource	still image	fsalehi	PC013501	postcards	1	3.3
+	/mods/genre	postcards	fsalehi	PC013501	postcards	1	3.3
+	/mods/genre/@authority	gmgpc	fsalehi	PC013501	postcards	1	3.3
+	/mods/originInfo		fsalehi	PC013501	postcards	1	3.3
+	/mods/originInfo/issuance	monographic	fsalehi	PC013501	postcards	1	3.3
+	/mods/originInfo/publisher	W.G. MacFarlane, publisher, Toronto, New York and Buffalo	fsalehi	PC013501	postcards	1	3.3
+	/mods/originInfo/dateIssued	1910	fsalehi	PC013501	postcards	1	3.3
+	/mods/originInfo/dateIssued/@qualifier	inferred	fsalehi	PC013501	postcards	1	3.3
+	/mods/originInfo/place		fsalehi	PC013501	postcards	3	3.3
+	/mods/originInfo/place/placeTerm	Toronto	fsalehi	PC013501	postcards	1	3.3
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC013501	postcards	1	3.3
+	/mods/originInfo/place		fsalehi	PC013501	postcards	3	3.3
+	/mods/originInfo/place/placeTerm	New York	fsalehi	PC013501	postcards	1	3.3
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC013501	postcards	1	3.3
+	/mods/originInfo/place		fsalehi	PC013501	postcards	3	3.3
+	/mods/originInfo/place/placeTerm	Buffalo	fsalehi	PC013501	postcards	1	3.3
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC013501	postcards	1	3.3
+	/mods/language		fsalehi	PC013501	postcards	1	3.3
+	/mods/language/languageTerm	English	fsalehi	PC013501	postcards	1	3.3
+	/mods/language/languageTerm/@type	text	fsalehi	PC013501	postcards	1	3.3
+	/mods/physicalDescription		fsalehi	PC013501	postcards	1	3.3
+	/mods/physicalDescription/extent	1 postcard : col. ; 9 x 14 cm.	fsalehi	PC013501	postcards	1	3.3
+	/mods/note	3	fsalehi	PC013501	postcards	6	3.3
+	/mods/note/@type	price	fsalehi	PC013501	postcards	1	3.3
+	/mods/note	false	fsalehi	PC013501	postcards	6	3.3
+	/mods/note/@type	notable	fsalehi	PC013501	postcards	1	3.3
+	/mods/note	false	fsalehi	PC013501	postcards	6	3.3
+	/mods/note/@type	imgprobs	fsalehi	PC013501	postcards	1	3.3
+	/mods/note	[printer's no.] 1.5284	fsalehi	PC013501	postcards	6	3.3
+	/mods/note/@type	public_on_back	fsalehi	PC013501	postcards	1	3.3
+	/mods/note	[printer's no.] 201783	fsalehi	PC013501	postcards	6	3.3
+	/mods/note/@type	public_on_back	fsalehi	PC013501	postcards	1	3.3
+	/mods/note	Early view of the downtown business district.	fsalehi	PC013501	postcards	6	3.3
+	/mods/note/@type	public_description	fsalehi	PC013501	postcards	1	3.3
+	/mods/subject		fsalehi	PC013501	postcards	5	3.3
+	/mods/subject/geographic	Winnipeg, MB	fsalehi	PC013501	postcards	1	3.3
+	/mods/subject		fsalehi	PC013501	postcards	5	3.3
+	/mods/subject/hierarchicalGeographic		fsalehi	PC013501	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/country	Canada	fsalehi	PC013501	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/province	Manitoba	fsalehi	PC013501	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/city	Winnipeg	fsalehi	PC013501	postcards	1	3.3
+	/mods/subject		fsalehi	PC013501	postcards	5	3.3
+	/mods/subject/genre	Postcards	fsalehi	PC013501	postcards	1	3.3
+	/mods/subject		fsalehi	PC013501	postcards	5	3.3
+	/mods/subject/topic	Cityscapes	fsalehi	PC013501	postcards	1	3.3
+	/mods/subject		fsalehi	PC013501	postcards	5	3.3
+	/mods/subject/topic	Business districts	fsalehi	PC013501	postcards	1	3.3
+	/mods/identifier	PC013501	fsalehi	PC013501	postcards	1	3.3
+	/mods/identifier/@type	local	fsalehi	PC013501	postcards	1	3.3
+	/mods/location		fsalehi	PC013501	postcards	1	3.3
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 4 (set 2)	fsalehi	PC013501	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC013501.html	fsalehi	PC013501	postcards	3	3.3
+	/mods/location/url/@access	object in context	fsalehi	PC013501	postcards	1	3.3
+	/mods/location/url/@usage	primary display	fsalehi	PC013501	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/013/web/PC013501.jpg	fsalehi	PC013501	postcards	3	3.3
+	/mods/location/url/@access	raw object	fsalehi	PC013501	postcards	1	3.3
+	/mods/location/url/@note	width='1084' height='676' 	fsalehi	PC013501	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/013/thumbs/PC013501.jpg	fsalehi	PC013501	postcards	3	3.3
+	/mods/location/url/@access	preview	fsalehi	PC013501	postcards	1	3.3
+	/mods/location/url/@note	width='200' height='125'	fsalehi	PC013501	postcards	1	3.3
+	/mods/recordInfo		fsalehi	PC013501	postcards	1	3.3
+	/mods/recordInfo/recordCreationDate	2009-01-23T14:03:00-0700	fsalehi	PC013501	postcards	1	3.3
+	/mods/recordInfo/recordIdentifier	PC013501	fsalehi	PC013501	postcards	1	3.3
+	/mods/recordInfo/recordContentSource	fsalehi	fsalehi	PC013501	postcards	1	3.3
+	/mods/recordInfo/recordChangeDate	2009-10-01T13:44:43-0600	fsalehi	PC013501	postcards	1	3.3
+	/@mods	
+
+Bird's eye view of Winnipeg from Union Bank
+
+
+MacFarlane
+W.G.
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+W.G. MacFarlane, publisher, Toronto, New York and Buffalo
+1910
+
+
+
+
+Toronto
+
+
+New York
+
+
+Buffalo
+
+
+
+English
+
+
+1 postcard : col. ; 9 x 14 cm.
+
+3
+false
+false
+[printer's no.] 1.5284
+[printer's no.] 201783
+Early view of the downtown business district.
+
+Winnipeg, MB
+
+
+
+Canada
+Manitoba
+Winnipeg
+
+
+
+Postcards
+
+
+Cityscapes
+
+
+Business districts
+
+PC013501
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 4 (set 2)
+http://peel.library.ualberta.ca/postcards/PC013501.html
+http://peel.library.ualberta.ca/pcimages/PC/013/web/PC013501.jpg
+http://peel.library.ualberta.ca/pcimages/PC/013/thumbs/PC013501.jpg
+
+
+2009-01-23T14:03:00-0700
+PC013501
+fsalehi
+2009-10-01T13:44:43-0600
+
+	fsalehi	PC013501	postcards	1	3.3
+	

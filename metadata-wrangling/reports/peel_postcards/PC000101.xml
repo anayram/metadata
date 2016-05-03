@@ -1,0 +1,128 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		sdahl	PC000101	postcards	1	3.2
+	/mods/@version	3.2	sdahl	PC000101	postcards	1	3.2
+	/mods/titleInfo		sdahl	PC000101	postcards	1	3.2
+	/mods/titleInfo/@lang	english	sdahl	PC000101	postcards	1	3.2
+	/mods/titleInfo/title	Tenth Street, Brandon, Manitoba.	sdahl	PC000101	postcards	1	3.2
+	/mods/typeOfResource	still image	sdahl	PC000101	postcards	1	3.2
+	/mods/genre	postcards	sdahl	PC000101	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	sdahl	PC000101	postcards	1	3.2
+	/mods/originInfo		sdahl	PC000101	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	sdahl	PC000101	postcards	1	3.2
+	/mods/originInfo/dateIssued	1940	sdahl	PC000101	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	inferred	sdahl	PC000101	postcards	1	3.2
+	/mods/originInfo/publisher	Photogelatine Engraving Co. Limited, Ottawa	sdahl	PC000101	postcards	1	3.2
+	/mods/originInfo/place		sdahl	PC000101	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	Ottawa	sdahl	PC000101	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	sdahl	PC000101	postcards	1	3.2
+	/mods/language		sdahl	PC000101	postcards	1	3.2
+	/mods/language/languageTerm	English	sdahl	PC000101	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	sdahl	PC000101	postcards	1	3.2
+	/mods/physicalDescription		sdahl	PC000101	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : col. ; 9 x 14 cm.	sdahl	PC000101	postcards	1	3.2
+	/mods/note	25	sdahl	PC000101	postcards	6	3.2
+	/mods/note/@type	price	sdahl	PC000101	postcards	1	3.2
+	/mods/note	false	sdahl	PC000101	postcards	6	3.2
+	/mods/note/@type	notable	sdahl	PC000101	postcards	1	3.2
+	/mods/note	true	sdahl	PC000101	postcards	6	3.2
+	/mods/note/@type	imgprobs	sdahl	PC000101	postcards	1	3.2
+	/mods/note	A view of Tenth Street, cars parked along the street, there are shops on each side of the street, "McKenzie Seeds" is on the left side.	sdahl	PC000101	postcards	6	3.2
+	/mods/note/@type	public_description	sdahl	PC000101	postcards	1	3.2
+	/mods/note	Cropped on left.	sdahl	PC000101	postcards	6	3.2
+	/mods/note/@type	private	sdahl	PC000101	postcards	1	3.2
+	/mods/note	[printer's no.] 12	sdahl	PC000101	postcards	6	3.2
+	/mods/note/@type	public_on_front	sdahl	PC000101	postcards	1	3.2
+	/mods/subject		sdahl	PC000101	postcards	5	3.2
+	/mods/subject/geographic	Brandon, MB	sdahl	PC000101	postcards	1	3.2
+	/mods/subject		sdahl	PC000101	postcards	5	3.2
+	/mods/subject/hierarchicalGeographic		sdahl	PC000101	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	sdahl	PC000101	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Manitoba	sdahl	PC000101	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Brandon	sdahl	PC000101	postcards	1	3.2
+	/mods/subject		sdahl	PC000101	postcards	5	3.2
+	/mods/subject/genre	Postcards	sdahl	PC000101	postcards	1	3.2
+	/mods/subject		sdahl	PC000101	postcards	5	3.2
+	/mods/subject/topic	Stores & shops	sdahl	PC000101	postcards	1	3.2
+	/mods/subject		sdahl	PC000101	postcards	5	3.2
+	/mods/subject/topic	Commercial streets	sdahl	PC000101	postcards	1	3.2
+	/mods/identifier	PC000101	sdahl	PC000101	postcards	1	3.2
+	/mods/identifier/@type	local	sdahl	PC000101	postcards	1	3.2
+	/mods/location		sdahl	PC000101	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 1	sdahl	PC000101	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC000101.html	sdahl	PC000101	postcards	3	3.2
+	/mods/location/url/@access	object in context	sdahl	PC000101	postcards	1	3.2
+	/mods/location/url/@usage	primary display	sdahl	PC000101	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/000/web/PC000101.jpg	sdahl	PC000101	postcards	3	3.2
+	/mods/location/url/@access	raw object	sdahl	PC000101	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='515' 	sdahl	PC000101	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/000/thumbs/PC000101.jpg	sdahl	PC000101	postcards	3	3.2
+	/mods/location/url/@access	preview	sdahl	PC000101	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='129'	sdahl	PC000101	postcards	1	3.2
+	/mods/recordInfo		sdahl	PC000101	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-20T16:05:12-0600	sdahl	PC000101	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC000101	sdahl	PC000101	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	sdahl	sdahl	PC000101	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2007-10-22T14:44:14-0600	sdahl	PC000101	postcards	1	3.2
+	/@mods	
+
+Tenth Street, Brandon, Manitoba.
+
+still image
+postcards
+
+monographic
+1940
+
+Photogelatine Engraving Co. Limited, Ottawa
+
+Ottawa
+
+
+
+English
+
+
+1 postcard : col. ; 9 x 14 cm.
+
+25
+false
+true
+A view of Tenth Street, cars parked along the street, there are shops on each side of the street, "McKenzie Seeds" is on the left side.
+Cropped on left.
+[printer's no.] 12
+
+Brandon, MB
+
+
+
+Canada
+Manitoba
+Brandon
+
+
+
+Postcards
+
+
+Stores & shops
+
+
+Commercial streets
+
+PC000101
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 1
+http://peel.library.ualberta.ca/postcards/PC000101.html
+http://peel.library.ualberta.ca/pcimages/PC/000/web/PC000101.jpg
+http://peel.library.ualberta.ca/pcimages/PC/000/thumbs/PC000101.jpg
+
+
+
+
+2007-06-20T16:05:12-0600
+PC000101
+sdahl
+2007-10-22T14:44:14-0600
+
+	sdahl	PC000101	postcards	1	3.2
+	

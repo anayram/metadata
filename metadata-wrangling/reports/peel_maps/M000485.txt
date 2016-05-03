@@ -1,0 +1,106 @@
+Path	Content	URL	Form or Genre	Occurrence	MODS version
+
+/mods/titleInfo		http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	1	3.3
+/mods/titleInfo/title	Stovel's pocket map of Winnipeg	http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/name		http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	1	3.3
+/mods/name/@type	corporate	http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	1	3.3
+/mods/name/namePart	Stovel Co. Ltd.	http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/typeOfResource	cartographic	http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/genre	map	http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	3	3.3
+/mods/genre/@authority	marcgt	http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/genre	Digital maps	http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	3	3.3
+/mods/genre/@authority	lcgft	http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/genre	Cadastral maps	http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	3	3.3
+/mods/genre/@authority	lcgft	http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/originInfo		http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	1	3.3
+/mods/originInfo/place		http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	1	3.3
+/mods/originInfo/place/placeTerm	Winnipeg	http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	1	3.3
+/mods/originInfo/place/placeTerm/@type	text	http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	1	3.3
+/mods/originInfo/publisher	Stovel Co. Ltd.	http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	1	3.3
+/mods/originInfo/dateIssued	1913	http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/language		http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	1	3.3
+/mods/language/languageTerm	English	http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	1	3.3
+/mods/language/languageTerm/@type	text	http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/physicalDescription		http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	1	3.3
+/mods/physicalDescription/form		http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	1	3.3
+/mods/physicalDescription/extent	1 map : col. ; 62.2 x 63 cm. on sheet 63.8 x 64.3 cm. folded to 16 x 8 cm.	http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/note	Booklet's cover title: "Stovel's new indexed pocket map of Winnipeg and St. Boniface with surrounding districts: showing streets, street railways, public buildings, ward boundaries, parks, cemeteries, places of amusement, real estate sub-divisions, etc., etc."	http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	7	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/note	On verso is index to Winnipeg.	http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	7	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/note	peelmaps	http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	7	3.3
+/mods/note/@type	local:oaiset	http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/note	1	http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	7	3.3
+/mods/note/@type	local:sheetcount	http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/note	63.8 x 64.3 cm. folded to 16 x 8 cm.	http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	7	3.3
+/mods/note/@type	local:sheetsize	http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/note	63.8	http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	7	3.3
+/mods/note/@type	local:sheetlength	http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/note	64.3	http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	7	3.3
+/mods/note/@type	local:sheetwidth	http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	3	3.3
+/mods/subject/@authority	lcsh	http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	1	3.3
+/mods/subject/@lang	eng	http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	1	3.3
+/mods/subject/geographic	Winnipeg (Man.)	http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	3	3.3
+/mods/subject/temporal	1913	http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	3	3.3
+/mods/subject/cartographics		http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	1	3.3
+/mods/subject/cartographics/coordinates	w0970847/n0495304	http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	1	3.3
+/mods/subject/cartographics/scale	ca. 1:18,000	http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/classification	Manitoba-Cities and towns-Winnipeg 42	http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/identifier	3207	http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	5	3.3
+/mods/identifier/@type	local:mapsproject	http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/identifier	AAA-3302	http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	5	3.3
+/mods/identifier/@type	local:mapsdb	http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/identifier	3207.xml	http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	5	3.3
+/mods/identifier/@type	local:mapsproject_filename	http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	1	3.3
+
+
+                
+                /mods/identifier	M000485	http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	5	3.3
+/mods/identifier/@type	local:peel3	http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	1	3.3
+
+                /mods/identifier	N019166	http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	5	3.3
+/mods/identifier/@type	local:old_peel_new	http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	1	3.3
+
+                
+            /mods/location		http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	1	3.3
+/mods/location/physicalLocation	UA Cameron Staff Access-Maps	http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	1	3.3
+/mods/location/url	http://peel.library.ualberta.ca/maps/M/00/04/M000485/M000485.1.tif	http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	2	3.3
+/mods/location/url/@access	raw object1	http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	1	3.3
+/mods/location/url/@note	width='8858' height='7547'	http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	1	3.3
+/mods/location/url	http://peel.library.ualberta.ca/maps/M/00/04/M000485/M000485.2.tif	http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	2	3.3
+/mods/location/url/@access	raw object2	http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	1	3.3
+/mods/location/url/@note	width='8858' height='7565'	http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	1	3.3
+
+/mods/recordInfo		http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	1	3.3
+/mods/recordInfo/recordContentSource	mapsproject	http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	2	3.3
+/mods/recordInfo/recordContentSource/@authority	local:project	http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	1	3.3
+/mods/recordInfo/recordContentSource	sfarnel	http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	2	3.3
+/mods/recordInfo/recordContentSource/@authority	local:person	http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	1	3.3
+/mods/recordInfo/recordIdentifier	M000485	http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	1	3.3
+/mods/recordInfo/recordChangeDate	2010-11-26T13:53:42-0700	http://peel.library.ualberta.ca/maps/M000485.html	map Digital maps Cadastral maps 	1	3.3
+

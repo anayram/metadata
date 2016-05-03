@@ -1,0 +1,146 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		fsalehi	PC000962	postcards	1	3.2
+	/mods/@version	3.2	fsalehi	PC000962	postcards	1	3.2
+	/mods/titleInfo		fsalehi	PC000962	postcards	1	3.2
+	/mods/titleInfo/@lang	english	fsalehi	PC000962	postcards	1	3.2
+	/mods/titleInfo/title	[Main Street, Winnipeg]	fsalehi	PC000962	postcards	1	3.2
+	/mods/name		fsalehi	PC000962	postcards	1	3.2
+	/mods/name/@type	personal	fsalehi	PC000962	postcards	1	3.2
+	/mods/name/namePart	Barrowclough	fsalehi	PC000962	postcards	2	3.2
+	/mods/name/namePart/@type	family	fsalehi	PC000962	postcards	1	3.2
+	/mods/name/namePart	G.A.	fsalehi	PC000962	postcards	2	3.2
+	/mods/name/namePart/@type	given	fsalehi	PC000962	postcards	1	3.2
+	/mods/name/role		fsalehi	PC000962	postcards	1	3.2
+	/mods/name/role/roleTerm	Photographer	fsalehi	PC000962	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC000962	postcards	1	3.2
+	/mods/typeOfResource	still image	fsalehi	PC000962	postcards	1	3.2
+	/mods/genre	postcards	fsalehi	PC000962	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	fsalehi	PC000962	postcards	1	3.2
+	/mods/originInfo		fsalehi	PC000962	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	fsalehi	PC000962	postcards	1	3.2
+	/mods/originInfo/publisher	Barrowclough	fsalehi	PC000962	postcards	1	3.2
+	/mods/originInfo/dateIssued	1905	fsalehi	PC000962	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	inferred	fsalehi	PC000962	postcards	1	3.2
+	/mods/originInfo/place		fsalehi	PC000962	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	[Winnipeg]	fsalehi	PC000962	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC000962	postcards	1	3.2
+	/mods/language		fsalehi	PC000962	postcards	1	3.2
+	/mods/language/languageTerm	English	fsalehi	PC000962	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	fsalehi	PC000962	postcards	1	3.2
+	/mods/physicalDescription		fsalehi	PC000962	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : sepia ; 14 x 9 cm.	fsalehi	PC000962	postcards	1	3.2
+	/mods/note	80	fsalehi	PC000962	postcards	4	3.2
+	/mods/note/@type	price	fsalehi	PC000962	postcards	1	3.2
+	/mods/note	false	fsalehi	PC000962	postcards	4	3.2
+	/mods/note/@type	notable	fsalehi	PC000962	postcards	1	3.2
+	/mods/note	true	fsalehi	PC000962	postcards	4	3.2
+	/mods/note/@type	imgprobs	fsalehi	PC000962	postcards	1	3.2
+	/mods/note	View of the new bank 11 stories high as it now looks. The building that you see through it is City Hall. Then written on the bottom is "Winnipeg's First Steel Building"	fsalehi	PC000962	postcards	4	3.2
+	/mods/note/@type	public_description	fsalehi	PC000962	postcards	1	3.2
+	/mods/subject		fsalehi	PC000962	postcards	7	3.2
+	/mods/subject/geographic	Winnipeg, MB	fsalehi	PC000962	postcards	1	3.2
+	/mods/subject		fsalehi	PC000962	postcards	7	3.2
+	/mods/subject/hierarchicalGeographic		fsalehi	PC000962	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	fsalehi	PC000962	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Manitoba	fsalehi	PC000962	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Winnipeg	fsalehi	PC000962	postcards	1	3.2
+	/mods/subject		fsalehi	PC000962	postcards	7	3.2
+	/mods/subject/genre	Postcards	fsalehi	PC000962	postcards	1	3.2
+	/mods/subject		fsalehi	PC000962	postcards	7	3.2
+	/mods/subject/topic	Building construction	fsalehi	PC000962	postcards	1	3.2
+	/mods/subject		fsalehi	PC000962	postcards	7	3.2
+	/mods/subject/topic	Banks	fsalehi	PC000962	postcards	1	3.2
+	/mods/subject		fsalehi	PC000962	postcards	7	3.2
+	/mods/subject/topic	Commercial facilities	fsalehi	PC000962	postcards	1	3.2
+	/mods/subject		fsalehi	PC000962	postcards	7	3.2
+	/mods/subject/topic	Commercial streets	fsalehi	PC000962	postcards	1	3.2
+	/mods/identifier	PC000962	fsalehi	PC000962	postcards	1	3.2
+	/mods/identifier/@type	local	fsalehi	PC000962	postcards	1	3.2
+	/mods/location		fsalehi	PC000962	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 3	fsalehi	PC000962	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC000962.html	fsalehi	PC000962	postcards	3	3.2
+	/mods/location/url/@access	object in context	fsalehi	PC000962	postcards	1	3.2
+	/mods/location/url/@usage	primary display	fsalehi	PC000962	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/000/web/PC000962.jpg	fsalehi	PC000962	postcards	3	3.2
+	/mods/location/url/@access	raw object	fsalehi	PC000962	postcards	1	3.2
+	/mods/location/url/@note	width='473' height='800' 	fsalehi	PC000962	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/000/thumbs/PC000962.jpg	fsalehi	PC000962	postcards	3	3.2
+	/mods/location/url/@access	preview	fsalehi	PC000962	postcards	1	3.2
+	/mods/location/url/@note	width='118' height='200'	fsalehi	PC000962	postcards	1	3.2
+	/mods/recordInfo		fsalehi	PC000962	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-20T16:05:12-0600	fsalehi	PC000962	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC000962	fsalehi	PC000962	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	fsalehi	fsalehi	PC000962	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2009-10-23T14:40:59-0600	fsalehi	PC000962	postcards	1	3.2
+	/@mods	
+
+[Main Street, Winnipeg]
+
+
+Barrowclough
+G.A.
+
+Photographer
+
+
+still image
+postcards
+
+monographic
+Barrowclough
+1905
+
+
+[Winnipeg]
+
+
+
+English
+
+
+1 postcard : sepia ; 14 x 9 cm.
+
+80
+false
+true
+View of the new bank 11 stories high as it now looks. The building that you see through it is City Hall. Then written on the bottom is "Winnipeg's First Steel Building"
+
+Winnipeg, MB
+
+
+
+Canada
+Manitoba
+Winnipeg
+
+
+
+Postcards
+
+
+Building construction
+
+
+Banks
+
+
+Commercial facilities
+
+
+Commercial streets
+
+PC000962
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 3
+http://peel.library.ualberta.ca/postcards/PC000962.html
+http://peel.library.ualberta.ca/pcimages/PC/000/web/PC000962.jpg
+http://peel.library.ualberta.ca/pcimages/PC/000/thumbs/PC000962.jpg
+
+
+2007-06-20T16:05:12-0600
+PC000962
+fsalehi
+2009-10-23T14:40:59-0600
+
+	fsalehi	PC000962	postcards	1	3.2
+	

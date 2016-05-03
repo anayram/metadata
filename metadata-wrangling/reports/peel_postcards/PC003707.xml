@@ -1,0 +1,167 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		fsalehi	PC003707	postcards	1	3.2
+	/mods/@version	3.2	fsalehi	PC003707	postcards	1	3.2
+	/mods/titleInfo		fsalehi	PC003707	postcards	1	3.2
+	/mods/titleInfo/@lang	english	fsalehi	PC003707	postcards	1	3.2
+	/mods/titleInfo/title	Elevator at Gleichen, Alta.	fsalehi	PC003707	postcards	1	3.2
+	/mods/name		fsalehi	PC003707	postcards	2	3.2
+	/mods/name/@type	corporate	fsalehi	PC003707	postcards	1	3.2
+	/mods/name/namePart	C. S. Co. Ltd.	fsalehi	PC003707	postcards	1	3.2
+	/mods/name/role		fsalehi	PC003707	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	fsalehi	PC003707	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC003707	postcards	1	3.2
+	/mods/name		fsalehi	PC003707	postcards	2	3.2
+	/mods/name/@type	personal	fsalehi	PC003707	postcards	1	3.2
+	/mods/name/namePart	Wilkie	fsalehi	PC003707	postcards	1	3.2
+	/mods/name/namePart/@type	family	fsalehi	PC003707	postcards	1	3.2
+	/mods/name/role		fsalehi	PC003707	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	fsalehi	PC003707	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC003707	postcards	1	3.2
+	/mods/typeOfResource	still image	fsalehi	PC003707	postcards	1	3.2
+	/mods/genre	postcards	fsalehi	PC003707	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	fsalehi	PC003707	postcards	1	3.2
+	/mods/originInfo		fsalehi	PC003707	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	fsalehi	PC003707	postcards	1	3.2
+	/mods/originInfo/publisher	C. S. Co., Ltd., Winnipeg; Published by Wilkie, Gleichen, Alta.	fsalehi	PC003707	postcards	1	3.2
+	/mods/originInfo/dateIssued	1910	fsalehi	PC003707	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	approximate	fsalehi	PC003707	postcards	1	3.2
+	/mods/originInfo/place		fsalehi	PC003707	postcards	2	3.2
+	/mods/originInfo/place/placeTerm	Winnipeg	fsalehi	PC003707	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC003707	postcards	1	3.2
+	/mods/originInfo/place		fsalehi	PC003707	postcards	2	3.2
+	/mods/originInfo/place/placeTerm	Gleichen	fsalehi	PC003707	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC003707	postcards	1	3.2
+	/mods/language		fsalehi	PC003707	postcards	1	3.2
+	/mods/language/languageTerm	English	fsalehi	PC003707	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	fsalehi	PC003707	postcards	1	3.2
+	/mods/physicalDescription		fsalehi	PC003707	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : sepia ; 9 x 14 cm.	fsalehi	PC003707	postcards	1	3.2
+	/mods/note	40	fsalehi	PC003707	postcards	9	3.2
+	/mods/note/@type	price	fsalehi	PC003707	postcards	1	3.2
+	/mods/note	false	fsalehi	PC003707	postcards	9	3.2
+	/mods/note/@type	notable	fsalehi	PC003707	postcards	1	3.2
+	/mods/note	false	fsalehi	PC003707	postcards	9	3.2
+	/mods/note/@type	imgprobs	fsalehi	PC003707	postcards	1	3.2
+	/mods/note	F. Griffith Esq	fsalehi	PC003707	postcards	9	3.2
+	/mods/note/@type	public_to	fsalehi	PC003707	postcards	1	3.2
+	/mods/note	Percival Mather	fsalehi	PC003707	postcards	9	3.2
+	/mods/note/@type	public_from	fsalehi	PC003707	postcards	1	3.2
+	/mods/note	Clarandon Lodge, Stonegate, Leicester, England.	fsalehi	PC003707	postcards	9	3.2
+	/mods/note/@type	public_address	fsalehi	PC003707	postcards	1	3.2
+	/mods/note	Sept.19th 1910, Here for the night This is where all the farmers send there corn too. Best regards, Percival Mather	fsalehi	PC003707	postcards	9	3.2
+	/mods/note/@type	public_message	fsalehi	PC003707	postcards	1	3.2
+	/mods/note	Gleichen, Alta., 1910-09-13	fsalehi	PC003707	postcards	9	3.2
+	/mods/note/@type	public_postmark_date	fsalehi	PC003707	postcards	1	3.2
+	/mods/note	Many farmers wait with their wagons to unload their grain at grain elevators in Gleichen, Alberta.	fsalehi	PC003707	postcards	9	3.2
+	/mods/note/@type	public_description	fsalehi	PC003707	postcards	1	3.2
+	/mods/subject		fsalehi	PC003707	postcards	5	3.2
+	/mods/subject/geographic	Gleichen, AB	fsalehi	PC003707	postcards	1	3.2
+	/mods/subject		fsalehi	PC003707	postcards	5	3.2
+	/mods/subject/hierarchicalGeographic		fsalehi	PC003707	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	fsalehi	PC003707	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	fsalehi	PC003707	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Gleichen	fsalehi	PC003707	postcards	1	3.2
+	/mods/subject		fsalehi	PC003707	postcards	5	3.2
+	/mods/subject/genre	Postcards	fsalehi	PC003707	postcards	1	3.2
+	/mods/subject		fsalehi	PC003707	postcards	5	3.2
+	/mods/subject/topic	Grain elevators	fsalehi	PC003707	postcards	1	3.2
+	/mods/subject		fsalehi	PC003707	postcards	5	3.2
+	/mods/subject/topic	Carts & wagons	fsalehi	PC003707	postcards	1	3.2
+	/mods/identifier	PC003707	fsalehi	PC003707	postcards	1	3.2
+	/mods/identifier/@type	local	fsalehi	PC003707	postcards	1	3.2
+	/mods/location		fsalehi	PC003707	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 1	fsalehi	PC003707	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC003707.html	fsalehi	PC003707	postcards	3	3.2
+	/mods/location/url/@access	object in context	fsalehi	PC003707	postcards	1	3.2
+	/mods/location/url/@usage	primary display	fsalehi	PC003707	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/003/web/PC003707.jpg	fsalehi	PC003707	postcards	3	3.2
+	/mods/location/url/@access	raw object	fsalehi	PC003707	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='518' 	fsalehi	PC003707	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/003/thumbs/PC003707.jpg	fsalehi	PC003707	postcards	3	3.2
+	/mods/location/url/@access	preview	fsalehi	PC003707	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='130'	fsalehi	PC003707	postcards	1	3.2
+	/mods/recordInfo		fsalehi	PC003707	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	fsalehi	PC003707	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC003707	fsalehi	PC003707	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	fsalehi	fsalehi	PC003707	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2009-07-27T14:00:10-0600	fsalehi	PC003707	postcards	1	3.2
+	/@mods	
+
+Elevator at Gleichen, Alta.
+
+
+C. S. Co. Ltd.
+
+Publisher
+
+
+
+Wilkie
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+C. S. Co., Ltd., Winnipeg; Published by Wilkie, Gleichen, Alta.
+1910
+
+
+
+Winnipeg
+
+
+Gleichen
+
+
+
+English
+
+
+1 postcard : sepia ; 9 x 14 cm.
+
+40
+false
+false
+F. Griffith Esq
+Percival Mather
+Clarandon Lodge, Stonegate, Leicester, England.
+Sept.19th 1910, Here for the night This is where all the farmers send there corn too. Best regards, Percival Mather
+Gleichen, Alta., 1910-09-13
+Many farmers wait with their wagons to unload their grain at grain elevators in Gleichen, Alberta.
+
+Gleichen, AB
+
+
+
+Canada
+Alberta
+Gleichen
+
+
+
+Postcards
+
+
+Grain elevators
+
+
+Carts & wagons
+
+PC003707
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 1
+http://peel.library.ualberta.ca/postcards/PC003707.html
+http://peel.library.ualberta.ca/pcimages/PC/003/web/PC003707.jpg
+http://peel.library.ualberta.ca/pcimages/PC/003/thumbs/PC003707.jpg
+
+
+2007-06-25T16:49:56-0600
+PC003707
+fsalehi
+2009-07-27T14:00:10-0600
+
+	fsalehi	PC003707	postcards	1	3.2
+	

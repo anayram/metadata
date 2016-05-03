@@ -1,0 +1,119 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods		thesis	1	3.2
+	/mods/@version	3.2	thesis	1	3.2
+	/mods/titleInfo		thesis	1	3.2
+	/mods/titleInfo/title	University of Alberta	thesis	1	3.2
+	/mods/titleInfo/subTitle	Objectives, structure and role in the community, 1908-1928	thesis	1	3.2
+	/mods/titleInfo/nonSort	The 	thesis	1	3.2
+	/mods/name		thesis	2	3.2
+	/mods/name/@type	personal	thesis	1	3.2
+	/mods/name/namePart	Aytenfisu, Maureen.	thesis	1	3.2
+	/mods/name		thesis	2	3.2
+	/mods/name/@type	corporate	thesis	1	3.2
+	/mods/name/namePart	University of Alberta.	thesis	2	3.2
+	/mods/name/namePart	Dept. of History.	thesis	2	3.2
+	/mods/typeOfResource	text	thesis	1	3.2
+	/mods/genre	thesis	thesis	1	3.2
+	/mods/genre/@authority	marcgt	thesis	1	3.2
+	/mods/originInfo		thesis	1	3.2
+	/mods/originInfo/place		thesis	1	3.2
+	/mods/originInfo/place/placeTerm	[S.l.]	thesis	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	thesis	1	3.2
+	/mods/originInfo/publisher	[s.n.]	thesis	1	3.2
+	/mods/originInfo/dateIssued	1982	thesis	1	3.2
+	/mods/originInfo/issuance	monographic	thesis	1	3.2
+	/mods/language		thesis	1	3.2
+	/mods/language/languageTerm	eng	thesis	1	3.2
+	/mods/language/languageTerm/@authority	iso639-2b	thesis	1	3.2
+	/mods/language/languageTerm/@type	code	thesis	1	3.2
+	/mods/physicalDescription		thesis	1	3.2
+	/mods/physicalDescription/form	print	thesis	1	3.2
+	/mods/physicalDescription/form/@authority	marcform	thesis	1	3.2
+	/mods/physicalDescription/extent	xi, 308 leaves ; 29 cm.	thesis	1	3.2
+	/mods/note	In partial fulfilment of the requirements for the degree of Master of Arts. Department of History.	thesis	6	3.2
+	/mods/note	Title on spine: University of Alberta, 1908-1928.	thesis	6	3.2
+	/mods/note	Thesis (M.A.)--University of Alberta, 1982.	thesis	6	3.2
+	/mods/note	uahistory	thesis	6	3.2
+	/mods/note/@type	local:oaiset	thesis	1	3.2
+	/mods/note	DOA: 1908 Spatial: Edmonton (Alta.)	thesis	6	3.2
+	/mods/note/@type	local	thesis	1	3.2
+	/mods/note	M.A. thesis, Department of History, University of Alberta, Edmonton.	thesis	6	3.2
+	/mods/note/@type	public	thesis	1	3.2
+	/mods/subject		thesis	2	3.2
+	/mods/subject/geographicCode	n-cn-ab	thesis	1	3.2
+	/mods/subject/geographicCode/@authority	marcgac	thesis	1	3.2
+	/mods/subject		thesis	2	3.2
+	/mods/subject/@authority	lcsh	thesis	1	3.2
+	/mods/subject/name		thesis	1	3.2
+	/mods/subject/name/@type	personal	thesis	1	3.2
+	/mods/subject/name/namePart	University of Alberta	thesis	1	3.2
+	/mods/subject/topic	History	thesis	1	3.2
+	/mods/identifier	1755298	thesis	2	3.2
+	/mods/identifier/@type	local:neos	thesis	1	3.2
+	/mods/identifier	9076	thesis	2	3.2
+	/mods/identifier/@type	local:peel3	thesis	1	3.2
+	/mods/recordInfo		thesis	1	3.2
+	/mods/recordInfo/recordContentSource	AEU	thesis	2	3.2
+	/mods/recordInfo/recordContentSource/@authority	marcorg	thesis	1	3.2
+	/mods/recordInfo/recordContentSource	sfarnel	thesis	2	3.2
+	/mods/recordInfo/recordContentSource/@authority	local:person	thesis	1	3.2
+	/mods/recordInfo/recordCreationDate	2008-09-10T15:36:17-0600	thesis	1	3.2
+	/mods/recordInfo/recordIdentifier	P009076	thesis	1	3.2
+	/mods/recordInfo/recordChangeDate	2010-11-29T07:43:24-0700	thesis	1	3.2
+	/@mods	
+
+University of Alberta
+Objectives, structure and role in the community, 1908-1928
+The 
+
+
+Aytenfisu, Maureen.
+
+
+University of Alberta.
+Dept. of History.
+
+text
+thesis
+
+
+[S.l.]
+
+[s.n.]
+1982
+monographic
+
+
+eng
+
+
+print
+xi, 308 leaves ; 29 cm.
+
+In partial fulfilment of the requirements for the degree of Master of Arts. Department of History.
+Title on spine: University of Alberta, 1908-1928.
+Thesis (M.A.)--University of Alberta, 1982.
+uahistory
+DOA: 1908 Spatial: Edmonton (Alta.)
+M.A. thesis, Department of History, University of Alberta, Edmonton.
+
+				n-cn-ab
+			
+
+				
+University of Alberta
+
+			
+				History
+			
+1755298
+9076
+
+AEU
+sfarnel
+2008-09-10T15:36:17-0600
+P009076
+2010-11-29T07:43:24-0700
+
+	thesis	1	3.2
+	

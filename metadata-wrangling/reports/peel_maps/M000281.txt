@@ -1,0 +1,119 @@
+Path	Content	URL	Form or Genre	Occurrence	MODS version
+
+/mods/titleInfo		http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	1	3.3
+/mods/titleInfo/title	Map of Manitoba	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	1	3.3
+
+/mods/typeOfResource	cartographic	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	1	3.3
+
+/mods/genre	map	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	2	3.3
+/mods/genre/@authority	marcgt	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	1	3.3
+
+/mods/genre	Digital maps	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	2	3.3
+/mods/genre/@authority	lcgft	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	1	3.3
+
+/mods/originInfo		http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	1	3.3
+/mods/originInfo/place		http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	1	3.3
+/mods/originInfo/place/placeTerm	Chicago	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	1	3.3
+/mods/originInfo/place/placeTerm/@type	text	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	1	3.3
+/mods/originInfo/publisher	Rand McNally	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	1	3.3
+/mods/originInfo/dateIssued	1885	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	1	3.3
+
+/mods/language		http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	1	3.3
+/mods/language/languageTerm	English	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	1	3.3
+/mods/language/languageTerm/@type	text	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	1	3.3
+
+/mods/physicalDescription		http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	1	3.3
+/mods/physicalDescription/form		http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	1	3.3
+/mods/physicalDescription/extent	1 map : col. ; 20.5 x 14 on sheet 25.2 x 17.1 cm.	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	1	3.3
+
+/mods/note	"Shows the tiny Manitoba in counties set within the much larger Manitoba" extending eastward to 91ºW.	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	8	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	1	3.3
+
+/mods/note	Shows railway lines and canoe route east from Lake of Woods.	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	8	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	1	3.3
+
+/mods/note	On verso is map of South America.	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	8	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	1	3.3
+
+/mods/note	peelmaps	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	8	3.3
+/mods/note/@type	local:oaiset	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	1	3.3
+
+/mods/note	1	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	8	3.3
+/mods/note/@type	local:sheetcount	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	1	3.3
+
+/mods/note	25.2 x 17.1 cm.	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	8	3.3
+/mods/note/@type	local:sheetsize	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	1	3.3
+
+/mods/note	25.2	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	8	3.3
+/mods/note/@type	local:sheetlength	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	1	3.3
+
+/mods/note	17.1	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	8	3.3
+/mods/note/@type	local:sheetwidth	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	10	3.3
+/mods/subject/@authority	lcsh	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	1	3.3
+/mods/subject/@lang	eng	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	1	3.3
+/mods/subject/topic	Railroads	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	1	3.3
+/mods/subject/geographic	Manitoba	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	10	3.3
+/mods/subject/@authority	lcsh	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	1	3.3
+/mods/subject/@lang	eng	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	1	3.3
+/mods/subject/geographic	Manitoba	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	10	3.3
+/mods/subject/geographic	Swan Lake (Man.)	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	10	3.3
+/mods/subject/geographic	Catfish Lake (Man.)	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	10	3.3
+/mods/subject/geographic	Souris River (Man.)	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	10	3.3
+/mods/subject/geographic	Hunters Island (Man.)	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	10	3.3
+/mods/subject/geographic	Winnipeg, Lake (Man.)	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	10	3.3
+/mods/subject/geographic	Winnipegosis, Lake (Man.)	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	10	3.3
+/mods/subject/temporal	1885	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	10	3.3
+/mods/subject/cartographics		http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	1	3.3
+/mods/subject/cartographics/coordinates	w101xxxx/n05235xx w095xxxx/n05245xx w095xxxx/n049xxxx w101xxxx/n049xxxx	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	1	3.3
+
+/mods/classification	Manitoba F-6	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	1	3.3
+
+/mods/identifier	2855	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	5	3.3
+/mods/identifier/@type	local:mapsproject	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	1	3.3
+
+/mods/identifier	AAA-2943	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	5	3.3
+/mods/identifier/@type	local:mapsdb	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	1	3.3
+
+/mods/identifier	2855.xml	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	5	3.3
+/mods/identifier/@type	local:mapsproject_filename	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	1	3.3
+
+/mods/identifier	M000281	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	5	3.3
+/mods/identifier/@type	local:peel3	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	1	3.3
+
+/mods/identifier	N018908	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	5	3.3
+/mods/identifier/@type	local:old_peel_new	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	1	3.3
+
+/mods/location		http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	1	3.3
+/mods/location/physicalLocation	UA Cameron Staff Access-Maps	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	1	3.3
+/mods/location/url	http://peel.library.ualberta.ca/maps/M/00/02/M000281/M000281.tif	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	1	3.3
+/mods/location/url/@access	raw object	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	1	3.3
+/mods/location/url/@note	width='4016' height='2074'	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	1	3.3
+
+/mods/recordInfo		http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	1	3.3
+/mods/recordInfo/recordContentSource	mapsproject	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	2	3.3
+/mods/recordInfo/recordContentSource/@authority	local:project	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	1	3.3
+/mods/recordInfo/recordContentSource	jhuck	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	2	3.3
+/mods/recordInfo/recordContentSource/@authority	local:person	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	1	3.3
+/mods/recordInfo/recordIdentifier	M000281	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	1	3.3
+/mods/recordInfo/recordChangeDate	2014-01-12T11:20:04-0700	http://peel.library.ualberta.ca/maps/M000281.html	map Digital maps 	1	3.3
+

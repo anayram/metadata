@@ -1,0 +1,146 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		tkitagawa	PC004242	postcards	1	3.2
+	/mods/@version	3.2	tkitagawa	PC004242	postcards	1	3.2
+	/mods/titleInfo		tkitagawa	PC004242	postcards	1	3.2
+	/mods/titleInfo/@lang	english	tkitagawa	PC004242	postcards	1	3.2
+	/mods/titleInfo/title	[McBride, B.C.]	tkitagawa	PC004242	postcards	1	3.2
+	/mods/name		tkitagawa	PC004242	postcards	1	3.2
+	/mods/name/@type	personal	tkitagawa	PC004242	postcards	1	3.2
+	/mods/name/namePart	Bell	tkitagawa	PC004242	postcards	2	3.2
+	/mods/name/namePart/@type	family	tkitagawa	PC004242	postcards	1	3.2
+	/mods/name/namePart	Frank W.	tkitagawa	PC004242	postcards	2	3.2
+	/mods/name/namePart/@type	given	tkitagawa	PC004242	postcards	1	3.2
+	/mods/name/role		tkitagawa	PC004242	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	tkitagawa	PC004242	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	tkitagawa	PC004242	postcards	1	3.2
+	/mods/typeOfResource	still image	tkitagawa	PC004242	postcards	1	3.2
+	/mods/genre	postcards	tkitagawa	PC004242	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	tkitagawa	PC004242	postcards	1	3.2
+	/mods/originInfo		tkitagawa	PC004242	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	tkitagawa	PC004242	postcards	1	3.2
+	/mods/originInfo/publisher	Frank W. Bell, Wainwright, Alta.	tkitagawa	PC004242	postcards	1	3.2
+	/mods/originInfo/dateIssued	1910-1935	tkitagawa	PC004242	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	inferred	tkitagawa	PC004242	postcards	1	3.2
+	/mods/originInfo/place		tkitagawa	PC004242	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	Wainwright	tkitagawa	PC004242	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	tkitagawa	PC004242	postcards	1	3.2
+	/mods/language		tkitagawa	PC004242	postcards	1	3.2
+	/mods/language/languageTerm	English	tkitagawa	PC004242	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	tkitagawa	PC004242	postcards	1	3.2
+	/mods/physicalDescription		tkitagawa	PC004242	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : b&w ; 9 x 14 cm.	tkitagawa	PC004242	postcards	1	3.2
+	/mods/note	40	tkitagawa	PC004242	postcards	6	3.2
+	/mods/note/@type	price	tkitagawa	PC004242	postcards	1	3.2
+	/mods/note	false	tkitagawa	PC004242	postcards	6	3.2
+	/mods/note/@type	notable	tkitagawa	PC004242	postcards	1	3.2
+	/mods/note	true	tkitagawa	PC004242	postcards	6	3.2
+	/mods/note/@type	imgprobs	tkitagawa	PC004242	postcards	1	3.2
+	/mods/note	Lou	tkitagawa	PC004242	postcards	6	3.2
+	/mods/note/@type	public_from	tkitagawa	PC004242	postcards	1	3.2
+	/mods/note	This is McBride rather, queer looking place, much love to you [Lou?]	tkitagawa	PC004242	postcards	6	3.2
+	/mods/note/@type	public_message	tkitagawa	PC004242	postcards	1	3.2
+	/mods/note	A view of the town of McBride situated in the Rocky Mountains of British Columbia. Numerous railroad tracks and cars flank one side of the town.	tkitagawa	PC004242	postcards	6	3.2
+	/mods/note/@type	public_description	tkitagawa	PC004242	postcards	1	3.2
+	/mods/subject		tkitagawa	PC004242	postcards	6	3.2
+	/mods/subject/geographic	McBride, AB	tkitagawa	PC004242	postcards	1	3.2
+	/mods/subject		tkitagawa	PC004242	postcards	6	3.2
+	/mods/subject/hierarchicalGeographic		tkitagawa	PC004242	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	tkitagawa	PC004242	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	British Columbia	tkitagawa	PC004242	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	McBride	tkitagawa	PC004242	postcards	1	3.2
+	/mods/subject		tkitagawa	PC004242	postcards	6	3.2
+	/mods/subject/genre	Postcards	tkitagawa	PC004242	postcards	1	3.2
+	/mods/subject		tkitagawa	PC004242	postcards	6	3.2
+	/mods/subject/topic	Cities & towns	tkitagawa	PC004242	postcards	1	3.2
+	/mods/subject		tkitagawa	PC004242	postcards	6	3.2
+	/mods/subject/topic	Cityscapes	tkitagawa	PC004242	postcards	1	3.2
+	/mods/subject		tkitagawa	PC004242	postcards	6	3.2
+	/mods/subject/topic	Railroad cars	tkitagawa	PC004242	postcards	1	3.2
+	/mods/identifier	PC004242	tkitagawa	PC004242	postcards	1	3.2
+	/mods/identifier/@type	local	tkitagawa	PC004242	postcards	1	3.2
+	/mods/location		tkitagawa	PC004242	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 3	tkitagawa	PC004242	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC004242.html	tkitagawa	PC004242	postcards	3	3.2
+	/mods/location/url/@access	object in context	tkitagawa	PC004242	postcards	1	3.2
+	/mods/location/url/@usage	primary display	tkitagawa	PC004242	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/004/web/PC004242.jpg	tkitagawa	PC004242	postcards	3	3.2
+	/mods/location/url/@access	raw object	tkitagawa	PC004242	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='512' 	tkitagawa	PC004242	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/004/thumbs/PC004242.jpg	tkitagawa	PC004242	postcards	3	3.2
+	/mods/location/url/@access	preview	tkitagawa	PC004242	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='128'	tkitagawa	PC004242	postcards	1	3.2
+	/mods/recordInfo		tkitagawa	PC004242	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	tkitagawa	PC004242	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC004242	tkitagawa	PC004242	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	tkitagawa	tkitagawa	PC004242	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2010-01-05T11:38:39-0700	tkitagawa	PC004242	postcards	1	3.2
+	/@mods	
+
+[McBride, B.C.]
+
+
+Bell
+Frank W.
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+Frank W. Bell, Wainwright, Alta.
+1910-1935
+
+Wainwright
+
+
+
+English
+
+
+1 postcard : b&w ; 9 x 14 cm.
+
+40
+false
+true
+Lou
+This is McBride rather, queer looking place, much love to you [Lou?]
+A view of the town of McBride situated in the Rocky Mountains of British Columbia. Numerous railroad tracks and cars flank one side of the town.
+
+McBride, AB
+
+
+
+Canada
+British Columbia
+McBride
+
+
+
+Postcards
+
+
+Cities & towns
+
+
+Cityscapes
+
+
+Railroad cars
+
+PC004242
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 3
+http://peel.library.ualberta.ca/postcards/PC004242.html
+http://peel.library.ualberta.ca/pcimages/PC/004/web/PC004242.jpg
+http://peel.library.ualberta.ca/pcimages/PC/004/thumbs/PC004242.jpg
+
+
+2007-06-25T16:49:56-0600
+PC004242
+tkitagawa
+2010-01-05T11:38:39-0700
+
+	tkitagawa	PC004242	postcards	1	3.2
+	

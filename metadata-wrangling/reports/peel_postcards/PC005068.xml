@@ -1,0 +1,151 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		fsalehi	PC005068	postcards	1	3.2
+	/mods/@version	3.2	fsalehi	PC005068	postcards	1	3.2
+	/mods/titleInfo		fsalehi	PC005068	postcards	1	3.2
+	/mods/titleInfo/@lang	english	fsalehi	PC005068	postcards	1	3.2
+	/mods/titleInfo/title	Mixed farming	fsalehi	PC005068	postcards	1	3.2
+	/mods/name		fsalehi	PC005068	postcards	1	3.2
+	/mods/name/@type	personal	fsalehi	PC005068	postcards	1	3.2
+	/mods/name/namePart	Gano	fsalehi	PC005068	postcards	2	3.2
+	/mods/name/namePart/@type	family	fsalehi	PC005068	postcards	1	3.2
+	/mods/name/namePart	J.H.	fsalehi	PC005068	postcards	2	3.2
+	/mods/name/namePart/@type	given	fsalehi	PC005068	postcards	1	3.2
+	/mods/name/role		fsalehi	PC005068	postcards	1	3.2
+	/mods/name/role/roleTerm	Photographer	fsalehi	PC005068	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC005068	postcards	1	3.2
+	/mods/typeOfResource	still image	fsalehi	PC005068	postcards	1	3.2
+	/mods/genre	postcards	fsalehi	PC005068	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	fsalehi	PC005068	postcards	1	3.2
+	/mods/originInfo		fsalehi	PC005068	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	fsalehi	PC005068	postcards	1	3.2
+	/mods/originInfo/publisher	Photo J.H. Gano	fsalehi	PC005068	postcards	1	3.2
+	/mods/originInfo/dateIssued	before 1920	fsalehi	PC005068	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	inferred	fsalehi	PC005068	postcards	1	3.2
+	/mods/originInfo/place		fsalehi	PC005068	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	[Wainwright]	fsalehi	PC005068	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC005068	postcards	1	3.2
+	/mods/language		fsalehi	PC005068	postcards	1	3.2
+	/mods/language/languageTerm	English	fsalehi	PC005068	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	fsalehi	PC005068	postcards	1	3.2
+	/mods/physicalDescription		fsalehi	PC005068	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : sepia ; 9 x 14 cm.	fsalehi	PC005068	postcards	1	3.2
+	/mods/note	150	fsalehi	PC005068	postcards	5	3.2
+	/mods/note/@type	price	fsalehi	PC005068	postcards	1	3.2
+	/mods/note	true	fsalehi	PC005068	postcards	5	3.2
+	/mods/note/@type	notable	fsalehi	PC005068	postcards	1	3.2
+	/mods/note	false	fsalehi	PC005068	postcards	5	3.2
+	/mods/note/@type	imgprobs	fsalehi	PC005068	postcards	1	3.2
+	/mods/note	[Printer's no.] No.23	fsalehi	PC005068	postcards	5	3.2
+	/mods/note/@type	public_on_front	fsalehi	PC005068	postcards	1	3.2
+	/mods/note	Scene of two bulls and a horse hitched together to agricultural machinery in Wainwright, Alberta.	fsalehi	PC005068	postcards	5	3.2
+	/mods/note/@type	public_description	fsalehi	PC005068	postcards	1	3.2
+	/mods/subject		fsalehi	PC005068	postcards	7	3.2
+	/mods/subject/geographic	Wainwright, AB	fsalehi	PC005068	postcards	1	3.2
+	/mods/subject		fsalehi	PC005068	postcards	7	3.2
+	/mods/subject/hierarchicalGeographic		fsalehi	PC005068	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	fsalehi	PC005068	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	fsalehi	PC005068	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Wainwright	fsalehi	PC005068	postcards	1	3.2
+	/mods/subject		fsalehi	PC005068	postcards	7	3.2
+	/mods/subject/genre	Postcards	fsalehi	PC005068	postcards	1	3.2
+	/mods/subject		fsalehi	PC005068	postcards	7	3.2
+	/mods/subject/topic	Bulls	fsalehi	PC005068	postcards	1	3.2
+	/mods/subject		fsalehi	PC005068	postcards	7	3.2
+	/mods/subject/topic	Horses	fsalehi	PC005068	postcards	1	3.2
+	/mods/subject		fsalehi	PC005068	postcards	7	3.2
+	/mods/subject/topic	Agricultural machinery & implements	fsalehi	PC005068	postcards	1	3.2
+	/mods/subject		fsalehi	PC005068	postcards	7	3.2
+	/mods/subject/topic	Farming	fsalehi	PC005068	postcards	1	3.2
+	/mods/identifier	PC005068	fsalehi	PC005068	postcards	1	3.2
+	/mods/identifier/@type	local	fsalehi	PC005068	postcards	1	3.2
+	/mods/location		fsalehi	PC005068	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 5	fsalehi	PC005068	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC005068.html	fsalehi	PC005068	postcards	3	3.2
+	/mods/location/url/@access	object in context	fsalehi	PC005068	postcards	1	3.2
+	/mods/location/url/@usage	primary display	fsalehi	PC005068	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/005/web/PC005068.jpg	fsalehi	PC005068	postcards	3	3.2
+	/mods/location/url/@access	raw object	fsalehi	PC005068	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='510' 	fsalehi	PC005068	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/005/thumbs/PC005068.jpg	fsalehi	PC005068	postcards	3	3.2
+	/mods/location/url/@access	preview	fsalehi	PC005068	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='128'	fsalehi	PC005068	postcards	1	3.2
+	/mods/recordInfo		fsalehi	PC005068	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	fsalehi	PC005068	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC005068	fsalehi	PC005068	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	fsalehi	fsalehi	PC005068	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2009-01-21T12:22:37-0700	fsalehi	PC005068	postcards	1	3.2
+	/@mods	
+
+Mixed farming
+
+
+Gano
+J.H.
+
+Photographer
+
+
+still image
+postcards
+
+monographic
+Photo J.H. Gano
+before 1920
+
+
+[Wainwright]
+
+
+
+English
+
+
+1 postcard : sepia ; 9 x 14 cm.
+
+150
+true
+false
+[Printer's no.] No.23
+Scene of two bulls and a horse hitched together to agricultural machinery in Wainwright, Alberta.
+
+Wainwright, AB
+
+
+
+Canada
+Alberta
+Wainwright
+
+
+
+Postcards
+
+
+Bulls
+
+
+Horses
+
+
+Agricultural machinery & implements
+
+
+Farming
+
+PC005068
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 5
+http://peel.library.ualberta.ca/postcards/PC005068.html
+http://peel.library.ualberta.ca/pcimages/PC/005/web/PC005068.jpg
+http://peel.library.ualberta.ca/pcimages/PC/005/thumbs/PC005068.jpg
+
+
+
+
+2007-06-25T16:49:56-0600
+PC005068
+fsalehi
+2009-01-21T12:22:37-0700
+
+	fsalehi	PC005068	postcards	1	3.2
+	

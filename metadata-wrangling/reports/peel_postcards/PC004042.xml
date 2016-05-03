@@ -1,0 +1,153 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		bstearns	PC004042	postcards	1	3.2
+	/mods/@version	3.2	bstearns	PC004042	postcards	1	3.2
+	/mods/titleInfo		bstearns	PC004042	postcards	1	3.2
+	/mods/titleInfo/@lang	english	bstearns	PC004042	postcards	1	3.2
+	/mods/titleInfo/title	[Victoria Mansions, Lethbridge, Alberta.]	bstearns	PC004042	postcards	1	3.2
+	/mods/name		bstearns	PC004042	postcards	1	3.2
+	/mods/name/@type	corporate	bstearns	PC004042	postcards	1	3.2
+	/mods/name/namePart	British and Colonial Photographic Co	bstearns	PC004042	postcards	1	3.2
+	/mods/name/role		bstearns	PC004042	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	bstearns	PC004042	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	bstearns	PC004042	postcards	1	3.2
+	/mods/typeOfResource	still image	bstearns	PC004042	postcards	1	3.2
+	/mods/genre	postcards	bstearns	PC004042	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	bstearns	PC004042	postcards	1	3.2
+	/mods/originInfo		bstearns	PC004042	postcards	1	3.2
+	/mods/originInfo/place		bstearns	PC004042	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	Lethbridge	bstearns	PC004042	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	bstearns	PC004042	postcards	1	3.2
+	/mods/originInfo/publisher	British and Colonial Photographic Co., Lethbridge, Alta.	bstearns	PC004042	postcards	1	3.2
+	/mods/originInfo/dateIssued	1910	bstearns	PC004042	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	approximate	bstearns	PC004042	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	bstearns	PC004042	postcards	1	3.2
+	/mods/language		bstearns	PC004042	postcards	1	3.2
+	/mods/language/languageTerm	English	bstearns	PC004042	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	bstearns	PC004042	postcards	1	3.2
+	/mods/physicalDescription		bstearns	PC004042	postcards	1	3.2
+	/mods/physicalDescription/form		bstearns	PC004042	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : b&w ; 9 x 14 cm.	bstearns	PC004042	postcards	1	3.2
+	/mods/note	60	bstearns	PC004042	postcards	10	3.2
+	/mods/note/@type	price	bstearns	PC004042	postcards	1	3.2
+	/mods/note	false	bstearns	PC004042	postcards	10	3.2
+	/mods/note/@type	notable	bstearns	PC004042	postcards	1	3.2
+	/mods/note	false	bstearns	PC004042	postcards	10	3.2
+	/mods/note/@type	imgprobs	bstearns	PC004042	postcards	1	3.2
+	/mods/note	Exterior view of Victoria Mansions in Lethbridge, Alberta.	bstearns	PC004042	postcards	10	3.2
+	/mods/note/@type	public_description	bstearns	PC004042	postcards	1	3.2
+	/mods/note	Mrs Edward Siegel	bstearns	PC004042	postcards	10	3.2
+	/mods/note/@type	public_to	bstearns	PC004042	postcards	1	3.2
+	/mods/note	Fred	bstearns	PC004042	postcards	10	3.2
+	/mods/note/@type	public_from	bstearns	PC004042	postcards	1	3.2
+	/mods/note	Mitchell, Ont.	bstearns	PC004042	postcards	10	3.2
+	/mods/note/@type	public_address	bstearns	PC004042	postcards	1	3.2
+	/mods/note	Hello Mother, still alive and well. This is the place we have our apartments the cross up where ours is situated Love to all, Fred.	bstearns	PC004042	postcards	10	3.2
+	/mods/note/@type	public_message	bstearns	PC004042	postcards	1	3.2
+	/mods/note	Med. Hat & Nels R.P.O., 1910-10-23	bstearns	PC004042	postcards	10	3.2
+	/mods/note/@type	public_postmark_date	bstearns	PC004042	postcards	1	3.2
+	/mods/note	Mitchell, Ont., 1910-10-27	bstearns	PC004042	postcards	10	3.2
+	/mods/note/@type	public_postmark_date	bstearns	PC004042	postcards	1	3.2
+	/mods/subject		bstearns	PC004042	postcards	4	3.2
+	/mods/subject/geographic	Lethbridge, AB	bstearns	PC004042	postcards	1	3.2
+	/mods/subject		bstearns	PC004042	postcards	4	3.2
+	/mods/subject/hierarchicalGeographic		bstearns	PC004042	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	bstearns	PC004042	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	bstearns	PC004042	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Lethbridge	bstearns	PC004042	postcards	1	3.2
+	/mods/subject		bstearns	PC004042	postcards	4	3.2
+	/mods/subject/topic	Dwellings	bstearns	PC004042	postcards	1	3.2
+	/mods/subject		bstearns	PC004042	postcards	4	3.2
+	/mods/subject/name		bstearns	PC004042	postcards	1	3.2
+	/mods/subject/name/@type	personal	bstearns	PC004042	postcards	1	3.2
+	/mods/subject/name/namePart	Victoria Mansions (Lethbridge, Alta.)	bstearns	PC004042	postcards	1	3.2
+	/mods/identifier	PC004042	bstearns	PC004042	postcards	1	3.2
+	/mods/identifier/@type	local	bstearns	PC004042	postcards	1	3.2
+	/mods/location		bstearns	PC004042	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 2	bstearns	PC004042	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC004042.html	bstearns	PC004042	postcards	3	3.2
+	/mods/location/url/@access	object in context	bstearns	PC004042	postcards	1	3.2
+	/mods/location/url/@usage	primary display	bstearns	PC004042	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/004/web/PC004042.jpg	bstearns	PC004042	postcards	3	3.2
+	/mods/location/url/@access	raw object	bstearns	PC004042	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='511'	bstearns	PC004042	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/004/thumbs/PC004042.jpg	bstearns	PC004042	postcards	3	3.2
+	/mods/location/url/@access	preview	bstearns	PC004042	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='128'	bstearns	PC004042	postcards	1	3.2
+	/mods/recordInfo		bstearns	PC004042	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	bstearns	bstearns	PC004042	postcards	2	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	bstearns	PC004042	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC004042	bstearns	PC004042	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2010-05-20T14:27:33-0600	bstearns	PC004042	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	aharrigan	bstearns	PC004042	postcards	2	3.2
+	/mods/recordInfo/recordContentSource/@authority	local:person	bstearns	PC004042	postcards	1	3.2
+	/@mods	
+
+[Victoria Mansions, Lethbridge, Alberta.]
+
+
+British and Colonial Photographic Co
+
+Publisher
+
+
+still image
+postcards
+
+
+Lethbridge
+
+British and Colonial Photographic Co., Lethbridge, Alta.
+1910
+monographic
+
+
+English
+
+
+
+1 postcard : b&w ; 9 x 14 cm.
+
+60
+false
+false
+Exterior view of Victoria Mansions in Lethbridge, Alberta.
+Mrs Edward Siegel
+Fred
+Mitchell, Ont.
+Hello Mother, still alive and well. This is the place we have our apartments the cross up where ours is situated Love to all, Fred.
+Med. Hat & Nels R.P.O., 1910-10-23
+Mitchell, Ont., 1910-10-27
+
+				Lethbridge, AB
+			
+
+				
+Canada
+Alberta
+Lethbridge
+
+			
+
+				Dwellings
+			
+
+				
+Victoria Mansions (Lethbridge, Alta.)
+
+			
+PC004042
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 2
+http://peel.library.ualberta.ca/postcards/PC004042.html
+http://peel.library.ualberta.ca/pcimages/PC/004/web/PC004042.jpg
+http://peel.library.ualberta.ca/pcimages/PC/004/thumbs/PC004042.jpg
+
+
+bstearns
+2007-06-25T16:49:56-0600
+PC004042
+2010-05-20T14:27:33-0600
+aharrigan
+
+	bstearns	PC004042	postcards	1	3.2
+	

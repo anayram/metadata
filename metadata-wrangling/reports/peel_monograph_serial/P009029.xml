@@ -1,0 +1,149 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.2
+	/mods/@version	3.2		1	3.2
+	/mods/titleInfo			1	3.2
+	/mods/titleInfo/title	G. Fred		1	3.2
+	/mods/titleInfo/subTitle	The story of G. Fred McNally		1	3.2
+	/mods/name			3	3.2
+	/mods/name/@type	personal		1	3.2
+	/mods/name/namePart	McNally, George Frederick		1	3.2
+	/mods/name			3	3.2
+	/mods/name/@type	personal		1	3.2
+	/mods/name/namePart	Coutts, H. T. (Herbert Thomas)		2	3.2
+	/mods/name/namePart	1907-		2	3.2
+	/mods/name/namePart/@type	date		1	3.2
+	/mods/name/role			1	3.2
+	/mods/name/role/roleTerm	compiler		1	3.2
+	/mods/name			3	3.2
+	/mods/name/@type	personal		1	3.2
+	/mods/name/namePart	Walker, Bernal Ernest		2	3.2
+	/mods/name/namePart	1911-		2	3.2
+	/mods/name/namePart/@type	date		1	3.2
+	/mods/name/role			1	3.2
+	/mods/name/role/roleTerm	compiler		1	3.2
+	/mods/typeOfResource	text		1	3.2
+	/mods/originInfo			1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	onc		1	3.2
+	/mods/originInfo/place/placeTerm/@authority	marccountry		1	3.2
+	/mods/originInfo/place/placeTerm/@type	code		1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	Don Mills, Ont.		1	3.2
+	/mods/originInfo/place/placeTerm/@type	text		1	3.2
+	/mods/originInfo/publisher	J.M. Dent		1	3.2
+	/mods/originInfo/dateIssued	[c1964]		2	3.2
+	/mods/originInfo/dateIssued	1964		2	3.2
+	/mods/originInfo/dateIssued/@encoding	marc		1	3.2
+	/mods/originInfo/issuance	monographic		1	3.2
+	/mods/language			1	3.2
+	/mods/language/languageTerm	eng		1	3.2
+	/mods/language/languageTerm/@authority	iso639-2b		1	3.2
+	/mods/language/languageTerm/@type	code		1	3.2
+	/mods/physicalDescription			1	3.2
+	/mods/physicalDescription/form	print		1	3.2
+	/mods/physicalDescription/form/@authority	marcform		1	3.2
+	/mods/physicalDescription/extent	x, 118 p. : ports. ; 17 x 22 cm.		1	3.2
+	/mods/note	"... series of taped interviews beginning March 23rd, 1962 and continuing through the summer of that year."		4	3.2
+	/mods/note	uahistory		4	3.2
+	/mods/note/@type	local:oaiset		1	3.2
+	/mods/note	DOA: 1906 Spatial: Alberta		4	3.2
+	/mods/note/@type	local		1	3.2
+	/mods/note	Transcription of interviews with an Alberta educator and head of the Faculty of Education at the University of Alberta.		4	3.2
+	/mods/note/@type	public		1	3.2
+	/mods/subject			3	3.2
+	/mods/subject/geographicCode	n-cn-ab		1	3.2
+	/mods/subject/geographicCode/@authority	marcgac		1	3.2
+	/mods/subject			3	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/name			1	3.2
+	/mods/subject/name/@type	personal		1	3.2
+	/mods/subject/name/namePart	McNally, George Frederick		1	3.2
+	/mods/subject			3	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/topic	Education		2	3.2
+	/mods/subject/geographic	Alberta		1	3.2
+	/mods/subject/topic	History		2	3.2
+	/mods/classification	LA2325.M2 C6		1	3.2
+	/mods/classification/@authority	lcc		1	3.2
+	/mods/identifier	1328588		2	3.2
+	/mods/identifier/@type	local:neos		1	3.2
+	/mods/identifier	9029		2	3.2
+	/mods/identifier/@type	local:peel3		1	3.2
+	/mods/recordInfo			1	3.2
+	/mods/recordInfo/recordContentSource	RC		1	3.2
+	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.2
+	/mods/recordInfo/recordCreationDate	2008-09-10T14:58:46-0600		1	3.2
+	/mods/recordInfo/recordIdentifier	P009029		1	3.2
+	/mods/recordInfo/recordChangeDate	2010-03-14T14:17:53-0600		1	3.2
+	/@mods	
+
+G. Fred
+The story of G. Fred McNally
+
+
+McNally, George Frederick
+
+
+Coutts, H. T. (Herbert Thomas)
+1907-
+
+compiler
+
+
+
+Walker, Bernal Ernest
+1911-
+
+compiler
+
+
+text
+
+
+onc
+
+
+Don Mills, Ont.
+
+J.M. Dent
+[c1964]
+1964
+monographic
+
+
+eng
+
+
+print
+x, 118 p. : ports. ; 17 x 22 cm.
+
+"... series of taped interviews beginning March 23rd, 1962 and continuing through the summer of that year."
+uahistory
+DOA: 1906 Spatial: Alberta
+Transcription of interviews with an Alberta educator and head of the Faculty of Education at the University of Alberta.
+
+				n-cn-ab
+			
+
+				
+McNally, George Frederick
+
+			
+
+				Education
+			
+				Alberta
+			
+				History
+			
+LA2325.M2 C6
+1328588
+9029
+
+RC
+2008-09-10T14:58:46-0600
+P009029
+2010-03-14T14:17:53-0600
+
+		1	3.2
+	

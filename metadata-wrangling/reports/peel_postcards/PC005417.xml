@@ -1,0 +1,150 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		sfarnel	PC005417	postcards	1	3.2
+	/mods/@version	3.2	sfarnel	PC005417	postcards	1	3.2
+	/mods/titleInfo		sfarnel	PC005417	postcards	1	3.2
+	/mods/titleInfo/@lang	english	sfarnel	PC005417	postcards	1	3.2
+	/mods/titleInfo/title	8th Ave Calgary (looking West)	sfarnel	PC005417	postcards	1	3.2
+	/mods/name		sfarnel	PC005417	postcards	1	3.2
+	/mods/name/@type	corporate	sfarnel	PC005417	postcards	1	3.2
+	/mods/name/namePart	Dill	sfarnel	PC005417	postcards	1	3.2
+	/mods/name/role		sfarnel	PC005417	postcards	1	3.2
+	/mods/name/role/roleTerm	Photographer	sfarnel	PC005417	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	sfarnel	PC005417	postcards	1	3.2
+	/mods/typeOfResource	still image	sfarnel	PC005417	postcards	1	3.2
+	/mods/genre	postcards	sfarnel	PC005417	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	sfarnel	PC005417	postcards	1	3.2
+	/mods/originInfo		sfarnel	PC005417	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	sfarnel	PC005417	postcards	1	3.2
+	/mods/originInfo/publisher	Photo by Dill	sfarnel	PC005417	postcards	1	3.2
+	/mods/originInfo/dateIssued	1910	sfarnel	PC005417	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	approximate	sfarnel	PC005417	postcards	1	3.2
+	/mods/originInfo/place		sfarnel	PC005417	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	[Calgary]	sfarnel	PC005417	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	sfarnel	PC005417	postcards	1	3.2
+	/mods/language		sfarnel	PC005417	postcards	1	3.2
+	/mods/language/languageTerm	English	sfarnel	PC005417	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	sfarnel	PC005417	postcards	1	3.2
+	/mods/physicalDescription		sfarnel	PC005417	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : b&w ; 9 x 14 cm.	sfarnel	PC005417	postcards	1	3.2
+	/mods/note	150	sfarnel	PC005417	postcards	10	3.2
+	/mods/note/@type	price	sfarnel	PC005417	postcards	1	3.2
+	/mods/note	false	sfarnel	PC005417	postcards	10	3.2
+	/mods/note/@type	notable	sfarnel	PC005417	postcards	1	3.2
+	/mods/note	false	sfarnel	PC005417	postcards	10	3.2
+	/mods/note/@type	imgprobs	sfarnel	PC005417	postcards	1	3.2
+	/mods/note	View of the storefronts and pedestrians along 8th Avenue in Calgary, Alberta.	sfarnel	PC005417	postcards	10	3.2
+	/mods/note/@type	public_description	sfarnel	PC005417	postcards	1	3.2
+	/mods/note	Carol P. Richards Esq.	sfarnel	PC005417	postcards	10	3.2
+	/mods/note/@type	public_to	sfarnel	PC005417	postcards	1	3.2
+	/mods/note	J.G. Mahaus	sfarnel	PC005417	postcards	10	3.2
+	/mods/note/@type	public_from	sfarnel	PC005417	postcards	1	3.2
+	/mods/note	C.E., Waldeck, Sask.	sfarnel	PC005417	postcards	10	3.2
+	/mods/note/@type	public_address	sfarnel	PC005417	postcards	1	3.2
+	/mods/note	7/11/10, Hope you are well. am just up here for the day, it is certainly quite a City. Have been very busy since seeing you. Drove all night & trains all day. Regards to Mr. Richards & self - J.G. Mahaus.	sfarnel	PC005417	postcards	10	3.2
+	/mods/note/@type	public_message	sfarnel	PC005417	postcards	1	3.2
+	/mods/note	Calgary, Alta., 1910-11-07	sfarnel	PC005417	postcards	10	3.2
+	/mods/note/@type	public_postmark_date	sfarnel	PC005417	postcards	1	3.2
+	/mods/note	[Printer's no.] 6	sfarnel	PC005417	postcards	10	3.2
+	/mods/note/@type	public_on_front	sfarnel	PC005417	postcards	1	3.2
+	/mods/subject		sfarnel	PC005417	postcards	5	3.2
+	/mods/subject/geographic	Calgary, AB	sfarnel	PC005417	postcards	1	3.2
+	/mods/subject		sfarnel	PC005417	postcards	5	3.2
+	/mods/subject/hierarchicalGeographic		sfarnel	PC005417	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	sfarnel	PC005417	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	sfarnel	PC005417	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Calgary	sfarnel	PC005417	postcards	1	3.2
+	/mods/subject		sfarnel	PC005417	postcards	5	3.2
+	/mods/subject/genre	Postcards	sfarnel	PC005417	postcards	1	3.2
+	/mods/subject		sfarnel	PC005417	postcards	5	3.2
+	/mods/subject/topic	Commercial streets	sfarnel	PC005417	postcards	1	3.2
+	/mods/subject		sfarnel	PC005417	postcards	5	3.2
+	/mods/subject/topic	Storefronts	sfarnel	PC005417	postcards	1	3.2
+	/mods/identifier	PC005417	sfarnel	PC005417	postcards	1	3.2
+	/mods/identifier/@type	local	sfarnel	PC005417	postcards	1	3.2
+	/mods/location		sfarnel	PC005417	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 6	sfarnel	PC005417	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC005417.html	sfarnel	PC005417	postcards	3	3.2
+	/mods/location/url/@access	object in context	sfarnel	PC005417	postcards	1	3.2
+	/mods/location/url/@usage	primary display	sfarnel	PC005417	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/005/web/PC005417.jpg	sfarnel	PC005417	postcards	3	3.2
+	/mods/location/url/@access	raw object	sfarnel	PC005417	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='497' 	sfarnel	PC005417	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/005/thumbs/PC005417.jpg	sfarnel	PC005417	postcards	3	3.2
+	/mods/location/url/@access	preview	sfarnel	PC005417	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='124'	sfarnel	PC005417	postcards	1	3.2
+	/mods/recordInfo		sfarnel	PC005417	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	sfarnel	PC005417	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC005417	sfarnel	PC005417	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	sfarnel	sfarnel	PC005417	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2009-12-06T18:46:58-0700	sfarnel	PC005417	postcards	1	3.2
+	/@mods	
+
+8th Ave Calgary (looking West)
+
+
+Dill
+
+Photographer
+
+
+still image
+postcards
+
+monographic
+Photo by Dill
+1910
+
+
+[Calgary]
+
+
+
+English
+
+
+1 postcard : b&w ; 9 x 14 cm.
+
+150
+false
+false
+View of the storefronts and pedestrians along 8th Avenue in Calgary, Alberta.
+Carol P. Richards Esq.
+J.G. Mahaus
+C.E., Waldeck, Sask.
+7/11/10, Hope you are well. am just up here for the day, it is certainly quite a City. Have been very busy since seeing you. Drove all night & trains all day. Regards to Mr. Richards & self - J.G. Mahaus.
+Calgary, Alta., 1910-11-07
+[Printer's no.] 6
+
+Calgary, AB
+
+
+
+Canada
+Alberta
+Calgary
+
+
+
+Postcards
+
+
+Commercial streets
+
+
+Storefronts
+
+PC005417
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 6
+http://peel.library.ualberta.ca/postcards/PC005417.html
+http://peel.library.ualberta.ca/pcimages/PC/005/web/PC005417.jpg
+http://peel.library.ualberta.ca/pcimages/PC/005/thumbs/PC005417.jpg
+
+
+2007-06-25T16:49:56-0600
+PC005417
+sfarnel
+2009-12-06T18:46:58-0700
+
+	sfarnel	PC005417	postcards	1	3.2
+	

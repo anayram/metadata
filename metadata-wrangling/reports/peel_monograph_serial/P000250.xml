@@ -1,0 +1,135 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods		History	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0	History	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@schemaLocation	http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd	History	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo		History	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/nonSort	An 	History	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	historical notice of the formation of the Church Missionary Society's North-West
+            America mission and its progress to August, 1848	History	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name		History	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1	History	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA000414	History	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	corporate	History	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Church Missionary Society	History	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role		History	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author	History	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text	History	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text	History	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo		History	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place		History	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	London	History	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text	History	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	Seeleys	History	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1849	History	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued/@qualifier	inferred	History	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language		History	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	English	History	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text	History	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription		History	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print	History	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform	History	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	[4], 1 leaf, 81, [1] p.; 17.5 cm.	History	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	First published as an appendix to Peel <xref>226</xref>. 	History	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	public	History	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	Subject headings not auto-converted.	History	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	subject conversion	History	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject		History	6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel	History	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	The Spiritual Life--Church of England	History	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject		History	6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh	History	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng	History	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Church of England	History	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/genre	History	History	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject		History	6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh	History	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng	History	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Church of England	History	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Missions	History	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject		History	6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm	History	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre	History	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Église d'Angleterre	History	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/genre	Histoire	History	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject		History	6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm	History	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre	History	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Église d'Angleterre	History	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Missions	History	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject		History	6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity	History	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1848	History	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	104	History	4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel1	History	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	126	History	4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel2	History	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	250	History	4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3	History	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	250	History	4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel-procite-id	History	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo		History	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal	History	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P000250	History	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700	History	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+    
+        An 
+        historical notice of the formation of the Church Missionary Society's North-West
+            America mission and its progress to August, 1848
+    
+    
+        Church Missionary Society
+        
+            author
+        
+    
+    text
+    
+        
+            London
+        
+        Seeleys
+        1849
+    
+    
+        English
+    
+    
+        print
+        [4], 1 leaf, 81, [1] p.; 17.5 cm.
+    
+    First published as an appendix to Peel <xref>226</xref>. 
+    Subject headings not auto-converted.
+    
+        The Spiritual Life--Church of England
+    
+    
+        Church of England
+        History
+    
+    
+        Church of England
+        Missions
+    
+    
+        Église d'Angleterre
+        Histoire
+    
+    
+        Église d'Angleterre
+        Missions
+    
+    
+        1848
+    
+    104
+    126
+    250
+    250
+    
+        Peel's Prairie Portal
+        P000250
+        2003-01-01T12:00:00-0700
+    
+	History	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

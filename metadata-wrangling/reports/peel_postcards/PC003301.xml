@@ -1,0 +1,154 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		rschramm	PC003301	postcards	1	3.2
+	/mods/@version	3.2	rschramm	PC003301	postcards	1	3.2
+	/mods/titleInfo		rschramm	PC003301	postcards	1	3.2
+	/mods/titleInfo/@lang	english	rschramm	PC003301	postcards	1	3.2
+	/mods/titleInfo/title	Chinook Alta	rschramm	PC003301	postcards	1	3.2
+	/mods/name		rschramm	PC003301	postcards	1	3.2
+	/mods/name/@type	personal	rschramm	PC003301	postcards	1	3.2
+	/mods/name/namePart	Belden	rschramm	PC003301	postcards	2	3.2
+	/mods/name/namePart/@type	family	rschramm	PC003301	postcards	1	3.2
+	/mods/name/namePart	Charles Selden	rschramm	PC003301	postcards	2	3.2
+	/mods/name/namePart/@type	given	rschramm	PC003301	postcards	1	3.2
+	/mods/name/role		rschramm	PC003301	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	rschramm	PC003301	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	rschramm	PC003301	postcards	1	3.2
+	/mods/typeOfResource	still image	rschramm	PC003301	postcards	1	3.2
+	/mods/genre	postcards	rschramm	PC003301	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	rschramm	PC003301	postcards	1	3.2
+	/mods/originInfo		rschramm	PC003301	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	rschramm	PC003301	postcards	1	3.2
+	/mods/originInfo/publisher	Charles Selden Belden, Chinook, Alta.	rschramm	PC003301	postcards	1	3.2
+	/mods/originInfo/dateIssued	ca. 1910	rschramm	PC003301	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	inferred	rschramm	PC003301	postcards	1	3.2
+	/mods/originInfo/place		rschramm	PC003301	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	Chinook	rschramm	PC003301	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	rschramm	PC003301	postcards	1	3.2
+	/mods/language		rschramm	PC003301	postcards	1	3.2
+	/mods/language/languageTerm	English	rschramm	PC003301	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	rschramm	PC003301	postcards	1	3.2
+	/mods/physicalDescription		rschramm	PC003301	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : b&w ; 9 x 14 cm.	rschramm	PC003301	postcards	1	3.2
+	/mods/note	125	rschramm	PC003301	postcards	6	3.2
+	/mods/note/@type	price	rschramm	PC003301	postcards	1	3.2
+	/mods/note	false	rschramm	PC003301	postcards	6	3.2
+	/mods/note/@type	notable	rschramm	PC003301	postcards	1	3.2
+	/mods/note	true	rschramm	PC003301	postcards	6	3.2
+	/mods/note/@type	imgprobs	rschramm	PC003301	postcards	1	3.2
+	/mods/note	View of Main Street in Chinook, Alberta with storefronts and a farm and farm buildings in the background.	rschramm	PC003301	postcards	6	3.2
+	/mods/note/@type	public_description	rschramm	PC003301	postcards	1	3.2
+	/mods/note	[Printer's no.] B281	rschramm	PC003301	postcards	6	3.2
+	/mods/note/@type	public_on_front	rschramm	PC003301	postcards	1	3.2
+	/mods/note	Written in ms.: Main street - looking North. Farm and buildings are a mile away.	rschramm	PC003301	postcards	6	3.2
+	/mods/note/@type	public_on_front	rschramm	PC003301	postcards	1	3.2
+	/mods/subject		rschramm	PC003301	postcards	7	3.2
+	/mods/subject/geographic	Chinook, AB	rschramm	PC003301	postcards	1	3.2
+	/mods/subject		rschramm	PC003301	postcards	7	3.2
+	/mods/subject/hierarchicalGeographic		rschramm	PC003301	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	rschramm	PC003301	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	rschramm	PC003301	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Chinook	rschramm	PC003301	postcards	1	3.2
+	/mods/subject		rschramm	PC003301	postcards	7	3.2
+	/mods/subject/genre	Postcards	rschramm	PC003301	postcards	1	3.2
+	/mods/subject		rschramm	PC003301	postcards	7	3.2
+	/mods/subject/topic	Cityscapes	rschramm	PC003301	postcards	1	3.2
+	/mods/subject		rschramm	PC003301	postcards	7	3.2
+	/mods/subject/topic	Commercial streets	rschramm	PC003301	postcards	1	3.2
+	/mods/subject		rschramm	PC003301	postcards	7	3.2
+	/mods/subject/topic	Storefronts	rschramm	PC003301	postcards	1	3.2
+	/mods/subject		rschramm	PC003301	postcards	7	3.2
+	/mods/subject/topic	Farms	rschramm	PC003301	postcards	1	3.2
+	/mods/identifier	PC003301	rschramm	PC003301	postcards	1	3.2
+	/mods/identifier/@type	local	rschramm	PC003301	postcards	1	3.2
+	/mods/location		rschramm	PC003301	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 1	rschramm	PC003301	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC003301.html	rschramm	PC003301	postcards	3	3.2
+	/mods/location/url/@access	object in context	rschramm	PC003301	postcards	1	3.2
+	/mods/location/url/@usage	primary display	rschramm	PC003301	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/003/web/PC003301.jpg	rschramm	PC003301	postcards	3	3.2
+	/mods/location/url/@access	raw object	rschramm	PC003301	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='483' 	rschramm	PC003301	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/003/thumbs/PC003301.jpg	rschramm	PC003301	postcards	3	3.2
+	/mods/location/url/@access	preview	rschramm	PC003301	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='121'	rschramm	PC003301	postcards	1	3.2
+	/mods/recordInfo		rschramm	PC003301	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	rschramm	PC003301	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC003301	rschramm	PC003301	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	rschramm	rschramm	PC003301	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2008-07-02T11:40:06-0600	rschramm	PC003301	postcards	1	3.2
+	/@mods	
+
+Chinook Alta
+
+
+Belden
+Charles Selden
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+Charles Selden Belden, Chinook, Alta.
+ca. 1910
+
+
+Chinook
+
+
+
+English
+
+
+1 postcard : b&w ; 9 x 14 cm.
+
+125
+false
+true
+View of Main Street in Chinook, Alberta with storefronts and a farm and farm buildings in the background.
+[Printer's no.] B281
+Written in ms.: Main street - looking North. Farm and buildings are a mile away.
+
+Chinook, AB
+
+
+
+Canada
+Alberta
+Chinook
+
+
+
+Postcards
+
+
+Cityscapes
+
+
+Commercial streets
+
+
+Storefronts
+
+
+Farms
+
+PC003301
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 1
+http://peel.library.ualberta.ca/postcards/PC003301.html
+http://peel.library.ualberta.ca/pcimages/PC/003/web/PC003301.jpg
+http://peel.library.ualberta.ca/pcimages/PC/003/thumbs/PC003301.jpg
+
+
+
+
+2007-06-25T16:49:56-0600
+PC003301
+rschramm
+2008-07-02T11:40:06-0600
+
+	rschramm	PC003301	postcards	1	3.2
+	

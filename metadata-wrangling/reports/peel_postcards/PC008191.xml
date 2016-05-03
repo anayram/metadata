@@ -1,0 +1,149 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		fsalehi	PC008191	postcards	1	3.2
+	/mods/@version	3.2	fsalehi	PC008191	postcards	1	3.2
+	/mods/titleInfo		fsalehi	PC008191	postcards	1	3.2
+	/mods/titleInfo/@lang	english	fsalehi	PC008191	postcards	1	3.2
+	/mods/titleInfo/title	Mt Tekara from Lake Beauvert.	fsalehi	PC008191	postcards	1	3.2
+	/mods/name		fsalehi	PC008191	postcards	1	3.2
+	/mods/name/@type	personal	fsalehi	PC008191	postcards	1	3.2
+	/mods/name/namePart	Jackman	fsalehi	PC008191	postcards	2	3.2
+	/mods/name/namePart/@type	family	fsalehi	PC008191	postcards	1	3.2
+	/mods/name/namePart	F.A.	fsalehi	PC008191	postcards	2	3.2
+	/mods/name/namePart/@type	given	fsalehi	PC008191	postcards	1	3.2
+	/mods/name/role		fsalehi	PC008191	postcards	1	3.2
+	/mods/name/role/roleTerm	Photographer	fsalehi	PC008191	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC008191	postcards	1	3.2
+	/mods/typeOfResource	still image	fsalehi	PC008191	postcards	1	3.2
+	/mods/genre	postcards	fsalehi	PC008191	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	fsalehi	PC008191	postcards	1	3.2
+	/mods/originInfo		fsalehi	PC008191	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	fsalehi	PC008191	postcards	1	3.2
+	/mods/originInfo/publisher	Photographed and Copyrighted by F.A. Jackman, Jasper, Alta.	fsalehi	PC008191	postcards	1	3.2
+	/mods/originInfo/dateIssued	ca. 1930	fsalehi	PC008191	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	inferred	fsalehi	PC008191	postcards	1	3.2
+	/mods/originInfo/place		fsalehi	PC008191	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	Jasper	fsalehi	PC008191	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC008191	postcards	1	3.2
+	/mods/language		fsalehi	PC008191	postcards	1	3.2
+	/mods/language/languageTerm	English	fsalehi	PC008191	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	fsalehi	PC008191	postcards	1	3.2
+	/mods/physicalDescription		fsalehi	PC008191	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : b&w ; 14 x 9 cm.	fsalehi	PC008191	postcards	1	3.2
+	/mods/note	40	fsalehi	PC008191	postcards	5	3.2
+	/mods/note/@type	price	fsalehi	PC008191	postcards	1	3.2
+	/mods/note	false	fsalehi	PC008191	postcards	5	3.2
+	/mods/note/@type	notable	fsalehi	PC008191	postcards	1	3.2
+	/mods/note	true	fsalehi	PC008191	postcards	5	3.2
+	/mods/note/@type	imgprobs	fsalehi	PC008191	postcards	1	3.2
+	/mods/note	[printer's no.] 634	fsalehi	PC008191	postcards	5	3.2
+	/mods/note/@type	public_on_front	fsalehi	PC008191	postcards	1	3.2
+	/mods/note	View of the Beauvert Lake at Jasper National Park, with mountains and forest in the background.	fsalehi	PC008191	postcards	5	3.2
+	/mods/note/@type	public_description	fsalehi	PC008191	postcards	1	3.2
+	/mods/subject		fsalehi	PC008191	postcards	6	3.2
+	/mods/subject/geographic	Jasper, AB	fsalehi	PC008191	postcards	1	3.2
+	/mods/subject		fsalehi	PC008191	postcards	6	3.2
+	/mods/subject/hierarchicalGeographic		fsalehi	PC008191	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	fsalehi	PC008191	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	fsalehi	PC008191	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Jasper	fsalehi	PC008191	postcards	1	3.2
+	/mods/subject		fsalehi	PC008191	postcards	6	3.2
+	/mods/subject/genre	Postcards	fsalehi	PC008191	postcards	1	3.2
+	/mods/subject		fsalehi	PC008191	postcards	6	3.2
+	/mods/subject/topic	Mountains	fsalehi	PC008191	postcards	1	3.2
+	/mods/subject		fsalehi	PC008191	postcards	6	3.2
+	/mods/subject/topic	Lakes & ponds	fsalehi	PC008191	postcards	1	3.2
+	/mods/subject		fsalehi	PC008191	postcards	6	3.2
+	/mods/subject/name		fsalehi	PC008191	postcards	1	3.2
+	/mods/subject/name/namePart	Beauvert Lake (Alta.)	fsalehi	PC008191	postcards	1	3.2
+	/mods/identifier	PC008191	fsalehi	PC008191	postcards	1	3.2
+	/mods/identifier/@type	local	fsalehi	PC008191	postcards	1	3.2
+	/mods/location		fsalehi	PC008191	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 12	fsalehi	PC008191	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC008191.html	fsalehi	PC008191	postcards	3	3.2
+	/mods/location/url/@access	object in context	fsalehi	PC008191	postcards	1	3.2
+	/mods/location/url/@usage	primary display	fsalehi	PC008191	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/008/web/PC008191.jpg	fsalehi	PC008191	postcards	3	3.2
+	/mods/location/url/@access	raw object	fsalehi	PC008191	postcards	1	3.2
+	/mods/location/url/@note	width='533' height='800' 	fsalehi	PC008191	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/008/thumbs/PC008191.jpg	fsalehi	PC008191	postcards	3	3.2
+	/mods/location/url/@access	preview	fsalehi	PC008191	postcards	1	3.2
+	/mods/location/url/@note	width='133' height='200'	fsalehi	PC008191	postcards	1	3.2
+	/mods/recordInfo		fsalehi	PC008191	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	fsalehi	PC008191	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC008191	fsalehi	PC008191	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	fsalehi	fsalehi	PC008191	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2008-10-27T10:40:56-0700	fsalehi	PC008191	postcards	1	3.2
+	/@mods	
+
+Mt Tekara from Lake Beauvert.
+
+
+Jackman
+F.A.
+
+Photographer
+
+
+still image
+postcards
+
+monographic
+Photographed and Copyrighted by F.A. Jackman, Jasper, Alta.
+ca. 1930
+
+
+Jasper
+
+
+
+English
+
+
+1 postcard : b&w ; 14 x 9 cm.
+
+40
+false
+true
+[printer's no.] 634
+View of the Beauvert Lake at Jasper National Park, with mountains and forest in the background.
+
+Jasper, AB
+
+
+
+Canada
+Alberta
+Jasper
+
+
+
+Postcards
+
+
+Mountains
+
+
+Lakes & ponds
+
+
+
+Beauvert Lake (Alta.)
+
+
+PC008191
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 12
+http://peel.library.ualberta.ca/postcards/PC008191.html
+http://peel.library.ualberta.ca/pcimages/PC/008/web/PC008191.jpg
+http://peel.library.ualberta.ca/pcimages/PC/008/thumbs/PC008191.jpg
+
+
+
+
+2007-06-25T16:49:56-0600
+PC008191
+fsalehi
+2008-10-27T10:40:56-0700
+
+	fsalehi	PC008191	postcards	1	3.2
+	

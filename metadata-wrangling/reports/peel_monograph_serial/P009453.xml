@@ -1,0 +1,123 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.2
+	/mods/@version	3.2		1	3.2
+	/mods/titleInfo			1	3.2
+	/mods/titleInfo/title	Spray project		1	3.2
+	/mods/name			1	3.2
+	/mods/name/@type	corporate		1	3.2
+	/mods/name/namePart	Calgary Power Ltd.		1	3.2
+	/mods/typeOfResource	text		1	3.2
+	/mods/originInfo			1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	abc		1	3.2
+	/mods/originInfo/place/placeTerm/@authority	marccountry		1	3.2
+	/mods/originInfo/place/placeTerm/@type	code		1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	[Calgary?]		1	3.2
+	/mods/originInfo/place/placeTerm/@type	text		1	3.2
+	/mods/originInfo/publisher	[Calgary Power?]		1	3.2
+	/mods/originInfo/dateIssued	[1950?]		1	3.2
+	/mods/originInfo/issuance	monographic		1	3.2
+	/mods/language			1	3.2
+	/mods/language/languageTerm	eng		1	3.2
+	/mods/language/languageTerm/@authority	iso639-2b		1	3.2
+	/mods/language/languageTerm/@type	code		1	3.2
+	/mods/physicalDescription			1	3.2
+	/mods/physicalDescription/form	print		1	3.2
+	/mods/physicalDescription/form/@authority	marcform		1	3.2
+	/mods/physicalDescription/extent	1 fold. sheet ([12] p.) : col. ill., map ; 23 cm.		1	3.2
+	/mods/note	Cover title.		4	3.2
+	/mods/note	http://chelsea.library.ualberta.ca:8081/peel_master/select/?q=%28authorAuthority%3A%22Calgary+Power+Ltd%22%29+OR+%28subjectAuthority%3A%22Hydroelectric+power+plants--Alberta--Spray+Lakes+Reservoir%22%29+OR+%28subjectAuthority%3A%22Dams--Alberta--Spray+Lakes+Reservoir%22%29+OR+%28subjectAuthority%3A%22Spray+Lakes+Reservoir+%28Alta.%29%22%29&fl=id+authorAuthority+authorDates+subjectAuthority+authorityAuthority&rows=100		4	3.2
+	/mods/note/@type	solr		1	3.2
+	/mods/note	DOA: 1950 Spatial: Spray Reservoir (Alta.)		4	3.2
+	/mods/note/@type	local		1	3.2
+	/mods/note	Cover title. Informational pamphlet about an Alberta hydro-electric project.		4	3.2
+	/mods/note/@type	public		1	3.2
+	/mods/subject			3	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/topic	Hydroelectric power plants		1	3.2
+	/mods/subject/geographic	Alberta		2	3.2
+	/mods/subject/geographic	Spray Lakes Reservoir		2	3.2
+	/mods/subject			3	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/topic	Dams		1	3.2
+	/mods/subject/geographic	Alberta		2	3.2
+	/mods/subject/geographic	Spray Lakes Reservoir		2	3.2
+	/mods/subject			3	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/geographic	Spray Lakes Reservoir (Alta.)		1	3.2
+	/mods/classification	TK1427.A3 S67 1950		1	3.2
+	/mods/classification/@authority	lcc		1	3.2
+	/mods/identifier	3979570		3	3.2
+	/mods/identifier/@type	local:neos		1	3.2
+	/mods/identifier	N008825		3	3.2
+	/mods/identifier/@type	local:peel_new		1	3.2
+	/mods/identifier	9453		3	3.2
+	/mods/identifier/@type	local:peel3		1	3.2
+	/mods/recordInfo			1	3.2
+	/mods/recordInfo/recordContentSource	fsalehi		2	3.2
+	/mods/recordInfo/recordContentSource	RC		2	3.2
+	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.2
+	/mods/recordInfo/recordCreationDate	2007-08-27T12:00:00-0700		1	3.2
+	/mods/recordInfo/recordIdentifier	P009453		1	3.2
+	/mods/recordInfo/recordChangeDate	2010-07-02T14:42:37-0600		1	3.2
+	/@mods	
+
+Spray project
+
+
+Calgary Power Ltd.
+
+text
+
+
+abc
+
+
+[Calgary?]
+
+[Calgary Power?]
+[1950?]
+monographic
+
+
+eng
+
+
+print
+1 fold. sheet ([12] p.) : col. ill., map ; 23 cm.
+
+Cover title.
+http://chelsea.library.ualberta.ca:8081/peel_master/select/?q=%28authorAuthority%3A%22Calgary+Power+Ltd%22%29+OR+%28subjectAuthority%3A%22Hydroelectric+power+plants--Alberta--Spray+Lakes+Reservoir%22%29+OR+%28subjectAuthority%3A%22Dams--Alberta--Spray+Lakes+Reservoir%22%29+OR+%28subjectAuthority%3A%22Spray+Lakes+Reservoir+%28Alta.%29%22%29&fl=id+authorAuthority+authorDates+subjectAuthority+authorityAuthority&rows=100
+DOA: 1950 Spatial: Spray Reservoir (Alta.)
+Cover title. Informational pamphlet about an Alberta hydro-electric project.
+
+				Hydroelectric power plants
+			
+				Alberta
+			
+				Spray Lakes Reservoir
+			
+
+				Dams
+			
+				Alberta
+			
+				Spray Lakes Reservoir
+			
+
+				Spray Lakes Reservoir (Alta.)
+			
+TK1427.A3 S67 1950
+3979570
+N008825
+9453
+
+fsalehi
+RC
+2007-08-27T12:00:00-0700
+P009453
+2010-07-02T14:42:37-0600
+
+		1	3.2
+	

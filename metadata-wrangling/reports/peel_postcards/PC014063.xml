@@ -1,0 +1,138 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		sfarnel	PC014063	postcards	1	3.3
+	/mods/@version	3.3	sfarnel	PC014063	postcards	1	3.3
+	/mods/titleInfo		sfarnel	PC014063	postcards	1	3.3
+	/mods/titleInfo/@lang	english	sfarnel	PC014063	postcards	1	3.3
+	/mods/titleInfo/title	Jasper Ave., Edmonton, Alta.	sfarnel	PC014063	postcards	1	3.3
+	/mods/name		sfarnel	PC014063	postcards	1	3.3
+	/mods/name/@type	corporate	sfarnel	PC014063	postcards	1	3.3
+	/mods/name/namePart	Edmonton News Co.	sfarnel	PC014063	postcards	1	3.3
+	/mods/name/role		sfarnel	PC014063	postcards	1	3.3
+	/mods/name/role/roleTerm	Publisher	sfarnel	PC014063	postcards	1	3.3
+	/mods/name/role/roleTerm/@type	text	sfarnel	PC014063	postcards	1	3.3
+	/mods/typeOfResource	still image	sfarnel	PC014063	postcards	1	3.3
+	/mods/genre	postcards	sfarnel	PC014063	postcards	1	3.3
+	/mods/genre/@authority	gmgpc	sfarnel	PC014063	postcards	1	3.3
+	/mods/originInfo		sfarnel	PC014063	postcards	1	3.3
+	/mods/originInfo/issuance	monographic	sfarnel	PC014063	postcards	1	3.3
+	/mods/originInfo/publisher	Edmonton News Co., Edmonton, Alta.	sfarnel	PC014063	postcards	1	3.3
+	/mods/originInfo/dateIssued	1906	sfarnel	PC014063	postcards	1	3.3
+	/mods/originInfo/dateIssued/@qualifier	approximate	sfarnel	PC014063	postcards	1	3.3
+	/mods/originInfo/place		sfarnel	PC014063	postcards	1	3.3
+	/mods/originInfo/place/placeTerm	Edmonton	sfarnel	PC014063	postcards	1	3.3
+	/mods/originInfo/place/placeTerm/@type	text	sfarnel	PC014063	postcards	1	3.3
+	/mods/language		sfarnel	PC014063	postcards	1	3.3
+	/mods/language/languageTerm	English	sfarnel	PC014063	postcards	1	3.3
+	/mods/language/languageTerm/@type	text	sfarnel	PC014063	postcards	1	3.3
+	/mods/physicalDescription		sfarnel	PC014063	postcards	1	3.3
+	/mods/physicalDescription/extent	1 postcard : b&w ; 9 x 14 cm.	sfarnel	PC014063	postcards	1	3.3
+	/mods/note	25	sfarnel	PC014063	postcards	5	3.3
+	/mods/note/@type	price	sfarnel	PC014063	postcards	1	3.3
+	/mods/note	false	sfarnel	PC014063	postcards	5	3.3
+	/mods/note/@type	notable	sfarnel	PC014063	postcards	1	3.3
+	/mods/note	false	sfarnel	PC014063	postcards	5	3.3
+	/mods/note/@type	imgprobs	sfarnel	PC014063	postcards	1	3.3
+	/mods/note	Edmonton, Alta., 1906-08-27	sfarnel	PC014063	postcards	5	3.3
+	/mods/note/@type	public_postmark_date	sfarnel	PC014063	postcards	1	3.3
+	/mods/note	View of Jasper Avenue, Edmonton, Alberta.	sfarnel	PC014063	postcards	5	3.3
+	/mods/note/@type	public_description	sfarnel	PC014063	postcards	1	3.3
+	/mods/subject		sfarnel	PC014063	postcards	5	3.3
+	/mods/subject/geographic	Edmonton, MB	sfarnel	PC014063	postcards	1	3.3
+	/mods/subject		sfarnel	PC014063	postcards	5	3.3
+	/mods/subject/hierarchicalGeographic		sfarnel	PC014063	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/country	Canada	sfarnel	PC014063	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/province	Alberta	sfarnel	PC014063	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/city	Edmonton	sfarnel	PC014063	postcards	1	3.3
+	/mods/subject		sfarnel	PC014063	postcards	5	3.3
+	/mods/subject/genre	Postcards	sfarnel	PC014063	postcards	1	3.3
+	/mods/subject		sfarnel	PC014063	postcards	5	3.3
+	/mods/subject/topic	Commercial streets	sfarnel	PC014063	postcards	1	3.3
+	/mods/subject		sfarnel	PC014063	postcards	5	3.3
+	/mods/subject/name		sfarnel	PC014063	postcards	1	3.3
+	/mods/subject/name/namePart	Jasper Avenue (Edmonton, Alta.)	sfarnel	PC014063	postcards	1	3.3
+	/mods/identifier	PC014063	sfarnel	PC014063	postcards	1	3.3
+	/mods/identifier/@type	local	sfarnel	PC014063	postcards	1	3.3
+	/mods/location		sfarnel	PC014063	postcards	1	3.3
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 4 (set 2)	sfarnel	PC014063	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC014063.html	sfarnel	PC014063	postcards	3	3.3
+	/mods/location/url/@access	object in context	sfarnel	PC014063	postcards	1	3.3
+	/mods/location/url/@usage	primary display	sfarnel	PC014063	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/014/web/PC014063.jpg	sfarnel	PC014063	postcards	3	3.3
+	/mods/location/url/@access	raw object	sfarnel	PC014063	postcards	1	3.3
+	/mods/location/url/@note	width='1092' height='688' 	sfarnel	PC014063	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/014/thumbs/PC014063.jpg	sfarnel	PC014063	postcards	3	3.3
+	/mods/location/url/@access	preview	sfarnel	PC014063	postcards	1	3.3
+	/mods/location/url/@note	width='200' height='126'	sfarnel	PC014063	postcards	1	3.3
+	/mods/recordInfo		sfarnel	PC014063	postcards	1	3.3
+	/mods/recordInfo/recordCreationDate	2009-01-23T14:03:00-0700	sfarnel	PC014063	postcards	1	3.3
+	/mods/recordInfo/recordIdentifier	PC014063	sfarnel	PC014063	postcards	1	3.3
+	/mods/recordInfo/recordContentSource	sfarnel	sfarnel	PC014063	postcards	1	3.3
+	/mods/recordInfo/recordChangeDate	2010-04-12T13:46:14-0600	sfarnel	PC014063	postcards	1	3.3
+	/@mods	
+
+Jasper Ave., Edmonton, Alta.
+
+
+Edmonton News Co.
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+Edmonton News Co., Edmonton, Alta.
+1906
+
+
+Edmonton
+
+
+
+English
+
+
+1 postcard : b&w ; 9 x 14 cm.
+
+25
+false
+false
+Edmonton, Alta., 1906-08-27
+View of Jasper Avenue, Edmonton, Alberta.
+
+Edmonton, MB
+
+
+
+Canada
+Alberta
+Edmonton
+
+
+
+Postcards
+
+
+Commercial streets
+
+
+
+Jasper Avenue (Edmonton, Alta.)
+
+
+PC014063
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 4 (set 2)
+http://peel.library.ualberta.ca/postcards/PC014063.html
+http://peel.library.ualberta.ca/pcimages/PC/014/web/PC014063.jpg
+http://peel.library.ualberta.ca/pcimages/PC/014/thumbs/PC014063.jpg
+
+
+2009-01-23T14:03:00-0700
+PC014063
+sfarnel
+2010-04-12T13:46:14-0600
+
+	sfarnel	PC014063	postcards	1	3.3
+	

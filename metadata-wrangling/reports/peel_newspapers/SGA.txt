@@ -1,0 +1,101 @@
+Path	Content	URL	Form or Genre	Occurrence	MODS version
+
+/mods/titleInfo		http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	2	3.2
+/mods/titleInfo/title	St. Albert gazette	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+
+    /mods/titleInfo		http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	2	3.2
+/mods/titleInfo/@type	uniform	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+/mods/titleInfo/title	St. Albert gazette (Edmonton, Alta. : Online)	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+
+    /mods/typeOfResource	text	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+
+/mods/genre	newspaper	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+/mods/genre/@authority	marcgt	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+
+/mods/originInfo		http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+/mods/originInfo/place		http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	2	3.2
+/mods/originInfo/place/placeTerm	abc	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@authority	marccountry	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@type	code	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+/mods/originInfo/place		http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	2	3.2
+/mods/originInfo/place/placeTerm	Edmonton, Alberta	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@type	text	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+/mods/originInfo/publisher	Community Publications of Alberta	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	2	3.2
+/mods/originInfo/publisher	Sun Publishing Co. Ltd.	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	2	3.2
+/mods/originInfo/dateIssued	1948	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	2	3.2
+/mods/originInfo/dateIssued/@point	start	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+/mods/originInfo/dateIssued/@encoding	iso8601	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+/mods/originInfo/dateIssued	1953	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	2	3.2
+/mods/originInfo/dateIssued/@point	end	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+/mods/originInfo/dateIssued/@encoding	iso8601	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+/mods/originInfo/issuance	continuing	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+
+/mods/language		http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+/mods/language/languageTerm	eng	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+/mods/language/languageTerm/@authority	iso639-2b	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+/mods/language/languageTerm/@type	code	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+
+/mods/physicalDescription		http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+/mods/physicalDescription/form	print	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+/mods/physicalDescription/form/@authority	marcform	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+/mods/physicalDescription/extent	6 volumes	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+
+    /mods/note	Began in 1948; ceased with Vol. 6, No. 33 (August 13, 1953). Absorbed by <i>Morinville journal</i>.	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	7	3.2
+/mods/note/@type	public	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+
+    /mods/note	Published by Sun Publishing Co. Ltd. beginning Mar. 12, 1953.	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	7	3.2
+/mods/note/@type	public	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+
+    /mods/note	Issues for July 14 and July 21, 1950 each called vol. 2, no. 48.	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	7	3.2
+/mods/note/@type	public	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+
+    /mods/note	Vol. 4 complete in (19?) issues, with vol. numbering adjusted to match calendar year beginning with vol. 5.	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	7	3.2
+/mods/note/@type	public	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+
+    /mods/note	Not published final week of 1952?	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	7	3.2
+/mods/note/@type	public	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+
+    /mods/note	Thank you to the St. Albert Gazette, the St. Albert Community Foundation, and the St. Albert Public Library for their generous contributions of funding for the digitization of this newspaper for the Peel's Prairie Province's website; to the St. Albert Gazette for providing issues in print, and to the Musée Héritage Museum and the St. Albert Public Library for providing microfilmed copies of the newspaper.	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	7	3.2
+/mods/note/@type	public	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+
+    /mods/note	newspapers	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	7	3.2
+/mods/note/@type	local:oaiset	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+
+/mods/subject		http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic		http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/country	Canada	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/province	Alberta	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/city	St. Albert	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+
+    /mods/relatedItem		http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+/mods/relatedItem/@displayLabel	Absorbed by	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+/mods/relatedItem/@type	succeeding	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+/mods/relatedItem/titleInfo		http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+/mods/relatedItem/titleInfo/title	Morinville journal	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+
+/mods/classification	071/.1	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+/mods/classification/@authority	ddc	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+/mods/classification/@edition	19	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+
+/mods/identifier	SGA	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+/mods/identifier/@type	local:newspaper	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+
+    
+    /mods/location		http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+/mods/location/physicalLocation	CaAEU	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+/mods/location/physicalLocation/@authority	marcorg	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+/mods/location/holdingSimple		http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation		http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/form	electronic	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/form/@authority	marcform	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/electronicLocator	http://peel.library.ualberta.ca/newspapers/SGA/	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/enumerationAndChronology	1948-1953	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/enumerationAndChronology/@unitType	1	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+
+/mods/recordInfo		http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+/mods/recordInfo/recordContentSource	JH	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+/mods/recordInfo/recordContentSource/@authority	local:person	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+/mods/recordInfo/recordCreationDate	2014-04-01T14:43:00-0700	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+/mods/recordInfo/recordIdentifier	QSGA	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+/mods/recordInfo/recordChangeDate	2014-04-01T14:43:00-0700	http://peel.library.ualberta.ca/newspapers/SGA.html	newspaper	1	3.2
+

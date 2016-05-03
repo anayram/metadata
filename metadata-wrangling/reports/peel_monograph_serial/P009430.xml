@@ -1,0 +1,154 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.2
+	/mods/@version	3.2		1	3.2
+	/mods/titleInfo			2	3.2
+	/mods/titleInfo/title	Success Business College		1	3.2
+	/mods/titleInfo/subTitle	Portage Ave. at Edmonton St., Winnipeg, Man., phone 25843		1	3.2
+	/mods/titleInfo			2	3.2
+	/mods/titleInfo/@type	alternative		1	3.2
+	/mods/titleInfo/title	Success		1	3.2
+	/mods/name			1	3.2
+	/mods/name/@type	corporate		1	3.2
+	/mods/name/namePart	Success Business College (Winnipeg, Man.)		1	3.2
+	/mods/typeOfResource	text		1	3.2
+	/mods/originInfo			1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	mbc		1	3.2
+	/mods/originInfo/place/placeTerm/@authority	marccountry		1	3.2
+	/mods/originInfo/place/placeTerm/@type	code		1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	Winnipeg		1	3.2
+	/mods/originInfo/place/placeTerm/@type	text		1	3.2
+	/mods/originInfo/publisher	Success Business College		1	3.2
+	/mods/originInfo/dateIssued	[194-?]		5	3.2
+	/mods/originInfo/dateIssued	1940		5	3.2
+	/mods/originInfo/dateIssued/@encoding	marc		1	3.2
+	/mods/originInfo/dateIssued/@point	start		1	3.2
+	/mods/originInfo/dateIssued	1949		5	3.2
+	/mods/originInfo/dateIssued/@encoding	marc		1	3.2
+	/mods/originInfo/dateIssued/@point	end		1	3.2
+	/mods/originInfo/dateIssued	1940		5	3.2
+	/mods/originInfo/dateIssued/@encoding	marc		1	3.2
+	/mods/originInfo/dateIssued/@point	start		1	3.2
+	/mods/originInfo/dateIssued/@qualifier	questionable		1	3.2
+	/mods/originInfo/dateIssued	1949		5	3.2
+	/mods/originInfo/dateIssued/@encoding	marc		1	3.2
+	/mods/originInfo/dateIssued/@point	end		1	3.2
+	/mods/originInfo/dateIssued/@qualifier	questionable		1	3.2
+	/mods/originInfo/issuance	monographic		1	3.2
+	/mods/language			1	3.2
+	/mods/language/languageTerm	eng		1	3.2
+	/mods/language/languageTerm/@authority	iso639-2b		1	3.2
+	/mods/language/languageTerm/@type	code		1	3.2
+	/mods/physicalDescription			1	3.2
+	/mods/physicalDescription/form	print		1	3.2
+	/mods/physicalDescription/form/@authority	marcform		1	3.2
+	/mods/physicalDescription/extent	40 p. : ill., ports. ; 30 cm.		1	3.2
+	/mods/note	http://chelsea.library.ualberta.ca:8081/peel_master/select/?q=%28authorAuthority%3A%22Success+Business+College+%28Winnipeg%2C+Man.%29%22%29+OR+%28subjectAuthority%3A%22Success+Business+College+%28Winnipeg%2C+Man.%29%22%29+OR+%28subjectAuthority%3A%22Business+schools--Manitoba--Winnipeg%22%29+OR+%28subjectAuthority%3A%22Secretaries--Training+of--Manitoba--Winnipeg%22%29&fl=id+authorAuthority+authorDates+subjectAuthority+authorityAuthority&rows=100		3	3.2
+	/mods/note/@type	solr		1	3.2
+	/mods/note	DOA: 1940 Spatial: Winnipeg (Man.)		3	3.2
+	/mods/note/@type	local		1	3.2
+	/mods/note	Cover title: <i>Success</i>. Promotional booklet for a Winnipeg commercial school.		3	3.2
+	/mods/note/@type	public		1	3.2
+	/mods/subject			3	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/name			1	3.2
+	/mods/subject/name/@type	personal		1	3.2
+	/mods/subject/name/namePart	Success Business College (Winnipeg, Man.)		1	3.2
+	/mods/subject			3	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/topic	Business schools		1	3.2
+	/mods/subject/geographic	Manitoba		2	3.2
+	/mods/subject/geographic	Winnipeg		2	3.2
+	/mods/subject			3	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/topic	Secretaries		2	3.2
+	/mods/subject/topic	Training of		2	3.2
+	/mods/subject/geographic	Manitoba		2	3.2
+	/mods/subject/geographic	Winnipeg		2	3.2
+	/mods/classification	HF1134.5.W56 S83 1940		1	3.2
+	/mods/classification/@authority	lcc		1	3.2
+	/mods/identifier	3979551		3	3.2
+	/mods/identifier/@type	local:neos		1	3.2
+	/mods/identifier	N008801		3	3.2
+	/mods/identifier/@type	local:peel_new		1	3.2
+	/mods/identifier	9430		3	3.2
+	/mods/identifier/@type	local:peel3		1	3.2
+	/mods/recordInfo			1	3.2
+	/mods/recordInfo/recordContentSource	fsalehi		2	3.2
+	/mods/recordInfo/recordContentSource	RC		2	3.2
+	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.2
+	/mods/recordInfo/recordCreationDate	2007-08-30T12:00:00-0700		1	3.2
+	/mods/recordInfo/recordIdentifier	P009430		1	3.2
+	/mods/recordInfo/recordChangeDate	2010-07-01T10:00:53-0600		1	3.2
+	/@mods	
+
+Success Business College
+Portage Ave. at Edmonton St., Winnipeg, Man., phone 25843
+
+
+Success
+
+
+Success Business College (Winnipeg, Man.)
+
+text
+
+
+mbc
+
+
+Winnipeg
+
+Success Business College
+[194-?]
+1940
+1949
+1940
+1949
+monographic
+
+
+eng
+
+
+print
+40 p. : ill., ports. ; 30 cm.
+
+http://chelsea.library.ualberta.ca:8081/peel_master/select/?q=%28authorAuthority%3A%22Success+Business+College+%28Winnipeg%2C+Man.%29%22%29+OR+%28subjectAuthority%3A%22Success+Business+College+%28Winnipeg%2C+Man.%29%22%29+OR+%28subjectAuthority%3A%22Business+schools--Manitoba--Winnipeg%22%29+OR+%28subjectAuthority%3A%22Secretaries--Training+of--Manitoba--Winnipeg%22%29&fl=id+authorAuthority+authorDates+subjectAuthority+authorityAuthority&rows=100
+DOA: 1940 Spatial: Winnipeg (Man.)
+Cover title: <i>Success</i>. Promotional booklet for a Winnipeg commercial school.
+
+				
+Success Business College (Winnipeg, Man.)
+
+			
+
+				Business schools
+			
+				Manitoba
+			
+				Winnipeg
+			
+
+				Secretaries
+			
+				Training of
+			
+				Manitoba
+			
+				Winnipeg
+			
+HF1134.5.W56 S83 1940
+3979551
+N008801
+9430
+
+fsalehi
+RC
+2007-08-30T12:00:00-0700
+P009430
+2010-07-01T10:00:53-0600
+
+		1	3.2
+	

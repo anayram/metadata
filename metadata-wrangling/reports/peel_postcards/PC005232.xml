@@ -1,0 +1,141 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		rschramm	PC005232	postcards	1	3.2
+	/mods/@version	3.2	rschramm	PC005232	postcards	1	3.2
+	/mods/titleInfo		rschramm	PC005232	postcards	1	3.2
+	/mods/titleInfo/@lang	english	rschramm	PC005232	postcards	1	3.2
+	/mods/titleInfo/title	Calgary Radio VE 4JX	rschramm	PC005232	postcards	1	3.2
+	/mods/name		rschramm	PC005232	postcards	1	3.2
+	/mods/name/@type	corporate	rschramm	PC005232	postcards	1	3.2
+	/mods/name/namePart	Radio Station VE 4JX	rschramm	PC005232	postcards	1	3.2
+	/mods/name/role		rschramm	PC005232	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	rschramm	PC005232	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	rschramm	PC005232	postcards	1	3.2
+	/mods/typeOfResource	still image	rschramm	PC005232	postcards	1	3.2
+	/mods/genre	postcards	rschramm	PC005232	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	rschramm	PC005232	postcards	1	3.2
+	/mods/originInfo		rschramm	PC005232	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	rschramm	PC005232	postcards	1	3.2
+	/mods/originInfo/publisher	Canada post card from Radio Station VE 4JX Calgary, Alberta, Canada	rschramm	PC005232	postcards	1	3.2
+	/mods/originInfo/dateIssued	1933	rschramm	PC005232	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	approximate	rschramm	PC005232	postcards	1	3.2
+	/mods/originInfo/place		rschramm	PC005232	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	Calgary	rschramm	PC005232	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	rschramm	PC005232	postcards	1	3.2
+	/mods/language		rschramm	PC005232	postcards	1	3.2
+	/mods/language/languageTerm	English	rschramm	PC005232	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	rschramm	PC005232	postcards	1	3.2
+	/mods/physicalDescription		rschramm	PC005232	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : col. ; 14 x 9 cm.	rschramm	PC005232	postcards	1	3.2
+	/mods/note	8	rschramm	PC005232	postcards	8	3.2
+	/mods/note/@type	price	rschramm	PC005232	postcards	1	3.2
+	/mods/note	false	rschramm	PC005232	postcards	8	3.2
+	/mods/note/@type	notable	rschramm	PC005232	postcards	1	3.2
+	/mods/note	false	rschramm	PC005232	postcards	8	3.2
+	/mods/note/@type	imgprobs	rschramm	PC005232	postcards	1	3.2
+	/mods/note	An informational post card informing the resident of the radio frequencies in the area.	rschramm	PC005232	postcards	8	3.2
+	/mods/note/@type	public_description	rschramm	PC005232	postcards	1	3.2
+	/mods/note	Mr. Albert Witchie	rschramm	PC005232	postcards	8	3.2
+	/mods/note/@type	public_to	rschramm	PC005232	postcards	1	3.2
+	/mods/note	750 Greenway Ave, Portland, Oregon	rschramm	PC005232	postcards	8	3.2
+	/mods/note/@type	public_address	rschramm	PC005232	postcards	1	3.2
+	/mods/note	Calgary, Alberta, 1933-08-11	rschramm	PC005232	postcards	8	3.2
+	/mods/note/@type	public_postmark_date	rschramm	PC005232	postcards	1	3.2
+	/mods/note	[Partially written in ms.] Calgary, Ex. C4DQ, Alberta, Radio W-7czd, UR 20, Meter pdc, QSA 5~6, WKD 915 D/M, M.S.T. June 26th 1933, [---], Xmitter Pair 2110 P.P. 750 V. ZEPP, RECEIVER 3 [---] P. ways, D.C., Mrs. A.J. Ober "OW" A.R.E.A., 73 FM, 1004 16th Ave. West, Mr. A.J. Ober "OM" A.R.R.L.	rschramm	PC005232	postcards	8	3.2
+	/mods/note/@type	public_on_front	rschramm	PC005232	postcards	1	3.2
+	/mods/subject		rschramm	PC005232	postcards	4	3.2
+	/mods/subject/geographic	Calgary, AB	rschramm	PC005232	postcards	1	3.2
+	/mods/subject		rschramm	PC005232	postcards	4	3.2
+	/mods/subject/hierarchicalGeographic		rschramm	PC005232	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	rschramm	PC005232	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	rschramm	PC005232	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Calgary	rschramm	PC005232	postcards	1	3.2
+	/mods/subject		rschramm	PC005232	postcards	4	3.2
+	/mods/subject/genre	Postcards	rschramm	PC005232	postcards	1	3.2
+	/mods/subject		rschramm	PC005232	postcards	4	3.2
+	/mods/subject/topic	Radio stations	rschramm	PC005232	postcards	1	3.2
+	/mods/identifier	PC005232	rschramm	PC005232	postcards	1	3.2
+	/mods/identifier/@type	local	rschramm	PC005232	postcards	1	3.2
+	/mods/location		rschramm	PC005232	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 6	rschramm	PC005232	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC005232.html	rschramm	PC005232	postcards	3	3.2
+	/mods/location/url/@access	object in context	rschramm	PC005232	postcards	1	3.2
+	/mods/location/url/@usage	primary display	rschramm	PC005232	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/005/web/PC005232.jpg	rschramm	PC005232	postcards	3	3.2
+	/mods/location/url/@access	raw object	rschramm	PC005232	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='500' 	rschramm	PC005232	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/005/thumbs/PC005232.jpg	rschramm	PC005232	postcards	3	3.2
+	/mods/location/url/@access	preview	rschramm	PC005232	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='125'	rschramm	PC005232	postcards	1	3.2
+	/mods/recordInfo		rschramm	PC005232	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	rschramm	PC005232	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC005232	rschramm	PC005232	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	rschramm	rschramm	PC005232	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2008-05-20T09:10:40-0600	rschramm	PC005232	postcards	1	3.2
+	/@mods	
+
+Calgary Radio VE 4JX
+
+
+Radio Station VE 4JX
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+Canada post card from Radio Station VE 4JX Calgary, Alberta, Canada
+1933
+
+
+Calgary
+
+
+
+English
+
+
+1 postcard : col. ; 14 x 9 cm.
+
+8
+false
+false
+An informational post card informing the resident of the radio frequencies in the area.
+Mr. Albert Witchie
+750 Greenway Ave, Portland, Oregon
+Calgary, Alberta, 1933-08-11
+[Partially written in ms.] Calgary, Ex. C4DQ, Alberta, Radio W-7czd, UR 20, Meter pdc, QSA 5~6, WKD 915 D/M, M.S.T. June 26th 1933, [---], Xmitter Pair 2110 P.P. 750 V. ZEPP, RECEIVER 3 [---] P. ways, D.C., Mrs. A.J. Ober "OW" A.R.E.A., 73 FM, 1004 16th Ave. West, Mr. A.J. Ober "OM" A.R.R.L.
+
+Calgary, AB
+
+
+
+Canada
+Alberta
+Calgary
+
+
+
+Postcards
+
+
+Radio stations
+
+PC005232
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 6
+http://peel.library.ualberta.ca/postcards/PC005232.html
+http://peel.library.ualberta.ca/pcimages/PC/005/web/PC005232.jpg
+http://peel.library.ualberta.ca/pcimages/PC/005/thumbs/PC005232.jpg
+
+
+
+
+2007-06-25T16:49:56-0600
+PC005232
+rschramm
+2008-05-20T09:10:40-0600
+
+	rschramm	PC005232	postcards	1	3.2
+	

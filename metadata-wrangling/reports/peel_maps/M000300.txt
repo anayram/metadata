@@ -1,0 +1,108 @@
+Path	Content	URL	Form or Genre	Occurrence	MODS version
+
+/mods/titleInfo		http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	1	3.3
+/mods/titleInfo/title	Supplementary map shewing Mounted Police stations and patrols along the international boundary in Manitoba	http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	1	3.3
+
+/mods/name		http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	1	3.3
+/mods/name/@type	corporate	http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	1	3.3
+/mods/name/namePart	Burland Lithographic Co.	http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	1	3.3
+
+/mods/typeOfResource	cartographic	http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	1	3.3
+
+/mods/genre	map	http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	3	3.3
+/mods/genre/@authority	marcgt	http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	1	3.3
+
+/mods/genre	Digital maps	http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	3	3.3
+/mods/genre/@authority	lcgft	http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	1	3.3
+
+/mods/genre	Military maps	http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	3	3.3
+/mods/genre/@authority	lcgft	http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	1	3.3
+
+/mods/originInfo		http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	1	3.3
+/mods/originInfo/place		http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	1	3.3
+/mods/originInfo/place/placeTerm	Montreal	http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	1	3.3
+/mods/originInfo/place/placeTerm/@type	text	http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	1	3.3
+/mods/originInfo/publisher	Burland Lithographic Co.	http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	1	3.3
+/mods/originInfo/dateIssued	1890	http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	1	3.3
+
+/mods/language		http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	1	3.3
+/mods/language/languageTerm	English	http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	1	3.3
+/mods/language/languageTerm/@type	text	http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	1	3.3
+
+/mods/physicalDescription		http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	1	3.3
+/mods/physicalDescription/form		http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	1	3.3
+/mods/physicalDescription/extent	1 map : col., mounted on linen ; 16.2 x 26 cm. on sheet 22.7 x 33.2 cm.	http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	1	3.3
+
+/mods/note	Scale not given but note says it is same scale as general map, and a "line of junction with large map" is shown.	http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	7	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	1	3.3
+
+/mods/note	Includes customs offices along border.	http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	7	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	1	3.3
+
+/mods/note	peelmaps	http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	7	3.3
+/mods/note/@type	local:oaiset	http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	1	3.3
+
+/mods/note	1	http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	7	3.3
+/mods/note/@type	local:sheetcount	http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	1	3.3
+
+/mods/note	22.7 x 33.2 cm.	http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	7	3.3
+/mods/note/@type	local:sheetsize	http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	1	3.3
+
+/mods/note	22.7	http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	7	3.3
+/mods/note/@type	local:sheetlength	http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	1	3.3
+
+/mods/note	33.2	http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	7	3.3
+/mods/note/@type	local:sheetwidth	http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	1	3.3
+
+	/mods/subject		http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	4	3.3
+/mods/subject/@authority	lcsh	http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	1	3.3
+/mods/subject/@lang	eng	http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	1	3.3
+/mods/subject/topic	Police stations	http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	1	3.3
+/mods/subject/geographic	Manitoba	http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	1	3.3
+
+	/mods/subject		http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	4	3.3
+/mods/subject/@authority	lcsh	http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	1	3.3
+/mods/subject/@lang	eng	http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	1	3.3
+/mods/subject/geographic	Manitoba	http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	4	3.3
+/mods/subject/temporal	1890	http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	4	3.3
+/mods/subject/cartographics		http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	1	3.3
+/mods/subject/cartographics/coordinates	w10018xx/n05005xx w09755xx/n04955xx w09840xx/n04850xx w10030xx/n04850xx	http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	1	3.3
+
+/mods/classification	Manitoba F-11	http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	1	3.3
+
+/mods/identifier	2893	http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	5	3.3
+/mods/identifier/@type	local:mapsproject	http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	1	3.3
+
+/mods/identifier	AAA-2981	http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	5	3.3
+/mods/identifier/@type	local:mapsdb	http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	1	3.3
+
+/mods/identifier	2893.xml	http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	5	3.3
+/mods/identifier/@type	local:mapsproject_filename	http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	1	3.3
+
+
+                
+                /mods/identifier	M000300	http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	5	3.3
+/mods/identifier/@type	local:peel3	http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	1	3.3
+
+                /mods/identifier	N018927	http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	5	3.3
+/mods/identifier/@type	local:old_peel_new	http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	1	3.3
+
+                
+            /mods/location		http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	1	3.3
+/mods/location/physicalLocation	UA Cameron Staff Access-Maps	http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	1	3.3
+/mods/location/url	http://peel.library.ualberta.ca/maps/M/00/03/M000300/M000300.tif	http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	1	3.3
+/mods/location/url/@access	raw object	http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	1	3.3
+/mods/location/url/@note	width='4016' height='2762'	http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	1	3.3
+
+/mods/recordInfo		http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	1	3.3
+/mods/recordInfo/recordContentSource	mapsproject	http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	2	3.3
+/mods/recordInfo/recordContentSource/@authority	local:project	http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	1	3.3
+/mods/recordInfo/recordContentSource	sfarnel	http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	2	3.3
+/mods/recordInfo/recordContentSource/@authority	local:person	http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	1	3.3
+/mods/recordInfo/recordIdentifier	M000300	http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	1	3.3
+/mods/recordInfo/recordChangeDate	2010-10-27T11:48:17-0600	http://peel.library.ualberta.ca/maps/M000300.html	map Digital maps Military maps 	1	3.3
+

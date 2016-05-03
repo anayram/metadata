@@ -1,0 +1,97 @@
+Path	Content	URL	Form or Genre	Occurrence	MODS version
+
+/mods/titleInfo		http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	2	3.2
+/mods/titleInfo/title	Vermilion signal	http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	1	3.2
+
+/mods/titleInfo		http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	2	3.2
+/mods/titleInfo/@type	alternative	http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	1	3.2
+/mods/titleInfo/title	Signal	http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	1	3.2
+
+/mods/typeOfResource	text	http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	1	3.2
+
+/mods/genre	newspaper	http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	1	3.2
+/mods/genre/@authority	marcgt	http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	1	3.2
+
+/mods/originInfo		http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	1	3.2
+/mods/originInfo/place		http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	2	3.2
+/mods/originInfo/place/placeTerm	abc	http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@authority	marccountry	http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@type	code	http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	1	3.2
+/mods/originInfo/place		http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	2	3.2
+/mods/originInfo/place/placeTerm	Vermilion, Alta	http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@type	text	http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	1	3.2
+/mods/originInfo/publisher	Vermilion Signal Pub. Co.	http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	1	3.2
+/mods/originInfo/dateIssued	1906-1910	http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	3	3.2
+/mods/originInfo/dateIssued	1906	http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	3	3.2
+/mods/originInfo/dateIssued/@encoding	iso8601	http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	1	3.2
+/mods/originInfo/dateIssued/@point	start	http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	1	3.2
+/mods/originInfo/dateIssued	[1910]	http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	3	3.2
+/mods/originInfo/dateIssued/@encoding	iso8601	http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	1	3.2
+/mods/originInfo/dateIssued/@point	end	http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	1	3.2
+/mods/originInfo/issuance	continuing	http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	1	3.2
+
+/mods/language		http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	1	3.2
+/mods/language/languageTerm	eng	http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	1	3.2
+/mods/language/languageTerm/@authority	iso639-2b	http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	1	3.2
+/mods/language/languageTerm/@type	code	http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	1	3.2
+
+/mods/physicalDescription		http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	1	3.2
+/mods/physicalDescription/form	print	http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	1	3.2
+/mods/physicalDescription/form/@authority	marcform	http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	1	3.2
+/mods/physicalDescription/extent	v. : ill.	http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	1	3.2
+
+/mods/note	Weekly. Published 1 March 1906 to [24 February 1910?].	http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	2	3.2
+/mods/note/@type	public	http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	1	3.2
+
+/mods/note	newspapers	http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	2	3.2
+/mods/note/@type	local:oaiset	http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	1	3.2
+
+/mods/subject		http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic		http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/country	Canada	http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/province	Alberta	http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/city	Vermilion	http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	1	3.2
+
+/mods/relatedItem		http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	2	3.2
+/mods/relatedItem/@type	otherFormat	http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	1	3.2
+/mods/relatedItem/titleInfo		http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	1	3.2
+/mods/relatedItem/titleInfo/title	Vermilion signal	http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	1	3.2
+/mods/relatedItem/originInfo		http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	1	3.2
+/mods/relatedItem/originInfo/publisher	[S.l. : s.n.]	http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	1	3.2
+
+/mods/relatedItem		http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	2	3.2
+/mods/relatedItem/@type	otherFormat	http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	1	3.2
+/mods/relatedItem/titleInfo		http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	1	3.2
+/mods/relatedItem/titleInfo/title	Vermilion signal	http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	1	3.2
+/mods/relatedItem/originInfo		http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	1	3.2
+/mods/relatedItem/originInfo/publisher	[Calgary, Alta. : Glenbow-Alberta Institute]	http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	1	3.2
+
+/mods/identifier	000008205351	http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	2	3.2
+/mods/identifier/@type	local:amicus	http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	1	3.2
+
+/mods/identifier	VMS	http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	2	3.2
+/mods/identifier/@type	local:newspaper	http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	1	3.2
+
+/mods/location		http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	2	3.2
+/mods/location/physicalLocation	CaAEP	http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	1	3.2
+
+    /mods/location		http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	2	3.2
+/mods/location/physicalLocation	CaAEU	http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	1	3.2
+/mods/location/physicalLocation/@authority	marcorg	http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	1	3.2
+/mods/location/holdingSimple		http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation		http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/form	electronic	http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/form/@authority	marcform	http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/electronicLocator	http://peel.library.ualberta.ca/newspapers/VMS/	http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/enumerationAndChronology	1906,1908	http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/enumerationAndChronology/@unitType	1	http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	1	3.2
+
+/mods/recordInfo		http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	1	3.2
+/mods/recordInfo/recordContentSource	CaOONLN	http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	2	3.2
+/mods/recordInfo/recordContentSource/@authority	marcorg	http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	1	3.2
+/mods/recordInfo/recordContentSource	sfarnel	http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	2	3.2
+/mods/recordInfo/recordContentSource/@authority	local:person	http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	1	3.2
+/mods/recordInfo/recordCreationDate	2010-01-15T11:17:35-0700	http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	1	3.2
+/mods/recordInfo/recordIdentifier	QVMS	http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	1	3.2
+/mods/recordInfo/recordChangeDate	2010-01-15T11:17:48-0700	http://peel.library.ualberta.ca/newspapers/VMS.html	newspaper	1	3.2
+

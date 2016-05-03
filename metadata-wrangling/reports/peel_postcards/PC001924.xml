@@ -1,0 +1,168 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		sdahl	PC001924	postcards	1	3.2
+	/mods/@version	3.2	sdahl	PC001924	postcards	1	3.2
+	/mods/titleInfo		sdahl	PC001924	postcards	1	3.2
+	/mods/titleInfo/@lang	english	sdahl	PC001924	postcards	1	3.2
+	/mods/titleInfo/title	Old St. Andrew's Church. Winnipeg. Manitoba (the oldest church in Winnipeg)	sdahl	PC001924	postcards	1	3.2
+	/mods/name		sdahl	PC001924	postcards	2	3.2
+	/mods/name/@type	corporate	sdahl	PC001924	postcards	1	3.2
+	/mods/name/namePart	The Camera Products Co.	sdahl	PC001924	postcards	1	3.2
+	/mods/name/role		sdahl	PC001924	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	sdahl	PC001924	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	sdahl	PC001924	postcards	1	3.2
+	/mods/name		sdahl	PC001924	postcards	2	3.2
+	/mods/name/@type	personal	sdahl	PC001924	postcards	1	3.2
+	/mods/name/namePart	Spalding	sdahl	PC001924	postcards	2	3.2
+	/mods/name/namePart/@type	family	sdahl	PC001924	postcards	1	3.2
+	/mods/name/namePart	J. Fred	sdahl	PC001924	postcards	2	3.2
+	/mods/name/namePart/@type	given	sdahl	PC001924	postcards	1	3.2
+	/mods/name/role		sdahl	PC001924	postcards	1	3.2
+	/mods/name/role/roleTerm	Copyright holder	sdahl	PC001924	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	sdahl	PC001924	postcards	1	3.2
+	/mods/typeOfResource	still image	sdahl	PC001924	postcards	1	3.2
+	/mods/genre	postcards	sdahl	PC001924	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	sdahl	PC001924	postcards	1	3.2
+	/mods/originInfo		sdahl	PC001924	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	sdahl	PC001924	postcards	1	3.2
+	/mods/originInfo/publisher	Published by The Camera Products Co. 1731 Dunbar Street, Vancouver, B.C.	sdahl	PC001924	postcards	1	3.2
+	/mods/originInfo/dateIssued	ca. 1930	sdahl	PC001924	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	inferred	sdahl	PC001924	postcards	1	3.2
+	/mods/originInfo/place		sdahl	PC001924	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	Vancouver	sdahl	PC001924	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	sdahl	PC001924	postcards	1	3.2
+	/mods/language		sdahl	PC001924	postcards	1	3.2
+	/mods/language/languageTerm	English	sdahl	PC001924	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	sdahl	PC001924	postcards	1	3.2
+	/mods/physicalDescription		sdahl	PC001924	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : col. ; 9 x 14 cm.	sdahl	PC001924	postcards	1	3.2
+	/mods/note	20	sdahl	PC001924	postcards	7	3.2
+	/mods/note/@type	price	sdahl	PC001924	postcards	1	3.2
+	/mods/note	false	sdahl	PC001924	postcards	7	3.2
+	/mods/note/@type	notable	sdahl	PC001924	postcards	1	3.2
+	/mods/note	true	sdahl	PC001924	postcards	7	3.2
+	/mods/note/@type	imgprobs	sdahl	PC001924	postcards	1	3.2
+	/mods/note	Winnipeg series no 55	sdahl	PC001924	postcards	7	3.2
+	/mods/note/@type	public_on_front	sdahl	PC001924	postcards	1	3.2
+	/mods/note	This is a real photograph. Hand coloured.	sdahl	PC001924	postcards	7	3.2
+	/mods/note/@type	public_on_back	sdahl	PC001924	postcards	1	3.2
+	/mods/note	Made in England	sdahl	PC001924	postcards	7	3.2
+	/mods/note/@type	public_on_back	sdahl	PC001924	postcards	1	3.2
+	/mods/note	Hand coloured image of the St. Andrew's Church and the stone wall surrounding it.	sdahl	PC001924	postcards	7	3.2
+	/mods/note/@type	public_description	sdahl	PC001924	postcards	1	3.2
+	/mods/subject		sdahl	PC001924	postcards	6	3.2
+	/mods/subject/geographic	Winnipeg, MB	sdahl	PC001924	postcards	1	3.2
+	/mods/subject		sdahl	PC001924	postcards	6	3.2
+	/mods/subject/hierarchicalGeographic		sdahl	PC001924	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	sdahl	PC001924	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Manitoba	sdahl	PC001924	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Winnipeg	sdahl	PC001924	postcards	1	3.2
+	/mods/subject		sdahl	PC001924	postcards	6	3.2
+	/mods/subject/genre	Postcards	sdahl	PC001924	postcards	1	3.2
+	/mods/subject		sdahl	PC001924	postcards	6	3.2
+	/mods/subject/topic	Anglican churches	sdahl	PC001924	postcards	1	3.2
+	/mods/subject		sdahl	PC001924	postcards	6	3.2
+	/mods/subject/topic	Stone walls	sdahl	PC001924	postcards	1	3.2
+	/mods/subject		sdahl	PC001924	postcards	6	3.2
+	/mods/subject/name		sdahl	PC001924	postcards	1	3.2
+	/mods/subject/name/@type	corporate	sdahl	PC001924	postcards	1	3.2
+	/mods/subject/name/namePart	Saint Andrew's Rectory National Historic Site (St. Andrews, Man.)	sdahl	PC001924	postcards	1	3.2
+	/mods/identifier	PC001924	sdahl	PC001924	postcards	1	3.2
+	/mods/identifier/@type	local	sdahl	PC001924	postcards	1	3.2
+	/mods/location		sdahl	PC001924	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 4	sdahl	PC001924	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC001924.html	sdahl	PC001924	postcards	3	3.2
+	/mods/location/url/@access	object in context	sdahl	PC001924	postcards	1	3.2
+	/mods/location/url/@usage	primary display	sdahl	PC001924	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/001/web/PC001924.jpg	sdahl	PC001924	postcards	3	3.2
+	/mods/location/url/@access	raw object	sdahl	PC001924	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='514' 	sdahl	PC001924	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/001/thumbs/PC001924.jpg	sdahl	PC001924	postcards	3	3.2
+	/mods/location/url/@access	preview	sdahl	PC001924	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='129'	sdahl	PC001924	postcards	1	3.2
+	/mods/recordInfo		sdahl	PC001924	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-20T16:05:12-0600	sdahl	PC001924	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC001924	sdahl	PC001924	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	sdahl	sdahl	PC001924	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2007-11-05T11:18:07-0700	sdahl	PC001924	postcards	1	3.2
+	/@mods	
+
+Old St. Andrew's Church. Winnipeg. Manitoba (the oldest church in Winnipeg)
+
+
+The Camera Products Co.
+
+Publisher
+
+
+
+Spalding
+J. Fred
+
+Copyright holder
+
+
+still image
+postcards
+
+monographic
+Published by The Camera Products Co. 1731 Dunbar Street, Vancouver, B.C.
+ca. 1930
+
+
+Vancouver
+
+
+
+English
+
+
+1 postcard : col. ; 9 x 14 cm.
+
+20
+false
+true
+Winnipeg series no 55
+This is a real photograph. Hand coloured.
+Made in England
+Hand coloured image of the St. Andrew's Church and the stone wall surrounding it.
+
+Winnipeg, MB
+
+
+
+Canada
+Manitoba
+Winnipeg
+
+
+
+Postcards
+
+
+Anglican churches
+
+
+Stone walls
+
+
+
+Saint Andrew's Rectory National Historic Site (St. Andrews, Man.)
+
+
+PC001924
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 4
+http://peel.library.ualberta.ca/postcards/PC001924.html
+http://peel.library.ualberta.ca/pcimages/PC/001/web/PC001924.jpg
+http://peel.library.ualberta.ca/pcimages/PC/001/thumbs/PC001924.jpg
+
+
+
+
+2007-06-20T16:05:12-0600
+PC001924
+sdahl
+2007-11-05T11:18:07-0700
+
+	sdahl	PC001924	postcards	1	3.2
+	

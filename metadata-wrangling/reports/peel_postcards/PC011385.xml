@@ -1,0 +1,134 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		fsalehi	PC011385	postcards	1	3.3
+	/mods/@version	3.3	fsalehi	PC011385	postcards	1	3.3
+	/mods/titleInfo		fsalehi	PC011385	postcards	1	3.3
+	/mods/titleInfo/@lang	english	fsalehi	PC011385	postcards	1	3.3
+	/mods/titleInfo/title	Elkhorn, Man.	fsalehi	PC011385	postcards	1	3.3
+	/mods/name		fsalehi	PC011385	postcards	1	3.3
+	/mods/name/@type	personal	fsalehi	PC011385	postcards	1	3.3
+	/mods/name/namePart	Bates	fsalehi	PC011385	postcards	1	3.3
+	/mods/name/namePart/@type	family	fsalehi	PC011385	postcards	1	3.3
+	/mods/name/role		fsalehi	PC011385	postcards	1	3.3
+	/mods/name/role/roleTerm	Photographer	fsalehi	PC011385	postcards	1	3.3
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC011385	postcards	1	3.3
+	/mods/typeOfResource	still image	fsalehi	PC011385	postcards	1	3.3
+	/mods/genre	postcards	fsalehi	PC011385	postcards	1	3.3
+	/mods/genre/@authority	gmgpc	fsalehi	PC011385	postcards	1	3.3
+	/mods/originInfo		fsalehi	PC011385	postcards	1	3.3
+	/mods/originInfo/issuance	monographic	fsalehi	PC011385	postcards	1	3.3
+	/mods/originInfo/publisher	Bates	fsalehi	PC011385	postcards	1	3.3
+	/mods/originInfo/dateIssued	[not before 1920]	fsalehi	PC011385	postcards	1	3.3
+	/mods/originInfo/dateIssued/@qualifier	inferred	fsalehi	PC011385	postcards	1	3.3
+	/mods/language		fsalehi	PC011385	postcards	1	3.3
+	/mods/language/languageTerm	English	fsalehi	PC011385	postcards	1	3.3
+	/mods/language/languageTerm/@type	text	fsalehi	PC011385	postcards	1	3.3
+	/mods/physicalDescription		fsalehi	PC011385	postcards	1	3.3
+	/mods/physicalDescription/extent	1 postcard : sepia ; 9 x 14 cm.	fsalehi	PC011385	postcards	1	3.3
+	/mods/note	40	fsalehi	PC011385	postcards	5	3.3
+	/mods/note/@type	price	fsalehi	PC011385	postcards	1	3.3
+	/mods/note	false	fsalehi	PC011385	postcards	5	3.3
+	/mods/note/@type	notable	fsalehi	PC011385	postcards	1	3.3
+	/mods/note	false	fsalehi	PC011385	postcards	5	3.3
+	/mods/note/@type	imgprobs	fsalehi	PC011385	postcards	1	3.3
+	/mods/note	A view of the town of Elkhorn in Manitoba featuring a sawmill and a pile of timber.	fsalehi	PC011385	postcards	5	3.3
+	/mods/note/@type	public_description	fsalehi	PC011385	postcards	1	3.3
+	/mods/note	[printer's no.] 414	fsalehi	PC011385	postcards	5	3.3
+	/mods/note/@type	public_on_front	fsalehi	PC011385	postcards	1	3.3
+	/mods/subject		fsalehi	PC011385	postcards	6	3.3
+	/mods/subject/geographic	Elkhorn, MB	fsalehi	PC011385	postcards	1	3.3
+	/mods/subject		fsalehi	PC011385	postcards	6	3.3
+	/mods/subject/hierarchicalGeographic		fsalehi	PC011385	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/country	Canada	fsalehi	PC011385	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/province	Manitoba	fsalehi	PC011385	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/city	Elkhorn	fsalehi	PC011385	postcards	1	3.3
+	/mods/subject		fsalehi	PC011385	postcards	6	3.3
+	/mods/subject/genre	Postcards	fsalehi	PC011385	postcards	1	3.3
+	/mods/subject		fsalehi	PC011385	postcards	6	3.3
+	/mods/subject/topic	Cityscapes	fsalehi	PC011385	postcards	1	3.3
+	/mods/subject		fsalehi	PC011385	postcards	6	3.3
+	/mods/subject/topic	Sawmills	fsalehi	PC011385	postcards	1	3.3
+	/mods/subject		fsalehi	PC011385	postcards	6	3.3
+	/mods/subject/topic	Buildings	fsalehi	PC011385	postcards	1	3.3
+	/mods/identifier	PC011385	fsalehi	PC011385	postcards	1	3.3
+	/mods/identifier/@type	local	fsalehi	PC011385	postcards	1	3.3
+	/mods/location		fsalehi	PC011385	postcards	1	3.3
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 4 (set 2)	fsalehi	PC011385	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC011385.html	fsalehi	PC011385	postcards	3	3.3
+	/mods/location/url/@access	object in context	fsalehi	PC011385	postcards	1	3.3
+	/mods/location/url/@usage	primary display	fsalehi	PC011385	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/011/web/PC011385.jpg	fsalehi	PC011385	postcards	3	3.3
+	/mods/location/url/@access	raw object	fsalehi	PC011385	postcards	1	3.3
+	/mods/location/url/@note	width='800' height='491' 	fsalehi	PC011385	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/011/thumbs/PC011385.jpg	fsalehi	PC011385	postcards	3	3.3
+	/mods/location/url/@access	preview	fsalehi	PC011385	postcards	1	3.3
+	/mods/location/url/@note	width='200' height='123'	fsalehi	PC011385	postcards	1	3.3
+	/mods/recordInfo		fsalehi	PC011385	postcards	1	3.3
+	/mods/recordInfo/recordCreationDate	2009-01-23T14:02:59-0700	fsalehi	PC011385	postcards	1	3.3
+	/mods/recordInfo/recordIdentifier	PC011385	fsalehi	PC011385	postcards	1	3.3
+	/mods/recordInfo/recordContentSource	fsalehi	fsalehi	PC011385	postcards	1	3.3
+	/mods/recordInfo/recordChangeDate	2009-05-11T15:23:56-0600	fsalehi	PC011385	postcards	1	3.3
+	/@mods	
+
+Elkhorn, Man.
+
+
+Bates
+
+Photographer
+
+
+still image
+postcards
+
+monographic
+Bates
+[not before 1920]
+
+
+English
+
+
+1 postcard : sepia ; 9 x 14 cm.
+
+40
+false
+false
+A view of the town of Elkhorn in Manitoba featuring a sawmill and a pile of timber.
+[printer's no.] 414
+
+Elkhorn, MB
+
+
+
+Canada
+Manitoba
+Elkhorn
+
+
+
+Postcards
+
+
+Cityscapes
+
+
+Sawmills
+
+
+Buildings
+
+PC011385
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 4 (set 2)
+http://peel.library.ualberta.ca/postcards/PC011385.html
+http://peel.library.ualberta.ca/pcimages/PC/011/web/PC011385.jpg
+http://peel.library.ualberta.ca/pcimages/PC/011/thumbs/PC011385.jpg
+
+
+2009-01-23T14:02:59-0700
+PC011385
+fsalehi
+2009-05-11T15:23:56-0600
+
+	fsalehi	PC011385	postcards	1	3.3
+	

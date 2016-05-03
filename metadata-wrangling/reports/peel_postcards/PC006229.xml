@@ -1,0 +1,152 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		fsalehi	PC006229	postcards	1	3.2
+	/mods/@version	3.2	fsalehi	PC006229	postcards	1	3.2
+	/mods/titleInfo		fsalehi	PC006229	postcards	1	3.2
+	/mods/titleInfo/@lang	english	fsalehi	PC006229	postcards	1	3.2
+	/mods/titleInfo/title	Calgary Stampede	fsalehi	PC006229	postcards	1	3.2
+	/mods/name		fsalehi	PC006229	postcards	1	3.2
+	/mods/name/@type	personal	fsalehi	PC006229	postcards	1	3.2
+	/mods/name/namePart	Rosettis	fsalehi	PC006229	postcards	2	3.2
+	/mods/name/namePart/@type	family	fsalehi	PC006229	postcards	1	3.2
+	/mods/name/namePart	J.	fsalehi	PC006229	postcards	2	3.2
+	/mods/name/namePart/@type	given	fsalehi	PC006229	postcards	1	3.2
+	/mods/name/role		fsalehi	PC006229	postcards	1	3.2
+	/mods/name/role/roleTerm	Photographer	fsalehi	PC006229	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC006229	postcards	1	3.2
+	/mods/typeOfResource	still image	fsalehi	PC006229	postcards	1	3.2
+	/mods/genre	postcards	fsalehi	PC006229	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	fsalehi	PC006229	postcards	1	3.2
+	/mods/originInfo		fsalehi	PC006229	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	fsalehi	PC006229	postcards	1	3.2
+	/mods/originInfo/publisher	J. Rosettis Photo.	fsalehi	PC006229	postcards	1	3.2
+	/mods/originInfo/dateIssued	between 1920 - 1940	fsalehi	PC006229	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	inferred	fsalehi	PC006229	postcards	1	3.2
+	/mods/originInfo/place		fsalehi	PC006229	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	[Calgary]	fsalehi	PC006229	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC006229	postcards	1	3.2
+	/mods/language		fsalehi	PC006229	postcards	1	3.2
+	/mods/language/languageTerm	English	fsalehi	PC006229	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	fsalehi	PC006229	postcards	1	3.2
+	/mods/physicalDescription		fsalehi	PC006229	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : b&w ; 14 x 9 cm.	fsalehi	PC006229	postcards	1	3.2
+	/mods/note	false	fsalehi	PC006229	postcards	3	3.2
+	/mods/note/@type	notable	fsalehi	PC006229	postcards	1	3.2
+	/mods/note	true	fsalehi	PC006229	postcards	3	3.2
+	/mods/note/@type	imgprobs	fsalehi	PC006229	postcards	1	3.2
+	/mods/note	Scene of a cowboy riding a bucking bronco at the Calgary Stampede. Several other cowboys look on in the background.	fsalehi	PC006229	postcards	3	3.2
+	/mods/note/@type	public_description	fsalehi	PC006229	postcards	1	3.2
+	/mods/subject		fsalehi	PC006229	postcards	8	3.2
+	/mods/subject/geographic	Calgary, AB	fsalehi	PC006229	postcards	1	3.2
+	/mods/subject		fsalehi	PC006229	postcards	8	3.2
+	/mods/subject/hierarchicalGeographic		fsalehi	PC006229	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	fsalehi	PC006229	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	fsalehi	PC006229	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Calgary	fsalehi	PC006229	postcards	1	3.2
+	/mods/subject		fsalehi	PC006229	postcards	8	3.2
+	/mods/subject/genre	Postcards	fsalehi	PC006229	postcards	1	3.2
+	/mods/subject		fsalehi	PC006229	postcards	8	3.2
+	/mods/subject/topic	Rodeos	fsalehi	PC006229	postcards	1	3.2
+	/mods/subject		fsalehi	PC006229	postcards	8	3.2
+	/mods/subject/topic	Cowboys	fsalehi	PC006229	postcards	1	3.2
+	/mods/subject		fsalehi	PC006229	postcards	8	3.2
+	/mods/subject/topic	Broncos	fsalehi	PC006229	postcards	1	3.2
+	/mods/subject		fsalehi	PC006229	postcards	8	3.2
+	/mods/subject/topic	Bronc riding	fsalehi	PC006229	postcards	1	3.2
+	/mods/subject		fsalehi	PC006229	postcards	8	3.2
+	/mods/subject/name		fsalehi	PC006229	postcards	1	3.2
+	/mods/subject/name/@type	corporate	fsalehi	PC006229	postcards	1	3.2
+	/mods/subject/name/namePart	Calgary Stampede	fsalehi	PC006229	postcards	1	3.2
+	/mods/identifier	PC006229	fsalehi	PC006229	postcards	1	3.2
+	/mods/identifier/@type	local	fsalehi	PC006229	postcards	1	3.2
+	/mods/location		fsalehi	PC006229	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 7	fsalehi	PC006229	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC006229.html	fsalehi	PC006229	postcards	3	3.2
+	/mods/location/url/@access	object in context	fsalehi	PC006229	postcards	1	3.2
+	/mods/location/url/@usage	primary display	fsalehi	PC006229	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/006/web/PC006229.jpg	fsalehi	PC006229	postcards	3	3.2
+	/mods/location/url/@access	raw object	fsalehi	PC006229	postcards	1	3.2
+	/mods/location/url/@note	width='501' height='800' 	fsalehi	PC006229	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/006/thumbs/PC006229.jpg	fsalehi	PC006229	postcards	3	3.2
+	/mods/location/url/@access	preview	fsalehi	PC006229	postcards	1	3.2
+	/mods/location/url/@note	width='125' height='200'	fsalehi	PC006229	postcards	1	3.2
+	/mods/recordInfo		fsalehi	PC006229	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	fsalehi	PC006229	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC006229	fsalehi	PC006229	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	fsalehi	fsalehi	PC006229	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2009-11-05T12:27:39-0700	fsalehi	PC006229	postcards	1	3.2
+	/@mods	
+
+Calgary Stampede
+
+
+Rosettis
+J.
+
+Photographer
+
+
+still image
+postcards
+
+monographic
+J. Rosettis Photo.
+between 1920 - 1940
+
+
+[Calgary]
+
+
+
+English
+
+
+1 postcard : b&w ; 14 x 9 cm.
+
+false
+true
+Scene of a cowboy riding a bucking bronco at the Calgary Stampede. Several other cowboys look on in the background.
+
+Calgary, AB
+
+
+
+Canada
+Alberta
+Calgary
+
+
+
+Postcards
+
+
+Rodeos
+
+
+Cowboys
+
+
+Broncos
+
+
+Bronc riding
+
+
+
+Calgary Stampede
+
+
+PC006229
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 7
+http://peel.library.ualberta.ca/postcards/PC006229.html
+http://peel.library.ualberta.ca/pcimages/PC/006/web/PC006229.jpg
+http://peel.library.ualberta.ca/pcimages/PC/006/thumbs/PC006229.jpg
+
+
+2007-06-25T16:49:56-0600
+PC006229
+fsalehi
+2009-11-05T12:27:39-0700
+
+	fsalehi	PC006229	postcards	1	3.2
+	

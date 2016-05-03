@@ -1,0 +1,231 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		fsalehi	PC012788	postcards	1	3.3
+	/mods/@version	3.3	fsalehi	PC012788	postcards	1	3.3
+	/mods/titleInfo		fsalehi	PC012788	postcards	2	3.3
+	/mods/titleInfo/@lang	english	fsalehi	PC012788	postcards	1	3.3
+	/mods/titleInfo/title	Athletic Field, Togo, Sask.	fsalehi	PC012788	postcards	1	3.3
+	/mods/titleInfo		fsalehi	PC012788	postcards	2	3.3
+	/mods/titleInfo/@lang	english	fsalehi	PC012788	postcards	1	3.3
+	/mods/titleInfo/title	Togo Baseball Team	fsalehi	PC012788	postcards	1	3.3
+	/mods/typeOfResource	still image	fsalehi	PC012788	postcards	1	3.3
+	/mods/genre	postcards	fsalehi	PC012788	postcards	1	3.3
+	/mods/genre/@authority	gmgpc	fsalehi	PC012788	postcards	1	3.3
+	/mods/originInfo		fsalehi	PC012788	postcards	1	3.3
+	/mods/originInfo/dateIssued	1903	fsalehi	PC012788	postcards	1	3.3
+	/mods/originInfo/dateIssued/@qualifier	approximate	fsalehi	PC012788	postcards	1	3.3
+	/mods/originInfo/issuance	monographic	fsalehi	PC012788	postcards	1	3.3
+	/mods/language		fsalehi	PC012788	postcards	1	3.3
+	/mods/language/languageTerm	English	fsalehi	PC012788	postcards	1	3.3
+	/mods/language/languageTerm/@type	text	fsalehi	PC012788	postcards	1	3.3
+	/mods/physicalDescription		fsalehi	PC012788	postcards	1	3.3
+	/mods/physicalDescription/form		fsalehi	PC012788	postcards	1	3.3
+	/mods/physicalDescription/extent	1 postcard booklet	fsalehi	PC012788	postcards	1	3.3
+	/mods/note	275	fsalehi	PC012788	postcards	3	3.3
+	/mods/note/@type	price	fsalehi	PC012788	postcards	1	3.3
+	/mods/note	false	fsalehi	PC012788	postcards	3	3.3
+	/mods/note/@type	notable	fsalehi	PC012788	postcards	1	3.3
+	/mods/note	false	fsalehi	PC012788	postcards	3	3.3
+	/mods/note/@type	imgprobs	fsalehi	PC012788	postcards	1	3.3
+	/mods/subject		fsalehi	PC012788	postcards	3	3.3
+	/mods/subject/geographic	Togo, MB	fsalehi	PC012788	postcards	1	3.3
+	/mods/subject		fsalehi	PC012788	postcards	3	3.3
+	/mods/subject/hierarchicalGeographic		fsalehi	PC012788	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/country	Canada	fsalehi	PC012788	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/province	Saskatchewan	fsalehi	PC012788	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/city	Togo	fsalehi	PC012788	postcards	1	3.3
+	/mods/subject		fsalehi	PC012788	postcards	3	3.3
+	/mods/relatedItem		fsalehi	PC012788	postcards	2	3.3
+	/mods/relatedItem/@ID	0	fsalehi	PC012788	postcards	1	3.3
+	/mods/relatedItem/@type	constituent	fsalehi	PC012788	postcards	1	3.3
+	/mods/relatedItem/titleInfo		fsalehi	PC012788	postcards	1	3.3
+	/mods/relatedItem/titleInfo/title	Togo Baseball Team	fsalehi	PC012788	postcards	1	3.3
+	/mods/relatedItem/originInfo		fsalehi	PC012788	postcards	1	3.3
+	/mods/relatedItem/originInfo/place		fsalehi	PC012788	postcards	1	3.3
+	/mods/relatedItem/originInfo/place/placeTerm	[Togo]	fsalehi	PC012788	postcards	1	3.3
+	/mods/relatedItem/originInfo/place/placeTerm/@type	text	fsalehi	PC012788	postcards	1	3.3
+	/mods/relatedItem/originInfo/dateIssued	1903-1908	fsalehi	PC012788	postcards	1	3.3
+	/mods/relatedItem/originInfo/dateIssued/@qualifier	inferred	fsalehi	PC012788	postcards	1	3.3
+	/mods/relatedItem/physicalDescription		fsalehi	PC012788	postcards	1	3.3
+	/mods/relatedItem/physicalDescription/form		fsalehi	PC012788	postcards	1	3.3
+	/mods/relatedItem/physicalDescription/extent	1 postcard : b&w ; 9 x 14 cm.	fsalehi	PC012788	postcards	1	3.3
+	/mods/relatedItem/note	Geo. Thayer	fsalehi	PC012788	postcards	4	3.3
+	/mods/relatedItem/note/@type	public_to	fsalehi	PC012788	postcards	1	3.3
+	/mods/relatedItem/note	888 Dundas St., Toronto, Ont.	fsalehi	PC012788	postcards	4	3.3
+	/mods/relatedItem/note/@type	public_address	fsalehi	PC012788	postcards	1	3.3
+	/mods/relatedItem/note	[printer's no.] B-11	fsalehi	PC012788	postcards	4	3.3
+	/mods/relatedItem/note/@type	public_on_front	fsalehi	PC012788	postcards	1	3.3
+	/mods/relatedItem/note	A baseball team from Togo, Sasktachewan.	fsalehi	PC012788	postcards	4	3.3
+	/mods/relatedItem/note/@type	public_description	fsalehi	PC012788	postcards	1	3.3
+	/mods/relatedItem/subject		fsalehi	PC012788	postcards	1	3.3
+	/mods/relatedItem/subject/hierarchicalGeographic		fsalehi	PC012788	postcards	1	3.3
+	/mods/relatedItem/subject/hierarchicalGeographic/country	Canada	fsalehi	PC012788	postcards	1	3.3
+	/mods/relatedItem/subject/hierarchicalGeographic/province	Saskatchewan	fsalehi	PC012788	postcards	1	3.3
+	/mods/relatedItem/subject/topic	Baseball players	fsalehi	PC012788	postcards	1	3.3
+	/mods/relatedItem/location		fsalehi	PC012788	postcards	1	3.3
+	/mods/relatedItem/location/physicalLocation		fsalehi	PC012788	postcards	1	3.3
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/012/web/PC012788.jpg	fsalehi	PC012788	postcards	2	3.3
+	/mods/relatedItem/location/url/@access	raw object	fsalehi	PC012788	postcards	1	3.3
+	/mods/relatedItem/location/url/@note	width='800' height='483'	fsalehi	PC012788	postcards	1	3.3
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/012/thumbs/PC012788.jpg	fsalehi	PC012788	postcards	2	3.3
+	/mods/relatedItem/location/url/@access	preview	fsalehi	PC012788	postcards	1	3.3
+	/mods/relatedItem/location/url/@note	width='200' height='121'	fsalehi	PC012788	postcards	1	3.3
+	/mods/relatedItem		fsalehi	PC012788	postcards	2	3.3
+	/mods/relatedItem/@ID	0	fsalehi	PC012788	postcards	1	3.3
+	/mods/relatedItem/@type	constituent	fsalehi	PC012788	postcards	1	3.3
+	/mods/relatedItem/titleInfo		fsalehi	PC012788	postcards	1	3.3
+	/mods/relatedItem/titleInfo/title	Athletic field  Togo, Sask.	fsalehi	PC012788	postcards	1	3.3
+	/mods/relatedItem/originInfo		fsalehi	PC012788	postcards	1	3.3
+	/mods/relatedItem/originInfo/place		fsalehi	PC012788	postcards	1	3.3
+	/mods/relatedItem/originInfo/place/placeTerm	[Togo]	fsalehi	PC012788	postcards	1	3.3
+	/mods/relatedItem/originInfo/place/placeTerm/@type	text	fsalehi	PC012788	postcards	1	3.3
+	/mods/relatedItem/originInfo/dateIssued	1903-1908	fsalehi	PC012788	postcards	1	3.3
+	/mods/relatedItem/originInfo/dateIssued/@qualifier	inferred	fsalehi	PC012788	postcards	1	3.3
+	/mods/relatedItem/physicalDescription		fsalehi	PC012788	postcards	1	3.3
+	/mods/relatedItem/physicalDescription/form		fsalehi	PC012788	postcards	1	3.3
+	/mods/relatedItem/physicalDescription/extent	1 postcard : b&w ; 9 x 14 cm.	fsalehi	PC012788	postcards	1	3.3
+	/mods/relatedItem/note	A crowd is gathered on a recreational field in Togo, Saskatchewan. Homes built in the town can be seen in the background.	fsalehi	PC012788	postcards	1	3.3
+	/mods/relatedItem/note/@type	public_description	fsalehi	PC012788	postcards	1	3.3
+	/mods/relatedItem/subject		fsalehi	PC012788	postcards	1	3.3
+	/mods/relatedItem/subject/hierarchicalGeographic		fsalehi	PC012788	postcards	1	3.3
+	/mods/relatedItem/subject/hierarchicalGeographic/country	Canada	fsalehi	PC012788	postcards	1	3.3
+	/mods/relatedItem/subject/hierarchicalGeographic/province	Saskatchewan	fsalehi	PC012788	postcards	1	3.3
+	/mods/relatedItem/subject/hierarchicalGeographic/city	Togo	fsalehi	PC012788	postcards	1	3.3
+	/mods/relatedItem/subject/topic	Sport & recreational facilities	fsalehi	PC012788	postcards	3	3.3
+	/mods/relatedItem/subject/topic	City & town life	fsalehi	PC012788	postcards	3	3.3
+	/mods/relatedItem/subject/topic	Dwellings	fsalehi	PC012788	postcards	3	3.3
+	/mods/relatedItem/location		fsalehi	PC012788	postcards	1	3.3
+	/mods/relatedItem/location/physicalLocation		fsalehi	PC012788	postcards	1	3.3
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/012/web/PC012788_1.jpg	fsalehi	PC012788	postcards	2	3.3
+	/mods/relatedItem/location/url/@access	raw object	fsalehi	PC012788	postcards	1	3.3
+	/mods/relatedItem/location/url/@note	width='800' height='491'	fsalehi	PC012788	postcards	1	3.3
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/012/thumbs/PC012788_1.jpg	fsalehi	PC012788	postcards	2	3.3
+	/mods/relatedItem/location/url/@access	preview	fsalehi	PC012788	postcards	1	3.3
+	/mods/relatedItem/location/url/@note	width='200' height='123'	fsalehi	PC012788	postcards	1	3.3
+	/mods/identifier	PC012788	fsalehi	PC012788	postcards	1	3.3
+	/mods/identifier/@type	local	fsalehi	PC012788	postcards	1	3.3
+	/mods/location		fsalehi	PC012788	postcards	1	3.3
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 4 (set 2)	fsalehi	PC012788	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC012788.html	fsalehi	PC012788	postcards	1	3.3
+	/mods/location/url/@access	object in context	fsalehi	PC012788	postcards	1	3.3
+	/mods/location/url/@usage	primary display	fsalehi	PC012788	postcards	1	3.3
+	/mods/recordInfo		fsalehi	PC012788	postcards	1	3.3
+	/mods/recordInfo/recordContentSource	fsalehi	fsalehi	PC012788	postcards	2	3.3
+	/mods/recordInfo/recordContentSource	tkitagawa	fsalehi	PC012788	postcards	2	3.3
+	/mods/recordInfo/recordContentSource/@authority	local:person	fsalehi	PC012788	postcards	1	3.3
+	/mods/recordInfo/recordCreationDate	2009-01-23T14:03:00-0700	fsalehi	PC012788	postcards	1	3.3
+	/mods/recordInfo/recordIdentifier	PC012788	fsalehi	PC012788	postcards	1	3.3
+	/mods/recordInfo/recordChangeDate	2009-12-14T11:35:20-0700	fsalehi	PC012788	postcards	1	3.3
+	/@mods	
+
+Athletic Field, Togo, Sask.
+
+
+Togo Baseball Team
+
+still image
+postcards
+
+1903
+monographic
+
+
+English
+
+
+
+1 postcard booklet
+
+275
+false
+false
+
+				Togo, MB
+			
+
+				
+Canada
+Saskatchewan
+Togo
+
+			
+
+
+
+Togo Baseball Team
+
+
+
+[Togo]
+
+1903-1908
+
+
+
+1 postcard : b&w ; 9 x 14 cm.
+
+Geo. Thayer
+888 Dundas St., Toronto, Ont.
+[printer's no.] B-11
+A baseball team from Togo, Sasktachewan.
+
+				
+Canada
+Saskatchewan
+
+			
+				Baseball players
+			
+
+
+http://peel.library.ualberta.ca/pcimages/PC/012/web/PC012788.jpg
+http://peel.library.ualberta.ca/pcimages/PC/012/thumbs/PC012788.jpg
+
+
+
+
+Athletic field  Togo, Sask.
+
+
+
+[Togo]
+
+1903-1908
+
+
+
+1 postcard : b&w ; 9 x 14 cm.
+
+A crowd is gathered on a recreational field in Togo, Saskatchewan. Homes built in the town can be seen in the background.
+
+				
+Canada
+Saskatchewan
+Togo
+
+			
+				Sport & recreational facilities
+			
+				City & town life
+			
+				Dwellings
+			
+
+
+http://peel.library.ualberta.ca/pcimages/PC/012/web/PC012788_1.jpg
+http://peel.library.ualberta.ca/pcimages/PC/012/thumbs/PC012788_1.jpg
+
+
+PC012788
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 4 (set 2)
+http://peel.library.ualberta.ca/postcards/PC012788.html
+
+
+fsalehi
+tkitagawa
+2009-01-23T14:03:00-0700
+PC012788
+2009-12-14T11:35:20-0700
+
+	fsalehi	PC012788	postcards	1	3.3
+	

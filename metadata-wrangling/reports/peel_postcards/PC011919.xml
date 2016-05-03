@@ -1,0 +1,173 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		fsalehi	PC011919	postcards	1	3.3
+	/mods/@version	3.3	fsalehi	PC011919	postcards	1	3.3
+	/mods/titleInfo		fsalehi	PC011919	postcards	1	3.3
+	/mods/titleInfo/@lang	english	fsalehi	PC011919	postcards	1	3.3
+	/mods/titleInfo/title	Cascade Mt. and Banff Village	fsalehi	PC011919	postcards	1	3.3
+	/mods/name		fsalehi	PC011919	postcards	1	3.3
+	/mods/name/@type	personal	fsalehi	PC011919	postcards	1	3.3
+	/mods/name/namePart	Harmon	fsalehi	PC011919	postcards	2	3.3
+	/mods/name/namePart/@type	family	fsalehi	PC011919	postcards	1	3.3
+	/mods/name/namePart	Byron	fsalehi	PC011919	postcards	2	3.3
+	/mods/name/namePart/@type	given	fsalehi	PC011919	postcards	1	3.3
+	/mods/name/role		fsalehi	PC011919	postcards	1	3.3
+	/mods/name/role/roleTerm	Photographer	fsalehi	PC011919	postcards	1	3.3
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC011919	postcards	1	3.3
+	/mods/typeOfResource	still image	fsalehi	PC011919	postcards	1	3.3
+	/mods/genre	postcards	fsalehi	PC011919	postcards	1	3.3
+	/mods/genre/@authority	gmgpc	fsalehi	PC011919	postcards	1	3.3
+	/mods/originInfo		fsalehi	PC011919	postcards	1	3.3
+	/mods/originInfo/place		fsalehi	PC011919	postcards	1	3.3
+	/mods/originInfo/place/placeTerm	Banff	fsalehi	PC011919	postcards	1	3.3
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC011919	postcards	1	3.3
+	/mods/originInfo/publisher	Photographed and Copyrighted by Byron Harmon, Banff, Canada.	fsalehi	PC011919	postcards	1	3.3
+	/mods/originInfo/dateIssued	before 1942	fsalehi	PC011919	postcards	1	3.3
+	/mods/originInfo/dateIssued/@qualifier	inferred	fsalehi	PC011919	postcards	1	3.3
+	/mods/originInfo/issuance	monographic	fsalehi	PC011919	postcards	1	3.3
+	/mods/language		fsalehi	PC011919	postcards	1	3.3
+	/mods/language/languageTerm	English	fsalehi	PC011919	postcards	1	3.3
+	/mods/language/languageTerm/@type	text	fsalehi	PC011919	postcards	1	3.3
+	/mods/physicalDescription		fsalehi	PC011919	postcards	1	3.3
+	/mods/physicalDescription/form		fsalehi	PC011919	postcards	1	3.3
+	/mods/physicalDescription/extent	1 postcard : sepia ; 9 x 14 cm.	fsalehi	PC011919	postcards	1	3.3
+	/mods/note	5	fsalehi	PC011919	postcards	6	3.3
+	/mods/note/@type	price	fsalehi	PC011919	postcards	1	3.3
+	/mods/note	false	fsalehi	PC011919	postcards	6	3.3
+	/mods/note/@type	notable	fsalehi	PC011919	postcards	1	3.3
+	/mods/note	false	fsalehi	PC011919	postcards	6	3.3
+	/mods/note/@type	imgprobs	fsalehi	PC011919	postcards	1	3.3
+	/mods/note	Along the Line of the Canadian Pacific Railway.	fsalehi	PC011919	postcards	6	3.3
+	/mods/note/@type	public_on_back	fsalehi	PC011919	postcards	1	3.3
+	/mods/note	[printer's no.] 564	fsalehi	PC011919	postcards	6	3.3
+	/mods/note/@type	public_on_front	fsalehi	PC011919	postcards	1	3.3
+	/mods/note	View of Cascade Mountain. Located in the Bow River Valley west of Cascade River; north of Banff townsite. Named by James Hector in 1858. The mountain is named for the cascade or waterfall on its southern cliffs.	fsalehi	PC011919	postcards	6	3.3
+	/mods/note/@type	public_description	fsalehi	PC011919	postcards	1	3.3
+	/mods/subject		fsalehi	PC011919	postcards	8	3.3
+	/mods/subject/geographic	Banff, MB	fsalehi	PC011919	postcards	1	3.3
+	/mods/subject		fsalehi	PC011919	postcards	8	3.3
+	/mods/subject/hierarchicalGeographic		fsalehi	PC011919	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/country	Canada	fsalehi	PC011919	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/province	Alberta	fsalehi	PC011919	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/city	Banff	fsalehi	PC011919	postcards	1	3.3
+	/mods/subject		fsalehi	PC011919	postcards	8	3.3
+	/mods/subject/topic	Mountains	fsalehi	PC011919	postcards	1	3.3
+	/mods/subject		fsalehi	PC011919	postcards	8	3.3
+	/mods/subject/topic	Rivers	fsalehi	PC011919	postcards	1	3.3
+	/mods/subject		fsalehi	PC011919	postcards	8	3.3
+	/mods/subject/topic	Bridges	fsalehi	PC011919	postcards	1	3.3
+	/mods/subject		fsalehi	PC011919	postcards	8	3.3
+	/mods/subject/name		fsalehi	PC011919	postcards	1	3.3
+	/mods/subject/name/@type	personal	fsalehi	PC011919	postcards	1	3.3
+	/mods/subject/name/namePart	Cascade Mountain (Alta.)	fsalehi	PC011919	postcards	1	3.3
+	/mods/subject		fsalehi	PC011919	postcards	8	3.3
+	/mods/subject/name		fsalehi	PC011919	postcards	1	3.3
+	/mods/subject/name/@type	personal	fsalehi	PC011919	postcards	1	3.3
+	/mods/subject/name/namePart	Banff National Park (Alta.)	fsalehi	PC011919	postcards	1	3.3
+	/mods/subject		fsalehi	PC011919	postcards	8	3.3
+	/mods/subject/name		fsalehi	PC011919	postcards	1	3.3
+	/mods/subject/name/@type	personal	fsalehi	PC011919	postcards	1	3.3
+	/mods/subject/name/namePart	Bow River Bridge (Banff, Alta.)	fsalehi	PC011919	postcards	1	3.3
+	/mods/identifier	PC011919	fsalehi	PC011919	postcards	1	3.3
+	/mods/identifier/@type	local	fsalehi	PC011919	postcards	1	3.3
+	/mods/location		fsalehi	PC011919	postcards	1	3.3
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 4 (set 2)	fsalehi	PC011919	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC011919.html	fsalehi	PC011919	postcards	3	3.3
+	/mods/location/url/@access	object in context	fsalehi	PC011919	postcards	1	3.3
+	/mods/location/url/@usage	primary display	fsalehi	PC011919	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/011/web/PC011919.jpg	fsalehi	PC011919	postcards	3	3.3
+	/mods/location/url/@access	raw object	fsalehi	PC011919	postcards	1	3.3
+	/mods/location/url/@note	width='800' height='501'	fsalehi	PC011919	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/011/thumbs/PC011919.jpg	fsalehi	PC011919	postcards	3	3.3
+	/mods/location/url/@access	preview	fsalehi	PC011919	postcards	1	3.3
+	/mods/location/url/@note	width='200' height='125'	fsalehi	PC011919	postcards	1	3.3
+	/mods/recordInfo		fsalehi	PC011919	postcards	1	3.3
+	/mods/recordInfo/recordContentSource	fsalehi	fsalehi	PC011919	postcards	2	3.3
+	/mods/recordInfo/recordCreationDate	2009-01-23T14:03:00-0700	fsalehi	PC011919	postcards	1	3.3
+	/mods/recordInfo/recordIdentifier	PC011919	fsalehi	PC011919	postcards	1	3.3
+	/mods/recordInfo/recordChangeDate	2010-07-08T14:18:21-0600	fsalehi	PC011919	postcards	1	3.3
+	/mods/recordInfo/recordContentSource	aharrigan	fsalehi	PC011919	postcards	2	3.3
+	/mods/recordInfo/recordContentSource/@authority	local:person	fsalehi	PC011919	postcards	1	3.3
+	/@mods	
+
+Cascade Mt. and Banff Village
+
+
+Harmon
+Byron
+
+Photographer
+
+
+still image
+postcards
+
+
+Banff
+
+Photographed and Copyrighted by Byron Harmon, Banff, Canada.
+before 1942
+monographic
+
+
+English
+
+
+
+1 postcard : sepia ; 9 x 14 cm.
+
+5
+false
+false
+Along the Line of the Canadian Pacific Railway.
+[printer's no.] 564
+View of Cascade Mountain. Located in the Bow River Valley west of Cascade River; north of Banff townsite. Named by James Hector in 1858. The mountain is named for the cascade or waterfall on its southern cliffs.
+
+				Banff, MB
+			
+
+				
+Canada
+Alberta
+Banff
+
+			
+
+				Mountains
+			
+
+				Rivers
+			
+
+				Bridges
+			
+
+				
+Cascade Mountain (Alta.)
+
+			
+
+				
+Banff National Park (Alta.)
+
+			
+
+				
+Bow River Bridge (Banff, Alta.)
+
+			
+PC011919
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 4 (set 2)
+http://peel.library.ualberta.ca/postcards/PC011919.html
+http://peel.library.ualberta.ca/pcimages/PC/011/web/PC011919.jpg
+http://peel.library.ualberta.ca/pcimages/PC/011/thumbs/PC011919.jpg
+
+
+fsalehi
+2009-01-23T14:03:00-0700
+PC011919
+2010-07-08T14:18:21-0600
+aharrigan
+
+	fsalehi	PC011919	postcards	1	3.3
+	

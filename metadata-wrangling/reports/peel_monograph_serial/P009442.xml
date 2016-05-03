@@ -1,0 +1,110 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.2
+	/mods/@version	3.2		1	3.2
+	/mods/titleInfo			1	3.2
+	/mods/titleInfo/title	Ceremonial observance by the Government of the Province of Manitoba, the cities of Winnipeg and St. Boniface and the suburban municipalities adjacent thereto of the coronation of Her Gracious Majesty Queen Elizabeth II		1	3.2
+	/mods/name			1	3.2
+	/mods/name/@type	corporate		1	3.2
+	/mods/name/namePart	Manitoba		1	3.2
+	/mods/typeOfResource	text		1	3.2
+	/mods/originInfo			1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	mbc		1	3.2
+	/mods/originInfo/place/placeTerm/@authority	marccountry		1	3.2
+	/mods/originInfo/place/placeTerm/@type	code		1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	[Winnipeg?]		1	3.2
+	/mods/originInfo/place/placeTerm/@type	text		1	3.2
+	/mods/originInfo/publisher	[Government of Manitoba?]		1	3.2
+	/mods/originInfo/dateIssued	1953		1	3.2
+	/mods/originInfo/issuance	monographic		1	3.2
+	/mods/language			1	3.2
+	/mods/language/languageTerm	eng		1	3.2
+	/mods/language/languageTerm/@authority	iso639-2b		1	3.2
+	/mods/language/languageTerm/@type	code		1	3.2
+	/mods/physicalDescription			1	3.2
+	/mods/physicalDescription/form	print		1	3.2
+	/mods/physicalDescription/form/@authority	marcform		1	3.2
+	/mods/physicalDescription/extent	[6] p. ; 26 cm.		1	3.2
+	/mods/note	http://chelsea.library.ualberta.ca:8081/peel_master/select/?q=%28subjectAuthority%3A%22II%2C+Queen+of+Great+BritainElizabeth1926---Coronation--Anniversaries%2C+etc%22%29&fl=id+authorAuthority+authorDates+subjectAuthority+authorityAuthority&rows=100		3	3.2
+	/mods/note/@type	solr		1	3.2
+	/mods/note	DOA: 1953 Spatial: Winnipeg (Man.)		3	3.2
+	/mods/note/@type	local		1	3.2
+	/mods/note	Cover title. Also on cover: "Tuesday, June second, 1953, twelve o’clock, noon, Central Daylight Savings Time, Legislative Building, Winnipeg, Manitoba." Programme.		3	3.2
+	/mods/note/@type	public		1	3.2
+	/mods/subject			1	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/name			1	3.2
+	/mods/subject/name/@type	personal		1	3.2
+	/mods/subject/name/namePart	II, Queen of Great Britain		3	3.2
+	/mods/subject/name/namePart/@type	termsOfAddress		1	3.2
+	/mods/subject/name/namePart	Elizabeth		3	3.2
+	/mods/subject/name/namePart	1926-		3	3.2
+	/mods/subject/name/namePart/@type	date		1	3.2
+	/mods/subject/topic	Coronation		2	3.2
+	/mods/subject/topic	Anniversaries, etc		2	3.2
+	/mods/identifier	3979494		3	3.2
+	/mods/identifier/@type	local:neos		1	3.2
+	/mods/identifier	N008813		3	3.2
+	/mods/identifier/@type	local:peel_new		1	3.2
+	/mods/identifier	9442		3	3.2
+	/mods/identifier/@type	local:peel3		1	3.2
+	/mods/recordInfo			1	3.2
+	/mods/recordInfo/recordContentSource	fsalehi		2	3.2
+	/mods/recordInfo/recordContentSource	RC		2	3.2
+	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.2
+	/mods/recordInfo/recordCreationDate	2007-08-24T12:00:00-0700		1	3.2
+	/mods/recordInfo/recordIdentifier	P009442		1	3.2
+	/mods/recordInfo/recordChangeDate	2010-07-02T09:35:02-0600		1	3.2
+	/@mods	
+
+Ceremonial observance by the Government of the Province of Manitoba, the cities of Winnipeg and St. Boniface and the suburban municipalities adjacent thereto of the coronation of Her Gracious Majesty Queen Elizabeth II
+
+
+Manitoba
+
+text
+
+
+mbc
+
+
+[Winnipeg?]
+
+[Government of Manitoba?]
+1953
+monographic
+
+
+eng
+
+
+print
+[6] p. ; 26 cm.
+
+http://chelsea.library.ualberta.ca:8081/peel_master/select/?q=%28subjectAuthority%3A%22II%2C+Queen+of+Great+BritainElizabeth1926---Coronation--Anniversaries%2C+etc%22%29&fl=id+authorAuthority+authorDates+subjectAuthority+authorityAuthority&rows=100
+DOA: 1953 Spatial: Winnipeg (Man.)
+Cover title. Also on cover: "Tuesday, June second, 1953, twelve o’clock, noon, Central Daylight Savings Time, Legislative Building, Winnipeg, Manitoba." Programme.
+
+				
+II, Queen of Great Britain
+Elizabeth
+1926-
+
+			
+				Coronation
+			
+				Anniversaries, etc
+			
+3979494
+N008813
+9442
+
+fsalehi
+RC
+2007-08-24T12:00:00-0700
+P009442
+2010-07-02T09:35:02-0600
+
+		1	3.2
+	

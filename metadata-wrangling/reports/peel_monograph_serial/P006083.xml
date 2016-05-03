@@ -1,0 +1,140 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	Official records of the Edmonton "Grads," world champions		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/subTitle	Covering 466 games, 23 years of play and over 100,000 miles of travel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	corporate		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA002708		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Edmonton Commercial Grads		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	[Edmonton]		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	[Commercial Graduates Club]		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1938		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued/@qualifier	questionable		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	English		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	[12] p., ports.; 18 x 26 cm.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	Results of games Grads played from 1915 to 1937. The Grads represented Canada at four consecutive Olympics from 1924 to 1936. Includes portraits of some teams. Also published, 3rd ed., <i>Official record of the Edmonton "Grads," world champions: Covering 472 games, 23 years of play and over 100,000 miles of travel</i>, [Edmonton]: [Commercial Graduates Club], [1938] and, 4th ed., <i>Official record of the Edmonton "Grads," world champions: Covering 476 games, 23 years of play and over 100,000 miles of travel</i>, [Edmonton]: [Commercial Graduates Club], [1938]. Presumably a second edition was also issued, but searches of the AMICUS and OCLC WorldCat databases and the catalogue of the Edmonton Public Library do not reveal records for such an item.		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	public		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	What appears to be a later edition of this title - <i>"Sitting on top of the world," 1915-1940: The amazing record of the Edmonton "Grads," official world's basketball champions, covering 25 years of play, 522 official games and over 125,000 miles of travel!</i>, [Edmonton]: [Commercial Graduates' Basketball Club], 1940 – is described separately in the bibliography.		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	public		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	main		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	local:frbr		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			5	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	Other		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS001257		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Edmonton, Alberta--Recreation		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			5	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	Other		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS004326		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Sports clubs--History		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			5	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS004326		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Athletic clubs--History		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			5	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS004326		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Clubs sportifs--Histoire		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			5	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1937		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem			3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@ID	t2		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@displayLabel	3rd ed.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@type	otherVersion		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@href	N019935		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem			3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@ID	t3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@displayLabel	4th ed.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@type	otherVersion		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@href	N017278		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem			3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@type	succeeding		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@href	P006357		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	6083		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	6077		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel-procite-id		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	RC		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P006083		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordChangeDate	2011-02-27T09:42:07-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+
+Official records of the Edmonton "Grads," world champions
+Covering 466 games, 23 years of play and over 100,000 miles of travel
+
+
+Edmonton Commercial Grads
+
+author
+
+
+text
+
+
+[Edmonton]
+
+[Commercial Graduates Club]
+1938
+
+
+English
+
+
+print
+[12] p., ports.; 18 x 26 cm.
+
+Results of games Grads played from 1915 to 1937. The Grads represented Canada at four consecutive Olympics from 1924 to 1936. Includes portraits of some teams. Also published, 3rd ed., <i>Official record of the Edmonton "Grads," world champions: Covering 472 games, 23 years of play and over 100,000 miles of travel</i>, [Edmonton]: [Commercial Graduates Club], [1938] and, 4th ed., <i>Official record of the Edmonton "Grads," world champions: Covering 476 games, 23 years of play and over 100,000 miles of travel</i>, [Edmonton]: [Commercial Graduates Club], [1938]. Presumably a second edition was also issued, but searches of the AMICUS and OCLC WorldCat databases and the catalogue of the Edmonton Public Library do not reveal records for such an item.
+What appears to be a later edition of this title - <i>"Sitting on top of the world," 1915-1940: The amazing record of the Edmonton "Grads," official world's basketball champions, covering 25 years of play, 522 official games and over 125,000 miles of travel!</i>, [Edmonton]: [Commercial Graduates' Basketball Club], 1940 – is described separately in the bibliography.
+main
+
+				Edmonton, Alberta--Recreation
+			
+
+				Sports clubs--History
+			
+
+				Athletic clubs--History
+			
+
+				Clubs sportifs--Histoire
+			
+
+				1937
+			
+
+
+
+6083
+6077
+
+Peel's Prairie Portal
+RC
+2003-01-01T12:00:00-0700
+P006083
+2011-02-27T09:42:07-0700
+
+		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

@@ -1,0 +1,172 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		fsalehi	PC011806	postcards	1	3.3
+	/mods/@version	3.3	fsalehi	PC011806	postcards	1	3.3
+	/mods/titleInfo		fsalehi	PC011806	postcards	1	3.3
+	/mods/titleInfo/@lang	english	fsalehi	PC011806	postcards	1	3.3
+	/mods/titleInfo/title	Chateau Lake Louise.	fsalehi	PC011806	postcards	1	3.3
+	/mods/name		fsalehi	PC011806	postcards	1	3.3
+	/mods/name/@type	personal	fsalehi	PC011806	postcards	1	3.3
+	/mods/name/namePart	Harmon	fsalehi	PC011806	postcards	2	3.3
+	/mods/name/namePart/@type	family	fsalehi	PC011806	postcards	1	3.3
+	/mods/name/namePart	Byron	fsalehi	PC011806	postcards	2	3.3
+	/mods/name/namePart/@type	given	fsalehi	PC011806	postcards	1	3.3
+	/mods/name/role		fsalehi	PC011806	postcards	1	3.3
+	/mods/name/role/roleTerm	Photographer	fsalehi	PC011806	postcards	1	3.3
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC011806	postcards	1	3.3
+	/mods/typeOfResource	still image	fsalehi	PC011806	postcards	1	3.3
+	/mods/genre	postcards	fsalehi	PC011806	postcards	1	3.3
+	/mods/genre/@authority	gmgpc	fsalehi	PC011806	postcards	1	3.3
+	/mods/originInfo		fsalehi	PC011806	postcards	1	3.3
+	/mods/originInfo/issuance	monographic	fsalehi	PC011806	postcards	1	3.3
+	/mods/originInfo/publisher	Photographed and Copyrighted by Byron Harmon, Banff, Canada.	fsalehi	PC011806	postcards	1	3.3
+	/mods/originInfo/dateIssued	1930's	fsalehi	PC011806	postcards	1	3.3
+	/mods/originInfo/dateIssued/@qualifier	inferred	fsalehi	PC011806	postcards	1	3.3
+	/mods/originInfo/place		fsalehi	PC011806	postcards	1	3.3
+	/mods/originInfo/place/placeTerm	Banff	fsalehi	PC011806	postcards	1	3.3
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC011806	postcards	1	3.3
+	/mods/language		fsalehi	PC011806	postcards	1	3.3
+	/mods/language/languageTerm	English	fsalehi	PC011806	postcards	1	3.3
+	/mods/language/languageTerm/@type	text	fsalehi	PC011806	postcards	1	3.3
+	/mods/physicalDescription		fsalehi	PC011806	postcards	1	3.3
+	/mods/physicalDescription/extent	1 postcard : b&w ; 9 x 14 cm.	fsalehi	PC011806	postcards	1	3.3
+	/mods/note	3	fsalehi	PC011806	postcards	8	3.3
+	/mods/note/@type	price	fsalehi	PC011806	postcards	1	3.3
+	/mods/note	false	fsalehi	PC011806	postcards	8	3.3
+	/mods/note/@type	notable	fsalehi	PC011806	postcards	1	3.3
+	/mods/note	false	fsalehi	PC011806	postcards	8	3.3
+	/mods/note/@type	imgprobs	fsalehi	PC011806	postcards	1	3.3
+	/mods/note	Tacoma, Wash., 1955-09-13	fsalehi	PC011806	postcards	8	3.3
+	/mods/note/@type	public_postmark_date	fsalehi	PC011806	postcards	1	3.3
+	/mods/note	Along the Line of Canadian Pacific Railway.	fsalehi	PC011806	postcards	8	3.3
+	/mods/note/@type	public_on_back	fsalehi	PC011806	postcards	1	3.3
+	/mods/note	Made in Canada	fsalehi	PC011806	postcards	8	3.3
+	/mods/note/@type	public_on_back	fsalehi	PC011806	postcards	1	3.3
+	/mods/note	[printer's no.] 910	fsalehi	PC011806	postcards	8	3.3
+	/mods/note/@type	public_on_front	fsalehi	PC011806	postcards	1	3.3
+	/mods/note	Swimming pool, Chateau Lake Louise, Alberta.	fsalehi	PC011806	postcards	8	3.3
+	/mods/note/@type	public_description	fsalehi	PC011806	postcards	1	3.3
+	/mods/subject		fsalehi	PC011806	postcards	8	3.3
+	/mods/subject/geographic	Lake Louise, MB	fsalehi	PC011806	postcards	1	3.3
+	/mods/subject		fsalehi	PC011806	postcards	8	3.3
+	/mods/subject/hierarchicalGeographic		fsalehi	PC011806	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/country	Canada	fsalehi	PC011806	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/province	Alberta	fsalehi	PC011806	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/city		fsalehi	PC011806	postcards	1	3.3
+	/mods/subject		fsalehi	PC011806	postcards	8	3.3
+	/mods/subject/genre	Postcards	fsalehi	PC011806	postcards	1	3.3
+	/mods/subject		fsalehi	PC011806	postcards	8	3.3
+	/mods/subject/topic	Hotels	fsalehi	PC011806	postcards	1	3.3
+	/mods/subject		fsalehi	PC011806	postcards	8	3.3
+	/mods/subject/topic	Swimming pools	fsalehi	PC011806	postcards	1	3.3
+	/mods/subject		fsalehi	PC011806	postcards	8	3.3
+	/mods/subject/name		fsalehi	PC011806	postcards	1	3.3
+	/mods/subject/name/namePart	Chateau Lake Louise (Alta.)	fsalehi	PC011806	postcards	1	3.3
+	/mods/subject		fsalehi	PC011806	postcards	8	3.3
+	/mods/subject/name		fsalehi	PC011806	postcards	1	3.3
+	/mods/subject/name/namePart	Lake Louise (Alta.)	fsalehi	PC011806	postcards	1	3.3
+	/mods/subject		fsalehi	PC011806	postcards	8	3.3
+	/mods/subject/name		fsalehi	PC011806	postcards	1	3.3
+	/mods/subject/name/namePart	Banff National Park (Alta.)	fsalehi	PC011806	postcards	1	3.3
+	/mods/identifier	PC011806	fsalehi	PC011806	postcards	1	3.3
+	/mods/identifier/@type	local	fsalehi	PC011806	postcards	1	3.3
+	/mods/location		fsalehi	PC011806	postcards	1	3.3
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 4 (set 2)	fsalehi	PC011806	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC011806.html	fsalehi	PC011806	postcards	3	3.3
+	/mods/location/url/@access	object in context	fsalehi	PC011806	postcards	1	3.3
+	/mods/location/url/@usage	primary display	fsalehi	PC011806	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/011/web/PC011806.jpg	fsalehi	PC011806	postcards	3	3.3
+	/mods/location/url/@access	raw object	fsalehi	PC011806	postcards	1	3.3
+	/mods/location/url/@note	width='800' height='509' 	fsalehi	PC011806	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/011/thumbs/PC011806.jpg	fsalehi	PC011806	postcards	3	3.3
+	/mods/location/url/@access	preview	fsalehi	PC011806	postcards	1	3.3
+	/mods/location/url/@note	width='200' height='127'	fsalehi	PC011806	postcards	1	3.3
+	/mods/recordInfo		fsalehi	PC011806	postcards	1	3.3
+	/mods/recordInfo/recordCreationDate	2009-01-23T14:03:00-0700	fsalehi	PC011806	postcards	1	3.3
+	/mods/recordInfo/recordIdentifier	PC011806	fsalehi	PC011806	postcards	1	3.3
+	/mods/recordInfo/recordContentSource	fsalehi	fsalehi	PC011806	postcards	1	3.3
+	/mods/recordInfo/recordChangeDate	2009-12-17T13:49:21-0700	fsalehi	PC011806	postcards	1	3.3
+	/@mods	
+
+Chateau Lake Louise.
+
+
+Harmon
+Byron
+
+Photographer
+
+
+still image
+postcards
+
+monographic
+Photographed and Copyrighted by Byron Harmon, Banff, Canada.
+1930's
+
+
+Banff
+
+
+
+English
+
+
+1 postcard : b&w ; 9 x 14 cm.
+
+3
+false
+false
+Tacoma, Wash., 1955-09-13
+Along the Line of Canadian Pacific Railway.
+Made in Canada
+[printer's no.] 910
+Swimming pool, Chateau Lake Louise, Alberta.
+
+Lake Louise, MB
+
+
+
+Canada
+Alberta
+
+
+
+
+Postcards
+
+
+Hotels
+
+
+Swimming pools
+
+
+
+Chateau Lake Louise (Alta.)
+
+
+
+
+Lake Louise (Alta.)
+
+
+
+
+Banff National Park (Alta.)
+
+
+PC011806
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 4 (set 2)
+http://peel.library.ualberta.ca/postcards/PC011806.html
+http://peel.library.ualberta.ca/pcimages/PC/011/web/PC011806.jpg
+http://peel.library.ualberta.ca/pcimages/PC/011/thumbs/PC011806.jpg
+
+
+2009-01-23T14:03:00-0700
+PC011806
+fsalehi
+2009-12-17T13:49:21-0700
+
+	fsalehi	PC011806	postcards	1	3.3
+	

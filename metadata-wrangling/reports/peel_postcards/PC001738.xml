@@ -1,0 +1,180 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		bstearns	PC001738	postcards	1	3.2
+	/mods/@version	3.2	bstearns	PC001738	postcards	1	3.2
+	/mods/titleInfo		bstearns	PC001738	postcards	1	3.2
+	/mods/titleInfo/@lang	english	bstearns	PC001738	postcards	1	3.2
+	/mods/titleInfo/title	St. Andrews Locks, near Winnipeg, Manitoba	bstearns	PC001738	postcards	1	3.2
+	/mods/name		bstearns	PC001738	postcards	2	3.2
+	/mods/name/@type	corporate	bstearns	PC001738	postcards	1	3.2
+	/mods/name/namePart	The Camera Products Co.	bstearns	PC001738	postcards	1	3.2
+	/mods/name/role		bstearns	PC001738	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	bstearns	PC001738	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	bstearns	PC001738	postcards	1	3.2
+	/mods/name		bstearns	PC001738	postcards	2	3.2
+	/mods/name/@type	personal	bstearns	PC001738	postcards	1	3.2
+	/mods/name/namePart	Spalding	bstearns	PC001738	postcards	2	3.2
+	/mods/name/namePart/@type	family	bstearns	PC001738	postcards	1	3.2
+	/mods/name/namePart	J. Fred	bstearns	PC001738	postcards	2	3.2
+	/mods/name/namePart/@type	given	bstearns	PC001738	postcards	1	3.2
+	/mods/name/role		bstearns	PC001738	postcards	1	3.2
+	/mods/name/role/roleTerm	Copyright holder	bstearns	PC001738	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	bstearns	PC001738	postcards	1	3.2
+	/mods/typeOfResource	still image	bstearns	PC001738	postcards	1	3.2
+	/mods/genre	postcards	bstearns	PC001738	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	bstearns	PC001738	postcards	1	3.2
+	/mods/originInfo		bstearns	PC001738	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	bstearns	PC001738	postcards	1	3.2
+	/mods/originInfo/publisher	Published by the Camera Products Co., 1731 Dunbar Street, Vancouver, BC	bstearns	PC001738	postcards	1	3.2
+	/mods/originInfo/dateIssued	after 1930	bstearns	PC001738	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	inferred	bstearns	PC001738	postcards	1	3.2
+	/mods/originInfo/place		bstearns	PC001738	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	Vancouver	bstearns	PC001738	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	bstearns	PC001738	postcards	1	3.2
+	/mods/language		bstearns	PC001738	postcards	1	3.2
+	/mods/language/languageTerm	English	bstearns	PC001738	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	bstearns	PC001738	postcards	1	3.2
+	/mods/physicalDescription		bstearns	PC001738	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : col.; 9 x 14 cm.	bstearns	PC001738	postcards	1	3.2
+	/mods/note	20	bstearns	PC001738	postcards	10	3.2
+	/mods/note/@type	price	bstearns	PC001738	postcards	1	3.2
+	/mods/note	false	bstearns	PC001738	postcards	10	3.2
+	/mods/note/@type	notable	bstearns	PC001738	postcards	1	3.2
+	/mods/note	false	bstearns	PC001738	postcards	10	3.2
+	/mods/note/@type	imgprobs	bstearns	PC001738	postcards	1	3.2
+	/mods/note	Hand-coloured photographic view of the St. Andrews Locks in Winnipeg, Manitoba.	bstearns	PC001738	postcards	10	3.2
+	/mods/note/@type	public_description	bstearns	PC001738	postcards	1	3.2
+	/mods/note	Vera	bstearns	PC001738	postcards	10	3.2
+	/mods/note/@type	public_to	bstearns	PC001738	postcards	1	3.2
+	/mods/note	Layo	bstearns	PC001738	postcards	10	3.2
+	/mods/note/@type	public_from	bstearns	PC001738	postcards	1	3.2
+	/mods/note	Dear Vera, Thank you so much for the good wishes & socks. Oswald the rabbit will adorn our lawn & give tone to Braemar Ave, Lovingly Layo	bstearns	PC001738	postcards	10	3.2
+	/mods/note/@type	public_message	bstearns	PC001738	postcards	1	3.2
+	/mods/note	This is a Real Photograph. Hand Coloured.	bstearns	PC001738	postcards	10	3.2
+	/mods/note/@type	public_on_back	bstearns	PC001738	postcards	1	3.2
+	/mods/note	Made in England	bstearns	PC001738	postcards	10	3.2
+	/mods/note/@type	public_on_back	bstearns	PC001738	postcards	1	3.2
+	/mods/note	Winnipeg Series No. 76	bstearns	PC001738	postcards	10	3.2
+	/mods/note/@type	public_on_front	bstearns	PC001738	postcards	1	3.2
+	/mods/subject		bstearns	PC001738	postcards	7	3.2
+	/mods/subject/geographic	Winnipeg, MB	bstearns	PC001738	postcards	1	3.2
+	/mods/subject		bstearns	PC001738	postcards	7	3.2
+	/mods/subject/hierarchicalGeographic		bstearns	PC001738	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	bstearns	PC001738	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Manitoba	bstearns	PC001738	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Winnipeg	bstearns	PC001738	postcards	1	3.2
+	/mods/subject		bstearns	PC001738	postcards	7	3.2
+	/mods/subject/genre	Postcards	bstearns	PC001738	postcards	1	3.2
+	/mods/subject		bstearns	PC001738	postcards	7	3.2
+	/mods/subject/topic	Dams	bstearns	PC001738	postcards	1	3.2
+	/mods/subject		bstearns	PC001738	postcards	7	3.2
+	/mods/subject/topic	Bridges	bstearns	PC001738	postcards	1	3.2
+	/mods/subject		bstearns	PC001738	postcards	7	3.2
+	/mods/subject/topic	Rivers	bstearns	PC001738	postcards	1	3.2
+	/mods/subject		bstearns	PC001738	postcards	7	3.2
+	/mods/subject/name		bstearns	PC001738	postcards	1	3.2
+	/mods/subject/name/@type	corporate	bstearns	PC001738	postcards	1	3.2
+	/mods/subject/name/namePart	St. Andrews Locks (Winnipeg, Man.)	bstearns	PC001738	postcards	1	3.2
+	/mods/identifier	PC001738	bstearns	PC001738	postcards	1	3.2
+	/mods/identifier/@type	local	bstearns	PC001738	postcards	1	3.2
+	/mods/location		bstearns	PC001738	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 4	bstearns	PC001738	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC001738.html	bstearns	PC001738	postcards	3	3.2
+	/mods/location/url/@access	object in context	bstearns	PC001738	postcards	1	3.2
+	/mods/location/url/@usage	primary display	bstearns	PC001738	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/001/web/PC001738.jpg	bstearns	PC001738	postcards	3	3.2
+	/mods/location/url/@access	raw object	bstearns	PC001738	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='492' 	bstearns	PC001738	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/001/thumbs/PC001738.jpg	bstearns	PC001738	postcards	3	3.2
+	/mods/location/url/@access	preview	bstearns	PC001738	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='123'	bstearns	PC001738	postcards	1	3.2
+	/mods/recordInfo		bstearns	PC001738	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-20T16:05:12-0600	bstearns	PC001738	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC001738	bstearns	PC001738	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	bstearns	bstearns	PC001738	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2009-10-28T16:04:40-0700	bstearns	PC001738	postcards	1	3.2
+	/@mods	
+
+St. Andrews Locks, near Winnipeg, Manitoba
+
+
+The Camera Products Co.
+
+Publisher
+
+
+
+Spalding
+J. Fred
+
+Copyright holder
+
+
+still image
+postcards
+
+monographic
+Published by the Camera Products Co., 1731 Dunbar Street, Vancouver, BC
+after 1930
+
+
+Vancouver
+
+
+
+English
+
+
+1 postcard : col.; 9 x 14 cm.
+
+20
+false
+false
+Hand-coloured photographic view of the St. Andrews Locks in Winnipeg, Manitoba.
+Vera
+Layo
+Dear Vera, Thank you so much for the good wishes & socks. Oswald the rabbit will adorn our lawn & give tone to Braemar Ave, Lovingly Layo
+This is a Real Photograph. Hand Coloured.
+Made in England
+Winnipeg Series No. 76
+
+Winnipeg, MB
+
+
+
+Canada
+Manitoba
+Winnipeg
+
+
+
+Postcards
+
+
+Dams
+
+
+Bridges
+
+
+Rivers
+
+
+
+St. Andrews Locks (Winnipeg, Man.)
+
+
+PC001738
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 4
+http://peel.library.ualberta.ca/postcards/PC001738.html
+http://peel.library.ualberta.ca/pcimages/PC/001/web/PC001738.jpg
+http://peel.library.ualberta.ca/pcimages/PC/001/thumbs/PC001738.jpg
+
+
+2007-06-20T16:05:12-0600
+PC001738
+bstearns
+2009-10-28T16:04:40-0700
+
+	bstearns	PC001738	postcards	1	3.2
+	

@@ -1,0 +1,107 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.2
+	/mods/@version	3.2		1	3.2
+	/mods/titleInfo			1	3.2
+	/mods/titleInfo/title	Banff National Park, Alberta		1	3.2
+	/mods/titleInfo/subTitle	General information and map		1	3.2
+	/mods/name			1	3.2
+	/mods/name/@type	corporate		1	3.2
+	/mods/name/namePart	Canada.		2	3.2
+	/mods/name/namePart	National Parks Bureau.		2	3.2
+	/mods/typeOfResource	text		1	3.2
+	/mods/originInfo			1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	onc		1	3.2
+	/mods/originInfo/place/placeTerm/@authority	marccountry		1	3.2
+	/mods/originInfo/place/placeTerm/@type	code		1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	Ottawa		1	3.2
+	/mods/originInfo/place/placeTerm/@type	text		1	3.2
+	/mods/originInfo/publisher	Department of Mines and Resources, Lands, Parks and Forests Branch, National Parks Bureau		1	3.2
+	/mods/originInfo/dateIssued	1942		2	3.2
+	/mods/originInfo/dateIssued	1941		2	3.2
+	/mods/originInfo/dateIssued/@encoding	marc		1	3.2
+	/mods/originInfo/issuance	monographic		1	3.2
+	/mods/language			1	3.2
+	/mods/language/languageTerm	eng		1	3.2
+	/mods/language/languageTerm/@authority	iso639-2b		1	3.2
+	/mods/language/languageTerm/@type	code		1	3.2
+	/mods/physicalDescription			1	3.2
+	/mods/physicalDescription/form	print		1	3.2
+	/mods/physicalDescription/form/@authority	marcform		1	3.2
+	/mods/physicalDescription/extent	1 fold. sheet : maps ; 23 cm.		1	3.2
+	/mods/note	Cover title.		2	3.2
+	/mods/note/@type	public		1	3.2
+	/mods/note	http://chelsea.library.ualberta.ca:8081/peel_master/select/?q=%28authorAuthority%3A%22Canada%22%29+OR+%28subjectAuthority%3A%22Banff+National+Park+%28Alta.%29--Description+and+travel%22%29&fl=id+authorAuthority+authorDates+subjectAuthority+authorityAuthority&rows=100		2	3.2
+	/mods/note/@type	solr		1	3.2
+	/mods/subject			1	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/geographic	Banff National Park (Alta.)		1	3.2
+	/mods/subject/topic	Description and travel		1	3.2
+	/mods/relatedItem			1	3.2
+	/mods/relatedItem/@ID	t1		1	3.2
+	/mods/relatedItem/@displayLabel	1941 ed.		1	3.2
+	/mods/relatedItem/@type	otherVersion		1	3.2
+	/mods/relatedItem/@href	N008472		1	3.2
+	/mods/identifier	3838541		3	3.2
+	/mods/identifier/@type	local:neos		1	3.2
+	/mods/identifier	N008473		3	3.2
+	/mods/identifier/@type	local:peel_new		1	3.2
+	/mods/identifier	9423		3	3.2
+	/mods/identifier/@type	local:peel3		1	3.2
+	/mods/recordInfo			1	3.2
+	/mods/recordInfo/recordContentSource	RC		2	3.2
+	/mods/recordInfo/recordContentSource	RC		2	3.2
+	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.2
+	/mods/recordInfo/recordCreationDate	2007-01-29T12:00:00-0700		1	3.2
+	/mods/recordInfo/recordIdentifier	P009423		1	3.2
+	/mods/recordInfo/recordChangeDate	2010-01-10T10:08:24-0700		1	3.2
+	/@mods	
+
+Banff National Park, Alberta
+General information and map
+
+
+Canada.
+National Parks Bureau.
+
+text
+
+
+onc
+
+
+Ottawa
+
+Department of Mines and Resources, Lands, Parks and Forests Branch, National Parks Bureau
+1942
+1941
+monographic
+
+
+eng
+
+
+print
+1 fold. sheet : maps ; 23 cm.
+
+Cover title.
+http://chelsea.library.ualberta.ca:8081/peel_master/select/?q=%28authorAuthority%3A%22Canada%22%29+OR+%28subjectAuthority%3A%22Banff+National+Park+%28Alta.%29--Description+and+travel%22%29&fl=id+authorAuthority+authorDates+subjectAuthority+authorityAuthority&rows=100
+
+				Banff National Park (Alta.)
+			
+				Description and travel
+			
+
+3838541
+N008473
+9423
+
+RC
+RC
+2007-01-29T12:00:00-0700
+P009423
+2010-01-10T10:08:24-0700
+
+		1	3.2
+	

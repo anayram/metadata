@@ -1,0 +1,98 @@
+Path	Content	URL	Form or Genre	Occurrence	MODS version
+
+/mods/titleInfo		http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	1	3.3
+/mods/titleInfo/title	Map of the western part of the Dominion of Canada shewing various routes to the Yukon Dist., 1898	http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	1	3.3
+
+/mods/name		http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	2	3.3
+/mods/name/@type	corporate	http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	1	3.3
+/mods/name/namePart	The Hunter Rose Co.	http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	1	3.3
+
+/mods/name		http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	2	3.3
+/mods/name/@type	personal	http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	1	3.3
+/mods/name/namePart	Jennings, W. T.	http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	1	3.3
+
+/mods/typeOfResource	cartographic	http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	1	3.3
+
+/mods/genre	map	http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	2	3.3
+/mods/genre/@authority	marcgt	http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	1	3.3
+
+/mods/genre	Digital maps	http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	2	3.3
+/mods/genre/@authority	lcgft	http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	1	3.3
+
+/mods/originInfo		http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	1	3.3
+/mods/originInfo/place		http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	1	3.3
+/mods/originInfo/place/placeTerm	Toronto	http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	1	3.3
+/mods/originInfo/place/placeTerm/@type	text	http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	1	3.3
+/mods/originInfo/publisher	The Hunter Rose Co.	http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	1	3.3
+/mods/originInfo/dateIssued	1898	http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	1	3.3
+
+/mods/language		http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	1	3.3
+/mods/language/languageTerm	English	http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	1	3.3
+/mods/language/languageTerm/@type	text	http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	1	3.3
+
+/mods/physicalDescription		http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	1	3.3
+/mods/physicalDescription/form		http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	1	3.3
+/mods/physicalDescription/extent	1 map ; col., mounted on linen : 90 x 80.1 cm. on sheet 97.5 x 88.4 cm.	http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	1	3.3
+
+/mods/note	Accompanied The Klondike Official Guide. Prepared by Wm Ogilvie. Pub. by authority of The Department of Interior of The Dominion of Canada. Toronto: Hunter Rose, 1898.	http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	6	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	1	3.3
+
+/mods/note	peelmaps	http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	6	3.3
+/mods/note/@type	local:oaiset	http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	1	3.3
+
+/mods/note	1	http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	6	3.3
+/mods/note/@type	local:sheetcount	http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	1	3.3
+
+/mods/note	97.5 x 88.4 cm.	http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	6	3.3
+/mods/note/@type	local:sheetsize	http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	1	3.3
+
+/mods/note	97.5	http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	6	3.3
+/mods/note/@type	local:sheetlength	http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	1	3.3
+
+/mods/note	88.4	http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	6	3.3
+/mods/note/@type	local:sheetwidth	http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	3	3.3
+/mods/subject/@authority	lcsh	http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	1	3.3
+/mods/subject/@lang	eng	http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	1	3.3
+/mods/subject/geographic	Canada, Western	http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	3	3.3
+/mods/subject/temporal	1898	http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	3	3.3
+/mods/subject/cartographics		http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	1	3.3
+/mods/subject/cartographics/coordinates	w140xxxx/n068xxxx w096xxxx/n074xxxx w096xxxx/n049xxxx w130xxxx/n050xxxx	http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	1	3.3
+/mods/subject/cartographics/scale	ca. 1:3,200,000.	http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	1	3.3
+
+/mods/classification	Western Canada P-38	http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	1	3.3
+
+/mods/identifier	3203	http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	5	3.3
+/mods/identifier/@type	local:mapsproject	http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	1	3.3
+
+/mods/identifier	AAA-3298	http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	5	3.3
+/mods/identifier/@type	local:mapsdb	http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	1	3.3
+
+/mods/identifier	3203.xml	http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	5	3.3
+/mods/identifier/@type	local:mapsproject_filename	http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	1	3.3
+
+/mods/identifier	M000482	http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	5	3.3
+/mods/identifier/@type	local:peel3	http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	1	3.3
+
+/mods/identifier	N019163	http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	5	3.3
+/mods/identifier/@type	local:old_peel_new	http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	1	3.3
+
+/mods/location		http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	1	3.3
+/mods/location/physicalLocation	UA Cameron Staff Access-Maps OS	http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	1	3.3
+/mods/location/url	http://peel.library.ualberta.ca/maps/M/00/04/M000482/M000482.tif	http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	1	3.3
+/mods/location/url/@access	raw object	http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	1	3.3
+/mods/location/url/@note	width='10623' height='11638'	http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	1	3.3
+
+/mods/recordInfo		http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	1	3.3
+/mods/recordInfo/recordContentSource	mapsproject	http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	2	3.3
+/mods/recordInfo/recordContentSource/@authority	local:project	http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	1	3.3
+/mods/recordInfo/recordContentSource	jhuck	http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	2	3.3
+/mods/recordInfo/recordContentSource/@authority	local:person	http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	1	3.3
+/mods/recordInfo/recordIdentifier	M000482	http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	1	3.3
+/mods/recordInfo/recordChangeDate	2014-01-13T20:48:22-0700	http://peel.library.ualberta.ca/maps/M000482.html	map Digital maps 	1	3.3
+

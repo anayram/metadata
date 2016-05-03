@@ -1,0 +1,115 @@
+Path	Content	URL	Form or Genre	Occurrence	MODS version
+
+/mods/titleInfo		http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	1	3.3
+/mods/titleInfo/title	Map showing the Land Registration and Judicial Districts of Manitoba, Saskatchewan and Alberta	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	1	3.3
+/mods/titleInfo/subTitle	Compiled from Information Supplied by Provincial Governments	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	1	3.3
+
+/mods/name		http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	2	3.3
+/mods/name/@type	corporate	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	1	3.3
+/mods/name/namePart	Natural Resources Intelligence Branch, Department of the Interior	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	1	3.3
+
+/mods/name		http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	2	3.3
+/mods/name/@type	personal	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	1	3.3
+/mods/name/namePart	Lynch, F. C. C.	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	1	3.3
+
+/mods/typeOfResource	cartographic	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	1	3.3
+
+/mods/genre	map	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	2	3.3
+/mods/genre/@authority	marcgt	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	1	3.3
+
+/mods/genre	Digital maps	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	2	3.3
+/mods/genre/@authority	lcgft	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	1	3.3
+
+/mods/originInfo		http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	1	3.3
+/mods/originInfo/place		http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	1	3.3
+/mods/originInfo/place/placeTerm	Ottawa	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	1	3.3
+/mods/originInfo/place/placeTerm/@type	text	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	1	3.3
+/mods/originInfo/publisher	Department of the Interior	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	1	3.3
+/mods/originInfo/dateIssued	1919	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	1	3.3
+
+/mods/language		http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	1	3.3
+/mods/language/languageTerm	English	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	1	3.3
+/mods/language/languageTerm/@type	text	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	1	3.3
+
+/mods/physicalDescription		http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	1	3.3
+/mods/physicalDescription/form		http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	1	3.3
+/mods/physicalDescription/extent	1 map : col. ; 53.7 x 83.7 cm. on sheet 61 x 89.6 cm.	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	1	3.3
+
+/mods/note	Shows land registration districts in Sask. and Alta., land titles and registration districts in Manitoba, judicial districts, sub-judicial districts in Alta., land registration offices, supreme and county courts in Sask. and Alta., King's Bench and county courts in Manitoba, etc.	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	10	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	1	3.3
+
+/mods/note	"Note: The Registration Districts for Chattel Mortgages, Bills of Sale, Assignments in Trust, Liens, and any other instruments affecting personal property are coterminous with the Judicial or Sub-Judicial District where the property is situated or the work performed, and if the Land is affected same is registered in the Land Registration District."	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	10	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	1	3.3
+
+/mods/note	"Note: The following Registration Districts in Manitoba are under the Old System in contradistinction to the Land Titles Districts which are under the New or Torrens System : Manchester, Souris River, Rockwood, and Lisgar Plessis and Gimli."	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	10	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	1	3.3
+
+/mods/note	Base map from the engraved plates of the Department of the Interior.	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	10	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	1	3.3
+
+/mods/note	Second edition.	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	10	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	1	3.3
+
+/mods/note	peelmaps	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	10	3.3
+/mods/note/@type	local:oaiset	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	1	3.3
+
+/mods/note	1	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	10	3.3
+/mods/note/@type	local:sheetcount	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	1	3.3
+
+/mods/note	61 x 89.6 cm.	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	10	3.3
+/mods/note/@type	local:sheetsize	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	1	3.3
+
+/mods/note	61	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	10	3.3
+/mods/note/@type	local:sheetlength	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	1	3.3
+
+/mods/note	89.6	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	10	3.3
+/mods/note/@type	local:sheetwidth	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	1	3.3
+
+	/mods/subject		http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	3	3.3
+/mods/subject/@authority	lcsh	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	1	3.3
+/mods/subject/@lang	eng	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	1	3.3
+/mods/subject/geographic	Prairie Provinces	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	1	3.3
+/mods/subject/topic	Political and administrative divisions	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	3	3.3
+/mods/subject/temporal	1919	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	3	3.3
+/mods/subject/cartographics		http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	1	3.3
+/mods/subject/cartographics/coordinates	w123xxxx/n058xxxx w092xxxx/n058xxxx w096xxxx/n049xxxx w119xxxx/n049xxxx	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	1	3.3
+/mods/subject/cartographics/scale	1:2,217,600	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	1	3.3
+
+/mods/classification	Prairie Provinces F-5	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	1	3.3
+
+/mods/identifier	3133	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	5	3.3
+/mods/identifier/@type	local:mapsproject	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	1	3.3
+
+/mods/identifier	AAA-3228	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	5	3.3
+/mods/identifier/@type	local:mapsdb	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	1	3.3
+
+/mods/identifier	3133b.xml	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	5	3.3
+/mods/identifier/@type	local:mapsproject_filename	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	1	3.3
+
+
+                
+                /mods/identifier	M000453	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	5	3.3
+/mods/identifier/@type	local:peel3	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	1	3.3
+
+                /mods/identifier	N019120	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	5	3.3
+/mods/identifier/@type	local:old_peel_new	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	1	3.3
+
+                
+            /mods/location		http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	1	3.3
+/mods/location/physicalLocation	UA Cameron Staff Access-Maps	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	1	3.3
+/mods/location/url	http://peel.library.ualberta.ca/maps/M/00/04/M000453/M000453.tif	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	1	3.3
+/mods/location/url/@access	raw object	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	1	3.3
+/mods/location/url/@note	width='10631' height='7323'	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	1	3.3
+
+/mods/recordInfo		http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	1	3.3
+/mods/recordInfo/recordContentSource	mapsproject	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	2	3.3
+/mods/recordInfo/recordContentSource/@authority	local:project	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	1	3.3
+/mods/recordInfo/recordContentSource	sfarnel	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	2	3.3
+/mods/recordInfo/recordContentSource/@authority	local:person	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	1	3.3
+/mods/recordInfo/recordIdentifier	M000453	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	1	3.3
+/mods/recordInfo/recordChangeDate	2010-11-26T13:35:08-0700	http://peel.library.ualberta.ca/maps/M000453.html	map Digital maps 	1	3.3
+

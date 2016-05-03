@@ -1,0 +1,160 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		fsalehi	PC012027	postcards	1	3.3
+	/mods/@version	3.3	fsalehi	PC012027	postcards	1	3.3
+	/mods/titleInfo		fsalehi	PC012027	postcards	1	3.3
+	/mods/titleInfo/@lang	english	fsalehi	PC012027	postcards	1	3.3
+	/mods/titleInfo/title	Slim Watrin on "He'll Do"	fsalehi	PC012027	postcards	1	3.3
+	/mods/name		fsalehi	PC012027	postcards	1	3.3
+	/mods/name/@type	personal	fsalehi	PC012027	postcards	1	3.3
+	/mods/name/namePart	Oliver	fsalehi	PC012027	postcards	2	3.3
+	/mods/name/namePart/@type	family	fsalehi	PC012027	postcards	1	3.3
+	/mods/name/namePart	W. J.	fsalehi	PC012027	postcards	2	3.3
+	/mods/name/namePart/@type	given	fsalehi	PC012027	postcards	1	3.3
+	/mods/name/role		fsalehi	PC012027	postcards	1	3.3
+	/mods/name/role/roleTerm	Photographer	fsalehi	PC012027	postcards	1	3.3
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC012027	postcards	1	3.3
+	/mods/typeOfResource	still image	fsalehi	PC012027	postcards	1	3.3
+	/mods/genre	postcards	fsalehi	PC012027	postcards	1	3.3
+	/mods/genre/@authority	gmgpc	fsalehi	PC012027	postcards	1	3.3
+	/mods/originInfo		fsalehi	PC012027	postcards	1	3.3
+	/mods/originInfo/place		fsalehi	PC012027	postcards	1	3.3
+	/mods/originInfo/place/placeTerm	Calgary	fsalehi	PC012027	postcards	1	3.3
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC012027	postcards	1	3.3
+	/mods/originInfo/publisher	W.J., Oliver, Calgary, Alberta	fsalehi	PC012027	postcards	1	3.3
+	/mods/originInfo/dateIssued	1930's	fsalehi	PC012027	postcards	1	3.3
+	/mods/originInfo/dateIssued/@qualifier	inferred	fsalehi	PC012027	postcards	1	3.3
+	/mods/originInfo/issuance	monographic	fsalehi	PC012027	postcards	1	3.3
+	/mods/language		fsalehi	PC012027	postcards	1	3.3
+	/mods/language/languageTerm	English	fsalehi	PC012027	postcards	1	3.3
+	/mods/language/languageTerm/@type	text	fsalehi	PC012027	postcards	1	3.3
+	/mods/physicalDescription		fsalehi	PC012027	postcards	1	3.3
+	/mods/physicalDescription/form		fsalehi	PC012027	postcards	1	3.3
+	/mods/physicalDescription/extent	1 postcard : sepia ; 9 x 14 cm.	fsalehi	PC012027	postcards	1	3.3
+	/mods/note	25	fsalehi	PC012027	postcards	6	3.3
+	/mods/note/@type	price	fsalehi	PC012027	postcards	1	3.3
+	/mods/note	false	fsalehi	PC012027	postcards	6	3.3
+	/mods/note/@type	notable	fsalehi	PC012027	postcards	1	3.3
+	/mods/note	false	fsalehi	PC012027	postcards	6	3.3
+	/mods/note/@type	imgprobs	fsalehi	PC012027	postcards	1	3.3
+	/mods/note	[printer's no.] 40	fsalehi	PC012027	postcards	6	3.3
+	/mods/note/@type	public_on_front	fsalehi	PC012027	postcards	1	3.3
+	/mods/note	Scene of a cowboy riding a bucking bronco at the Calgary Stampede.	fsalehi	PC012027	postcards	6	3.3
+	/mods/note/@type	public_description	fsalehi	PC012027	postcards	1	3.3
+	/mods/note	lastbestwest	fsalehi	PC012027	postcards	6	3.3
+	/mods/note/@type	local:oaiset	fsalehi	PC012027	postcards	1	3.3
+	/mods/subject		fsalehi	PC012027	postcards	7	3.3
+	/mods/subject/geographic	Calgary, MB	fsalehi	PC012027	postcards	1	3.3
+	/mods/subject		fsalehi	PC012027	postcards	7	3.3
+	/mods/subject/hierarchicalGeographic		fsalehi	PC012027	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/country	Canada	fsalehi	PC012027	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/province	Alberta	fsalehi	PC012027	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/city	Calgary	fsalehi	PC012027	postcards	1	3.3
+	/mods/subject		fsalehi	PC012027	postcards	7	3.3
+	/mods/subject/topic	Rodeos	fsalehi	PC012027	postcards	1	3.3
+	/mods/subject		fsalehi	PC012027	postcards	7	3.3
+	/mods/subject/topic	Cowboys	fsalehi	PC012027	postcards	1	3.3
+	/mods/subject		fsalehi	PC012027	postcards	7	3.3
+	/mods/subject/topic	Broncos	fsalehi	PC012027	postcards	1	3.3
+	/mods/subject		fsalehi	PC012027	postcards	7	3.3
+	/mods/subject/topic	Bronc riding	fsalehi	PC012027	postcards	1	3.3
+	/mods/subject		fsalehi	PC012027	postcards	7	3.3
+	/mods/subject/name		fsalehi	PC012027	postcards	1	3.3
+	/mods/subject/name/@type	personal	fsalehi	PC012027	postcards	1	3.3
+	/mods/subject/name/namePart	Calgary Stampede	fsalehi	PC012027	postcards	1	3.3
+	/mods/identifier	PC012027	fsalehi	PC012027	postcards	1	3.3
+	/mods/identifier/@type	local	fsalehi	PC012027	postcards	1	3.3
+	/mods/location		fsalehi	PC012027	postcards	1	3.3
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 4 (set 2)	fsalehi	PC012027	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC012027.html	fsalehi	PC012027	postcards	3	3.3
+	/mods/location/url/@access	object in context	fsalehi	PC012027	postcards	1	3.3
+	/mods/location/url/@usage	primary display	fsalehi	PC012027	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/012/web/PC012027.jpg	fsalehi	PC012027	postcards	3	3.3
+	/mods/location/url/@access	raw object	fsalehi	PC012027	postcards	1	3.3
+	/mods/location/url/@note	width='800' height='500'	fsalehi	PC012027	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/012/thumbs/PC012027.jpg	fsalehi	PC012027	postcards	3	3.3
+	/mods/location/url/@access	preview	fsalehi	PC012027	postcards	1	3.3
+	/mods/location/url/@note	width='200' height='125'	fsalehi	PC012027	postcards	1	3.3
+	/mods/recordInfo		fsalehi	PC012027	postcards	1	3.3
+	/mods/recordInfo/recordContentSource	fsalehi	fsalehi	PC012027	postcards	2	3.3
+	/mods/recordInfo/recordContentSource	sfarnel	fsalehi	PC012027	postcards	2	3.3
+	/mods/recordInfo/recordContentSource/@authority	local:person	fsalehi	PC012027	postcards	1	3.3
+	/mods/recordInfo/recordCreationDate	2009-01-23T14:03:00-0700	fsalehi	PC012027	postcards	1	3.3
+	/mods/recordInfo/recordIdentifier	PC012027	fsalehi	PC012027	postcards	1	3.3
+	/mods/recordInfo/recordChangeDate	2011-02-08T08:17:59-0700	fsalehi	PC012027	postcards	1	3.3
+	/@mods	
+
+Slim Watrin on "He'll Do"
+
+
+Oliver
+W. J.
+
+Photographer
+
+
+still image
+postcards
+
+
+Calgary
+
+W.J., Oliver, Calgary, Alberta
+1930's
+monographic
+
+
+English
+
+
+
+1 postcard : sepia ; 9 x 14 cm.
+
+25
+false
+false
+[printer's no.] 40
+Scene of a cowboy riding a bucking bronco at the Calgary Stampede.
+lastbestwest
+
+				Calgary, MB
+			
+
+				
+Canada
+Alberta
+Calgary
+
+			
+
+				Rodeos
+			
+
+				Cowboys
+			
+
+				Broncos
+			
+
+				Bronc riding
+			
+
+				
+Calgary Stampede
+
+			
+PC012027
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 4 (set 2)
+http://peel.library.ualberta.ca/postcards/PC012027.html
+http://peel.library.ualberta.ca/pcimages/PC/012/web/PC012027.jpg
+http://peel.library.ualberta.ca/pcimages/PC/012/thumbs/PC012027.jpg
+
+
+fsalehi
+sfarnel
+2009-01-23T14:03:00-0700
+PC012027
+2011-02-08T08:17:59-0700
+
+	fsalehi	PC012027	postcards	1	3.3
+	

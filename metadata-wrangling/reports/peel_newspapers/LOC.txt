@@ -1,0 +1,92 @@
+Path	Content	URL	Form or Genre	Occurrence	MODS version
+
+/mods/titleInfo		http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	2	3.2
+/mods/titleInfo/title	Ouest canadien	http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	1	3.2
+/mods/titleInfo/nonSort	L'	http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	1	3.2
+
+/mods/titleInfo		http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	2	3.2
+/mods/titleInfo/@type	uniform	http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	1	3.2
+/mods/titleInfo/title	Ouest canadien (Edmonton, Alb.)	http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	1	3.2
+
+/mods/name		http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	1	3.2
+/mods/name/@type	corporate	http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	1	3.2
+/mods/name/namePart	Société de la colonisation d'Edmonton, Alberta	http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	1	3.2
+
+/mods/typeOfResource	text	http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	1	3.2
+
+/mods/genre	newspaper	http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	1	3.2
+/mods/genre/@authority	marcgt	http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	1	3.2
+
+/mods/originInfo		http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	1	3.2
+/mods/originInfo/place		http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	2	3.2
+/mods/originInfo/place/placeTerm	abc	http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@authority	marccountry	http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@type	code	http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	1	3.2
+/mods/originInfo/place		http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	2	3.2
+/mods/originInfo/place/placeTerm	Edmonton	http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@type	text	http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	1	3.2
+/mods/originInfo/publisher	Cie d'imprimerie canadienne d'Edmonton	http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	1	3.2
+/mods/originInfo/dateIssued	1898-1900	http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	3	3.2
+/mods/originInfo/dateIssued	1898	http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	3	3.2
+/mods/originInfo/dateIssued/@encoding	marc	http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	1	3.2
+/mods/originInfo/dateIssued/@point	start	http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	1	3.2
+/mods/originInfo/dateIssued	1900	http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	3	3.2
+/mods/originInfo/dateIssued/@encoding	marc	http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	1	3.2
+/mods/originInfo/dateIssued/@point	end	http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	1	3.2
+/mods/originInfo/issuance	continuing	http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	1	3.2
+/mods/originInfo/frequency	Hebdomadaire	http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	1	3.2
+
+/mods/language		http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	1	3.2
+/mods/language/languageTerm	fre	http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	1	3.2
+/mods/language/languageTerm/@authority	iso639-2b	http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	1	3.2
+/mods/language/languageTerm/@type	code	http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	1	3.2
+
+/mods/physicalDescription		http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	1	3.2
+/mods/physicalDescription/form	microfilm	http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	1	3.2
+/mods/physicalDescription/form/@authority	marcform	http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	1	3.2
+/mods/physicalDescription/extent	2 v. : ill. ; 35 mm.	http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	1	3.2
+
+/mods/note	Publié: Edmonton Printing Co., 6 juil. 1898-1900.	http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	4	3.2
+
+/mods/note	Microfilm. Ottawa : Microfilmed by Public Archives Canada = Microfilmé par Archives publiques Canada, 1981. 1 bobine de microfilm : ill. ; 35 mm.	http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	4	3.2
+/mods/note/@type	reproduction	http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	1	3.2
+
+/mods/note	"Organe de la Société de la colonisation d'Edmonton, Alberta."-	http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	4	3.2
+
+/mods/note	newspapers	http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	4	3.2
+/mods/note/@type	local:oaiset	http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	1	3.2
+
+/mods/subject		http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	2	3.2
+/mods/subject/geographicCode	n-cn-ab	http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	1	3.2
+/mods/subject/geographicCode/@authority	marcgac	http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	1	3.2
+
+    /mods/subject		http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	2	3.2
+/mods/subject/hierarchicalGeographic		http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/country	Canada	http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/region	Western Canada	http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	1	3.2
+
+/mods/classification	071/.12334	http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	1	3.2
+/mods/classification/@authority	ddc	http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	1	3.2
+/mods/classification/@edition	20	http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	1	3.2
+
+/mods/identifier	1181-3911	http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	4	3.2
+/mods/identifier/@type	issn	http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	1	3.2
+
+/mods/identifier	cn 90072947	http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	4	3.2
+/mods/identifier/@type	lccn	http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	1	3.2
+
+/mods/identifier	1997272	http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	4	3.2
+/mods/identifier/@type	local:neos	http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	1	3.2
+
+/mods/identifier	LOC	http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	4	3.2
+/mods/identifier/@type	local:newspaper	http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	1	3.2
+
+/mods/recordInfo		http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	1	3.2
+/mods/recordInfo/recordContentSource	CaOONL	http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	2	3.2
+/mods/recordInfo/recordContentSource/@authority	marcorg	http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	1	3.2
+/mods/recordInfo/recordContentSource	sfarnel	http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	2	3.2
+/mods/recordInfo/recordContentSource/@authority	local:person	http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	1	3.2
+/mods/recordInfo/recordCreationDate	2010-01-15T11:32:29-0700	http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	1	3.2
+/mods/recordInfo/recordIdentifier	QLOC	http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	1	3.2
+/mods/recordInfo/recordChangeDate	2010-01-15T11:32:35-0700	http://peel.library.ualberta.ca/newspapers/LOC.html	newspaper	1	3.2
+

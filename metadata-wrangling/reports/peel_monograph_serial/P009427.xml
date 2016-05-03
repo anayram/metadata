@@ -1,0 +1,229 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.2
+	/mods/@version	3.2		1	3.2
+	/mods/titleInfo			1	3.2
+	/mods/titleInfo/title	In the heart of the Canadian Rockies		1	3.2
+	/mods/name			1	3.2
+	/mods/name/@type	personal		1	3.2
+	/mods/name/namePart	Outram, James		3	3.2
+	/mods/name/namePart	Sir		3	3.2
+	/mods/name/namePart/@type	termsOfAddress		1	3.2
+	/mods/name/namePart	1864-1925		3	3.2
+	/mods/name/namePart/@type	date		1	3.2
+	/mods/typeOfResource	text		1	3.2
+	/mods/originInfo			1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	nyu		1	3.2
+	/mods/originInfo/place/placeTerm/@authority	marccountry		1	3.2
+	/mods/originInfo/place/placeTerm/@type	code		1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	New York		1	3.2
+	/mods/originInfo/place/placeTerm/@type	text		1	3.2
+	/mods/originInfo/publisher	Macmillan		1	3.2
+	/mods/originInfo/dateIssued	1905		1	3.2
+	/mods/originInfo/issuance	monographic		1	3.2
+	/mods/language			1	3.2
+	/mods/language/languageTerm	eng		1	3.2
+	/mods/language/languageTerm/@authority	iso639-2b		1	3.2
+	/mods/language/languageTerm/@type	code		1	3.2
+	/mods/physicalDescription			1	3.2
+	/mods/physicalDescription/form	print		1	3.2
+	/mods/physicalDescription/form/@authority	marcform		1	3.2
+	/mods/physicalDescription/extent	xii, 466, [2] p., [3] leaves of plates : ill., maps (1 fold.) ; 23 cm.		1	3.2
+	/mods/note	by James Outram.		9	3.2
+	/mods/note/@type	statement of responsibility		1	3.2
+	/mods/note	'"Mountains are the beginning and end of all natural scenery."--Ruskin.'		9	3.2
+	/mods/note	Includes: Appendix D. A list of first ascents: p. 449-451.		9	3.2
+	/mods/note	Includes publisher's list.		9	3.2
+	/mods/note	Includes bibliographical references and an index.		9	3.2
+	/mods/note	http://chelsea.library.ualberta.ca:8081/peel_master/select/?q=%28authorAuthority%3A%22Outram%2C+James%22+AND+authorDates%3A1864-1925*%29+OR+%28subjectAuthority%3A%22Rocky+Mountains%2C+Canadian+%28B.C.+and+Alta.%29--Description+and+travel%22%29+OR+%28subjectAuthority%3A%22Colombie-Britannique--Descriptions+et+voyages--1901-1950%22%29+OR+%28subjectAuthority%3A%22British+Columbia--Description+and+travel--1901-1950%22%29+OR+%28subjectAuthority%3A%22Rocheuses+canadiennes+%28C.-B.+et+Alb.%29--Descriptions+et+voyages%22%29+OR+%28subjectAuthority%3A%22Alberta--Descriptions+et+voyages--Jusqu%27%C3%A0+1905%22%29+OR+%28subjectAuthority%3A%22Alberta--Description+and+travel--To+1905%22%29&fl=id+authorAuthority+authorDates+subjectAuthority+authorityAuthority&rows=100		9	3.2
+	/mods/note/@type	solr		1	3.2
+	/mods/note	main		9	3.2
+	/mods/note/@type	local:frbr		1	3.2
+	/mods/note	DOA: 1900 Spatial: Rocky Mountains, Canadian (B.C. and Alta.)		9	3.2
+	/mods/note/@type	local		1	3.2
+	/mods/note	Memoir of a British mountaineer's experiences climbing in the Canadian Rockies. Also published, New York: Macmillan, 1923 and Vancouver: Rocky Mountain Books, c2007. Rocky Mountain Books edition also published, electronic resource, Saint-Lazare, Que.: Gibson Library Connections, 2008.		9	3.2
+	/mods/note/@type	public		1	3.2
+	/mods/subject			7	3.2
+	/mods/subject/geographicCode	n-cn-ab		2	3.2
+	/mods/subject/geographicCode/@authority	marcgac		1	3.2
+	/mods/subject/geographicCode	n-cn-bc		2	3.2
+	/mods/subject/geographicCode/@authority	marcgac		1	3.2
+	/mods/subject			7	3.2
+	/mods/subject/@authority	csh		1	3.2
+	/mods/subject/geographic	Rocky Mountains, Canadian (B.C. and Alta.)		1	3.2
+	/mods/subject/topic	Description and travel		1	3.2
+	/mods/subject			7	3.2
+	/mods/subject/@authority	rvm		1	3.2
+	/mods/subject/geographic	Colombie-Britannique		1	3.2
+	/mods/subject/topic	Descriptions et voyages		1	3.2
+	/mods/subject/temporal	1901-1950		1	3.2
+	/mods/subject			7	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/geographic	British Columbia		1	3.2
+	/mods/subject/topic	Description and travel		1	3.2
+	/mods/subject/temporal	1901-1950		1	3.2
+	/mods/subject			7	3.2
+	/mods/subject/@authority	rvm		1	3.2
+	/mods/subject/geographic	Rocheuses canadiennes (C.-B. et Alb.)		1	3.2
+	/mods/subject/topic	Descriptions et voyages		1	3.2
+	/mods/subject			7	3.2
+	/mods/subject/@authority	rvm		1	3.2
+	/mods/subject/geographic	Alberta		1	3.2
+	/mods/subject/topic	Descriptions et voyages		1	3.2
+	/mods/subject/temporal	Jusqu'à 1905		1	3.2
+	/mods/subject			7	3.2
+	/mods/subject/@authority	csh		1	3.2
+	/mods/subject/geographic	Alberta		1	3.2
+	/mods/subject/topic	Description and travel		1	3.2
+	/mods/subject/temporal	To 1905		1	3.2
+	/mods/classification	917.11		1	3.2
+	/mods/classification/@authority	ddc		1	3.2
+	/mods/classification/@edition	20		1	3.2
+	/mods/relatedItem			4	3.2
+	/mods/relatedItem/@type	otherFormat		1	3.2
+	/mods/relatedItem/titleInfo			1	3.2
+	/mods/relatedItem/titleInfo/title	CIHM/ICMH microfiche series ; no. 82957		1	3.2
+	/mods/relatedItem/physicalDescription			1	3.2
+	/mods/relatedItem/physicalDescription/form	microfiche		1	3.2
+	/mods/relatedItem/physicalDescription/form/@authority	marcform		1	3.2
+	/mods/relatedItem/physicalDescription/extent	6 microfiches (262 fr.) : ill., maps.		1	3.2
+	/mods/relatedItem/identifier	82957		1	3.2
+	/mods/relatedItem/identifier/@type	cihm		1	3.2
+	/mods/relatedItem			4	3.2
+	/mods/relatedItem/@ID	t2		1	3.2
+	/mods/relatedItem/@displayLabel	1923 ed.		1	3.2
+	/mods/relatedItem/@type	otherVersion		1	3.2
+	/mods/relatedItem/@href	N015565		1	3.2
+	/mods/relatedItem			4	3.2
+	/mods/relatedItem/@ID	t3		1	3.2
+	/mods/relatedItem/@displayLabel	Rocky Mountain Books ed.		1	3.2
+	/mods/relatedItem/@type	otherVersion		1	3.2
+	/mods/relatedItem/@href	N015566		1	3.2
+	/mods/relatedItem			4	3.2
+	/mods/relatedItem/@ID	t4		1	3.2
+	/mods/relatedItem/@displayLabel	Electronic resource		1	3.2
+	/mods/relatedItem/@type	otherFormat		1	3.2
+	/mods/relatedItem/@href	N019913		1	3.2
+	/mods/identifier	0665829574		4	3.2
+	/mods/identifier/@type	isbn		1	3.2
+	/mods/identifier	3239809		4	3.2
+	/mods/identifier/@type	local:neos		1	3.2
+	/mods/identifier	N008479		4	3.2
+	/mods/identifier/@type	local:peel_new		1	3.2
+	/mods/identifier	9427		4	3.2
+	/mods/identifier/@type	local:peel3		1	3.2
+	/mods/recordInfo			1	3.2
+	/mods/recordInfo/recordContentSource	RC		2	3.2
+	/mods/recordInfo/recordContentSource	RC		2	3.2
+	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.2
+	/mods/recordInfo/recordCreationDate	1998-02-20T12:00:00-0700		1	3.2
+	/mods/recordInfo/recordIdentifier	P009427		1	3.2
+	/mods/recordInfo/recordChangeDate	2010-01-10T19:45:26-0700		1	3.2
+	/@mods	
+
+In the heart of the Canadian Rockies
+
+
+Outram, James
+Sir
+1864-1925
+
+text
+
+
+nyu
+
+
+New York
+
+Macmillan
+1905
+monographic
+
+
+eng
+
+
+print
+xii, 466, [2] p., [3] leaves of plates : ill., maps (1 fold.) ; 23 cm.
+
+by James Outram.
+'"Mountains are the beginning and end of all natural scenery."--Ruskin.'
+Includes: Appendix D. A list of first ascents: p. 449-451.
+Includes publisher's list.
+Includes bibliographical references and an index.
+http://chelsea.library.ualberta.ca:8081/peel_master/select/?q=%28authorAuthority%3A%22Outram%2C+James%22+AND+authorDates%3A1864-1925*%29+OR+%28subjectAuthority%3A%22Rocky+Mountains%2C+Canadian+%28B.C.+and+Alta.%29--Description+and+travel%22%29+OR+%28subjectAuthority%3A%22Colombie-Britannique--Descriptions+et+voyages--1901-1950%22%29+OR+%28subjectAuthority%3A%22British+Columbia--Description+and+travel--1901-1950%22%29+OR+%28subjectAuthority%3A%22Rocheuses+canadiennes+%28C.-B.+et+Alb.%29--Descriptions+et+voyages%22%29+OR+%28subjectAuthority%3A%22Alberta--Descriptions+et+voyages--Jusqu%27%C3%A0+1905%22%29+OR+%28subjectAuthority%3A%22Alberta--Description+and+travel--To+1905%22%29&fl=id+authorAuthority+authorDates+subjectAuthority+authorityAuthority&rows=100
+main
+DOA: 1900 Spatial: Rocky Mountains, Canadian (B.C. and Alta.)
+Memoir of a British mountaineer's experiences climbing in the Canadian Rockies. Also published, New York: Macmillan, 1923 and Vancouver: Rocky Mountain Books, c2007. Rocky Mountain Books edition also published, electronic resource, Saint-Lazare, Que.: Gibson Library Connections, 2008.
+
+				n-cn-ab
+			
+				n-cn-bc
+			
+
+				Rocky Mountains, Canadian (B.C. and Alta.)
+			
+				Description and travel
+			
+
+				Colombie-Britannique
+			
+				Descriptions et voyages
+			
+				1901-1950
+			
+
+				British Columbia
+			
+				Description and travel
+			
+				1901-1950
+			
+
+				Rocheuses canadiennes (C.-B. et Alb.)
+			
+				Descriptions et voyages
+			
+
+				Alberta
+			
+				Descriptions et voyages
+			
+				Jusqu'à 1905
+			
+
+				Alberta
+			
+				Description and travel
+			
+				To 1905
+			
+917.11
+
+
+CIHM/ICMH microfiche series ; no. 82957
+
+
+microfiche
+6 microfiches (262 fr.) : ill., maps.
+
+82957
+
+
+
+
+0665829574
+3239809
+N008479
+9427
+
+RC
+RC
+1998-02-20T12:00:00-0700
+P009427
+2010-01-10T19:45:26-0700
+
+		1	3.2
+	

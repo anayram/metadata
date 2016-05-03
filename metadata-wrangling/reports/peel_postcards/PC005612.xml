@@ -1,0 +1,143 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		rschramm	PC005612	postcards	1	3.2
+	/mods/@version	3.2	rschramm	PC005612	postcards	1	3.2
+	/mods/titleInfo		rschramm	PC005612	postcards	1	3.2
+	/mods/titleInfo/@lang	english	rschramm	PC005612	postcards	1	3.2
+	/mods/titleInfo/title	In the Manufacturing District, Calgary, Alta.	rschramm	PC005612	postcards	1	3.2
+	/mods/name		rschramm	PC005612	postcards	1	3.2
+	/mods/name/@type	corporate	rschramm	PC005612	postcards	1	3.2
+	/mods/name/namePart	D.J.Y. & Co. Ltd.	rschramm	PC005612	postcards	1	3.2
+	/mods/name/role		rschramm	PC005612	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	rschramm	PC005612	postcards	1	3.2
+	/mods/typeOfResource	still image	rschramm	PC005612	postcards	1	3.2
+	/mods/genre	postcards	rschramm	PC005612	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	rschramm	PC005612	postcards	1	3.2
+	/mods/originInfo		rschramm	PC005612	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	rschramm	PC005612	postcards	1	3.2
+	/mods/originInfo/publisher	D.J.Y. Co. Ltd., Calgary, Alta.	rschramm	PC005612	postcards	1	3.2
+	/mods/originInfo/dateIssued	after 1920	rschramm	PC005612	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	inferred	rschramm	PC005612	postcards	1	3.2
+	/mods/originInfo/place		rschramm	PC005612	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	Calgary	rschramm	PC005612	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	rschramm	PC005612	postcards	1	3.2
+	/mods/language		rschramm	PC005612	postcards	1	3.2
+	/mods/language/languageTerm	English	rschramm	PC005612	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	rschramm	PC005612	postcards	1	3.2
+	/mods/physicalDescription		rschramm	PC005612	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : b&w ; 9 x 14 cm.	rschramm	PC005612	postcards	1	3.2
+	/mods/note	30	rschramm	PC005612	postcards	6	3.2
+	/mods/note/@type	price	rschramm	PC005612	postcards	1	3.2
+	/mods/note	false	rschramm	PC005612	postcards	6	3.2
+	/mods/note/@type	notable	rschramm	PC005612	postcards	1	3.2
+	/mods/note	false	rschramm	PC005612	postcards	6	3.2
+	/mods/note/@type	imgprobs	rschramm	PC005612	postcards	1	3.2
+	/mods/note	View of the Manufacturing District of Calgary, Alberta including grain elevators and the edge of a residential area.	rschramm	PC005612	postcards	6	3.2
+	/mods/note/@type	public_description	rschramm	PC005612	postcards	1	3.2
+	/mods/note	[Printer's no.] M. 219	rschramm	PC005612	postcards	6	3.2
+	/mods/note/@type	public_on_back	rschramm	PC005612	postcards	1	3.2
+	/mods/note	Printed in Germany	rschramm	PC005612	postcards	6	3.2
+	/mods/note/@type	public_on_back	rschramm	PC005612	postcards	1	3.2
+	/mods/subject		rschramm	PC005612	postcards	6	3.2
+	/mods/subject/geographic	Calgary, AB	rschramm	PC005612	postcards	1	3.2
+	/mods/subject		rschramm	PC005612	postcards	6	3.2
+	/mods/subject/hierarchicalGeographic		rschramm	PC005612	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	rschramm	PC005612	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	rschramm	PC005612	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Calgary	rschramm	PC005612	postcards	1	3.2
+	/mods/subject		rschramm	PC005612	postcards	6	3.2
+	/mods/subject/genre	Postcards	rschramm	PC005612	postcards	1	3.2
+	/mods/subject		rschramm	PC005612	postcards	6	3.2
+	/mods/subject/topic	Grain elevators	rschramm	PC005612	postcards	1	3.2
+	/mods/subject		rschramm	PC005612	postcards	6	3.2
+	/mods/subject/topic	Industry	rschramm	PC005612	postcards	1	3.2
+	/mods/subject		rschramm	PC005612	postcards	6	3.2
+	/mods/subject/topic	Factories	rschramm	PC005612	postcards	1	3.2
+	/mods/identifier	PC005612	rschramm	PC005612	postcards	1	3.2
+	/mods/identifier/@type	local	rschramm	PC005612	postcards	1	3.2
+	/mods/location		rschramm	PC005612	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 6	rschramm	PC005612	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC005612.html	rschramm	PC005612	postcards	3	3.2
+	/mods/location/url/@access	object in context	rschramm	PC005612	postcards	1	3.2
+	/mods/location/url/@usage	primary display	rschramm	PC005612	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/005/web/PC005612.jpg	rschramm	PC005612	postcards	3	3.2
+	/mods/location/url/@access	raw object	rschramm	PC005612	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='510' 	rschramm	PC005612	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/005/thumbs/PC005612.jpg	rschramm	PC005612	postcards	3	3.2
+	/mods/location/url/@access	preview	rschramm	PC005612	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='128'	rschramm	PC005612	postcards	1	3.2
+	/mods/recordInfo		rschramm	PC005612	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	rschramm	PC005612	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC005612	rschramm	PC005612	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	rschramm	rschramm	PC005612	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2008-06-11T14:13:26-0600	rschramm	PC005612	postcards	1	3.2
+	/@mods	
+
+In the Manufacturing District, Calgary, Alta.
+
+
+D.J.Y. & Co. Ltd.
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+D.J.Y. Co. Ltd., Calgary, Alta.
+after 1920
+
+Calgary
+
+
+
+English
+
+
+1 postcard : b&w ; 9 x 14 cm.
+
+30
+false
+false
+View of the Manufacturing District of Calgary, Alberta including grain elevators and the edge of a residential area.
+[Printer's no.] M. 219
+Printed in Germany
+
+Calgary, AB
+
+
+
+Canada
+Alberta
+Calgary
+
+
+
+Postcards
+
+
+Grain elevators
+
+
+Industry
+
+
+Factories
+
+PC005612
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 6
+http://peel.library.ualberta.ca/postcards/PC005612.html
+http://peel.library.ualberta.ca/pcimages/PC/005/web/PC005612.jpg
+http://peel.library.ualberta.ca/pcimages/PC/005/thumbs/PC005612.jpg
+
+
+
+
+2007-06-25T16:49:56-0600
+PC005612
+rschramm
+2008-06-11T14:13:26-0600
+
+	rschramm	PC005612	postcards	1	3.2
+	

@@ -1,0 +1,138 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	records tell the story		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/subTitle	1905-1936, 1936-1939: Read it for yourself		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/nonSort	The 		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	corporate		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA003748		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Alberta. Social Credit Board		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	[Edmonton]		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	[King's Printer]		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1939		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued/@qualifier	inferred		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	English		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	56 p.; 18 cm.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	<i>See </i>Peel <xref>6373</xref> and <xref>6408</xref> for responses. Also published, rev. ed., Edmonton: Social Credit Board, [1940].		6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	public		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	main		6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	local:frbr		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	sponsored		6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	local:oaiset		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	sponsored.boardofgovernors		6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	local:oaiset		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	Ms. Loraine Oxley, External Committee Member, Board Audit Committee, 2006-2011		6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	local:dedicationinfo		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	boardofgovernors		6	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	local:sponsorcode		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Politics and Government--Alberta		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000165		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Alberta--Politics and government		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1939		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem			2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@ID	t2		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@displayLabel	Rev. ed.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@type	otherVersion		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@href	N021467		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem			2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@type	host		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/titleInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/titleInfo/title	University of Alberta Board of Governors Collection		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/note	University of Alberta Board of Governors		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/note/@type	local:sponsor		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	3702		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel2		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	6253		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	6247		3	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel-procite-id		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	sfarnel		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P006253		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordChangeDate	2011-06-08T07:13:34-0600		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+
+records tell the story
+1905-1936, 1936-1939: Read it for yourself
+The 
+
+
+Alberta. Social Credit Board
+
+author
+
+
+text
+
+
+[Edmonton]
+
+[King's Printer]
+1939
+
+
+English
+
+
+print
+56 p.; 18 cm.
+
+<i>See </i>Peel <xref>6373</xref> and <xref>6408</xref> for responses. Also published, rev. ed., Edmonton: Social Credit Board, [1940].
+main
+sponsored
+sponsored.boardofgovernors
+Ms. Loraine Oxley, External Committee Member, Board Audit Committee, 2006-2011
+boardofgovernors
+
+				Politics and Government--Alberta
+			
+
+				Alberta--Politics and government
+			
+
+				1939
+			
+
+
+
+University of Alberta Board of Governors Collection
+
+University of Alberta Board of Governors
+
+3702
+6253
+6247
+
+Peel's Prairie Portal
+sfarnel
+2003-01-01T12:00:00-0700
+P006253
+2011-06-08T07:13:34-0600
+
+		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

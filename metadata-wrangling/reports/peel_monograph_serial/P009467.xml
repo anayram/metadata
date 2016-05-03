@@ -1,0 +1,147 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.2
+	/mods/@version	3.2		1	3.2
+	/mods/titleInfo			1	3.2
+	/mods/titleInfo/title	Manifesto to the farm people of Alberta		1	3.2
+	/mods/titleInfo/subTitle	Memorandum from Board of the U.F.A., with amendments passed by the Annual Convention, January, 1931		1	3.2
+	/mods/name			1	3.2
+	/mods/name/@type	corporate		1	3.2
+	/mods/name/@href	MA001571		1	3.2
+	/mods/name/namePart	United Farmers of Alberta.		1	3.2
+	/mods/typeOfResource	text		1	3.2
+	/mods/originInfo			1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	abc		1	3.2
+	/mods/originInfo/place/placeTerm/@authority	marccountry		1	3.2
+	/mods/originInfo/place/placeTerm/@type	code		1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	[Calgary?]		1	3.2
+	/mods/originInfo/place/placeTerm/@type	text		1	3.2
+	/mods/originInfo/publisher	[United Farmers of Alberta?]		1	3.2
+	/mods/originInfo/dateIssued	[1931?]		1	3.2
+	/mods/originInfo/issuance	monographic		1	3.2
+	/mods/language			1	3.2
+	/mods/language/languageTerm	eng		1	3.2
+	/mods/language/languageTerm/@authority	iso639-2b		1	3.2
+	/mods/language/languageTerm/@type	code		1	3.2
+	/mods/physicalDescription			1	3.2
+	/mods/physicalDescription/form	print		1	3.2
+	/mods/physicalDescription/form/@authority	marcform		1	3.2
+	/mods/physicalDescription/extent	1 fold. sheet ([4] p.) ; 23 cm.		1	3.2
+	/mods/note	Caption title.		4	3.2
+	/mods/note	http://chelsea.library.ualberta.ca:8081/peel_master/select/?q=%28authorAuthority%3A%22United+Farmers+of+Alberta%22%29+OR+%28subjectAuthority%3A%22United+Farmers+of+AlbertaBoard--Political+activity%22%29+OR+%28subjectAuthority%3A%22Agriculture%2C+Cooperative--Alberta%22%29+OR+%28subjectAuthority%3A%22Agriculture+and+politics--Alberta%22%29+OR+%28subjectAuthority%3A%22Agriculture+and+state--Alberta%22%29+OR+%28subjectAuthority%3A%22Farmers--Alberta--Political+activity%22%29&fl=id+authorAuthority+authorDates+subjectAuthority+authorityAuthority&rows=100		4	3.2
+	/mods/note/@type	solr		1	3.2
+	/mods/note	DOA: 1913 Spatial: Alberta		4	3.2
+	/mods/note/@type	local		1	3.2
+	/mods/note	Caption title.		4	3.2
+	/mods/note/@type	public		1	3.2
+	/mods/subject			5	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/name			1	3.2
+	/mods/subject/name/@type	personal		1	3.2
+	/mods/subject/name/namePart	United Farmers of Alberta		2	3.2
+	/mods/subject/name/namePart	Board		2	3.2
+	/mods/subject/topic	Political activity		1	3.2
+	/mods/subject			5	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/topic	Agriculture, Cooperative		1	3.2
+	/mods/subject/geographic	Alberta		1	3.2
+	/mods/subject			5	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/topic	Agriculture and politics		1	3.2
+	/mods/subject/geographic	Alberta		1	3.2
+	/mods/subject			5	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/topic	Agriculture and state		1	3.2
+	/mods/subject/geographic	Alberta		1	3.2
+	/mods/subject			5	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/topic	Farmers		2	3.2
+	/mods/subject/geographic	Alberta		1	3.2
+	/mods/subject/topic	Political activity		2	3.2
+	/mods/identifier	3979546		3	3.2
+	/mods/identifier/@type	local:neos		1	3.2
+	/mods/identifier	N008840		3	3.2
+	/mods/identifier/@type	local:peel_new		1	3.2
+	/mods/identifier	9467		3	3.2
+	/mods/identifier/@type	local:peel3		1	3.2
+	/mods/recordInfo			1	3.2
+	/mods/recordInfo/recordContentSource	fsalehi		2	3.2
+	/mods/recordInfo/recordContentSource	RC		2	3.2
+	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.2
+	/mods/recordInfo/recordCreationDate	2007-08-30T12:00:00-0700		1	3.2
+	/mods/recordInfo/recordIdentifier	P009467		1	3.2
+	/mods/recordInfo/recordChangeDate	2010-07-02T14:03:37-0600		1	3.2
+	/@mods	
+
+Manifesto to the farm people of Alberta
+Memorandum from Board of the U.F.A., with amendments passed by the Annual Convention, January, 1931
+
+
+United Farmers of Alberta.
+
+text
+
+
+abc
+
+
+[Calgary?]
+
+[United Farmers of Alberta?]
+[1931?]
+monographic
+
+
+eng
+
+
+print
+1 fold. sheet ([4] p.) ; 23 cm.
+
+Caption title.
+http://chelsea.library.ualberta.ca:8081/peel_master/select/?q=%28authorAuthority%3A%22United+Farmers+of+Alberta%22%29+OR+%28subjectAuthority%3A%22United+Farmers+of+AlbertaBoard--Political+activity%22%29+OR+%28subjectAuthority%3A%22Agriculture%2C+Cooperative--Alberta%22%29+OR+%28subjectAuthority%3A%22Agriculture+and+politics--Alberta%22%29+OR+%28subjectAuthority%3A%22Agriculture+and+state--Alberta%22%29+OR+%28subjectAuthority%3A%22Farmers--Alberta--Political+activity%22%29&fl=id+authorAuthority+authorDates+subjectAuthority+authorityAuthority&rows=100
+DOA: 1913 Spatial: Alberta
+Caption title.
+
+				
+United Farmers of Alberta
+Board
+
+			
+				Political activity
+			
+
+				Agriculture, Cooperative
+			
+				Alberta
+			
+
+				Agriculture and politics
+			
+				Alberta
+			
+
+				Agriculture and state
+			
+				Alberta
+			
+
+				Farmers
+			
+				Alberta
+			
+				Political activity
+			
+3979546
+N008840
+9467
+
+fsalehi
+RC
+2007-08-30T12:00:00-0700
+P009467
+2010-07-02T14:03:37-0600
+
+		1	3.2
+	

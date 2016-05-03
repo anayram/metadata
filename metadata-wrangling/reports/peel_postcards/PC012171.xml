@@ -1,0 +1,170 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		bstearns	PC012171	postcards	1	3.3
+	/mods/@version	3.3	bstearns	PC012171	postcards	1	3.3
+	/mods/titleInfo		bstearns	PC012171	postcards	1	3.3
+	/mods/titleInfo/@lang	english	bstearns	PC012171	postcards	1	3.3
+	/mods/titleInfo/title	First Street, Edmonton, Alberta	bstearns	PC012171	postcards	1	3.3
+	/mods/name		bstearns	PC012171	postcards	2	3.3
+	/mods/name/@type	personal	bstearns	PC012171	postcards	1	3.3
+	/mods/name/namePart	Spalding	bstearns	PC012171	postcards	2	3.3
+	/mods/name/namePart/@type	family	bstearns	PC012171	postcards	1	3.3
+	/mods/name/namePart	J. Fred	bstearns	PC012171	postcards	2	3.3
+	/mods/name/namePart/@type	given	bstearns	PC012171	postcards	1	3.3
+	/mods/name/role		bstearns	PC012171	postcards	1	3.3
+	/mods/name/role/roleTerm	Copyright holder [and photographer?]	bstearns	PC012171	postcards	1	3.3
+	/mods/name/role/roleTerm/@type	text	bstearns	PC012171	postcards	1	3.3
+	/mods/name		bstearns	PC012171	postcards	2	3.3
+	/mods/name/@type	corporate	bstearns	PC012171	postcards	1	3.3
+	/mods/name/namePart	The Camera Products Co.	bstearns	PC012171	postcards	1	3.3
+	/mods/name/role		bstearns	PC012171	postcards	1	3.3
+	/mods/name/role/roleTerm	Publisher	bstearns	PC012171	postcards	1	3.3
+	/mods/name/role/roleTerm/@type	text	bstearns	PC012171	postcards	1	3.3
+	/mods/typeOfResource	still image	bstearns	PC012171	postcards	1	3.3
+	/mods/genre	postcards	bstearns	PC012171	postcards	1	3.3
+	/mods/genre/@authority	gmgpc	bstearns	PC012171	postcards	1	3.3
+	/mods/originInfo		bstearns	PC012171	postcards	1	3.3
+	/mods/originInfo/issuance	monographic	bstearns	PC012171	postcards	1	3.3
+	/mods/originInfo/publisher	Published by The Camera Products Co., 1731, Dunbar Street, Vancouver, B.C.	bstearns	PC012171	postcards	1	3.3
+	/mods/originInfo/dateIssued	1935-1950	bstearns	PC012171	postcards	1	3.3
+	/mods/originInfo/dateIssued/@qualifier	inferred	bstearns	PC012171	postcards	1	3.3
+	/mods/originInfo/place		bstearns	PC012171	postcards	1	3.3
+	/mods/originInfo/place/placeTerm	Vancouver	bstearns	PC012171	postcards	1	3.3
+	/mods/originInfo/place/placeTerm/@type	text	bstearns	PC012171	postcards	1	3.3
+	/mods/language		bstearns	PC012171	postcards	1	3.3
+	/mods/language/languageTerm	English	bstearns	PC012171	postcards	1	3.3
+	/mods/language/languageTerm/@type	text	bstearns	PC012171	postcards	1	3.3
+	/mods/physicalDescription		bstearns	PC012171	postcards	1	3.3
+	/mods/physicalDescription/extent	1 postcard : col. ; 9 x 14 cm.	bstearns	PC012171	postcards	1	3.3
+	/mods/note	20	bstearns	PC012171	postcards	8	3.3
+	/mods/note/@type	price	bstearns	PC012171	postcards	1	3.3
+	/mods/note	false	bstearns	PC012171	postcards	8	3.3
+	/mods/note/@type	notable	bstearns	PC012171	postcards	1	3.3
+	/mods/note	false	bstearns	PC012171	postcards	8	3.3
+	/mods/note/@type	imgprobs	bstearns	PC012171	postcards	1	3.3
+	/mods/note	This is a Real Photograph. Hand Coloured.	bstearns	PC012171	postcards	8	3.3
+	/mods/note/@type	public_on_back	bstearns	PC012171	postcards	1	3.3
+	/mods/note	Copyright, J. Fred Spalding.	bstearns	PC012171	postcards	8	3.3
+	/mods/note/@type	public_on_back	bstearns	PC012171	postcards	1	3.3
+	/mods/note	Printed in England.	bstearns	PC012171	postcards	8	3.3
+	/mods/note/@type	public_on_front	bstearns	PC012171	postcards	1	3.3
+	/mods/note	[printer's no.] Edmonton Series No.67	bstearns	PC012171	postcards	8	3.3
+	/mods/note/@type	public_on_front	bstearns	PC012171	postcards	1	3.3
+	/mods/note	A view of 101 Street looking north from Jasper Avenue. The Rialto movie theatre, the Army & Navy department store, and the Tegler Building can be seen in the background.	bstearns	PC012171	postcards	8	3.3
+	/mods/note/@type	public_description	bstearns	PC012171	postcards	1	3.3
+	/mods/subject		bstearns	PC012171	postcards	7	3.3
+	/mods/subject/geographic	Edmonton, MB	bstearns	PC012171	postcards	1	3.3
+	/mods/subject		bstearns	PC012171	postcards	7	3.3
+	/mods/subject/hierarchicalGeographic		bstearns	PC012171	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/country	Canada	bstearns	PC012171	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/province	Alberta	bstearns	PC012171	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/city	Edmonton	bstearns	PC012171	postcards	1	3.3
+	/mods/subject		bstearns	PC012171	postcards	7	3.3
+	/mods/subject/genre	Postcards	bstearns	PC012171	postcards	1	3.3
+	/mods/subject		bstearns	PC012171	postcards	7	3.3
+	/mods/subject/topic	Commercial streets	bstearns	PC012171	postcards	1	3.3
+	/mods/subject		bstearns	PC012171	postcards	7	3.3
+	/mods/subject/topic	Automobiles	bstearns	PC012171	postcards	1	3.3
+	/mods/subject		bstearns	PC012171	postcards	7	3.3
+	/mods/subject/topic	Lampposts	bstearns	PC012171	postcards	1	3.3
+	/mods/subject		bstearns	PC012171	postcards	7	3.3
+	/mods/subject/topic	Traffic signs & signals	bstearns	PC012171	postcards	1	3.3
+	/mods/identifier	PC012171	bstearns	PC012171	postcards	1	3.3
+	/mods/identifier/@type	local	bstearns	PC012171	postcards	1	3.3
+	/mods/location		bstearns	PC012171	postcards	1	3.3
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 4 (set 2)	bstearns	PC012171	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC012171.html	bstearns	PC012171	postcards	3	3.3
+	/mods/location/url/@access	object in context	bstearns	PC012171	postcards	1	3.3
+	/mods/location/url/@usage	primary display	bstearns	PC012171	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/012/web/PC012171.jpg	bstearns	PC012171	postcards	3	3.3
+	/mods/location/url/@access	raw object	bstearns	PC012171	postcards	1	3.3
+	/mods/location/url/@note	width='800' height='509' 	bstearns	PC012171	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/012/thumbs/PC012171.jpg	bstearns	PC012171	postcards	3	3.3
+	/mods/location/url/@access	preview	bstearns	PC012171	postcards	1	3.3
+	/mods/location/url/@note	width='200' height='127'	bstearns	PC012171	postcards	1	3.3
+	/mods/recordInfo		bstearns	PC012171	postcards	1	3.3
+	/mods/recordInfo/recordCreationDate	2009-01-23T14:03:00-0700	bstearns	PC012171	postcards	1	3.3
+	/mods/recordInfo/recordIdentifier	PC012171	bstearns	PC012171	postcards	1	3.3
+	/mods/recordInfo/recordContentSource	bstearns	bstearns	PC012171	postcards	1	3.3
+	/mods/recordInfo/recordChangeDate	2009-12-08T14:14:43-0700	bstearns	PC012171	postcards	1	3.3
+	/@mods	
+
+First Street, Edmonton, Alberta
+
+
+Spalding
+J. Fred
+
+Copyright holder [and photographer?]
+
+
+
+The Camera Products Co.
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+Published by The Camera Products Co., 1731, Dunbar Street, Vancouver, B.C.
+1935-1950
+
+
+Vancouver
+
+
+
+English
+
+
+1 postcard : col. ; 9 x 14 cm.
+
+20
+false
+false
+This is a Real Photograph. Hand Coloured.
+Copyright, J. Fred Spalding.
+Printed in England.
+[printer's no.] Edmonton Series No.67
+A view of 101 Street looking north from Jasper Avenue. The Rialto movie theatre, the Army & Navy department store, and the Tegler Building can be seen in the background.
+
+Edmonton, MB
+
+
+
+Canada
+Alberta
+Edmonton
+
+
+
+Postcards
+
+
+Commercial streets
+
+
+Automobiles
+
+
+Lampposts
+
+
+Traffic signs & signals
+
+PC012171
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 4 (set 2)
+http://peel.library.ualberta.ca/postcards/PC012171.html
+http://peel.library.ualberta.ca/pcimages/PC/012/web/PC012171.jpg
+http://peel.library.ualberta.ca/pcimages/PC/012/thumbs/PC012171.jpg
+
+
+2009-01-23T14:03:00-0700
+PC012171
+bstearns
+2009-12-08T14:14:43-0700
+
+	bstearns	PC012171	postcards	1	3.3
+	

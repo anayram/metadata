@@ -1,0 +1,145 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		sfarnel	PC013221	postcards	1	3.3
+	/mods/@version	3.3	sfarnel	PC013221	postcards	1	3.3
+	/mods/titleInfo		sfarnel	PC013221	postcards	1	3.3
+	/mods/titleInfo/@lang	english	sfarnel	PC013221	postcards	1	3.3
+	/mods/titleInfo/title	11th Ave., Swift Current, Sask.	sfarnel	PC013221	postcards	1	3.3
+	/mods/name		sfarnel	PC013221	postcards	1	3.3
+	/mods/name/@type	corporate	sfarnel	PC013221	postcards	1	3.3
+	/mods/name/namePart	Rumsey & Co.	sfarnel	PC013221	postcards	1	3.3
+	/mods/name/role		sfarnel	PC013221	postcards	1	3.3
+	/mods/name/role/roleTerm	Publisher	sfarnel	PC013221	postcards	1	3.3
+	/mods/name/role/roleTerm/@type	text	sfarnel	PC013221	postcards	1	3.3
+	/mods/typeOfResource	still image	sfarnel	PC013221	postcards	1	3.3
+	/mods/genre	postcards	sfarnel	PC013221	postcards	1	3.3
+	/mods/genre/@authority	gmgpc	sfarnel	PC013221	postcards	1	3.3
+	/mods/originInfo		sfarnel	PC013221	postcards	1	3.3
+	/mods/originInfo/issuance	monographic	sfarnel	PC013221	postcards	1	3.3
+	/mods/originInfo/publisher	Rumsey & Co., 1528 Queen St. West. Toronto, Canada.	sfarnel	PC013221	postcards	1	3.3
+	/mods/originInfo/dateIssued	1912	sfarnel	PC013221	postcards	1	3.3
+	/mods/originInfo/dateIssued/@qualifier	approximate	sfarnel	PC013221	postcards	1	3.3
+	/mods/originInfo/place		sfarnel	PC013221	postcards	1	3.3
+	/mods/originInfo/place/placeTerm	Toronto	sfarnel	PC013221	postcards	1	3.3
+	/mods/originInfo/place/placeTerm/@type	text	sfarnel	PC013221	postcards	1	3.3
+	/mods/language		sfarnel	PC013221	postcards	1	3.3
+	/mods/language/languageTerm	English	sfarnel	PC013221	postcards	1	3.3
+	/mods/language/languageTerm/@type	text	sfarnel	PC013221	postcards	1	3.3
+	/mods/physicalDescription		sfarnel	PC013221	postcards	1	3.3
+	/mods/physicalDescription/extent	1 postcard : sepia ; 9 x 14 cm.	sfarnel	PC013221	postcards	1	3.3
+	/mods/note	25	sfarnel	PC013221	postcards	5	3.3
+	/mods/note/@type	price	sfarnel	PC013221	postcards	1	3.3
+	/mods/note	false	sfarnel	PC013221	postcards	5	3.3
+	/mods/note/@type	notable	sfarnel	PC013221	postcards	1	3.3
+	/mods/note	false	sfarnel	PC013221	postcards	5	3.3
+	/mods/note/@type	imgprobs	sfarnel	PC013221	postcards	1	3.3
+	/mods/note	[printer's no.] 236475	sfarnel	PC013221	postcards	5	3.3
+	/mods/note/@type	public_on_back	sfarnel	PC013221	postcards	1	3.3
+	/mods/note	View of Central Avenue, Swift Current. The signs of various businesses - including the Imperial Hotel and The W.W.Cooper Ltd., Department Store - are visible. Numerous figures are shown crossing the street and standing and walking on the sidewalks.	sfarnel	PC013221	postcards	5	3.3
+	/mods/note/@type	public_description	sfarnel	PC013221	postcards	1	3.3
+	/mods/subject		sfarnel	PC013221	postcards	7	3.3
+	/mods/subject/geographic	Swift Current, MB	sfarnel	PC013221	postcards	1	3.3
+	/mods/subject		sfarnel	PC013221	postcards	7	3.3
+	/mods/subject/hierarchicalGeographic		sfarnel	PC013221	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/country	Canada	sfarnel	PC013221	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/province	Saskatchewan	sfarnel	PC013221	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/city	Swift Current	sfarnel	PC013221	postcards	1	3.3
+	/mods/subject		sfarnel	PC013221	postcards	7	3.3
+	/mods/subject/genre	Postcards	sfarnel	PC013221	postcards	1	3.3
+	/mods/subject		sfarnel	PC013221	postcards	7	3.3
+	/mods/subject/topic	Commercial streets	sfarnel	PC013221	postcards	1	3.3
+	/mods/subject		sfarnel	PC013221	postcards	7	3.3
+	/mods/subject/topic	Stores & shops	sfarnel	PC013221	postcards	1	3.3
+	/mods/subject		sfarnel	PC013221	postcards	7	3.3
+	/mods/subject/topic	Pedestrians	sfarnel	PC013221	postcards	1	3.3
+	/mods/subject		sfarnel	PC013221	postcards	7	3.3
+	/mods/subject/topic	Hotels	sfarnel	PC013221	postcards	1	3.3
+	/mods/identifier	PC013221	sfarnel	PC013221	postcards	1	3.3
+	/mods/identifier/@type	local	sfarnel	PC013221	postcards	1	3.3
+	/mods/location		sfarnel	PC013221	postcards	1	3.3
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 4 (set 2)	sfarnel	PC013221	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC013221.html	sfarnel	PC013221	postcards	3	3.3
+	/mods/location/url/@access	object in context	sfarnel	PC013221	postcards	1	3.3
+	/mods/location/url/@usage	primary display	sfarnel	PC013221	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/013/web/PC013221.jpg	sfarnel	PC013221	postcards	3	3.3
+	/mods/location/url/@access	raw object	sfarnel	PC013221	postcards	1	3.3
+	/mods/location/url/@note	width='1104' height='693' 	sfarnel	PC013221	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/013/thumbs/PC013221.jpg	sfarnel	PC013221	postcards	3	3.3
+	/mods/location/url/@access	preview	sfarnel	PC013221	postcards	1	3.3
+	/mods/location/url/@note	width='200' height='126'	sfarnel	PC013221	postcards	1	3.3
+	/mods/recordInfo		sfarnel	PC013221	postcards	1	3.3
+	/mods/recordInfo/recordCreationDate	2009-01-23T14:03:00-0700	sfarnel	PC013221	postcards	1	3.3
+	/mods/recordInfo/recordIdentifier	PC013221	sfarnel	PC013221	postcards	1	3.3
+	/mods/recordInfo/recordContentSource	sfarnel	sfarnel	PC013221	postcards	1	3.3
+	/mods/recordInfo/recordChangeDate	2009-11-09T13:01:52-0700	sfarnel	PC013221	postcards	1	3.3
+	/@mods	
+
+11th Ave., Swift Current, Sask.
+
+
+Rumsey & Co.
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+Rumsey & Co., 1528 Queen St. West. Toronto, Canada.
+1912
+
+
+Toronto
+
+
+
+English
+
+
+1 postcard : sepia ; 9 x 14 cm.
+
+25
+false
+false
+[printer's no.] 236475
+View of Central Avenue, Swift Current. The signs of various businesses - including the Imperial Hotel and The W.W.Cooper Ltd., Department Store - are visible. Numerous figures are shown crossing the street and standing and walking on the sidewalks.
+
+Swift Current, MB
+
+
+
+Canada
+Saskatchewan
+Swift Current
+
+
+
+Postcards
+
+
+Commercial streets
+
+
+Stores & shops
+
+
+Pedestrians
+
+
+Hotels
+
+PC013221
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 4 (set 2)
+http://peel.library.ualberta.ca/postcards/PC013221.html
+http://peel.library.ualberta.ca/pcimages/PC/013/web/PC013221.jpg
+http://peel.library.ualberta.ca/pcimages/PC/013/thumbs/PC013221.jpg
+
+
+2009-01-23T14:03:00-0700
+PC013221
+sfarnel
+2009-11-09T13:01:52-0700
+
+	sfarnel	PC013221	postcards	1	3.3
+	

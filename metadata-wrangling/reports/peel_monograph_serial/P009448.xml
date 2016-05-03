@@ -1,0 +1,102 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.2
+	/mods/@version	3.2		1	3.2
+	/mods/titleInfo			1	3.2
+	/mods/titleInfo/title	Saskatchewan's first station		1	3.2
+	/mods/titleInfo/subTitle	C.K.C.K. radio album		1	3.2
+	/mods/typeOfResource	text		1	3.2
+	/mods/originInfo			1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	snc		1	3.2
+	/mods/originInfo/place/placeTerm/@authority	marccountry		1	3.2
+	/mods/originInfo/place/placeTerm/@type	code		1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	Regina		1	3.2
+	/mods/originInfo/place/placeTerm/@type	text		1	3.2
+	/mods/originInfo/publisher	Air Adds		1	3.2
+	/mods/originInfo/dateIssued	[ca. 1952]		1	3.2
+	/mods/originInfo/issuance	monographic		1	3.2
+	/mods/language			1	3.2
+	/mods/language/languageTerm	eng		1	3.2
+	/mods/language/languageTerm/@authority	iso639-2b		1	3.2
+	/mods/language/languageTerm/@type	code		1	3.2
+	/mods/physicalDescription			1	3.2
+	/mods/physicalDescription/form	print		1	3.2
+	/mods/physicalDescription/form/@authority	marcform		1	3.2
+	/mods/physicalDescription/extent	28 p. : ill. ; 21 x 28 cm.		1	3.2
+	/mods/note	http://chelsea.library.ualberta.ca:8081/peel_master/select/?q=%28subjectAuthority%3A%22Radio+stations--Regina+%28Sask.%29--History%22%29&fl=id+authorAuthority+authorDates+subjectAuthority+authorityAuthority&rows=100		3	3.2
+	/mods/note/@type	solr		1	3.2
+	/mods/note	DOA: 1952 Spatial: Regina (Sask.)		3	3.2
+	/mods/note/@type	local		1	3.2
+	/mods/note	Cover title. Souvenir item highlighting the programming and personalities of a Regina radio station. Undated, but internal evidence indicates a publication date during the early 1950s. The book contains a picture of Saskatchewan Roughriders’ quarterback Glen Dobbs – Dobbs played in Regina between 1951 and 1953.		3	3.2
+	/mods/note/@type	public		1	3.2
+	/mods/subject			1	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/topic	Radio stations		2	3.2
+	/mods/subject/geographic	Regina (Sask.)		1	3.2
+	/mods/subject/topic	History		2	3.2
+	/mods/classification	HE8699 .C2 S27 1951		2	3.2
+	/mods/classification/@authority	lcc		1	3.2
+	/mods/classification	384.5453		2	3.2
+	/mods/classification/@authority	ddc		1	3.2
+	/mods/identifier	3979533		3	3.2
+	/mods/identifier/@type	local:neos		1	3.2
+	/mods/identifier	N008819		3	3.2
+	/mods/identifier/@type	local:peel_new		1	3.2
+	/mods/identifier	9448		3	3.2
+	/mods/identifier/@type	local:peel3		1	3.2
+	/mods/recordInfo			1	3.2
+	/mods/recordInfo/recordContentSource	fsalehi		2	3.2
+	/mods/recordInfo/recordContentSource	RC		2	3.2
+	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.2
+	/mods/recordInfo/recordCreationDate	2007-08-29T12:00:00-0700		1	3.2
+	/mods/recordInfo/recordIdentifier	P009448		1	3.2
+	/mods/recordInfo/recordChangeDate	2010-06-13T15:38:32-0600		1	3.2
+	/@mods	
+
+Saskatchewan's first station
+C.K.C.K. radio album
+
+text
+
+
+snc
+
+
+Regina
+
+Air Adds
+[ca. 1952]
+monographic
+
+
+eng
+
+
+print
+28 p. : ill. ; 21 x 28 cm.
+
+http://chelsea.library.ualberta.ca:8081/peel_master/select/?q=%28subjectAuthority%3A%22Radio+stations--Regina+%28Sask.%29--History%22%29&fl=id+authorAuthority+authorDates+subjectAuthority+authorityAuthority&rows=100
+DOA: 1952 Spatial: Regina (Sask.)
+Cover title. Souvenir item highlighting the programming and personalities of a Regina radio station. Undated, but internal evidence indicates a publication date during the early 1950s. The book contains a picture of Saskatchewan Roughriders’ quarterback Glen Dobbs – Dobbs played in Regina between 1951 and 1953.
+
+				Radio stations
+			
+				Regina (Sask.)
+			
+				History
+			
+HE8699 .C2 S27 1951
+384.5453
+3979533
+N008819
+9448
+
+fsalehi
+RC
+2007-08-29T12:00:00-0700
+P009448
+2010-06-13T15:38:32-0600
+
+		1	3.2
+	

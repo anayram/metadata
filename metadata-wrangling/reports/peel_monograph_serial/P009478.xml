@@ -1,0 +1,117 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.2
+	/mods/@version	3.2		1	3.2
+	/mods/titleInfo			1	3.2
+	/mods/titleInfo/title	Canadian Post Office		1	3.2
+	/mods/titleInfo/nonSort	The 		1	3.2
+	/mods/name			1	3.2
+	/mods/name/@type	personal		1	3.2
+	/mods/name/namePart	Bastin, K. A		1	3.2
+	/mods/typeOfResource	text		1	3.2
+	/mods/originInfo			1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	onc		1	3.2
+	/mods/originInfo/place/placeTerm/@authority	marccountry		1	3.2
+	/mods/originInfo/place/placeTerm/@type	code		1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	Hamilton		1	3.2
+	/mods/originInfo/place/placeTerm/@type	text		1	3.2
+	/mods/originInfo/publisher	School Publications & Specialties Limited		1	3.2
+	/mods/originInfo/dateIssued	c1941		2	3.2
+	/mods/originInfo/dateIssued	1941		2	3.2
+	/mods/originInfo/dateIssued/@encoding	marc		1	3.2
+	/mods/originInfo/issuance	monographic		1	3.2
+	/mods/language			1	3.2
+	/mods/language/languageTerm	eng		1	3.2
+	/mods/language/languageTerm/@authority	iso639-2b		1	3.2
+	/mods/language/languageTerm/@type	code		1	3.2
+	/mods/physicalDescription			1	3.2
+	/mods/physicalDescription/form	print		1	3.2
+	/mods/physicalDescription/form/@authority	marcform		1	3.2
+	/mods/physicalDescription/extent	32 p. : ill. ; 22 cm.		1	3.2
+	/mods/note	by K. A. Baslin.		4	3.2
+	/mods/note/@type	statement of responsibility		1	3.2
+	/mods/note	http://chelsea.library.ualberta.ca:8081/peel_master/select/?q=%28authorAuthority%3A%22Bastin%2C+K.+A%22%29+OR+%28subjectAuthority%3A%22Canada.Post+Office+Dept%22%29+OR+%28subjectAuthority%3A%22Postal+service%22%29&fl=id+authorAuthority+authorDates+subjectAuthority+authorityAuthority&rows=100		4	3.2
+	/mods/note/@type	solr		1	3.2
+	/mods/note	DOA: 1941 Spatial: Saskatoon (Sask.)		4	3.2
+	/mods/note/@type	local		1	3.2
+	/mods/note	Cover title. Educational booklet in which a Saskatoon boy learns about the activities of the postal service.		4	3.2
+	/mods/note/@type	public		1	3.2
+	/mods/subject			2	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/name			1	3.2
+	/mods/subject/name/@type	personal		1	3.2
+	/mods/subject/name/namePart	Canada.		2	3.2
+	/mods/subject/name/namePart	Post Office Dept		2	3.2
+	/mods/subject			2	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/topic	Postal service		1	3.2
+	/mods/classification	HE6655 .B37 1941		1	3.2
+	/mods/classification/@authority	lcc		1	3.2
+	/mods/identifier	3979589		3	3.2
+	/mods/identifier/@type	local:neos		1	3.2
+	/mods/identifier	N008851		3	3.2
+	/mods/identifier/@type	local:peel_new		1	3.2
+	/mods/identifier	9478		3	3.2
+	/mods/identifier/@type	local:peel3		1	3.2
+	/mods/recordInfo			1	3.2
+	/mods/recordInfo/recordContentSource	fsalehi		2	3.2
+	/mods/recordInfo/recordContentSource	RC		2	3.2
+	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.2
+	/mods/recordInfo/recordCreationDate	2007-08-24T12:00:00-0700		1	3.2
+	/mods/recordInfo/recordIdentifier	P009478		1	3.2
+	/mods/recordInfo/recordChangeDate	2010-07-02T11:43:43-0600		1	3.2
+	/@mods	
+
+Canadian Post Office
+The 
+
+
+Bastin, K. A
+
+text
+
+
+onc
+
+
+Hamilton
+
+School Publications & Specialties Limited
+c1941
+1941
+monographic
+
+
+eng
+
+
+print
+32 p. : ill. ; 22 cm.
+
+by K. A. Baslin.
+http://chelsea.library.ualberta.ca:8081/peel_master/select/?q=%28authorAuthority%3A%22Bastin%2C+K.+A%22%29+OR+%28subjectAuthority%3A%22Canada.Post+Office+Dept%22%29+OR+%28subjectAuthority%3A%22Postal+service%22%29&fl=id+authorAuthority+authorDates+subjectAuthority+authorityAuthority&rows=100
+DOA: 1941 Spatial: Saskatoon (Sask.)
+Cover title. Educational booklet in which a Saskatoon boy learns about the activities of the postal service.
+
+				
+Canada.
+Post Office Dept
+
+			
+
+				Postal service
+			
+HE6655 .B37 1941
+3979589
+N008851
+9478
+
+fsalehi
+RC
+2007-08-24T12:00:00-0700
+P009478
+2010-07-02T11:43:43-0600
+
+		1	3.2
+	

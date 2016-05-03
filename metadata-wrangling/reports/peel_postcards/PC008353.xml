@@ -1,0 +1,171 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		fsalehi	PC008353	postcards	1	3.2
+	/mods/@version	3.2	fsalehi	PC008353	postcards	1	3.2
+	/mods/titleInfo		fsalehi	PC008353	postcards	1	3.2
+	/mods/titleInfo/@lang	english	fsalehi	PC008353	postcards	1	3.2
+	/mods/titleInfo/title	Mt. Edith Cavell, Jasper Park	fsalehi	PC008353	postcards	1	3.2
+	/mods/name		fsalehi	PC008353	postcards	2	3.2
+	/mods/name/@type	personal	fsalehi	PC008353	postcards	1	3.2
+	/mods/name/namePart	Taylor	fsalehi	PC008353	postcards	2	3.2
+	/mods/name/namePart/@type	family	fsalehi	PC008353	postcards	1	3.2
+	/mods/name/namePart	G. Morris	fsalehi	PC008353	postcards	2	3.2
+	/mods/name/namePart/@type	given	fsalehi	PC008353	postcards	1	3.2
+	/mods/name/role		fsalehi	PC008353	postcards	1	3.2
+	/mods/name/role/roleTerm	Photographer	fsalehi	PC008353	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC008353	postcards	1	3.2
+	/mods/name		fsalehi	PC008353	postcards	2	3.2
+	/mods/name/@type	corporate	fsalehi	PC008353	postcards	1	3.2
+	/mods/name/namePart	Canadian National Railway, Jasper Park Lodge	fsalehi	PC008353	postcards	1	3.2
+	/mods/name/role		fsalehi	PC008353	postcards	1	3.2
+	/mods/name/role/roleTerm	Published for	fsalehi	PC008353	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC008353	postcards	1	3.2
+	/mods/typeOfResource	still image	fsalehi	PC008353	postcards	1	3.2
+	/mods/genre	postcards	fsalehi	PC008353	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	fsalehi	PC008353	postcards	1	3.2
+	/mods/originInfo		fsalehi	PC008353	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	fsalehi	PC008353	postcards	1	3.2
+	/mods/originInfo/publisher	G. Morris Taylor, Jasper, Alberta.	fsalehi	PC008353	postcards	1	3.2
+	/mods/originInfo/dateIssued	after 1930	fsalehi	PC008353	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	inferred	fsalehi	PC008353	postcards	1	3.2
+	/mods/originInfo/place		fsalehi	PC008353	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	Jasper	fsalehi	PC008353	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC008353	postcards	1	3.2
+	/mods/language		fsalehi	PC008353	postcards	1	3.2
+	/mods/language/languageTerm	English	fsalehi	PC008353	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	fsalehi	PC008353	postcards	1	3.2
+	/mods/physicalDescription		fsalehi	PC008353	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : sepia ; 14 x 9 cm.	fsalehi	PC008353	postcards	1	3.2
+	/mods/note	10	fsalehi	PC008353	postcards	4	3.2
+	/mods/note/@type	price	fsalehi	PC008353	postcards	1	3.2
+	/mods/note	false	fsalehi	PC008353	postcards	4	3.2
+	/mods/note/@type	notable	fsalehi	PC008353	postcards	1	3.2
+	/mods/note	false	fsalehi	PC008353	postcards	4	3.2
+	/mods/note/@type	imgprobs	fsalehi	PC008353	postcards	1	3.2
+	/mods/note	Mount Edith Cavell, located in the Athabasca River and Astoria River Valleys east of Verdant Creek, Jasper National Park, Alberta.  Major headwater Athabasca River. The mountain was named in 1916 for Edith Cavell, an English nurse executed by the Germans during World War I for having helped allied solders escape from occupied Belgium to the Netherlands, in violation of military law.	fsalehi	PC008353	postcards	4	3.2
+	/mods/note/@type	public_description	fsalehi	PC008353	postcards	1	3.2
+	/mods/subject		fsalehi	PC008353	postcards	8	3.2
+	/mods/subject/geographic	Jasper, AB	fsalehi	PC008353	postcards	1	3.2
+	/mods/subject		fsalehi	PC008353	postcards	8	3.2
+	/mods/subject/hierarchicalGeographic		fsalehi	PC008353	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	fsalehi	PC008353	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	fsalehi	PC008353	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city		fsalehi	PC008353	postcards	1	3.2
+	/mods/subject		fsalehi	PC008353	postcards	8	3.2
+	/mods/subject/genre	Postcards	fsalehi	PC008353	postcards	1	3.2
+	/mods/subject		fsalehi	PC008353	postcards	8	3.2
+	/mods/subject/topic	Rivers	fsalehi	PC008353	postcards	1	3.2
+	/mods/subject		fsalehi	PC008353	postcards	8	3.2
+	/mods/subject/topic	Mountains	fsalehi	PC008353	postcards	1	3.2
+	/mods/subject		fsalehi	PC008353	postcards	8	3.2
+	/mods/subject/topic	Forests	fsalehi	PC008353	postcards	1	3.2
+	/mods/subject		fsalehi	PC008353	postcards	8	3.2
+	/mods/subject/name		fsalehi	PC008353	postcards	1	3.2
+	/mods/subject/name/namePart	Edith Cavell, Mount (Alta.)	fsalehi	PC008353	postcards	1	3.2
+	/mods/subject		fsalehi	PC008353	postcards	8	3.2
+	/mods/subject/name		fsalehi	PC008353	postcards	1	3.2
+	/mods/subject/name/namePart	Jasper National Park (Alta.)	fsalehi	PC008353	postcards	1	3.2
+	/mods/identifier	PC008353	fsalehi	PC008353	postcards	1	3.2
+	/mods/identifier/@type	local	fsalehi	PC008353	postcards	1	3.2
+	/mods/location		fsalehi	PC008353	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 12	fsalehi	PC008353	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC008353.html	fsalehi	PC008353	postcards	3	3.2
+	/mods/location/url/@access	object in context	fsalehi	PC008353	postcards	1	3.2
+	/mods/location/url/@usage	primary display	fsalehi	PC008353	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/008/web/PC008353.jpg	fsalehi	PC008353	postcards	3	3.2
+	/mods/location/url/@access	raw object	fsalehi	PC008353	postcards	1	3.2
+	/mods/location/url/@note	width='500' height='800' 	fsalehi	PC008353	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/008/thumbs/PC008353.jpg	fsalehi	PC008353	postcards	3	3.2
+	/mods/location/url/@access	preview	fsalehi	PC008353	postcards	1	3.2
+	/mods/location/url/@note	width='125' height='200'	fsalehi	PC008353	postcards	1	3.2
+	/mods/recordInfo		fsalehi	PC008353	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	fsalehi	PC008353	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC008353	fsalehi	PC008353	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	fsalehi	fsalehi	PC008353	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2009-05-28T13:56:26-0600	fsalehi	PC008353	postcards	1	3.2
+	/@mods	
+
+Mt. Edith Cavell, Jasper Park
+
+
+Taylor
+G. Morris
+
+Photographer
+
+
+
+Canadian National Railway, Jasper Park Lodge
+
+Published for
+
+
+still image
+postcards
+
+monographic
+G. Morris Taylor, Jasper, Alberta.
+after 1930
+
+
+Jasper
+
+
+
+English
+
+
+1 postcard : sepia ; 14 x 9 cm.
+
+10
+false
+false
+Mount Edith Cavell, located in the Athabasca River and Astoria River Valleys east of Verdant Creek, Jasper National Park, Alberta.  Major headwater Athabasca River. The mountain was named in 1916 for Edith Cavell, an English nurse executed by the Germans during World War I for having helped allied solders escape from occupied Belgium to the Netherlands, in violation of military law.
+
+Jasper, AB
+
+
+
+Canada
+Alberta
+
+
+
+
+Postcards
+
+
+Rivers
+
+
+Mountains
+
+
+Forests
+
+
+
+Edith Cavell, Mount (Alta.)
+
+
+
+
+Jasper National Park (Alta.)
+
+
+PC008353
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 12
+http://peel.library.ualberta.ca/postcards/PC008353.html
+http://peel.library.ualberta.ca/pcimages/PC/008/web/PC008353.jpg
+http://peel.library.ualberta.ca/pcimages/PC/008/thumbs/PC008353.jpg
+
+
+
+
+2007-06-25T16:49:56-0600
+PC008353
+fsalehi
+2009-05-28T13:56:26-0600
+
+	fsalehi	PC008353	postcards	1	3.2
+	

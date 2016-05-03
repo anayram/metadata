@@ -1,0 +1,170 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		bstearns	PC010923	postcards	1	3.2
+	/mods/@version	3.2	bstearns	PC010923	postcards	1	3.2
+	/mods/titleInfo		bstearns	PC010923	postcards	1	3.2
+	/mods/titleInfo/@lang	english	bstearns	PC010923	postcards	1	3.2
+	/mods/titleInfo/title	Alexandra School, Wetaskiwin, Alta.	bstearns	PC010923	postcards	1	3.2
+	/mods/name		bstearns	PC010923	postcards	2	3.2
+	/mods/name/@type	personal	bstearns	PC010923	postcards	1	3.2
+	/mods/name/namePart	Stephenson	bstearns	PC010923	postcards	2	3.2
+	/mods/name/namePart/@type	family	bstearns	PC010923	postcards	1	3.2
+	/mods/name/namePart	W.J.	bstearns	PC010923	postcards	2	3.2
+	/mods/name/namePart/@type	given	bstearns	PC010923	postcards	1	3.2
+	/mods/name/role		bstearns	PC010923	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	bstearns	PC010923	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	bstearns	PC010923	postcards	1	3.2
+	/mods/name		bstearns	PC010923	postcards	2	3.2
+	/mods/name/@type	corporate	bstearns	PC010923	postcards	1	3.2
+	/mods/name/namePart	Warwick Bro's & Rutter, Limited	bstearns	PC010923	postcards	1	3.2
+	/mods/name/role		bstearns	PC010923	postcards	1	3.2
+	/mods/name/role/roleTerm	Printers	bstearns	PC010923	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	bstearns	PC010923	postcards	1	3.2
+	/mods/typeOfResource	still image	bstearns	PC010923	postcards	1	3.2
+	/mods/genre	postcards	bstearns	PC010923	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	bstearns	PC010923	postcards	1	3.2
+	/mods/originInfo		bstearns	PC010923	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	bstearns	PC010923	postcards	1	3.2
+	/mods/originInfo/publisher	Published for W.J. Stephenson, Wetaskiwin, Alta.	bstearns	PC010923	postcards	1	3.2
+	/mods/originInfo/dateIssued	1920-1950	bstearns	PC010923	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	approximate	bstearns	PC010923	postcards	1	3.2
+	/mods/originInfo/place		bstearns	PC010923	postcards	2	3.2
+	/mods/originInfo/place/placeTerm	Wetaskiwin	bstearns	PC010923	postcards	1	3.2
+	/mods/originInfo/place		bstearns	PC010923	postcards	2	3.2
+	/mods/originInfo/place/placeTerm	Toronto	bstearns	PC010923	postcards	1	3.2
+	/mods/language		bstearns	PC010923	postcards	1	3.2
+	/mods/language/languageTerm	English	bstearns	PC010923	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	bstearns	PC010923	postcards	1	3.2
+	/mods/physicalDescription		bstearns	PC010923	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : col. ; 9 x 14 cm.	bstearns	PC010923	postcards	1	3.2
+	/mods/note	25	bstearns	PC010923	postcards	5	3.2
+	/mods/note/@type	price	bstearns	PC010923	postcards	1	3.2
+	/mods/note	false	bstearns	PC010923	postcards	5	3.2
+	/mods/note/@type	notable	bstearns	PC010923	postcards	1	3.2
+	/mods/note	false	bstearns	PC010923	postcards	5	3.2
+	/mods/note/@type	imgprobs	bstearns	PC010923	postcards	1	3.2
+	/mods/note	Canadian Souvenir Post Card	bstearns	PC010923	postcards	5	3.2
+	/mods/note/@type	public_on_back	bstearns	PC010923	postcards	1	3.2
+	/mods/note	Three-story brick building with what appears to be a bell tower located at the front entrance.	bstearns	PC010923	postcards	5	3.2
+	/mods/note/@type	public_description	bstearns	PC010923	postcards	1	3.2
+	/mods/subject		bstearns	PC010923	postcards	7	3.2
+	/mods/subject/geographic	Wetaskiwin, AB	bstearns	PC010923	postcards	1	3.2
+	/mods/subject		bstearns	PC010923	postcards	7	3.2
+	/mods/subject/hierarchicalGeographic		bstearns	PC010923	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	bstearns	PC010923	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	bstearns	PC010923	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Wetaskiwin	bstearns	PC010923	postcards	1	3.2
+	/mods/subject		bstearns	PC010923	postcards	7	3.2
+	/mods/subject/genre	Postcards	bstearns	PC010923	postcards	1	3.2
+	/mods/subject		bstearns	PC010923	postcards	7	3.2
+	/mods/subject/topic	Schools	bstearns	PC010923	postcards	1	3.2
+	/mods/subject		bstearns	PC010923	postcards	7	3.2
+	/mods/subject/topic	Educational facilities	bstearns	PC010923	postcards	1	3.2
+	/mods/subject		bstearns	PC010923	postcards	7	3.2
+	/mods/subject/topic	Bell towers	bstearns	PC010923	postcards	1	3.2
+	/mods/subject		bstearns	PC010923	postcards	7	3.2
+	/mods/subject/name		bstearns	PC010923	postcards	1	3.2
+	/mods/subject/name/@type	corporate	bstearns	PC010923	postcards	1	3.2
+	/mods/subject/name/namePart	Alexandra School (Wetaskiwin, Alta.)	bstearns	PC010923	postcards	1	3.2
+	/mods/identifier	PC010923	bstearns	PC010923	postcards	1	3.2
+	/mods/identifier/@type	local	bstearns	PC010923	postcards	1	3.2
+	/mods/location		bstearns	PC010923	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 2	bstearns	PC010923	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC010923.html	bstearns	PC010923	postcards	3	3.2
+	/mods/location/url/@access	object in context	bstearns	PC010923	postcards	1	3.2
+	/mods/location/url/@usage	primary display	bstearns	PC010923	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/010/web/PC010923.jpg	bstearns	PC010923	postcards	3	3.2
+	/mods/location/url/@access	raw object	bstearns	PC010923	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='539' 	bstearns	PC010923	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/010/thumbs/PC010923.jpg	bstearns	PC010923	postcards	3	3.2
+	/mods/location/url/@access	preview	bstearns	PC010923	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='135'	bstearns	PC010923	postcards	1	3.2
+	/mods/recordInfo		bstearns	PC010923	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2009-01-19T16:18:42-0700	bstearns	PC010923	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC010923	bstearns	PC010923	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	bstearns	bstearns	PC010923	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2009-11-04T10:44:56-0700	bstearns	PC010923	postcards	1	3.2
+	/@mods	
+
+Alexandra School, Wetaskiwin, Alta.
+
+
+Stephenson
+W.J.
+
+Publisher
+
+
+
+Warwick Bro's & Rutter, Limited
+
+Printers
+
+
+still image
+postcards
+
+monographic
+Published for W.J. Stephenson, Wetaskiwin, Alta.
+1920-1950
+
+
+
+Wetaskiwin
+
+
+Toronto
+
+
+
+English
+
+
+1 postcard : col. ; 9 x 14 cm.
+
+25
+false
+false
+Canadian Souvenir Post Card
+Three-story brick building with what appears to be a bell tower located at the front entrance.
+
+Wetaskiwin, AB
+
+
+
+Canada
+Alberta
+Wetaskiwin
+
+
+
+Postcards
+
+
+Schools
+
+
+Educational facilities
+
+
+Bell towers
+
+
+
+Alexandra School (Wetaskiwin, Alta.)
+
+
+PC010923
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 2
+http://peel.library.ualberta.ca/postcards/PC010923.html
+http://peel.library.ualberta.ca/pcimages/PC/010/web/PC010923.jpg
+http://peel.library.ualberta.ca/pcimages/PC/010/thumbs/PC010923.jpg
+
+
+2009-01-19T16:18:42-0700
+PC010923
+bstearns
+2009-11-04T10:44:56-0700
+
+	bstearns	PC010923	postcards	1	3.2
+	

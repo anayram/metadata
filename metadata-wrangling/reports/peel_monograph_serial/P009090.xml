@@ -1,0 +1,116 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.2
+	/mods/@version	3.2		1	3.2
+	/mods/titleInfo			2	3.2
+	/mods/titleInfo/title	sound for all seasons		1	3.2
+	/mods/titleInfo/subTitle	C.K.U.A.'s 60th anniversary		1	3.2
+	/mods/titleInfo/nonSort	A 		1	3.2
+	/mods/titleInfo			2	3.2
+	/mods/titleInfo/@type	alternative		1	3.2
+	/mods/titleInfo/title	sound for all seasons		1	3.2
+	/mods/titleInfo/subTitle	C.K.U.A.'s sixtieth anniversary		1	3.2
+	/mods/titleInfo/nonSort	A 		1	3.2
+	/mods/name			1	3.2
+	/mods/name/@type	corporate		1	3.2
+	/mods/name/namePart	Alberta Educational Communications Corporation		1	3.2
+	/mods/typeOfResource	text		1	3.2
+	/mods/originInfo			1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	abc		1	3.2
+	/mods/originInfo/place/placeTerm/@authority	marccountry		1	3.2
+	/mods/originInfo/place/placeTerm/@type	code		1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	[Edmonton]		1	3.2
+	/mods/originInfo/place/placeTerm/@type	text		1	3.2
+	/mods/originInfo/publisher	Access Network, Alberta Educational Communications Corporation		1	3.2
+	/mods/originInfo/dateIssued	1987		1	3.2
+	/mods/originInfo/issuance	monographic		1	3.2
+	/mods/language			1	3.2
+	/mods/language/languageTerm	eng		1	3.2
+	/mods/language/languageTerm/@authority	iso639-2b		1	3.2
+	/mods/language/languageTerm/@type	code		1	3.2
+	/mods/physicalDescription			1	3.2
+	/mods/physicalDescription/form	print		1	3.2
+	/mods/physicalDescription/form/@authority	marcform		1	3.2
+	/mods/physicalDescription/extent	50 p. : ill., ports. ; 28 cm.		1	3.2
+	/mods/note	uahistory		3	3.2
+	/mods/note/@type	local:oaiset		1	3.2
+	/mods/note	DOA: 1927 Spatial: Edmonton (Alta.)		3	3.2
+	/mods/note/@type	local		1	3.2
+	/mods/note	Cover title. Collection of brief essays on the history of an Edmonton public radio station. Contains Joe McCallum, “C.K.U.A. and sixty wondrous years of radio”; Edward Jordon, “Recollections of C.K.U.A.”; Alex Mair. “It’s all a matter of record”; John Runge, “MAGIC: A technical history of C.K.U.A.”; Sharon Vasey, “News and public affairs”; Holger Peterson, “C.K.U.A.’s music”; N. Breuer and Jackie Rollans, “The longest-running radio program in the world”; Jackie Rollans, “Into the ACCESS era”; and Don Thomas, “Radio: The first words.”		3	3.2
+	/mods/note/@type	public		1	3.2
+	/mods/subject			2	3.2
+	/mods/subject/geographicCode	n-cn-ab		1	3.2
+	/mods/subject/geographicCode/@authority	marcgac		1	3.2
+	/mods/subject			2	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/name			1	3.2
+	/mods/subject/name/@type	personal		1	3.2
+	/mods/subject/name/namePart	CKUA (Radio station : Edmonton, Alta.)		1	3.2
+	/mods/subject/topic	History		1	3.2
+	/mods/identifier	996206		2	3.2
+	/mods/identifier/@type	local:neos		1	3.2
+	/mods/identifier	9090		2	3.2
+	/mods/identifier/@type	local:peel3		1	3.2
+	/mods/recordInfo			1	3.2
+	/mods/recordInfo/recordContentSource	RC		1	3.2
+	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.2
+	/mods/recordInfo/recordCreationDate	2008-09-10T15:47:21-0600		1	3.2
+	/mods/recordInfo/recordIdentifier	P009090		1	3.2
+	/mods/recordInfo/recordChangeDate	2010-04-05T18:01:29-0600		1	3.2
+	/@mods	
+
+sound for all seasons
+C.K.U.A.'s 60th anniversary
+A 
+
+
+sound for all seasons
+C.K.U.A.'s sixtieth anniversary
+A 
+
+
+Alberta Educational Communications Corporation
+
+text
+
+
+abc
+
+
+[Edmonton]
+
+Access Network, Alberta Educational Communications Corporation
+1987
+monographic
+
+
+eng
+
+
+print
+50 p. : ill., ports. ; 28 cm.
+
+uahistory
+DOA: 1927 Spatial: Edmonton (Alta.)
+Cover title. Collection of brief essays on the history of an Edmonton public radio station. Contains Joe McCallum, “C.K.U.A. and sixty wondrous years of radio”; Edward Jordon, “Recollections of C.K.U.A.”; Alex Mair. “It’s all a matter of record”; John Runge, “MAGIC: A technical history of C.K.U.A.”; Sharon Vasey, “News and public affairs”; Holger Peterson, “C.K.U.A.’s music”; N. Breuer and Jackie Rollans, “The longest-running radio program in the world”; Jackie Rollans, “Into the ACCESS era”; and Don Thomas, “Radio: The first words.”
+
+				n-cn-ab
+			
+
+				
+CKUA (Radio station : Edmonton, Alta.)
+
+			
+				History
+			
+996206
+9090
+
+RC
+2008-09-10T15:47:21-0600
+P009090
+2010-04-05T18:01:29-0600
+
+		1	3.2
+	

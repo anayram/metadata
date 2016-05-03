@@ -1,0 +1,137 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		fsalehi	PC011230	postcards	1	3.3
+	/mods/@version	3.3	fsalehi	PC011230	postcards	1	3.3
+	/mods/titleInfo		fsalehi	PC011230	postcards	1	3.3
+	/mods/titleInfo/@lang	english	fsalehi	PC011230	postcards	1	3.3
+	/mods/titleInfo/title	Court House, Moose Jaw, Canada	fsalehi	PC011230	postcards	1	3.3
+	/mods/name		fsalehi	PC011230	postcards	1	3.3
+	/mods/name/@type	personal	fsalehi	PC011230	postcards	1	3.3
+	/mods/name/namePart	Rice	fsalehi	PC011230	postcards	2	3.3
+	/mods/name/namePart/@type	family	fsalehi	PC011230	postcards	1	3.3
+	/mods/name/namePart	Lewis	fsalehi	PC011230	postcards	2	3.3
+	/mods/name/namePart/@type	given	fsalehi	PC011230	postcards	1	3.3
+	/mods/name/role		fsalehi	PC011230	postcards	1	3.3
+	/mods/name/role/roleTerm	Photographer	fsalehi	PC011230	postcards	1	3.3
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC011230	postcards	1	3.3
+	/mods/typeOfResource	still image	fsalehi	PC011230	postcards	1	3.3
+	/mods/genre	postcards	fsalehi	PC011230	postcards	1	3.3
+	/mods/genre/@authority	gmgpc	fsalehi	PC011230	postcards	1	3.3
+	/mods/originInfo		fsalehi	PC011230	postcards	1	3.3
+	/mods/originInfo/issuance	monographic	fsalehi	PC011230	postcards	1	3.3
+	/mods/originInfo/publisher	Lewis Rice, Illustrator and Publisher , Moose Jaw, Canada	fsalehi	PC011230	postcards	1	3.3
+	/mods/originInfo/dateIssued	1913	fsalehi	PC011230	postcards	1	3.3
+	/mods/originInfo/dateIssued/@qualifier	approximate	fsalehi	PC011230	postcards	1	3.3
+	/mods/originInfo/place		fsalehi	PC011230	postcards	1	3.3
+	/mods/originInfo/place/placeTerm	Moose Jaw	fsalehi	PC011230	postcards	1	3.3
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC011230	postcards	1	3.3
+	/mods/language		fsalehi	PC011230	postcards	1	3.3
+	/mods/language/languageTerm	English	fsalehi	PC011230	postcards	1	3.3
+	/mods/language/languageTerm/@type	text	fsalehi	PC011230	postcards	1	3.3
+	/mods/physicalDescription		fsalehi	PC011230	postcards	1	3.3
+	/mods/physicalDescription/extent	1 postcard : b&w ; 9 x 14 cm.	fsalehi	PC011230	postcards	1	3.3
+	/mods/note	12	fsalehi	PC011230	postcards	6	3.3
+	/mods/note/@type	price	fsalehi	PC011230	postcards	1	3.3
+	/mods/note	false	fsalehi	PC011230	postcards	6	3.3
+	/mods/note/@type	notable	fsalehi	PC011230	postcards	1	3.3
+	/mods/note	false	fsalehi	PC011230	postcards	6	3.3
+	/mods/note/@type	imgprobs	fsalehi	PC011230	postcards	1	3.3
+	/mods/note	1913-08-26	fsalehi	PC011230	postcards	6	3.3
+	/mods/note/@type	public_postmark_date	fsalehi	PC011230	postcards	1	3.3
+	/mods/note	From original photograph by Lewis Rice.	fsalehi	PC011230	postcards	6	3.3
+	/mods/note/@type	public_on_front	fsalehi	PC011230	postcards	1	3.3
+	/mods/note	Moose Jaw Court House, Moose Jaw, Saskatchewan.  The property consists of a two-storey brick structure built in 1909.	fsalehi	PC011230	postcards	6	3.3
+	/mods/note/@type	public_description	fsalehi	PC011230	postcards	1	3.3
+	/mods/subject		fsalehi	PC011230	postcards	4	3.3
+	/mods/subject/geographic	Moose Jaw, SK	fsalehi	PC011230	postcards	1	3.3
+	/mods/subject		fsalehi	PC011230	postcards	4	3.3
+	/mods/subject/hierarchicalGeographic		fsalehi	PC011230	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/country	Canada	fsalehi	PC011230	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/province	Saskatchewan	fsalehi	PC011230	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/city	Moose Jaw	fsalehi	PC011230	postcards	1	3.3
+	/mods/subject		fsalehi	PC011230	postcards	4	3.3
+	/mods/subject/genre	Postcards	fsalehi	PC011230	postcards	1	3.3
+	/mods/subject		fsalehi	PC011230	postcards	4	3.3
+	/mods/subject/topic	Courthouses	fsalehi	PC011230	postcards	1	3.3
+	/mods/identifier	PC011230	fsalehi	PC011230	postcards	1	3.3
+	/mods/identifier/@type	local	fsalehi	PC011230	postcards	1	3.3
+	/mods/location		fsalehi	PC011230	postcards	1	3.3
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Sask. Box 1 (set 2)	fsalehi	PC011230	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC011230.html	fsalehi	PC011230	postcards	3	3.3
+	/mods/location/url/@access	object in context	fsalehi	PC011230	postcards	1	3.3
+	/mods/location/url/@usage	primary display	fsalehi	PC011230	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/011/web/PC011230.jpg	fsalehi	PC011230	postcards	3	3.3
+	/mods/location/url/@access	raw object	fsalehi	PC011230	postcards	1	3.3
+	/mods/location/url/@note	width='800' height='517' 	fsalehi	PC011230	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/011/thumbs/PC011230.jpg	fsalehi	PC011230	postcards	3	3.3
+	/mods/location/url/@access	preview	fsalehi	PC011230	postcards	1	3.3
+	/mods/location/url/@note	width='200' height='129'	fsalehi	PC011230	postcards	1	3.3
+	/mods/recordInfo		fsalehi	PC011230	postcards	1	3.3
+	/mods/recordInfo/recordCreationDate	2009-01-23T14:02:59-0700	fsalehi	PC011230	postcards	1	3.3
+	/mods/recordInfo/recordIdentifier	PC011230	fsalehi	PC011230	postcards	1	3.3
+	/mods/recordInfo/recordContentSource	fsalehi	fsalehi	PC011230	postcards	1	3.3
+	/mods/recordInfo/recordChangeDate	2009-07-30T13:43:35-0600	fsalehi	PC011230	postcards	1	3.3
+	/@mods	
+
+Court House, Moose Jaw, Canada
+
+
+Rice
+Lewis
+
+Photographer
+
+
+still image
+postcards
+
+monographic
+Lewis Rice, Illustrator and Publisher , Moose Jaw, Canada
+1913
+
+
+Moose Jaw
+
+
+
+English
+
+
+1 postcard : b&w ; 9 x 14 cm.
+
+12
+false
+false
+1913-08-26
+From original photograph by Lewis Rice.
+Moose Jaw Court House, Moose Jaw, Saskatchewan.  The property consists of a two-storey brick structure built in 1909.
+
+Moose Jaw, SK
+
+
+
+Canada
+Saskatchewan
+Moose Jaw
+
+
+
+Postcards
+
+
+Courthouses
+
+PC011230
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Sask. Box 1 (set 2)
+http://peel.library.ualberta.ca/postcards/PC011230.html
+http://peel.library.ualberta.ca/pcimages/PC/011/web/PC011230.jpg
+http://peel.library.ualberta.ca/pcimages/PC/011/thumbs/PC011230.jpg
+
+
+2009-01-23T14:02:59-0700
+PC011230
+fsalehi
+2009-07-30T13:43:35-0600
+
+	fsalehi	PC011230	postcards	1	3.3
+	

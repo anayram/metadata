@@ -1,0 +1,140 @@
+Path	Content	URL	Form or Genre	Occurrence	MODS version
+
+/mods/titleInfo		http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	2	3.2
+/mods/titleInfo/title	liberté	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+/mods/titleInfo/nonSort	La 	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+
+    /mods/titleInfo		http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	2	3.2
+/mods/titleInfo/@type	uniform	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+/mods/titleInfo/title	Liberté (Winnipeg, Man. : 1913)	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+
+    /mods/typeOfResource	text	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+
+/mods/genre	newspaper	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+/mods/genre/@authority	marcgt	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+
+/mods/originInfo		http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+/mods/originInfo/place		http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	2	3.2
+/mods/originInfo/place/placeTerm	mbc	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@authority	marccountry	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@type	code	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+/mods/originInfo/place		http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	2	3.2
+/mods/originInfo/place/placeTerm	Winnipeg	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@type	text	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+/mods/originInfo/dateIssued	1913-1941	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	3	3.2
+/mods/originInfo/dateIssued	1913	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	3	3.2
+/mods/originInfo/dateIssued/@encoding	marc	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+/mods/originInfo/dateIssued/@point	start	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+/mods/originInfo/dateIssued	1941	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	3	3.2
+/mods/originInfo/dateIssued/@encoding	marc	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+/mods/originInfo/dateIssued/@point	end	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+/mods/originInfo/issuance	continuing	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+/mods/originInfo/frequency	Weekly	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+
+/mods/language		http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+/mods/language/languageTerm	fre	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+/mods/language/languageTerm/@authority	iso639-2b	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+/mods/language/languageTerm/@type	code	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+
+/mods/physicalDescription		http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+/mods/physicalDescription/form	print	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+/mods/physicalDescription/form/@authority	marcform	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+/mods/physicalDescription/extent	v. : ill.	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+
+/mods/note	"Dieu et mon droit."	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	8	3.2
+
+/mods/note	Some issues also available online.	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	8	3.2
+/mods/note/@type	additional physical form	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+
+/mods/note	Microfilm. [S.l.] : West Canadian Graphic Industries, [19--]. 12 bobines ; 35 mm. La dernière bobine comprend La Liberté et le patriote, 23 avril 1941-18 févr. 1942.	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	8	3.2
+/mods/note/@type	reproduction	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+
+/mods/note	Fusionné avec: Patriote de l'ouest, et devient: Liberté et le patriote.	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	8	3.2
+
+/mods/note	DOA: 1913 Spatial: Manitoba	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	8	3.2
+/mods/note/@type	local	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+
+    /mods/note	Weekly. Manitoba French-language newspaper. In 1941, merges with the Saskatchewan newspaper <i>Le patriote de l'Ouest</i> to form <i>Liberté et le patriote</i>.	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	8	3.2
+/mods/note/@type	public	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+
+    /mods/note	Thank you to the following organizations for their generous contributions toward the digitization of this newspaper for the Peel's Prairie Provinces website: the Société franco-manitobaine and the Université de Saint-Boniface for funding; the Manitoba Legislative Library for providing microfilmed copies of this newspaper, and to the Société historique de Saint-Boniface, who coordinated the digitization efforts.	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	8	3.2
+/mods/note/@type	public	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+
+    /mods/note	newspapers	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	8	3.2
+/mods/note/@type	local:oaiset	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+    
+    /mods/subject		http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	3	3.2
+/mods/subject/@authority	lcsh	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+/mods/subject/@lang	eng	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+/mods/subject/topic	French-Canadians	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+/mods/subject/geographic	Manitoba	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+
+/mods/subject		http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	3	3.2
+/mods/subject/@authority	rvm	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+/mods/subject/@lang	fre	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+/mods/subject/topic	Canadiens français	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+/mods/subject/geographic	Manitoba	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+
+/mods/subject		http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	3	3.2
+/mods/subject/hierarchicalGeographic		http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/country	Canada	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/province	Manitoba	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/city	Winnipeg	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+
+    /mods/relatedItem		http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	3	3.2
+/mods/relatedItem/@displayLabel	Merges with	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+/mods/relatedItem/@type	preceding	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+/mods/relatedItem/@href	PDW	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+
+    /mods/relatedItem		http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	3	3.2
+/mods/relatedItem/@displayLabel	to form	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+/mods/relatedItem/@type	succeeding	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+/mods/relatedItem/@href	LLP	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+
+    /mods/relatedItem		http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	3	3.2
+/mods/relatedItem/@displayLabel	Continued by	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+/mods/relatedItem/@type	succeeding	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+/mods/relatedItem/@href	LBT	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+/mods/relatedItem/titleInfo		http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+/mods/relatedItem/titleInfo/title	La Liberte (St. Boniface, Winnipeg, Man. ; 1971)	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+
+    /mods/identifier	1181-1846	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	5	3.2
+/mods/identifier/@type	issn	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+
+/mods/identifier	1181-1404	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	5	3.2
+/mods/identifier/@type	issn	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+
+/mods/identifier	http://manitobia.ca/content/fr/newspapers/La%20Libert%C3%A9	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	5	3.2
+/mods/identifier/@type	uri	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+
+/mods/identifier	2057187	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	5	3.2
+/mods/identifier/@type	local:neos	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+
+    /mods/identifier	LLT	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	5	3.2
+/mods/identifier/@type	local:newspaper	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+
+/mods/location		http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	2	3.2
+/mods/location/physicalLocation		http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+/mods/location/url	http://manitobia.ca/content/fr/newspapers/La%20Libert%C3%A9	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+/mods/location/url/@displayLabel	Free Access: 1913-1920	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+
+    /mods/location		http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	2	3.2
+/mods/location/physicalLocation	CaAEU	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+/mods/location/physicalLocation/@authority	marcorg	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+/mods/location/holdingSimple		http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation		http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/form	electronic	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/form/@authority	marcform	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/electronicLocator	http://peel.library.ualberta.ca/newspapers/LLT/	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/enumerationAndChronology	1913-1941	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/enumerationAndChronology/@unitType	1	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+
+    /mods/recordInfo		http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+/mods/recordInfo/recordContentSource	neos	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	2	3.2
+/mods/recordInfo/recordContentSource/@authority	marcorg	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+/mods/recordInfo/recordContentSource	sfarnel	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	2	3.2
+/mods/recordInfo/recordContentSource/@authority	local:person	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+/mods/recordInfo/recordCreationDate	2012-02-10T09:12:04-0700	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+/mods/recordInfo/recordIdentifier	QLLT	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+/mods/recordInfo/recordChangeDate	2012-02-10T09:12:26-0700	http://peel.library.ualberta.ca/newspapers/LLT.html	newspaper	1	3.2
+

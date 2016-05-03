@@ -1,0 +1,139 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.2
+	/mods/@version	3.2		1	3.2
+	/mods/titleInfo			2	3.2
+	/mods/titleInfo/title	Castle in the air at Banff in the Canadian Rockies		1	3.2
+	/mods/titleInfo			2	3.2
+	/mods/titleInfo/@type	alternative		1	3.2
+	/mods/titleInfo/title	Your castle home at Banff		1	3.2
+	/mods/name			1	3.2
+	/mods/name/@type	corporate		1	3.2
+	/mods/name/namePart	Banff Springs Hotel		1	3.2
+	/mods/typeOfResource	text		1	3.2
+	/mods/originInfo			1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	abc		1	3.2
+	/mods/originInfo/place/placeTerm/@authority	marccountry		1	3.2
+	/mods/originInfo/place/placeTerm/@type	code		1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	Banff, Alta.		1	3.2
+	/mods/originInfo/place/placeTerm/@type	text		1	3.2
+	/mods/originInfo/publisher	Banff Springs Hotel		1	3.2
+	/mods/originInfo/dateIssued	[1936?]		5	3.2
+	/mods/originInfo/dateIssued	1930		5	3.2
+	/mods/originInfo/dateIssued/@encoding	marc		1	3.2
+	/mods/originInfo/dateIssued/@point	start		1	3.2
+	/mods/originInfo/dateIssued	1939		5	3.2
+	/mods/originInfo/dateIssued/@encoding	marc		1	3.2
+	/mods/originInfo/dateIssued/@point	end		1	3.2
+	/mods/originInfo/dateIssued	1930		5	3.2
+	/mods/originInfo/dateIssued/@encoding	marc		1	3.2
+	/mods/originInfo/dateIssued/@point	start		1	3.2
+	/mods/originInfo/dateIssued/@qualifier	questionable		1	3.2
+	/mods/originInfo/dateIssued	1939		5	3.2
+	/mods/originInfo/dateIssued/@encoding	marc		1	3.2
+	/mods/originInfo/dateIssued/@point	end		1	3.2
+	/mods/originInfo/dateIssued/@qualifier	questionable		1	3.2
+	/mods/originInfo/issuance	monographic		1	3.2
+	/mods/language			1	3.2
+	/mods/language/languageTerm	eng		1	3.2
+	/mods/language/languageTerm/@authority	iso639-2b		1	3.2
+	/mods/language/languageTerm/@type	code		1	3.2
+	/mods/physicalDescription			1	3.2
+	/mods/physicalDescription/form	print		1	3.2
+	/mods/physicalDescription/form/@authority	marcform		1	3.2
+	/mods/physicalDescription/extent	24 p. : ill., maps, ports. ; 23 cm.		1	3.2
+	/mods/note	Cover title.		4	3.2
+	/mods/note	http://chelsea.library.ualberta.ca:8081/peel_master/select/?q=%28authorAuthority%3A%22Banff+Springs+Hotel%22%29+OR+%28subjectAuthority%3A%22Banff+Springs+Hotel%22%29+OR+%28subjectAuthority%3A%22Hotels--Alberta--Banff%22%29&fl=id+authorAuthority+authorDates+subjectAuthority+authorityAuthority&rows=100		4	3.2
+	/mods/note/@type	solr		1	3.2
+	/mods/note	DOA: 1936 Spatial: Banff National Park (Alta.)		4	3.2
+	/mods/note/@type	local		1	3.2
+	/mods/note	Cover title. Caption title: <i>Your castle home at Banff</i>. Promotional booklet for Banff Springs Hotel.		4	3.2
+	/mods/note/@type	public		1	3.2
+	/mods/subject			2	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/name			1	3.2
+	/mods/subject/name/@type	personal		1	3.2
+	/mods/subject/name/namePart	Banff Springs Hotel.		1	3.2
+	/mods/subject			2	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/topic	Hotels		1	3.2
+	/mods/subject/geographic	Alberta		2	3.2
+	/mods/subject/geographic	Banff		2	3.2
+	/mods/classification	TX941.B36 B36 1930		1	3.2
+	/mods/classification/@authority	lcc		1	3.2
+	/mods/identifier	3838550		3	3.2
+	/mods/identifier/@type	local:neos		1	3.2
+	/mods/identifier	N008462		3	3.2
+	/mods/identifier/@type	local:peel_new		1	3.2
+	/mods/identifier	9414		3	3.2
+	/mods/identifier/@type	local:peel3		1	3.2
+	/mods/recordInfo			1	3.2
+	/mods/recordInfo/recordContentSource	RC		2	3.2
+	/mods/recordInfo/recordContentSource	RC		2	3.2
+	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.2
+	/mods/recordInfo/recordCreationDate	2007-01-27T12:00:00-0700		1	3.2
+	/mods/recordInfo/recordIdentifier	P009414		1	3.2
+	/mods/recordInfo/recordChangeDate	2010-01-09T14:20:43-0700		1	3.2
+	/@mods	
+
+Castle in the air at Banff in the Canadian Rockies
+
+
+Your castle home at Banff
+
+
+Banff Springs Hotel
+
+text
+
+
+abc
+
+
+Banff, Alta.
+
+Banff Springs Hotel
+[1936?]
+1930
+1939
+1930
+1939
+monographic
+
+
+eng
+
+
+print
+24 p. : ill., maps, ports. ; 23 cm.
+
+Cover title.
+http://chelsea.library.ualberta.ca:8081/peel_master/select/?q=%28authorAuthority%3A%22Banff+Springs+Hotel%22%29+OR+%28subjectAuthority%3A%22Banff+Springs+Hotel%22%29+OR+%28subjectAuthority%3A%22Hotels--Alberta--Banff%22%29&fl=id+authorAuthority+authorDates+subjectAuthority+authorityAuthority&rows=100
+DOA: 1936 Spatial: Banff National Park (Alta.)
+Cover title. Caption title: <i>Your castle home at Banff</i>. Promotional booklet for Banff Springs Hotel.
+
+				
+Banff Springs Hotel.
+
+			
+
+				Hotels
+			
+				Alberta
+			
+				Banff
+			
+TX941.B36 B36 1930
+3838550
+N008462
+9414
+
+RC
+RC
+2007-01-27T12:00:00-0700
+P009414
+2010-01-09T14:20:43-0700
+
+		1	3.2
+	

@@ -1,0 +1,115 @@
+Path	Content	URL	Form or Genre	Occurrence	MODS version
+
+/mods/titleInfo		http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	1	3.3
+/mods/titleInfo/title	Normal total precipitation for the months of August and September (combined)	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/name		http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	1	3.3
+/mods/name/@type	corporate	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	1	3.3
+/mods/name/namePart	Meteorological Survey of Canada	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/typeOfResource	cartographic	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/genre	map	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	3	3.3
+/mods/genre/@authority	marcgt	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/genre	Digital maps	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	3	3.3
+/mods/genre/@authority	lcgft	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/genre	Thematic maps	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	3	3.3
+/mods/genre/@authority	lcgft	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	1	3.3
+/mods/originInfo		http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	1	3.3
+/mods/originInfo/place		http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	1	3.3
+/mods/originInfo/place/placeTerm	Ottawa	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	1	3.3
+/mods/originInfo/place/placeTerm/@type	text	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	1	3.3
+/mods/originInfo/publisher	Meteorological Survey of Canada	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	1	3.3
+/mods/originInfo/dateIssued	192u	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	1	3.3
+/mods/originInfo/dateIssued/@qualifier	questionable	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/language		http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	1	3.3
+/mods/language/languageTerm	English	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	1	3.3
+/mods/language/languageTerm/@type	text	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/physicalDescription		http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	1	3.3
+/mods/physicalDescription/form		http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	1	3.3
+/mods/physicalDescription/extent	1 map : col. ; 54 x 84 cm. on sheet 61 x 91 cm.	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/note	Part of a series of climatological maps of the Prairie Provinces. Set contains 16 sheets: 4 of precipitation (one is normal total for the year, three are bi-monthly normal totals for the months April to September); 12 are normal daily maximum and minimum for each month.	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	9	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/note	Stations with ten years or more of record are listed.	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	9	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/note	"Where it has been obvious that these records have fallen in abnormally wet or abnormally dry seasons an attempt has been made to rectify them. No guarantee as to the accuracy of this rectification can be made, nor any guarantee as to the accuracy of the map as a whole. All that may be said is that the map represents the normal distribution of precipitation so far as the data at present existent will allow."	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	9	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/note	Base map from the engraved plates of the Department of the Interior.	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	9	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/note	peelmaps	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	9	3.3
+/mods/note/@type	local:oaiset	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/note	1	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	9	3.3
+/mods/note/@type	local:sheetcount	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/note	61 x 91 cm.	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	9	3.3
+/mods/note/@type	local:sheetsize	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/note	61	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	9	3.3
+/mods/note/@type	local:sheetlength	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/note	91	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	9	3.3
+/mods/note/@type	local:sheetwidth	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	1	3.3
+
+	/mods/subject		http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	4	3.3
+/mods/subject/@authority	lcsh	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	1	3.3
+/mods/subject/@lang	eng	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	1	3.3
+/mods/subject/topic	Climate	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	1	3.3
+/mods/subject/geographic	Prairie Provinces	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	4	3.3
+/mods/subject/@authority	lcsh	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	1	3.3
+/mods/subject/@lang	eng	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	1	3.3
+/mods/subject/geographic	Prairie Provinces	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	4	3.3
+/mods/subject/temporal	1920	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	4	3.3
+/mods/subject/cartographics		http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	1	3.3
+/mods/subject/cartographics/coordinates	w123xxxx/n058xxxx w092xxxx/n058xxxx w096xxxx/n049xxxx w119xxxx/n049xxxx	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	1	3.3
+/mods/subject/cartographics/scale	1:2,280,960	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/classification	Prairie Provinces C-25	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/identifier	3026	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	5	3.3
+/mods/identifier/@type	local:mapsproject	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/identifier	AAA-3120	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	5	3.3
+/mods/identifier/@type	local:mapsdb	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/identifier	3026pas.xml	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	5	3.3
+/mods/identifier/@type	local:mapsproject_filename	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	1	3.3
+
+
+                
+                /mods/identifier	M000410	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	5	3.3
+/mods/identifier/@type	local:peel3	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	1	3.3
+
+                /mods/identifier	N019070	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	5	3.3
+/mods/identifier/@type	local:old_peel_new	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	1	3.3
+
+                
+            /mods/location		http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	1	3.3
+/mods/location/physicalLocation	UA Cameron Staff Access-Maps	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	1	3.3
+/mods/location/url	http://peel.library.ualberta.ca/maps/M/00/04/M000410/M000410.tif	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	1	3.3
+/mods/location/url/@access	raw object	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	1	3.3
+/mods/location/url/@note	width='10769' height='7323'	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	1	3.3
+
+/mods/recordInfo		http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	1	3.3
+/mods/recordInfo/recordContentSource	mapsproject	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	2	3.3
+/mods/recordInfo/recordContentSource/@authority	local:project	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	1	3.3
+/mods/recordInfo/recordContentSource	sfarnel	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	2	3.3
+/mods/recordInfo/recordContentSource/@authority	local:person	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	1	3.3
+/mods/recordInfo/recordIdentifier	M000410	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	1	3.3
+/mods/recordInfo/recordChangeDate	2010-11-23T09:42:25-0700	http://peel.library.ualberta.ca/maps/M000410.html	map Digital maps Thematic maps 	1	3.3
+

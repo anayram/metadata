@@ -1,0 +1,88 @@
+Path	Content	URL	Form or Genre	Occurrence	MODS version
+
+    /mods/titleInfo			Stereoscope card	1	3.3
+/mods/titleInfo/title	Gunsight Peak in August, Glacier Park		Stereoscope card	1	3.3
+
+    /mods/name			Stereoscope card	2	3.3
+/mods/name/@type	corporate		Stereoscope card	1	3.3
+/mods/name/namePart	University of Lethbridge		Stereoscope card	1	3.3
+/mods/name/role			Stereoscope card	1	3.3
+/mods/name/role/roleTerm	digitizing institution		Stereoscope card	1	3.3
+/mods/name/role/roleTerm/@type	text		Stereoscope card	1	3.3
+
+    /mods/name			Stereoscope card	2	3.3
+/mods/name/@type	personal		Stereoscope card	1	3.3
+/mods/name/namePart	Thomas B. Magee, 1862-1930		Stereoscope card	1	3.3
+/mods/name/role			Stereoscope card	1	3.3
+/mods/name/role/roleTerm	photographer		Stereoscope card	1	3.3
+/mods/name/role/roleTerm/@type	text		Stereoscope card	1	3.3
+
+    /mods/originInfo			Stereoscope card	1	3.3
+/mods/originInfo/publisher	N. A. Forsyth (Butte, Mont.)		Stereoscope card	1	3.3
+/mods/originInfo/dateCaptured	2007-07-10		Stereoscope card	1	3.3
+/mods/originInfo/dateCreated	1900		Stereoscope card	2	3.3
+/mods/originInfo/dateCreated/@point	start		Stereoscope card	1	3.3
+/mods/originInfo/dateCreated	1908		Stereoscope card	2	3.3
+/mods/originInfo/dateCreated/@point	end		Stereoscope card	1	3.3
+
+    /mods/language			Stereoscope card	1	3.3
+/mods/language/languageTerm	eng		Stereoscope card	1	3.3
+/mods/language/languageTerm/@authority	iso639-2b		Stereoscope card	1	3.3
+/mods/language/languageTerm/@type	code		Stereoscope card	1	3.3
+
+    /mods/note	A stereoscope card showing a mountain glacier.		Stereoscope card	3	3.3
+/mods/note/@type	public_description		Stereoscope card	1	3.3
+
+    /mods/subject			Stereoscope card	5	3.3
+/mods/subject/geographic	Montana		Stereoscope card	1	3.3
+
+    /mods/subject			Stereoscope card	5	3.3
+/mods/subject/topic	Photography, stereoscopic		Stereoscope card	1	3.3
+
+    /mods/subject			Stereoscope card	5	3.3
+/mods/subject/topic	Glacier National Park (Agency: USA)		Stereoscope card	1	3.3
+
+    /mods/subject			Stereoscope card	5	3.3
+/mods/subject/topic	Glaciers		Stereoscope card	1	3.3
+
+    /mods/subject			Stereoscope card	5	3.3
+/mods/subject/topic	Mountains		Stereoscope card	1	3.3
+
+    /mods/typeOfResource	still image		Stereoscope card	1	3.3
+
+    /mods/genre	Stereoscope card		Stereoscope card	1	3.3
+
+    /mods/physicalDescription			Stereoscope card	1	3.3
+/mods/physicalDescription/extent	178mm x 89mm		Stereoscope card	1	3.3
+
+    /mods/identifier	MGSTGP019.tif		Stereoscope card	1	3.3
+
+    /mods/recordInfo			Stereoscope card	1	3.3
+/mods/recordInfo/recordContentSource	University of Lethbridge Library		Stereoscope card	1	3.3
+/mods/recordInfo/recordIdentifier	MGSTGP019		Stereoscope card	1	3.3
+
+    /mods/relatedItem			Stereoscope card	1	3.3
+/mods/relatedItem/@type	original		Stereoscope card	1	3.3
+/mods/relatedItem/titleInfo			Stereoscope card	1	3.3
+/mods/relatedItem/titleInfo/title	Magee Collection, University of Alberta Special Collections		Stereoscope card	1	3.3
+
+    /mods/note	magee		Stereoscope card	3	3.3
+/mods/note/@type	local:oaiset		Stereoscope card	1	3.3
+
+/mods/note	images		Stereoscope card	3	3.3
+/mods/note/@type	local:oaiset		Stereoscope card	1	3.3
+
+/mods/location			Stereoscope card	1	3.3
+/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Magee Photo Collection, Glacier Park Through the Stereoscope		Stereoscope card	1	3.3
+/mods/location/url	http://peel.library.ualberta.ca/magee/MGSTGP019.html		Stereoscope card	3	3.3
+/mods/location/url/@usage	primary display		Stereoscope card	1	3.3
+/mods/location/url/@access	object in context		Stereoscope card	1	3.3
+/mods/location/url	http://peel.library.ualberta.ca/peelimages/MG/web/MGSTGP019.jpg		Stereoscope card	3	3.3
+/mods/location/url/@note	width='1000' height='500' 		Stereoscope card	1	3.3
+/mods/location/url/@access	raw object		Stereoscope card	1	3.3
+/mods/location/url	http://peel.library.ualberta.ca/peelimages/MG/thumbs/MGSTGP019.jpg		Stereoscope card	3	3.3
+/mods/location/url/@note	width='200' height='100'		Stereoscope card	1	3.3
+/mods/location/url/@access	preview		Stereoscope card	1	3.3
+
+    
+  

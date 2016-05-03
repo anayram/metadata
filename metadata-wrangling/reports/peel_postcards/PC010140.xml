@@ -1,0 +1,159 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		fsalehi	PC010140	postcards	1	3.2
+	/mods/@version	3.2	fsalehi	PC010140	postcards	1	3.2
+	/mods/titleInfo		fsalehi	PC010140	postcards	1	3.2
+	/mods/titleInfo/@lang	english	fsalehi	PC010140	postcards	1	3.2
+	/mods/titleInfo/title	View from Louise Bridge, Calgary, Alta.	fsalehi	PC010140	postcards	1	3.2
+	/mods/name		fsalehi	PC010140	postcards	1	3.2
+	/mods/name/@type	corporate	fsalehi	PC010140	postcards	1	3.2
+	/mods/name/namePart	The H. Enida Olive Co'y	fsalehi	PC010140	postcards	1	3.2
+	/mods/name/role		fsalehi	PC010140	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	fsalehi	PC010140	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC010140	postcards	1	3.2
+	/mods/typeOfResource	still image	fsalehi	PC010140	postcards	1	3.2
+	/mods/genre	postcards	fsalehi	PC010140	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	fsalehi	PC010140	postcards	1	3.2
+	/mods/originInfo		fsalehi	PC010140	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	fsalehi	PC010140	postcards	1	3.2
+	/mods/originInfo/publisher	The H. Enida Olive Co'y Ltd Calgary, Canada	fsalehi	PC010140	postcards	1	3.2
+	/mods/originInfo/dateIssued	1912	fsalehi	PC010140	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	approximate	fsalehi	PC010140	postcards	1	3.2
+	/mods/originInfo/place		fsalehi	PC010140	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	Calgary	fsalehi	PC010140	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC010140	postcards	1	3.2
+	/mods/language		fsalehi	PC010140	postcards	1	3.2
+	/mods/language/languageTerm	English	fsalehi	PC010140	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	fsalehi	PC010140	postcards	1	3.2
+	/mods/physicalDescription		fsalehi	PC010140	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : b&w ; 9 x 14 cm.	fsalehi	PC010140	postcards	1	3.2
+	/mods/note	10	fsalehi	PC010140	postcards	6	3.2
+	/mods/note/@type	price	fsalehi	PC010140	postcards	1	3.2
+	/mods/note	false	fsalehi	PC010140	postcards	6	3.2
+	/mods/note/@type	notable	fsalehi	PC010140	postcards	1	3.2
+	/mods/note	false	fsalehi	PC010140	postcards	6	3.2
+	/mods/note/@type	imgprobs	fsalehi	PC010140	postcards	1	3.2
+	/mods/note	Calgary, Alta., 1912-02-16	fsalehi	PC010140	postcards	6	3.2
+	/mods/note/@type	public_postmark_date	fsalehi	PC010140	postcards	1	3.2
+	/mods/note	Series No. 29	fsalehi	PC010140	postcards	6	3.2
+	/mods/note/@type	public_on_back	fsalehi	PC010140	postcards	1	3.2
+	/mods/note	View of Bow River in flood from Louise Bridge, Calgary, Alberta.	fsalehi	PC010140	postcards	6	3.2
+	/mods/note/@type	public_description	fsalehi	PC010140	postcards	1	3.2
+	/mods/subject		fsalehi	PC010140	postcards	8	3.2
+	/mods/subject/geographic	Calgary, AB	fsalehi	PC010140	postcards	1	3.2
+	/mods/subject		fsalehi	PC010140	postcards	8	3.2
+	/mods/subject/hierarchicalGeographic		fsalehi	PC010140	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	fsalehi	PC010140	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	fsalehi	PC010140	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Calgary	fsalehi	PC010140	postcards	1	3.2
+	/mods/subject		fsalehi	PC010140	postcards	8	3.2
+	/mods/subject/genre	Postcards	fsalehi	PC010140	postcards	1	3.2
+	/mods/subject		fsalehi	PC010140	postcards	8	3.2
+	/mods/subject/topic	Rivers	fsalehi	PC010140	postcards	1	3.2
+	/mods/subject		fsalehi	PC010140	postcards	8	3.2
+	/mods/subject/topic	Bridges	fsalehi	PC010140	postcards	1	3.2
+	/mods/subject		fsalehi	PC010140	postcards	8	3.2
+	/mods/subject/topic	Floods	fsalehi	PC010140	postcards	1	3.2
+	/mods/subject		fsalehi	PC010140	postcards	8	3.2
+	/mods/subject/name		fsalehi	PC010140	postcards	1	3.2
+	/mods/subject/name/namePart	Louise Bridge (Calgary, Alta.)	fsalehi	PC010140	postcards	1	3.2
+	/mods/subject		fsalehi	PC010140	postcards	8	3.2
+	/mods/subject/name		fsalehi	PC010140	postcards	1	3.2
+	/mods/subject/name/namePart	Bow River (Alta.)	fsalehi	PC010140	postcards	1	3.2
+	/mods/identifier	PC010140	fsalehi	PC010140	postcards	1	3.2
+	/mods/identifier/@type	local	fsalehi	PC010140	postcards	1	3.2
+	/mods/location		fsalehi	PC010140	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 1	fsalehi	PC010140	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC010140.html	fsalehi	PC010140	postcards	3	3.2
+	/mods/location/url/@access	object in context	fsalehi	PC010140	postcards	1	3.2
+	/mods/location/url/@usage	primary display	fsalehi	PC010140	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/010/web/PC010140.jpg	fsalehi	PC010140	postcards	3	3.2
+	/mods/location/url/@access	raw object	fsalehi	PC010140	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='513' 	fsalehi	PC010140	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/010/thumbs/PC010140.jpg	fsalehi	PC010140	postcards	3	3.2
+	/mods/location/url/@access	preview	fsalehi	PC010140	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='128'	fsalehi	PC010140	postcards	1	3.2
+	/mods/recordInfo		fsalehi	PC010140	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2009-01-19T16:18:42-0700	fsalehi	PC010140	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC010140	fsalehi	PC010140	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	fsalehi	fsalehi	PC010140	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2009-03-03T10:26:23-0700	fsalehi	PC010140	postcards	1	3.2
+	/@mods	
+
+View from Louise Bridge, Calgary, Alta.
+
+
+The H. Enida Olive Co'y
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+The H. Enida Olive Co'y Ltd Calgary, Canada
+1912
+
+
+Calgary
+
+
+
+English
+
+
+1 postcard : b&w ; 9 x 14 cm.
+
+10
+false
+false
+Calgary, Alta., 1912-02-16
+Series No. 29
+View of Bow River in flood from Louise Bridge, Calgary, Alberta.
+
+Calgary, AB
+
+
+
+Canada
+Alberta
+Calgary
+
+
+
+Postcards
+
+
+Rivers
+
+
+Bridges
+
+
+Floods
+
+
+
+Louise Bridge (Calgary, Alta.)
+
+
+
+
+Bow River (Alta.)
+
+
+PC010140
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 1
+http://peel.library.ualberta.ca/postcards/PC010140.html
+http://peel.library.ualberta.ca/pcimages/PC/010/web/PC010140.jpg
+http://peel.library.ualberta.ca/pcimages/PC/010/thumbs/PC010140.jpg
+
+
+2009-01-19T16:18:42-0700
+PC010140
+fsalehi
+2009-03-03T10:26:23-0700
+
+	fsalehi	PC010140	postcards	1	3.2
+	

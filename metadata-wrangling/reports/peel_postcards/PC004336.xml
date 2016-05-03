@@ -1,0 +1,159 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		fsalehi	PC004336	postcards	1	3.2
+	/mods/@version	3.2	fsalehi	PC004336	postcards	1	3.2
+	/mods/titleInfo		fsalehi	PC004336	postcards	1	3.2
+	/mods/titleInfo/@lang	english	fsalehi	PC004336	postcards	1	3.2
+	/mods/titleInfo/title	Bird's eye view of Medicine Hat, Alta.	fsalehi	PC004336	postcards	1	3.2
+	/mods/name		fsalehi	PC004336	postcards	1	3.2
+	/mods/name/@type	corporate	fsalehi	PC004336	postcards	1	3.2
+	/mods/name/namePart	Valentine & Sons' Publishing Co., Ltd.	fsalehi	PC004336	postcards	1	3.2
+	/mods/name/role		fsalehi	PC004336	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	fsalehi	PC004336	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC004336	postcards	1	3.2
+	/mods/typeOfResource	still image	fsalehi	PC004336	postcards	1	3.2
+	/mods/genre	postcards	fsalehi	PC004336	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	fsalehi	PC004336	postcards	1	3.2
+	/mods/originInfo		fsalehi	PC004336	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	fsalehi	PC004336	postcards	1	3.2
+	/mods/originInfo/publisher	The Valentine & Sons' Publishing Co., Ltd., Montreal and Toronto	fsalehi	PC004336	postcards	1	3.2
+	/mods/originInfo/dateIssued	1910	fsalehi	PC004336	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	inferred	fsalehi	PC004336	postcards	1	3.2
+	/mods/originInfo/place		fsalehi	PC004336	postcards	2	3.2
+	/mods/originInfo/place/placeTerm	Montreal	fsalehi	PC004336	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC004336	postcards	1	3.2
+	/mods/originInfo/place		fsalehi	PC004336	postcards	2	3.2
+	/mods/originInfo/place/placeTerm	Toronto	fsalehi	PC004336	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC004336	postcards	1	3.2
+	/mods/language		fsalehi	PC004336	postcards	1	3.2
+	/mods/language/languageTerm	English	fsalehi	PC004336	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	fsalehi	PC004336	postcards	1	3.2
+	/mods/physicalDescription		fsalehi	PC004336	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : col. ; 9 x 14 cm.	fsalehi	PC004336	postcards	1	3.2
+	/mods/note	25	fsalehi	PC004336	postcards	5	3.2
+	/mods/note/@type	price	fsalehi	PC004336	postcards	1	3.2
+	/mods/note	false	fsalehi	PC004336	postcards	5	3.2
+	/mods/note/@type	notable	fsalehi	PC004336	postcards	1	3.2
+	/mods/note	false	fsalehi	PC004336	postcards	5	3.2
+	/mods/note/@type	imgprobs	fsalehi	PC004336	postcards	1	3.2
+	/mods/note	Printed in Great Britain.	fsalehi	PC004336	postcards	5	3.2
+	/mods/note/@type	public_on_back	fsalehi	PC004336	postcards	1	3.2
+	/mods/note	A view taken from the "Hill" showing Medicine Hat railyards with the roundhouse, several buildings and a number of rail cars visible, and the flats area on the east side of the tracks with several businesses and homes in the background.	fsalehi	PC004336	postcards	5	3.2
+	/mods/note/@type	public_description	fsalehi	PC004336	postcards	1	3.2
+	/mods/subject		fsalehi	PC004336	postcards	8	3.2
+	/mods/subject/geographic	Medicine Hat, AB	fsalehi	PC004336	postcards	1	3.2
+	/mods/subject		fsalehi	PC004336	postcards	8	3.2
+	/mods/subject/hierarchicalGeographic		fsalehi	PC004336	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	fsalehi	PC004336	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	fsalehi	PC004336	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Medicine Hat	fsalehi	PC004336	postcards	1	3.2
+	/mods/subject		fsalehi	PC004336	postcards	8	3.2
+	/mods/subject/genre	Postcards	fsalehi	PC004336	postcards	1	3.2
+	/mods/subject		fsalehi	PC004336	postcards	8	3.2
+	/mods/subject/topic	Cityscapes	fsalehi	PC004336	postcards	1	3.2
+	/mods/subject		fsalehi	PC004336	postcards	8	3.2
+	/mods/subject/topic	Railroads	fsalehi	PC004336	postcards	1	3.2
+	/mods/subject		fsalehi	PC004336	postcards	8	3.2
+	/mods/subject/topic	Railroad freight cars	fsalehi	PC004336	postcards	1	3.2
+	/mods/subject		fsalehi	PC004336	postcards	8	3.2
+	/mods/subject/topic	Commercial facilities	fsalehi	PC004336	postcards	1	3.2
+	/mods/subject		fsalehi	PC004336	postcards	8	3.2
+	/mods/subject/topic	Buildings	fsalehi	PC004336	postcards	1	3.2
+	/mods/identifier	PC004336	fsalehi	PC004336	postcards	1	3.2
+	/mods/identifier/@type	local	fsalehi	PC004336	postcards	1	3.2
+	/mods/location		fsalehi	PC004336	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 3	fsalehi	PC004336	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC004336.html	fsalehi	PC004336	postcards	3	3.2
+	/mods/location/url/@access	object in context	fsalehi	PC004336	postcards	1	3.2
+	/mods/location/url/@usage	primary display	fsalehi	PC004336	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/004/web/PC004336.jpg	fsalehi	PC004336	postcards	3	3.2
+	/mods/location/url/@access	raw object	fsalehi	PC004336	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='510' 	fsalehi	PC004336	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/004/thumbs/PC004336.jpg	fsalehi	PC004336	postcards	3	3.2
+	/mods/location/url/@access	preview	fsalehi	PC004336	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='128'	fsalehi	PC004336	postcards	1	3.2
+	/mods/recordInfo		fsalehi	PC004336	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	fsalehi	PC004336	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC004336	fsalehi	PC004336	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	fsalehi	fsalehi	PC004336	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2009-04-29T14:09:20-0600	fsalehi	PC004336	postcards	1	3.2
+	/@mods	
+
+Bird's eye view of Medicine Hat, Alta.
+
+
+Valentine & Sons' Publishing Co., Ltd.
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+The Valentine & Sons' Publishing Co., Ltd., Montreal and Toronto
+1910
+
+
+
+Montreal
+
+
+Toronto
+
+
+
+English
+
+
+1 postcard : col. ; 9 x 14 cm.
+
+25
+false
+false
+Printed in Great Britain.
+A view taken from the "Hill" showing Medicine Hat railyards with the roundhouse, several buildings and a number of rail cars visible, and the flats area on the east side of the tracks with several businesses and homes in the background.
+
+Medicine Hat, AB
+
+
+
+Canada
+Alberta
+Medicine Hat
+
+
+
+Postcards
+
+
+Cityscapes
+
+
+Railroads
+
+
+Railroad freight cars
+
+
+Commercial facilities
+
+
+Buildings
+
+PC004336
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 3
+http://peel.library.ualberta.ca/postcards/PC004336.html
+http://peel.library.ualberta.ca/pcimages/PC/004/web/PC004336.jpg
+http://peel.library.ualberta.ca/pcimages/PC/004/thumbs/PC004336.jpg
+
+
+
+
+2007-06-25T16:49:56-0600
+PC004336
+fsalehi
+2009-04-29T14:09:20-0600
+
+	fsalehi	PC004336	postcards	1	3.2
+	

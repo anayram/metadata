@@ -1,0 +1,153 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods		bibliography	1	3.2
+	/mods/@version	3.2	bibliography	1	3.2
+	/mods/titleInfo		bibliography	1	3.2
+	/mods/titleInfo/title	In the trenches at the University of Alberta	bibliography	1	3.2
+	/mods/name		bibliography	1	3.2
+	/mods/name/@type	personal	bibliography	1	3.2
+	/mods/name/namePart	Bellow, Donald G	bibliography	1	3.2
+	/mods/typeOfResource	text	bibliography	1	3.2
+	/mods/genre	bibliography	bibliography	1	3.2
+	/mods/genre/@authority	marcgt	bibliography	1	3.2
+	/mods/originInfo		bibliography	1	3.2
+	/mods/originInfo/place		bibliography	1	3.2
+	/mods/originInfo/place/placeTerm	[S.l.]	bibliography	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	bibliography	1	3.2
+	/mods/originInfo/publisher	[s.n.]	bibliography	1	3.2
+	/mods/originInfo/dateIssued	1996	bibliography	1	3.2
+	/mods/originInfo/issuance	monographic	bibliography	1	3.2
+	/mods/language		bibliography	1	3.2
+	/mods/language/languageTerm	eng	bibliography	1	3.2
+	/mods/language/languageTerm/@authority	iso639-2b	bibliography	1	3.2
+	/mods/language/languageTerm/@type	code	bibliography	1	3.2
+	/mods/physicalDescription		bibliography	1	3.2
+	/mods/physicalDescription/form	print	bibliography	1	3.2
+	/mods/physicalDescription/form/@authority	marcform	bibliography	1	3.2
+	/mods/physicalDescription/extent	1 v. (various pagings) : ill. ; 29 cm.	bibliography	1	3.2
+	/mods/note	Some pages are photocopies.	bibliography	7	3.2
+	/mods/note	"This is an account of what I have achieved in my career as an engineer (working at the University of Alberta) starting from my graduate student days . . . ." -- Introd.	bibliography	7	3.2
+	/mods/note	Includes as Appendix VI copies of the author's technical publications.	bibliography	7	3.2
+	/mods/note	Includes bibliographical references.	bibliography	7	3.2
+	/mods/note	uahistory	bibliography	7	3.2
+	/mods/note/@type	local:oaiset	bibliography	1	3.2
+	/mods/note	DOA: 1958 Spatial: Edmonton (Alta.)	bibliography	7	3.2
+	/mods/note/@type	local	bibliography	1	3.2
+	/mods/note	On page 2: “This is an account of what I have achieved in my career as an engineer (working at the University of Alberta), starting from my graduate student days which began in 1958, to when I was given an academic position in 1963, and to the time of my retirement from the U. of A. in August 1996.”	bibliography	7	3.2
+	/mods/note/@type	public	bibliography	1	3.2
+	/mods/subject		bibliography	5	3.2
+	/mods/subject/name		bibliography	1	3.2
+	/mods/subject/name/@type	personal	bibliography	1	3.2
+	/mods/subject/name/namePart	Bellow, Donald G	bibliography	1	3.2
+	/mods/subject		bibliography	5	3.2
+	/mods/subject/@authority	lcsh	bibliography	1	3.2
+	/mods/subject/topic	Mechanical engineers	bibliography	2	3.2
+	/mods/subject/geographic	Alberta	bibliography	2	3.2
+	/mods/subject/geographic	Edmonton	bibliography	2	3.2
+	/mods/subject/topic	Biography	bibliography	2	3.2
+	/mods/subject		bibliography	5	3.2
+	/mods/subject/@authority	lcsh	bibliography	1	3.2
+	/mods/subject/name		bibliography	1	3.2
+	/mods/subject/name/@type	personal	bibliography	1	3.2
+	/mods/subject/name/namePart	University of Alberta.	bibliography	2	3.2
+	/mods/subject/name/namePart	Faculty of Engineering.	bibliography	2	3.2
+	/mods/subject		bibliography	5	3.2
+	/mods/subject/@authority	lcsh	bibliography	1	3.2
+	/mods/subject/name		bibliography	1	3.2
+	/mods/subject/name/@type	personal	bibliography	1	3.2
+	/mods/subject/name/namePart	University of Alberta.	bibliography	2	3.2
+	/mods/subject/name/namePart	Dept. of Mechanical Engineering.	bibliography	2	3.2
+	/mods/subject		bibliography	5	3.2
+	/mods/subject/@authority	lcsh	bibliography	1	3.2
+	/mods/subject/topic	Mechanical engineering	bibliography	2	3.2
+	/mods/subject/topic	Study and teaching (Higher)	bibliography	2	3.2
+	/mods/subject/geographic	Alberta	bibliography	2	3.2
+	/mods/subject/geographic	Edmonton	bibliography	2	3.2
+	/mods/identifier	1971006	bibliography	2	3.2
+	/mods/identifier/@type	local:neos	bibliography	1	3.2
+	/mods/identifier	9075	bibliography	2	3.2
+	/mods/identifier/@type	local:peel3	bibliography	1	3.2
+	/mods/recordInfo		bibliography	1	3.2
+	/mods/recordInfo/recordContentSource	AEU	bibliography	2	3.2
+	/mods/recordInfo/recordContentSource/@authority	marcorg	bibliography	1	3.2
+	/mods/recordInfo/recordContentSource	RC	bibliography	2	3.2
+	/mods/recordInfo/recordContentSource/@authority	local:person	bibliography	1	3.2
+	/mods/recordInfo/recordCreationDate	2008-09-10T15:34:42-0600	bibliography	1	3.2
+	/mods/recordInfo/recordIdentifier	P009075	bibliography	1	3.2
+	/mods/recordInfo/recordChangeDate	2010-04-04T15:39:21-0600	bibliography	1	3.2
+	/@mods	
+
+In the trenches at the University of Alberta
+
+
+Bellow, Donald G
+
+text
+bibliography
+
+
+[S.l.]
+
+[s.n.]
+1996
+monographic
+
+
+eng
+
+
+print
+1 v. (various pagings) : ill. ; 29 cm.
+
+Some pages are photocopies.
+"This is an account of what I have achieved in my career as an engineer (working at the University of Alberta) starting from my graduate student days . . . ." -- Introd.
+Includes as Appendix VI copies of the author's technical publications.
+Includes bibliographical references.
+uahistory
+DOA: 1958 Spatial: Edmonton (Alta.)
+On page 2: “This is an account of what I have achieved in my career as an engineer (working at the University of Alberta), starting from my graduate student days which began in 1958, to when I was given an academic position in 1963, and to the time of my retirement from the U. of A. in August 1996.”
+
+				
+Bellow, Donald G
+
+			
+
+				Mechanical engineers
+			
+				Alberta
+			
+				Edmonton
+			
+				Biography
+			
+
+				
+University of Alberta.
+Faculty of Engineering.
+
+			
+
+				
+University of Alberta.
+Dept. of Mechanical Engineering.
+
+			
+
+				Mechanical engineering
+			
+				Study and teaching (Higher)
+			
+				Alberta
+			
+				Edmonton
+			
+1971006
+9075
+
+AEU
+RC
+2008-09-10T15:34:42-0600
+P009075
+2010-04-04T15:39:21-0600
+
+	bibliography	1	3.2
+	

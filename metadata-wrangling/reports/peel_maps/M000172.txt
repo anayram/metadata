@@ -1,0 +1,105 @@
+Path	Content	URL	Form or Genre	Occurrence	MODS version
+
+/mods/titleInfo		http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	1	3.3
+/mods/titleInfo/title	Index to Townships in Manitoba, Saskatchewan, Alberta and British Columbia to accompany the annual report of the Topographical Surveys Branch, 1907-1908	http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	1	3.3
+
+/mods/name		http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	1	3.3
+/mods/name/@type	corporate	http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	1	3.3
+/mods/name/namePart	Topographical Surveys Branch, Department of the Interior	http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	1	3.3
+
+/mods/typeOfResource	cartographic	http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	1	3.3
+
+/mods/genre	map	http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	2	3.3
+/mods/genre/@authority	marcgt	http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	1	3.3
+
+/mods/genre	Digital maps	http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	2	3.3
+/mods/genre/@authority	lcgft	http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	1	3.3
+
+/mods/originInfo		http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	1	3.3
+/mods/originInfo/place		http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	1	3.3
+/mods/originInfo/place/placeTerm	Ottawa	http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	1	3.3
+/mods/originInfo/place/placeTerm/@type	text	http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	1	3.3
+/mods/originInfo/publisher	Topographical Surveys Branch, Department of the Interior	http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	1	3.3
+/mods/originInfo/dateIssued	1908 (March 31st)	http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	1	3.3
+/mods/originInfo/dateIssued/@qualifier	inferred	http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	1	3.3
+
+/mods/language		http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	1	3.3
+/mods/language/languageTerm	English	http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	1	3.3
+/mods/language/languageTerm/@type	text	http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	1	3.3
+
+/mods/physicalDescription		http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	1	3.3
+/mods/physicalDescription/form		http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	1	3.3
+/mods/physicalDescription/extent	1 map : col., mounted on linen ; 50.1 x 77.7 cm. on sheet 61.6 x 87 cm.	http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	1	3.3
+
+/mods/note	"Caution: This is only an index, topographical and other features are not to be depended upon."	http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	8	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	1	3.3
+
+/mods/note	Data for Alberta, Saskatchewan and Manitoba, with Lower Mainland British Columbia as inset.	http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	8	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	1	3.3
+
+/mods/note	In different colours, the map records areas where surveys were made prior to March 31, 1907; surveys made from April 1, 1907 to March 31, 1908; and resurveys made from April 1, 1907 to March 31, 1908.	http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	8	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	1	3.3
+
+/mods/note	peelmaps	http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	8	3.3
+/mods/note/@type	local:oaiset	http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	1	3.3
+
+/mods/note	1	http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	8	3.3
+/mods/note/@type	local:sheetcount	http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	1	3.3
+
+/mods/note	61.6 x 87 cm.	http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	8	3.3
+/mods/note/@type	local:sheetsize	http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	1	3.3
+
+/mods/note	61.6	http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	8	3.3
+/mods/note/@type	local:sheetlength	http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	1	3.3
+
+/mods/note	87	http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	8	3.3
+/mods/note/@type	local:sheetwidth	http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	1	3.3
+
+	/mods/subject		http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	3	3.3
+/mods/subject/@authority	lcsh	http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	1	3.3
+/mods/subject/@lang	eng	http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	1	3.3
+/mods/subject/geographic	Canada, Western	http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	1	3.3
+/mods/subject/topic	Surveys	http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	3	3.3
+/mods/subject/temporal	1907	http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	3	3.3
+/mods/subject/cartographics		http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	1	3.3
+/mods/subject/cartographics/coordinates	w120xxxx/n060xxxx w092xxxx/n060xxxx w092xxxx/n049xxxx w120xxxx/n049xxxx w120xxxx/n05530xx w122xxxx/n05530xx w122xxxx/n057xxxx w120xxxx/n057xxxx	http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	1	3.3
+/mods/subject/cartographics/scale	1:2,217,600	http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	1	3.3
+
+/mods/classification	Western Canada A-4	http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	1	3.3
+
+/mods/identifier	2574	http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	5	3.3
+/mods/identifier/@type	local:mapsproject	http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	1	3.3
+
+/mods/identifier	AAA-2661	http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	5	3.3
+/mods/identifier/@type	local:mapsdb	http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	1	3.3
+
+/mods/identifier	2574a.xml	http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	5	3.3
+/mods/identifier/@type	local:mapsproject_filename	http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	1	3.3
+
+
+                
+                /mods/identifier	M000172	http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	5	3.3
+/mods/identifier/@type	local:peel3	http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	1	3.3
+
+                /mods/identifier	N018786	http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	5	3.3
+/mods/identifier/@type	local:old_peel_new	http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	1	3.3
+
+                
+            /mods/location		http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	1	3.3
+/mods/location/physicalLocation	UA Cameron Staff Access-Maps	http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	1	3.3
+/mods/location/url	http://peel.library.ualberta.ca/maps/M/00/01/M000172/M000172.tif	http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	1	3.3
+/mods/location/url/@access	raw object	http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	1	3.3
+/mods/location/url/@note	width='10339' height='7390'	http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	1	3.3
+
+/mods/recordInfo		http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	1	3.3
+/mods/recordInfo/recordContentSource	mapsproject	http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	2	3.3
+/mods/recordInfo/recordContentSource/@authority	local:project	http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	1	3.3
+/mods/recordInfo/recordContentSource	sfarnel	http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	2	3.3
+/mods/recordInfo/recordContentSource/@authority	local:person	http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	1	3.3
+/mods/recordInfo/recordIdentifier	M000172	http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	1	3.3
+/mods/recordInfo/recordChangeDate	2010-11-26T13:28:26-0700	http://peel.library.ualberta.ca/maps/M000172.html	map Digital maps 	1	3.3
+

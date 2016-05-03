@@ -1,0 +1,110 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods		bibliography	1	3.2
+	/mods/@version	3.2	bibliography	1	3.2
+	/mods/titleInfo		bibliography	1	3.2
+	/mods/titleInfo/title	history of the Department of Extension at the University of Alberta, 1912-1956	bibliography	1	3.2
+	/mods/titleInfo/nonSort	A 	bibliography	1	3.2
+	/mods/name		bibliography	2	3.2
+	/mods/name/@type	personal	bibliography	1	3.2
+	/mods/name/namePart	Clark, Ralph J. (Ralph Joseph)	bibliography	2	3.2
+	/mods/name/namePart	1948-	bibliography	2	3.2
+	/mods/name/namePart/@type	date	bibliography	1	3.2
+	/mods/name		bibliography	2	3.2
+	/mods/name/@type	corporate	bibliography	1	3.2
+	/mods/name/namePart	University of Toronto	bibliography	1	3.2
+	/mods/typeOfResource	text	bibliography	1	3.2
+	/mods/genre	bibliography	bibliography	1	3.2
+	/mods/genre/@authority	marcgt	bibliography	1	3.2
+	/mods/originInfo		bibliography	1	3.2
+	/mods/originInfo/place		bibliography	1	3.2
+	/mods/originInfo/place/placeTerm	[S.l.]	bibliography	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	bibliography	1	3.2
+	/mods/originInfo/publisher	[s.n.]	bibliography	1	3.2
+	/mods/originInfo/dateIssued	1985	bibliography	1	3.2
+	/mods/originInfo/issuance	monographic	bibliography	1	3.2
+	/mods/language		bibliography	1	3.2
+	/mods/language/languageTerm	eng	bibliography	1	3.2
+	/mods/language/languageTerm/@authority	iso639-2b	bibliography	1	3.2
+	/mods/language/languageTerm/@type	code	bibliography	1	3.2
+	/mods/physicalDescription		bibliography	1	3.2
+	/mods/physicalDescription/form	print	bibliography	1	3.2
+	/mods/physicalDescription/form/@authority	marcform	bibliography	1	3.2
+	/mods/physicalDescription/extent	vii, 399 leaves ; 28 cm.	bibliography	1	3.2
+	/mods/note	Thesis (Ph.D.)--University of Toronto, 1985. Bibliography: leaves 389-399.	bibliography	4	3.2
+	/mods/note	uahistory	bibliography	4	3.2
+	/mods/note/@type	local:oaiset	bibliography	1	3.2
+	/mods/note	DOA: 1912 Spatial: Edmonton (Alta.)	bibliography	4	3.2
+	/mods/note/@type	local	bibliography	1	3.2
+	/mods/note	Ph.D. thesis, University of Toronto, Toronto.	bibliography	4	3.2
+	/mods/note/@type	public	bibliography	1	3.2
+	/mods/subject		bibliography	1	3.2
+	/mods/subject/@authority	lcsh	bibliography	1	3.2
+	/mods/subject/name		bibliography	1	3.2
+	/mods/subject/name/@type	personal	bibliography	1	3.2
+	/mods/subject/name/namePart	University of Alberta.	bibliography	2	3.2
+	/mods/subject/name/namePart	Dept. of Extension	bibliography	2	3.2
+	/mods/subject/topic	History	bibliography	1	3.2
+	/mods/identifier	1822257	bibliography	2	3.2
+	/mods/identifier/@type	local:neos	bibliography	1	3.2
+	/mods/identifier	9057	bibliography	2	3.2
+	/mods/identifier/@type	local:peel3	bibliography	1	3.2
+	/mods/recordInfo		bibliography	1	3.2
+	/mods/recordInfo/recordContentSource	AEU	bibliography	2	3.2
+	/mods/recordInfo/recordContentSource/@authority	marcorg	bibliography	1	3.2
+	/mods/recordInfo/recordContentSource	sfarnel	bibliography	2	3.2
+	/mods/recordInfo/recordContentSource/@authority	local:person	bibliography	1	3.2
+	/mods/recordInfo/recordCreationDate	2008-09-10T15:07:06-0600	bibliography	1	3.2
+	/mods/recordInfo/recordIdentifier	P009057	bibliography	1	3.2
+	/mods/recordInfo/recordChangeDate	2010-03-18T11:54:11-0600	bibliography	1	3.2
+	/@mods	
+
+history of the Department of Extension at the University of Alberta, 1912-1956
+A 
+
+
+Clark, Ralph J. (Ralph Joseph)
+1948-
+
+
+University of Toronto
+
+text
+bibliography
+
+
+[S.l.]
+
+[s.n.]
+1985
+monographic
+
+
+eng
+
+
+print
+vii, 399 leaves ; 28 cm.
+
+Thesis (Ph.D.)--University of Toronto, 1985. Bibliography: leaves 389-399.
+uahistory
+DOA: 1912 Spatial: Edmonton (Alta.)
+Ph.D. thesis, University of Toronto, Toronto.
+
+				
+University of Alberta.
+Dept. of Extension
+
+			
+				History
+			
+1822257
+9057
+
+AEU
+sfarnel
+2008-09-10T15:07:06-0600
+P009057
+2010-03-18T11:54:11-0600
+
+	bibliography	1	3.2
+	

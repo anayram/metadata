@@ -1,0 +1,117 @@
+Path	Content	URL	Form or Genre	Occurrence	MODS version
+
+/mods/titleInfo		http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	2	3.2
+/mods/titleInfo/title	evening chronicle	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+/mods/titleInfo/nonSort	The 	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+
+/mods/titleInfo		http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	2	3.2
+/mods/titleInfo/@type	uniform	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+/mods/titleInfo/title	Evening chronicle (Strathcona)	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+    
+/mods/typeOfResource	text	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+
+/mods/genre	newspaper	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+/mods/genre/@authority	marcgt	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+
+/mods/originInfo		http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+/mods/originInfo/place		http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	2	3.2
+/mods/originInfo/place/placeTerm	abc	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@authority	marccountry	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@type	code	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+/mods/originInfo/place		http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	2	3.2
+/mods/originInfo/place/placeTerm	Strathcona, Alta.	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@type	text	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+/mods/originInfo/publisher	Chronicle Co.	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+/mods/originInfo/dateIssued	1907-1908?]	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	3	3.2
+/mods/originInfo/dateIssued	1907	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	3	3.2
+/mods/originInfo/dateIssued/@encoding	marc	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+/mods/originInfo/dateIssued/@point	start	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+/mods/originInfo/dateIssued	1908	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	3	3.2
+/mods/originInfo/dateIssued/@encoding	marc	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+/mods/originInfo/dateIssued/@point	end	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+/mods/originInfo/issuance	continuing	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+
+/mods/language		http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+/mods/language/languageTerm	eng	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+/mods/language/languageTerm/@authority	iso639-2b	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+/mods/language/languageTerm/@type	code	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+
+/mods/physicalDescription		http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+/mods/physicalDescription/form	print	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+/mods/physicalDescription/form/@authority	marcform	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+
+/mods/note	Weekly edition issued as: Strathcona chronicle.	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	2	3.2
+/mods/note/@type	public	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+
+/mods/note	newspapers	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	2	3.2
+/mods/note/@type	local:oaiset	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+
+/mods/subject		http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	2	3.2
+/mods/subject/hierarchicalGeographic		http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/country	Canada	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/province	Alberta	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/city	Edmonton	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+
+    /mods/subject		http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	2	3.2
+/mods/subject/hierarchicalGeographic		http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/country	Canada	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/province	Alberta	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/city	Strathcona	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+
+/mods/relatedItem		http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	3	3.2
+/mods/relatedItem/@type	otherVersion	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+/mods/relatedItem/titleInfo		http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+/mods/relatedItem/titleInfo/title	Strathcona chronicle	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+/mods/relatedItem/originInfo		http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+/mods/relatedItem/originInfo/place		http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+/mods/relatedItem/originInfo/place/placeTerm	abc	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+/mods/relatedItem/originInfo/place/placeTerm/@type	code	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+/mods/relatedItem/originInfo/publisher	[Strathcona, Alta. : s.n., 1904-1912]	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+/mods/relatedItem/language		http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+/mods/relatedItem/language/languageTerm	eng	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+/mods/relatedItem/language/languageTerm/@authority	iso639-2b	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+/mods/relatedItem/language/languageTerm/@type	code	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+
+/mods/relatedItem		http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	3	3.2
+/mods/relatedItem/@type	otherFormat	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+/mods/relatedItem/titleInfo		http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+/mods/relatedItem/titleInfo/title	Strathcona evening chronicle	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+/mods/relatedItem/originInfo		http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+/mods/relatedItem/originInfo/publisher	[Edmonton, Alta. : Alberta Legislature Library]	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+
+/mods/relatedItem		http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	3	3.2
+/mods/relatedItem/@type	otherFormat	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+/mods/relatedItem/titleInfo		http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+/mods/relatedItem/titleInfo/title	Strathcona evening chronicle	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+/mods/relatedItem/originInfo		http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+/mods/relatedItem/originInfo/publisher	[Edmonton, Alta. : Alberta Legislature Library]	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+
+/mods/identifier	000008175397	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	2	3.2
+/mods/identifier/@type	local:amicus	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+
+/mods/identifier	ECR	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	2	3.2
+/mods/identifier/@type	local:newspaper	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+
+/mods/location		http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	2	3.2
+/mods/location/physicalLocation	CaAEP	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+
+    /mods/location		http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	2	3.2
+/mods/location/physicalLocation	CaAEU	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+/mods/location/physicalLocation/@authority	marcorg	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+/mods/location/holdingSimple		http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation		http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/form	electronic	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/form/@authority	marcform	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/electronicLocator	http://peel.library.ualberta.ca/newspapers/ECR/	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/enumerationAndChronology	1907-1908	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+/mods/location/holdingSimple/copyInformation/enumerationAndChronology/@unitType	1	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+
+/mods/recordInfo		http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+/mods/recordInfo/recordContentSource	CaOONLN	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	2	3.2
+/mods/recordInfo/recordContentSource/@authority	marcorg	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+/mods/recordInfo/recordContentSource	sfarnel	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	2	3.2
+/mods/recordInfo/recordContentSource/@authority	local:person	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+/mods/recordInfo/recordCreationDate	2010-01-14T14:38:22-0700	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+/mods/recordInfo/recordIdentifier	QECR	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+/mods/recordInfo/recordChangeDate	2010-01-14T14:38:33-0700	http://peel.library.ualberta.ca/newspapers/ECR.html	newspaper	1	3.2
+

@@ -1,0 +1,160 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		sfarnel	PC000837	postcards	1	3.2
+	/mods/@version	3.2	sfarnel	PC000837	postcards	1	3.2
+	/mods/titleInfo		sfarnel	PC000837	postcards	1	3.2
+	/mods/titleInfo/@lang	english	sfarnel	PC000837	postcards	1	3.2
+	/mods/titleInfo/title	Island Park, Portage La Prairie, Man.	sfarnel	PC000837	postcards	1	3.2
+	/mods/name		sfarnel	PC000837	postcards	1	3.2
+	/mods/name/@type	personal	sfarnel	PC000837	postcards	1	3.2
+	/mods/name/namePart	Pagshaw	sfarnel	PC000837	postcards	2	3.2
+	/mods/name/namePart/@type	family	sfarnel	PC000837	postcards	1	3.2
+	/mods/name/namePart	F.B.	sfarnel	PC000837	postcards	2	3.2
+	/mods/name/namePart/@type	given	sfarnel	PC000837	postcards	1	3.2
+	/mods/name/role		sfarnel	PC000837	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	sfarnel	PC000837	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	sfarnel	PC000837	postcards	1	3.2
+	/mods/typeOfResource	still image	sfarnel	PC000837	postcards	1	3.2
+	/mods/genre	postcards	sfarnel	PC000837	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	sfarnel	PC000837	postcards	1	3.2
+	/mods/originInfo		sfarnel	PC000837	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	sfarnel	PC000837	postcards	1	3.2
+	/mods/originInfo/publisher	F.B. Pagshaw, Bookseller	sfarnel	PC000837	postcards	1	3.2
+	/mods/originInfo/dateIssued	1905	sfarnel	PC000837	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	approximate	sfarnel	PC000837	postcards	1	3.2
+	/mods/originInfo/place		sfarnel	PC000837	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	[Portage La Prairie, Manitoba]	sfarnel	PC000837	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	sfarnel	PC000837	postcards	1	3.2
+	/mods/language		sfarnel	PC000837	postcards	1	3.2
+	/mods/language/languageTerm	English	sfarnel	PC000837	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	sfarnel	PC000837	postcards	1	3.2
+	/mods/physicalDescription		sfarnel	PC000837	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : b&w ; 9  x 14 cm.	sfarnel	PC000837	postcards	1	3.2
+	/mods/note	20	sfarnel	PC000837	postcards	9	3.2
+	/mods/note/@type	price	sfarnel	PC000837	postcards	1	3.2
+	/mods/note	false	sfarnel	PC000837	postcards	9	3.2
+	/mods/note/@type	notable	sfarnel	PC000837	postcards	1	3.2
+	/mods/note	false	sfarnel	PC000837	postcards	9	3.2
+	/mods/note/@type	imgprobs	sfarnel	PC000837	postcards	1	3.2
+	/mods/note	Mrs. Thurlow Fraser	sfarnel	PC000837	postcards	9	3.2
+	/mods/note/@type	public_to	sfarnel	PC000837	postcards	1	3.2
+	/mods/note		sfarnel	PC000837	postcards	9	3.2
+	/mods/note/@type	public_from	sfarnel	PC000837	postcards	1	3.2
+	/mods/note	Pembroke, Ontario Box 230	sfarnel	PC000837	postcards	9	3.2
+	/mods/note/@type	public_address	sfarnel	PC000837	postcards	1	3.2
+	/mods/note		sfarnel	PC000837	postcards	9	3.2
+	/mods/note/@type	public_message	sfarnel	PC000837	postcards	1	3.2
+	/mods/note	Portage La Prairie, Man., 1905-02-07	sfarnel	PC000837	postcards	9	3.2
+	/mods/note/@type	public_postmark_date	sfarnel	PC000837	postcards	1	3.2
+	/mods/note	People visiting and playing in a public park.	sfarnel	PC000837	postcards	9	3.2
+	/mods/note/@type	public_description	sfarnel	PC000837	postcards	1	3.2
+	/mods/subject		sfarnel	PC000837	postcards	6	3.2
+	/mods/subject/geographic	Portage la Prairie, MB	sfarnel	PC000837	postcards	1	3.2
+	/mods/subject		sfarnel	PC000837	postcards	6	3.2
+	/mods/subject/hierarchicalGeographic		sfarnel	PC000837	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	sfarnel	PC000837	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Manitoba	sfarnel	PC000837	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Portage la Prairie	sfarnel	PC000837	postcards	1	3.2
+	/mods/subject		sfarnel	PC000837	postcards	6	3.2
+	/mods/subject/genre	Postcards	sfarnel	PC000837	postcards	1	3.2
+	/mods/subject		sfarnel	PC000837	postcards	6	3.2
+	/mods/subject/topic	Gardens	sfarnel	PC000837	postcards	1	3.2
+	/mods/subject		sfarnel	PC000837	postcards	6	3.2
+	/mods/subject/topic	Sports & recreation facilities	sfarnel	PC000837	postcards	1	3.2
+	/mods/subject		sfarnel	PC000837	postcards	6	3.2
+	/mods/subject/name		sfarnel	PC000837	postcards	1	3.2
+	/mods/subject/name/@type	corporate	sfarnel	PC000837	postcards	1	3.2
+	/mods/subject/name/namePart	Island Park (Portage la Prairie, Man.)	sfarnel	PC000837	postcards	1	3.2
+	/mods/identifier	PC000837	sfarnel	PC000837	postcards	1	3.2
+	/mods/identifier/@type	local	sfarnel	PC000837	postcards	1	3.2
+	/mods/location		sfarnel	PC000837	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 2	sfarnel	PC000837	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC000837.html	sfarnel	PC000837	postcards	3	3.2
+	/mods/location/url/@access	object in context	sfarnel	PC000837	postcards	1	3.2
+	/mods/location/url/@usage	primary display	sfarnel	PC000837	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/000/web/PC000837.jpg	sfarnel	PC000837	postcards	3	3.2
+	/mods/location/url/@access	raw object	sfarnel	PC000837	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='491' 	sfarnel	PC000837	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/000/thumbs/PC000837.jpg	sfarnel	PC000837	postcards	3	3.2
+	/mods/location/url/@access	preview	sfarnel	PC000837	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='123'	sfarnel	PC000837	postcards	1	3.2
+	/mods/recordInfo		sfarnel	PC000837	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-20T16:05:12-0600	sfarnel	PC000837	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC000837	sfarnel	PC000837	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	sfarnel	sfarnel	PC000837	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2009-12-06T16:46:06-0700	sfarnel	PC000837	postcards	1	3.2
+	/@mods	
+
+Island Park, Portage La Prairie, Man.
+
+
+Pagshaw
+F.B.
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+F.B. Pagshaw, Bookseller
+1905
+
+
+[Portage La Prairie, Manitoba]
+
+
+
+English
+
+
+1 postcard : b&w ; 9  x 14 cm.
+
+20
+false
+false
+Mrs. Thurlow Fraser
+
+Pembroke, Ontario Box 230
+
+Portage La Prairie, Man., 1905-02-07
+People visiting and playing in a public park.
+
+Portage la Prairie, MB
+
+
+
+Canada
+Manitoba
+Portage la Prairie
+
+
+
+Postcards
+
+
+Gardens
+
+
+Sports & recreation facilities
+
+
+
+Island Park (Portage la Prairie, Man.)
+
+
+PC000837
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 2
+http://peel.library.ualberta.ca/postcards/PC000837.html
+http://peel.library.ualberta.ca/pcimages/PC/000/web/PC000837.jpg
+http://peel.library.ualberta.ca/pcimages/PC/000/thumbs/PC000837.jpg
+
+
+2007-06-20T16:05:12-0600
+PC000837
+sfarnel
+2009-12-06T16:46:06-0700
+
+	sfarnel	PC000837	postcards	1	3.2
+	

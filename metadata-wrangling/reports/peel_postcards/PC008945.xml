@@ -1,0 +1,157 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		fsalehi	PC008945	postcards	1	3.2
+	/mods/@version	3.2	fsalehi	PC008945	postcards	1	3.2
+	/mods/titleInfo		fsalehi	PC008945	postcards	1	3.2
+	/mods/titleInfo/@lang	english	fsalehi	PC008945	postcards	1	3.2
+	/mods/titleInfo/title	Moraine Lake, Canadian Rockies	fsalehi	PC008945	postcards	1	3.2
+	/mods/name		fsalehi	PC008945	postcards	1	3.2
+	/mods/name/@type	corporate	fsalehi	PC008945	postcards	1	3.2
+	/mods/name/namePart	Novelty Manufacturing & Art Co. Ltd.	fsalehi	PC008945	postcards	1	3.2
+	/mods/name/role		fsalehi	PC008945	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	fsalehi	PC008945	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC008945	postcards	1	3.2
+	/mods/typeOfResource	still image	fsalehi	PC008945	postcards	1	3.2
+	/mods/genre	postcards	fsalehi	PC008945	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	fsalehi	PC008945	postcards	1	3.2
+	/mods/originInfo		fsalehi	PC008945	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	fsalehi	PC008945	postcards	1	3.2
+	/mods/originInfo/publisher	Novelty Manufacturing & Art Co. Ltd.,  Montreal.	fsalehi	PC008945	postcards	1	3.2
+	/mods/originInfo/dateIssued	ca. 1910	fsalehi	PC008945	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	inferred	fsalehi	PC008945	postcards	1	3.2
+	/mods/originInfo/place		fsalehi	PC008945	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	Montreal	fsalehi	PC008945	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC008945	postcards	1	3.2
+	/mods/language		fsalehi	PC008945	postcards	1	3.2
+	/mods/language/languageTerm	English	fsalehi	PC008945	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	fsalehi	PC008945	postcards	1	3.2
+	/mods/physicalDescription		fsalehi	PC008945	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : col. ; 14 x 9 cm.	fsalehi	PC008945	postcards	1	3.2
+	/mods/note	5	fsalehi	PC008945	postcards	4	3.2
+	/mods/note/@type	price	fsalehi	PC008945	postcards	1	3.2
+	/mods/note	false	fsalehi	PC008945	postcards	4	3.2
+	/mods/note/@type	notable	fsalehi	PC008945	postcards	1	3.2
+	/mods/note	false	fsalehi	PC008945	postcards	4	3.2
+	/mods/note/@type	imgprobs	fsalehi	PC008945	postcards	1	3.2
+	/mods/note	Moraine Lake and Valley of the Ten Peaks, Banff National Park, Alberta.	fsalehi	PC008945	postcards	4	3.2
+	/mods/note/@type	public_description	fsalehi	PC008945	postcards	1	3.2
+	/mods/subject		fsalehi	PC008945	postcards	8	3.2
+	/mods/subject/geographic	Lake Louise, AB	fsalehi	PC008945	postcards	1	3.2
+	/mods/subject		fsalehi	PC008945	postcards	8	3.2
+	/mods/subject/hierarchicalGeographic		fsalehi	PC008945	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	fsalehi	PC008945	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	fsalehi	PC008945	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city		fsalehi	PC008945	postcards	1	3.2
+	/mods/subject		fsalehi	PC008945	postcards	8	3.2
+	/mods/subject/genre	Postcards	fsalehi	PC008945	postcards	1	3.2
+	/mods/subject		fsalehi	PC008945	postcards	8	3.2
+	/mods/subject/topic	Lakes & ponds	fsalehi	PC008945	postcards	1	3.2
+	/mods/subject		fsalehi	PC008945	postcards	8	3.2
+	/mods/subject/topic	Mountains	fsalehi	PC008945	postcards	1	3.2
+	/mods/subject		fsalehi	PC008945	postcards	8	3.2
+	/mods/subject/name		fsalehi	PC008945	postcards	1	3.2
+	/mods/subject/name/namePart	Moraine Lake (Alta.)	fsalehi	PC008945	postcards	1	3.2
+	/mods/subject		fsalehi	PC008945	postcards	8	3.2
+	/mods/subject/name		fsalehi	PC008945	postcards	1	3.2
+	/mods/subject/name/namePart	Valley of the Ten Peaks (Alta.)	fsalehi	PC008945	postcards	1	3.2
+	/mods/subject		fsalehi	PC008945	postcards	8	3.2
+	/mods/subject/name		fsalehi	PC008945	postcards	1	3.2
+	/mods/subject/name/namePart	Banff National Park (Alta.)	fsalehi	PC008945	postcards	1	3.2
+	/mods/identifier	PC008945	fsalehi	PC008945	postcards	1	3.2
+	/mods/identifier/@type	local	fsalehi	PC008945	postcards	1	3.2
+	/mods/location		fsalehi	PC008945	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 13	fsalehi	PC008945	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC008945.html	fsalehi	PC008945	postcards	3	3.2
+	/mods/location/url/@access	object in context	fsalehi	PC008945	postcards	1	3.2
+	/mods/location/url/@usage	primary display	fsalehi	PC008945	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/008/web/PC008945.jpg	fsalehi	PC008945	postcards	3	3.2
+	/mods/location/url/@access	raw object	fsalehi	PC008945	postcards	1	3.2
+	/mods/location/url/@note	width='507' height='800' 	fsalehi	PC008945	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/008/thumbs/PC008945.jpg	fsalehi	PC008945	postcards	3	3.2
+	/mods/location/url/@access	preview	fsalehi	PC008945	postcards	1	3.2
+	/mods/location/url/@note	width='127' height='200'	fsalehi	PC008945	postcards	1	3.2
+	/mods/recordInfo		fsalehi	PC008945	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	fsalehi	PC008945	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC008945	fsalehi	PC008945	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	fsalehi	fsalehi	PC008945	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2008-11-07T11:51:33-0700	fsalehi	PC008945	postcards	1	3.2
+	/@mods	
+
+Moraine Lake, Canadian Rockies
+
+
+Novelty Manufacturing & Art Co. Ltd.
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+Novelty Manufacturing & Art Co. Ltd.,  Montreal.
+ca. 1910
+
+Montreal
+
+
+
+English
+
+
+1 postcard : col. ; 14 x 9 cm.
+
+5
+false
+false
+Moraine Lake and Valley of the Ten Peaks, Banff National Park, Alberta.
+
+Lake Louise, AB
+
+
+
+Canada
+Alberta
+
+
+
+
+Postcards
+
+
+Lakes & ponds
+
+
+Mountains
+
+
+
+Moraine Lake (Alta.)
+
+
+
+
+Valley of the Ten Peaks (Alta.)
+
+
+
+
+Banff National Park (Alta.)
+
+
+PC008945
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 13
+http://peel.library.ualberta.ca/postcards/PC008945.html
+http://peel.library.ualberta.ca/pcimages/PC/008/web/PC008945.jpg
+http://peel.library.ualberta.ca/pcimages/PC/008/thumbs/PC008945.jpg
+
+
+
+
+2007-06-25T16:49:56-0600
+PC008945
+fsalehi
+2008-11-07T11:51:33-0700
+
+	fsalehi	PC008945	postcards	1	3.2
+	

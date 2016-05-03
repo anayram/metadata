@@ -1,0 +1,167 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		fsalehi	PC005551	postcards	1	3.2
+	/mods/@version	3.2	fsalehi	PC005551	postcards	1	3.2
+	/mods/titleInfo		fsalehi	PC005551	postcards	1	3.2
+	/mods/titleInfo/@lang	english	fsalehi	PC005551	postcards	1	3.2
+	/mods/titleInfo/title	New City Hall, Calgary, Alta.	fsalehi	PC005551	postcards	1	3.2
+	/mods/name		fsalehi	PC005551	postcards	2	3.2
+	/mods/name/@type	corporate	fsalehi	PC005551	postcards	1	3.2
+	/mods/name/namePart	D.J.Y. & Co. Ltd.	fsalehi	PC005551	postcards	1	3.2
+	/mods/name/role		fsalehi	PC005551	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	fsalehi	PC005551	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC005551	postcards	1	3.2
+	/mods/name		fsalehi	PC005551	postcards	2	3.2
+	/mods/name/@type	corporate	fsalehi	PC005551	postcards	1	3.2
+	/mods/name/namePart	Warwick Bro's & Rutter	fsalehi	PC005551	postcards	1	3.2
+	/mods/name/role		fsalehi	PC005551	postcards	1	3.2
+	/mods/name/role/roleTerm	Printers	fsalehi	PC005551	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC005551	postcards	1	3.2
+	/mods/typeOfResource	still image	fsalehi	PC005551	postcards	1	3.2
+	/mods/genre	postcards	fsalehi	PC005551	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	fsalehi	PC005551	postcards	1	3.2
+	/mods/originInfo		fsalehi	PC005551	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	fsalehi	PC005551	postcards	1	3.2
+	/mods/originInfo/publisher	D.J.Y. Co. Ltd., Calgary, Alta.; Warwick Bro's & Rutter, Limited, Printers, Toronto	fsalehi	PC005551	postcards	1	3.2
+	/mods/originInfo/dateIssued	ca. 1911	fsalehi	PC005551	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	approximate	fsalehi	PC005551	postcards	1	3.2
+	/mods/originInfo/place		fsalehi	PC005551	postcards	2	3.2
+	/mods/originInfo/place/placeTerm	Calgary	fsalehi	PC005551	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC005551	postcards	1	3.2
+	/mods/originInfo/place		fsalehi	PC005551	postcards	2	3.2
+	/mods/originInfo/place/placeTerm	Toronto	fsalehi	PC005551	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC005551	postcards	1	3.2
+	/mods/language		fsalehi	PC005551	postcards	1	3.2
+	/mods/language/languageTerm	English	fsalehi	PC005551	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	fsalehi	PC005551	postcards	1	3.2
+	/mods/physicalDescription		fsalehi	PC005551	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : sepia ; 9 x 14 cm.	fsalehi	PC005551	postcards	1	3.2
+	/mods/note	30	fsalehi	PC005551	postcards	6	3.2
+	/mods/note/@type	price	fsalehi	PC005551	postcards	1	3.2
+	/mods/note	false	fsalehi	PC005551	postcards	6	3.2
+	/mods/note/@type	notable	fsalehi	PC005551	postcards	1	3.2
+	/mods/note	true	fsalehi	PC005551	postcards	6	3.2
+	/mods/note/@type	imgprobs	fsalehi	PC005551	postcards	1	3.2
+	/mods/note	[Printer's no.] w129	fsalehi	PC005551	postcards	6	3.2
+	/mods/note/@type	public_on_front	fsalehi	PC005551	postcards	1	3.2
+	/mods/note	Exterior view of City Hall. It was officially opened on June 26, 1911.	fsalehi	PC005551	postcards	6	3.2
+	/mods/note/@type	public_description	fsalehi	PC005551	postcards	1	3.2
+	/mods/note	Black & white illustrated postcard.	fsalehi	PC005551	postcards	6	3.2
+	/mods/note/@type	public_other	fsalehi	PC005551	postcards	1	3.2
+	/mods/subject		fsalehi	PC005551	postcards	7	3.2
+	/mods/subject/geographic	Calgary, AB	fsalehi	PC005551	postcards	1	3.2
+	/mods/subject		fsalehi	PC005551	postcards	7	3.2
+	/mods/subject/hierarchicalGeographic		fsalehi	PC005551	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	fsalehi	PC005551	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	fsalehi	PC005551	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Calgary	fsalehi	PC005551	postcards	1	3.2
+	/mods/subject		fsalehi	PC005551	postcards	7	3.2
+	/mods/subject/genre	Postcards	fsalehi	PC005551	postcards	1	3.2
+	/mods/subject		fsalehi	PC005551	postcards	7	3.2
+	/mods/subject/topic	City & town halls	fsalehi	PC005551	postcards	1	3.2
+	/mods/subject		fsalehi	PC005551	postcards	7	3.2
+	/mods/subject/topic	Clock towers	fsalehi	PC005551	postcards	1	3.2
+	/mods/subject		fsalehi	PC005551	postcards	7	3.2
+	/mods/subject/topic	Pedestrians	fsalehi	PC005551	postcards	1	3.2
+	/mods/subject		fsalehi	PC005551	postcards	7	3.2
+	/mods/subject/topic	Automobiles	fsalehi	PC005551	postcards	1	3.2
+	/mods/identifier	PC005551	fsalehi	PC005551	postcards	1	3.2
+	/mods/identifier/@type	local	fsalehi	PC005551	postcards	1	3.2
+	/mods/location		fsalehi	PC005551	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 6	fsalehi	PC005551	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC005551.html	fsalehi	PC005551	postcards	3	3.2
+	/mods/location/url/@access	object in context	fsalehi	PC005551	postcards	1	3.2
+	/mods/location/url/@usage	primary display	fsalehi	PC005551	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/005/web/PC005551.jpg	fsalehi	PC005551	postcards	3	3.2
+	/mods/location/url/@access	raw object	fsalehi	PC005551	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='501' 	fsalehi	PC005551	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/005/thumbs/PC005551.jpg	fsalehi	PC005551	postcards	3	3.2
+	/mods/location/url/@access	preview	fsalehi	PC005551	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='125'	fsalehi	PC005551	postcards	1	3.2
+	/mods/recordInfo		fsalehi	PC005551	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	fsalehi	PC005551	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC005551	fsalehi	PC005551	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	fsalehi	fsalehi	PC005551	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2009-10-14T12:36:53-0600	fsalehi	PC005551	postcards	1	3.2
+	/@mods	
+
+New City Hall, Calgary, Alta.
+
+
+D.J.Y. & Co. Ltd.
+
+Publisher
+
+
+
+Warwick Bro's & Rutter
+
+Printers
+
+
+still image
+postcards
+
+monographic
+D.J.Y. Co. Ltd., Calgary, Alta.; Warwick Bro's & Rutter, Limited, Printers, Toronto
+ca. 1911
+
+
+
+Calgary
+
+
+Toronto
+
+
+
+English
+
+
+1 postcard : sepia ; 9 x 14 cm.
+
+30
+false
+true
+[Printer's no.] w129
+Exterior view of City Hall. It was officially opened on June 26, 1911.
+Black & white illustrated postcard.
+
+Calgary, AB
+
+
+
+Canada
+Alberta
+Calgary
+
+
+
+Postcards
+
+
+City & town halls
+
+
+Clock towers
+
+
+Pedestrians
+
+
+Automobiles
+
+PC005551
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 6
+http://peel.library.ualberta.ca/postcards/PC005551.html
+http://peel.library.ualberta.ca/pcimages/PC/005/web/PC005551.jpg
+http://peel.library.ualberta.ca/pcimages/PC/005/thumbs/PC005551.jpg
+
+
+2007-06-25T16:49:56-0600
+PC005551
+fsalehi
+2009-10-14T12:36:53-0600
+
+	fsalehi	PC005551	postcards	1	3.2
+	

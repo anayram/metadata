@@ -1,0 +1,125 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.2
+	/mods/@version	3.2		1	3.2
+	/mods/titleInfo			2	3.2
+	/mods/titleInfo/title	Addresses to His Excellency Earl Grey, G.C.M.G., etc. Governor General of Canada and his speeches in reply having relation to the resources and progress of the Dominion		1	3.2
+	/mods/titleInfo			2	3.2
+	/mods/titleInfo/@type	alternative		1	3.2
+	/mods/titleInfo/title	Addresses		1	3.2
+	/mods/titleInfo/subTitle	Resources and progress of the Dominion		1	3.2
+	/mods/name			1	3.2
+	/mods/name/@type	personal		1	3.2
+	/mods/name/namePart	Grey, Albert Henry George Grey		3	3.2
+	/mods/name/namePart	Earl		3	3.2
+	/mods/name/namePart/@type	termsOfAddress		1	3.2
+	/mods/name/namePart	1851-1917		3	3.2
+	/mods/name/namePart/@type	date		1	3.2
+	/mods/typeOfResource	text		1	3.2
+	/mods/originInfo			1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	onc		1	3.2
+	/mods/originInfo/place/placeTerm/@authority	marccountry		1	3.2
+	/mods/originInfo/place/placeTerm/@type	code		1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	Ottawa		1	3.2
+	/mods/originInfo/place/placeTerm/@type	text		1	3.2
+	/mods/originInfo/publisher	[s.n.]		1	3.2
+	/mods/originInfo/dateIssued	1908		1	3.2
+	/mods/originInfo/issuance	monographic		1	3.2
+	/mods/language			2	3.2
+	/mods/language/languageTerm	eng		1	3.2
+	/mods/language/languageTerm/@authority	iso639-2b		1	3.2
+	/mods/language/languageTerm/@type	code		1	3.2
+	/mods/language			2	3.2
+	/mods/language/languageTerm	fre		1	3.2
+	/mods/language/languageTerm/@authority	iso639-2b		1	3.2
+	/mods/language/languageTerm/@type	code		1	3.2
+	/mods/physicalDescription			1	3.2
+	/mods/physicalDescription/form	print		1	3.2
+	/mods/physicalDescription/form/@authority	marcform		1	3.2
+	/mods/physicalDescription/extent	iv, 184 p. ; 26 cm.		1	3.2
+	/mods/note	Cover title: <i>Addresses: Resources and progress of the Dominion</i>. Although only a small portion of the speeches compiled in this work are specifically relevant to the Prairies (perhaps a fifth or less of the total content), they relate to a very significant period in the region’s history. Grey visited the Prairies in the fall of 1905 at the time of Alberta and Saskatchewan’s entry into Confederation, and several of the speeches reproduced here are associated with those events.		2	3.2
+	/mods/note/@type	public		1	3.2
+	/mods/note	DOA: 1904 Spatial: Canada, Western		2	3.2
+	/mods/note/@type	local		1	3.2
+	/mods/subject			2	3.2
+	/mods/subject/geographicCode	n-cn---		1	3.2
+	/mods/subject/geographicCode/@authority	marcgac		1	3.2
+	/mods/subject			2	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/geographic	Canada		1	3.2
+	/mods/subject/topic	Civilization		1	3.2
+	/mods/classification	F1026 .A33 1908		1	3.2
+	/mods/classification/@authority	lcc		1	3.2
+	/mods/identifier	3979518		3	3.2
+	/mods/identifier/@type	local:neos		1	3.2
+	/mods/identifier	N008867		3	3.2
+	/mods/identifier/@type	local:peel_new		1	3.2
+	/mods/identifier	9490		3	3.2
+	/mods/identifier/@type	local:peel3		1	3.2
+	/mods/recordInfo			1	3.2
+	/mods/recordInfo/recordContentSource	VTU		2	3.2
+	/mods/recordInfo/recordContentSource/@authority	marcorg		1	3.2
+	/mods/recordInfo/recordContentSource	RC		2	3.2
+	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.2
+	/mods/recordInfo/recordCreationDate	2008-07-10T14:26:26-0600		1	3.2
+	/mods/recordInfo/recordIdentifier	P009490		1	3.2
+	/mods/recordInfo/recordChangeDate	2010-07-02T10:58:36-0600		1	3.2
+	/@mods	
+
+Addresses to His Excellency Earl Grey, G.C.M.G., etc. Governor General of Canada and his speeches in reply having relation to the resources and progress of the Dominion
+
+
+Addresses
+Resources and progress of the Dominion
+
+
+Grey, Albert Henry George Grey
+Earl
+1851-1917
+
+text
+
+
+onc
+
+
+Ottawa
+
+[s.n.]
+1908
+monographic
+
+
+eng
+
+
+fre
+
+
+print
+iv, 184 p. ; 26 cm.
+
+Cover title: <i>Addresses: Resources and progress of the Dominion</i>. Although only a small portion of the speeches compiled in this work are specifically relevant to the Prairies (perhaps a fifth or less of the total content), they relate to a very significant period in the region’s history. Grey visited the Prairies in the fall of 1905 at the time of Alberta and Saskatchewan’s entry into Confederation, and several of the speeches reproduced here are associated with those events.
+DOA: 1904 Spatial: Canada, Western
+
+				n-cn---
+			
+
+				Canada
+			
+				Civilization
+			
+F1026 .A33 1908
+3979518
+N008867
+9490
+
+VTU
+RC
+2008-07-10T14:26:26-0600
+P009490
+2010-07-02T10:58:36-0600
+
+		1	3.2
+	

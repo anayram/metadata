@@ -1,0 +1,137 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		sfarnel	PC004601	postcards	1	3.2
+	/mods/@version	3.2	sfarnel	PC004601	postcards	1	3.2
+	/mods/titleInfo		sfarnel	PC004601	postcards	1	3.2
+	/mods/titleInfo/@lang	english	sfarnel	PC004601	postcards	1	3.2
+	/mods/titleInfo/title	Harmon River at Peace River, Alberta, Canada	sfarnel	PC004601	postcards	1	3.2
+	/mods/name		sfarnel	PC004601	postcards	1	3.2
+	/mods/name/@type	corporate	sfarnel	PC004601	postcards	1	3.2
+	/mods/name/namePart	Hanna Drug Co.	sfarnel	PC004601	postcards	1	3.2
+	/mods/name/role		sfarnel	PC004601	postcards	1	3.2
+	/mods/name/role/roleTerm	Photographer	sfarnel	PC004601	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	sfarnel	PC004601	postcards	1	3.2
+	/mods/typeOfResource	still image	sfarnel	PC004601	postcards	1	3.2
+	/mods/genre	postcards	sfarnel	PC004601	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	sfarnel	PC004601	postcards	1	3.2
+	/mods/originInfo		sfarnel	PC004601	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	sfarnel	PC004601	postcards	1	3.2
+	/mods/originInfo/publisher	Photo the Hanna Drug Co.	sfarnel	PC004601	postcards	1	3.2
+	/mods/originInfo/dateIssued	after 1928	sfarnel	PC004601	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	inferred	sfarnel	PC004601	postcards	1	3.2
+	/mods/originInfo/place		sfarnel	PC004601	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	[Peace River]	sfarnel	PC004601	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	sfarnel	PC004601	postcards	1	3.2
+	/mods/language		sfarnel	PC004601	postcards	1	3.2
+	/mods/language/languageTerm	English	sfarnel	PC004601	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	sfarnel	PC004601	postcards	1	3.2
+	/mods/physicalDescription		sfarnel	PC004601	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : b&w ; 9 x 14 cm.	sfarnel	PC004601	postcards	1	3.2
+	/mods/note	15	sfarnel	PC004601	postcards	4	3.2
+	/mods/note/@type	price	sfarnel	PC004601	postcards	1	3.2
+	/mods/note	false	sfarnel	PC004601	postcards	4	3.2
+	/mods/note/@type	notable	sfarnel	PC004601	postcards	1	3.2
+	/mods/note	false	sfarnel	PC004601	postcards	4	3.2
+	/mods/note/@type	imgprobs	sfarnel	PC004601	postcards	1	3.2
+	/mods/note	Image shows an expansive view over rolling hills, with a gully running through the center.	sfarnel	PC004601	postcards	4	3.2
+	/mods/note/@type	public_description	sfarnel	PC004601	postcards	1	3.2
+	/mods/subject		sfarnel	PC004601	postcards	6	3.2
+	/mods/subject/geographic	Peace River, AB	sfarnel	PC004601	postcards	1	3.2
+	/mods/subject		sfarnel	PC004601	postcards	6	3.2
+	/mods/subject/hierarchicalGeographic		sfarnel	PC004601	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	sfarnel	PC004601	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	sfarnel	PC004601	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Peace River	sfarnel	PC004601	postcards	1	3.2
+	/mods/subject		sfarnel	PC004601	postcards	6	3.2
+	/mods/subject/genre	Postcards	sfarnel	PC004601	postcards	1	3.2
+	/mods/subject		sfarnel	PC004601	postcards	6	3.2
+	/mods/subject/topic	Mountains	sfarnel	PC004601	postcards	1	3.2
+	/mods/subject		sfarnel	PC004601	postcards	6	3.2
+	/mods/subject/topic	Canyons	sfarnel	PC004601	postcards	1	3.2
+	/mods/subject		sfarnel	PC004601	postcards	6	3.2
+	/mods/subject/topic	Landscape photographs	sfarnel	PC004601	postcards	1	3.2
+	/mods/identifier	PC004601	sfarnel	PC004601	postcards	1	3.2
+	/mods/identifier/@type	local	sfarnel	PC004601	postcards	1	3.2
+	/mods/location		sfarnel	PC004601	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 4	sfarnel	PC004601	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC004601.html	sfarnel	PC004601	postcards	3	3.2
+	/mods/location/url/@access	object in context	sfarnel	PC004601	postcards	1	3.2
+	/mods/location/url/@usage	primary display	sfarnel	PC004601	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/004/web/PC004601.jpg	sfarnel	PC004601	postcards	3	3.2
+	/mods/location/url/@access	raw object	sfarnel	PC004601	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='508' 	sfarnel	PC004601	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/004/thumbs/PC004601.jpg	sfarnel	PC004601	postcards	3	3.2
+	/mods/location/url/@access	preview	sfarnel	PC004601	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='127'	sfarnel	PC004601	postcards	1	3.2
+	/mods/recordInfo		sfarnel	PC004601	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	sfarnel	PC004601	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC004601	sfarnel	PC004601	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	sfarnel	sfarnel	PC004601	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2009-11-09T08:09:03-0700	sfarnel	PC004601	postcards	1	3.2
+	/@mods	
+
+Harmon River at Peace River, Alberta, Canada
+
+
+Hanna Drug Co.
+
+Photographer
+
+
+still image
+postcards
+
+monographic
+Photo the Hanna Drug Co.
+after 1928
+
+
+[Peace River]
+
+
+
+English
+
+
+1 postcard : b&w ; 9 x 14 cm.
+
+15
+false
+false
+Image shows an expansive view over rolling hills, with a gully running through the center.
+
+Peace River, AB
+
+
+
+Canada
+Alberta
+Peace River
+
+
+
+Postcards
+
+
+Mountains
+
+
+Canyons
+
+
+Landscape photographs
+
+PC004601
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 4
+http://peel.library.ualberta.ca/postcards/PC004601.html
+http://peel.library.ualberta.ca/pcimages/PC/004/web/PC004601.jpg
+http://peel.library.ualberta.ca/pcimages/PC/004/thumbs/PC004601.jpg
+
+
+2007-06-25T16:49:56-0600
+PC004601
+sfarnel
+2009-11-09T08:09:03-0700
+
+	sfarnel	PC004601	postcards	1	3.2
+	

@@ -1,0 +1,104 @@
+Path	Content	URL	Form or Genre	Occurrence	MODS version
+
+/mods/titleInfo		http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	1	3.3
+/mods/titleInfo/title	Calgary Power Company Limited Minnewanka Storage Dam	http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	1	3.3
+
+/mods/name		http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	1	3.3
+/mods/name/@type	corporate	http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	1	3.3
+/mods/name/namePart	Water Power Branch, Department of the Interior	http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	1	3.3
+
+/mods/typeOfResource	cartographic	http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	1	3.3
+
+/mods/genre	map	http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	2	3.3
+/mods/genre/@authority	marcgt	http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	1	3.3
+
+/mods/genre	Digital maps	http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	2	3.3
+/mods/genre/@authority	lcgft	http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	1	3.3
+
+/mods/originInfo		http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	1	3.3
+/mods/originInfo/place		http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	1	3.3
+/mods/originInfo/place/placeTerm	Ottawa	http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	1	3.3
+/mods/originInfo/place/placeTerm/@type	text	http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	1	3.3
+/mods/originInfo/publisher	Water Power Branch, Department of the Interior	http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	1	3.3
+/mods/originInfo/dateIssued	1912	http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	2	3.3
+/mods/originInfo/dateIssued/@point	start	http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	1	3.3
+/mods/originInfo/dateIssued	1913	http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	2	3.3
+/mods/originInfo/dateIssued/@point	end	http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	1	3.3
+
+/mods/language		http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	1	3.3
+/mods/language/languageTerm	English	http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	1	3.3
+/mods/language/languageTerm/@type	text	http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	1	3.3
+
+/mods/physicalDescription		http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	1	3.3
+/mods/physicalDescription/form		http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	1	3.3
+/mods/physicalDescription/extent	1 sheet with 3 plates ; 35.2 x 46.9 cm. together on sheet 40.2 x 51.8 cm.	http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	1	3.3
+
+/mods/note	Contents: Upstream elevation -- Section of dam -- Plan of dam	http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	7	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	1	3.3
+
+/mods/note	Part of a series of plates: [Hydroelectric Generation] in Alberta, Saskatchewan and Manitoba.	http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	7	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	1	3.3
+
+/mods/note	peelmaps	http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	7	3.3
+/mods/note/@type	local:oaiset	http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	1	3.3
+
+/mods/note	1	http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	7	3.3
+/mods/note/@type	local:sheetcount	http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	1	3.3
+
+/mods/note	40.2 x 51.8 cm.	http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	7	3.3
+/mods/note/@type	local:sheetsize	http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	1	3.3
+
+/mods/note	40.2	http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	7	3.3
+/mods/note/@type	local:sheetlength	http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	1	3.3
+
+/mods/note	51.8	http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	7	3.3
+/mods/note/@type	local:sheetwidth	http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	4	3.3
+/mods/subject/@authority	lcsh	http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	1	3.3
+/mods/subject/@lang	eng	http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	1	3.3
+/mods/subject/topic	Dams	http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	1	3.3
+/mods/subject/geographic	Alberta	http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	4	3.3
+/mods/subject/geographic	Minnewanka Lake (Alta.)	http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	4	3.3
+/mods/subject/temporal	1912	http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	4	3.3
+/mods/subject/cartographics		http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	1	3.3
+/mods/subject/cartographics/coordinates	w1152223/n0511529	http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	1	3.3
+/mods/subject/cartographics/scale	There is a scale bar on the map.	http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	1	3.3
+
+/mods/classification	Prairie Provinces N-3	http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	1	3.3
+
+/mods/identifier	3457	http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	5	3.3
+/mods/identifier/@type	local:mapsproject	http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	1	3.3
+
+/mods/identifier	AAA-3556	http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	5	3.3
+/mods/identifier/@type	local:mapsdb	http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	1	3.3
+
+/mods/identifier	3457p232425.xml	http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	5	3.3
+/mods/identifier/@type	local:mapsproject_filename	http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	1	3.3
+
+/mods/identifier	M000536	http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	5	3.3
+/mods/identifier/@type	local:peel3	http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	1	3.3
+
+/mods/identifier	N019221	http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	5	3.3
+/mods/identifier/@type	local:old_peel_new	http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	1	3.3
+
+/mods/location		http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	1	3.3
+/mods/location/physicalLocation	UA Cameron Staff Access-Maps	http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	1	3.3
+/mods/location/url	http://peel.library.ualberta.ca/maps/M/00/05/M000536/M000536.tif	http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	1	3.3
+/mods/location/url/@access	raw object	http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	1	3.3
+/mods/location/url/@note	width='6183' height='4798'	http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	1	3.3
+
+/mods/recordInfo		http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	1	3.3
+/mods/recordInfo/recordContentSource	mapsproject	http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	2	3.3
+/mods/recordInfo/recordContentSource/@authority	local:project	http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	1	3.3
+/mods/recordInfo/recordContentSource	jhuck	http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	2	3.3
+/mods/recordInfo/recordContentSource/@authority	local:person	http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	1	3.3
+/mods/recordInfo/recordIdentifier	M000536	http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	1	3.3
+/mods/recordInfo/recordChangeDate	2014-01-09T16:40:31-0700	http://peel.library.ualberta.ca/maps/M000536.html	map Digital maps 	1	3.3
+

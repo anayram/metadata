@@ -1,0 +1,179 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		fsalehi	PC003351	postcards	1	3.2
+	/mods/@version	3.2	fsalehi	PC003351	postcards	1	3.2
+	/mods/titleInfo		fsalehi	PC003351	postcards	1	3.2
+	/mods/titleInfo/@lang	english	fsalehi	PC003351	postcards	1	3.2
+	/mods/titleInfo/title	Crowsnest Lake and Mountain.	fsalehi	PC003351	postcards	1	3.2
+	/mods/name		fsalehi	PC003351	postcards	2	3.2
+	/mods/name/@type	personal	fsalehi	PC003351	postcards	1	3.2
+	/mods/name/namePart	McBurney	fsalehi	PC003351	postcards	2	3.2
+	/mods/name/namePart/@type	family	fsalehi	PC003351	postcards	1	3.2
+	/mods/name/namePart	H. C.	fsalehi	PC003351	postcards	2	3.2
+	/mods/name/namePart/@type	given	fsalehi	PC003351	postcards	1	3.2
+	/mods/name/role		fsalehi	PC003351	postcards	1	3.2
+	/mods/name/role/roleTerm	Photographer	fsalehi	PC003351	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC003351	postcards	1	3.2
+	/mods/name		fsalehi	PC003351	postcards	2	3.2
+	/mods/name/@type	corporate	fsalehi	PC003351	postcards	1	3.2
+	/mods/name/namePart	Macleod Photo Service	fsalehi	PC003351	postcards	1	3.2
+	/mods/name/role		fsalehi	PC003351	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	fsalehi	PC003351	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC003351	postcards	1	3.2
+	/mods/typeOfResource	still image	fsalehi	PC003351	postcards	1	3.2
+	/mods/genre	postcards	fsalehi	PC003351	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	fsalehi	PC003351	postcards	1	3.2
+	/mods/originInfo		fsalehi	PC003351	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	fsalehi	PC003351	postcards	1	3.2
+	/mods/originInfo/publisher	Photo H. C. McBurney, Coleman; Published by Macleod Photo Service Macleod, Alta.	fsalehi	PC003351	postcards	1	3.2
+	/mods/originInfo/dateIssued	ca. 1940	fsalehi	PC003351	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	approximate	fsalehi	PC003351	postcards	1	3.2
+	/mods/originInfo/place		fsalehi	PC003351	postcards	2	3.2
+	/mods/originInfo/place/placeTerm	Coleman	fsalehi	PC003351	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC003351	postcards	1	3.2
+	/mods/originInfo/place		fsalehi	PC003351	postcards	2	3.2
+	/mods/originInfo/place/placeTerm	Fort Macleod	fsalehi	PC003351	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC003351	postcards	1	3.2
+	/mods/language		fsalehi	PC003351	postcards	1	3.2
+	/mods/language/languageTerm	English	fsalehi	PC003351	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	fsalehi	PC003351	postcards	1	3.2
+	/mods/physicalDescription		fsalehi	PC003351	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : b&w ; 9 x 14 cm.	fsalehi	PC003351	postcards	1	3.2
+	/mods/note	12	fsalehi	PC003351	postcards	4	3.2
+	/mods/note/@type	price	fsalehi	PC003351	postcards	1	3.2
+	/mods/note	false	fsalehi	PC003351	postcards	4	3.2
+	/mods/note/@type	notable	fsalehi	PC003351	postcards	1	3.2
+	/mods/note	true	fsalehi	PC003351	postcards	4	3.2
+	/mods/note/@type	imgprobs	fsalehi	PC003351	postcards	1	3.2
+	/mods/note	Crowsnest Mountain and Lake, Crowsnest Pass, Alberta.	fsalehi	PC003351	postcards	4	3.2
+	/mods/note/@type	public_description	fsalehi	PC003351	postcards	1	3.2
+	/mods/subject		fsalehi	PC003351	postcards	8	3.2
+	/mods/subject/geographic	Crows Nest, AB	fsalehi	PC003351	postcards	1	3.2
+	/mods/subject		fsalehi	PC003351	postcards	8	3.2
+	/mods/subject/hierarchicalGeographic		fsalehi	PC003351	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	fsalehi	PC003351	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	fsalehi	PC003351	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city		fsalehi	PC003351	postcards	1	3.2
+	/mods/subject		fsalehi	PC003351	postcards	8	3.2
+	/mods/subject/genre	Postcards	fsalehi	PC003351	postcards	1	3.2
+	/mods/subject		fsalehi	PC003351	postcards	8	3.2
+	/mods/subject/topic	Lakes & ponds	fsalehi	PC003351	postcards	1	3.2
+	/mods/subject		fsalehi	PC003351	postcards	8	3.2
+	/mods/subject/topic	Mountains	fsalehi	PC003351	postcards	1	3.2
+	/mods/subject		fsalehi	PC003351	postcards	8	3.2
+	/mods/subject/name		fsalehi	PC003351	postcards	1	3.2
+	/mods/subject/name/namePart	Crowsnest Mountain (Alta.)	fsalehi	PC003351	postcards	1	3.2
+	/mods/subject		fsalehi	PC003351	postcards	8	3.2
+	/mods/subject/name		fsalehi	PC003351	postcards	1	3.2
+	/mods/subject/name/namePart	Crowsnest Lake (Alta.)	fsalehi	PC003351	postcards	1	3.2
+	/mods/subject		fsalehi	PC003351	postcards	8	3.2
+	/mods/subject/name		fsalehi	PC003351	postcards	1	3.2
+	/mods/subject/name/namePart	Crowsnest Pass (Alta. and B.C.)	fsalehi	PC003351	postcards	1	3.2
+	/mods/identifier	PC003351	fsalehi	PC003351	postcards	1	3.2
+	/mods/identifier/@type	local	fsalehi	PC003351	postcards	1	3.2
+	/mods/location		fsalehi	PC003351	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 1	fsalehi	PC003351	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC003351.html	fsalehi	PC003351	postcards	3	3.2
+	/mods/location/url/@access	object in context	fsalehi	PC003351	postcards	1	3.2
+	/mods/location/url/@usage	primary display	fsalehi	PC003351	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/003/web/PC003351.jpg	fsalehi	PC003351	postcards	3	3.2
+	/mods/location/url/@access	raw object	fsalehi	PC003351	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='513' 	fsalehi	PC003351	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/003/thumbs/PC003351.jpg	fsalehi	PC003351	postcards	3	3.2
+	/mods/location/url/@access	preview	fsalehi	PC003351	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='128'	fsalehi	PC003351	postcards	1	3.2
+	/mods/recordInfo		fsalehi	PC003351	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	fsalehi	PC003351	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC003351	fsalehi	PC003351	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	fsalehi	fsalehi	PC003351	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2009-12-07T11:07:28-0700	fsalehi	PC003351	postcards	1	3.2
+	/@mods	
+
+Crowsnest Lake and Mountain.
+
+
+McBurney
+H. C.
+
+Photographer
+
+
+
+Macleod Photo Service
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+Photo H. C. McBurney, Coleman; Published by Macleod Photo Service Macleod, Alta.
+ca. 1940
+
+
+
+Coleman
+
+
+Fort Macleod
+
+
+
+English
+
+
+1 postcard : b&w ; 9 x 14 cm.
+
+12
+false
+true
+Crowsnest Mountain and Lake, Crowsnest Pass, Alberta.
+
+Crows Nest, AB
+
+
+
+Canada
+Alberta
+
+
+
+
+Postcards
+
+
+Lakes & ponds
+
+
+Mountains
+
+
+
+Crowsnest Mountain (Alta.)
+
+
+
+
+Crowsnest Lake (Alta.)
+
+
+
+
+Crowsnest Pass (Alta. and B.C.)
+
+
+PC003351
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 1
+http://peel.library.ualberta.ca/postcards/PC003351.html
+http://peel.library.ualberta.ca/pcimages/PC/003/web/PC003351.jpg
+http://peel.library.ualberta.ca/pcimages/PC/003/thumbs/PC003351.jpg
+
+
+2007-06-25T16:49:56-0600
+PC003351
+fsalehi
+2009-12-07T11:07:28-0700
+
+	fsalehi	PC003351	postcards	1	3.2
+	

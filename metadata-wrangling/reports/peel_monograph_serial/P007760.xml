@@ -1,0 +1,159 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@schemaLocation	http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	Rapport sur la mission de Notre-Dame du Sacré-Coeur, de 1882 à 1886 inclusivement	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/subTitle	lettre du R.P. Ducot: mission de Sainte-Thérèse, le 12 février 1887	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name		periodical	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MANaN	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	corporate	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Oblates of Mary Immaculate	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name		periodical	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.2	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MANaN	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Ducot, Georges-François-Xavier	periodical	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	1848-1916	periodical	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart/@type	date	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	French	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	23 cm.	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject		periodical	4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS001196	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name/namePart	Ducot, Georges-Franois-Xavier, 1848-1916	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject		periodical	4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	CanThes	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003194	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Northwest Territories	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject		periodical	4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:geographic	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Northwest Territories	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject		periodical	4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1882	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem		periodical	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@type	host	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/genre	periodical	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/genre/@authority	marcgt	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/titleInfo		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/titleInfo/title	Missions de la Congrégation des missionnaires oblats de Marie Immaculée	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/originInfo		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/originInfo/issuance	continuing	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/originInfo/publisher	A. Hennuyer	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/originInfo/place		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/originInfo/place/placeTerm	Paris	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/detail		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/detail/number	100	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/detail/caption	no	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/extent		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/extent/@unit	page	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/extent/start	362	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/extent/end	381	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/date	1887-12	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/date/@point	start	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem		periodical	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@type	series	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/identifier	missions	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/identifier/@type	local:oai-set	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	904	periodical	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel_new	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	7760	periodical	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal	periodical	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P007760	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2004-12-22T09:47:43-0700	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	CR	periodical	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource/@authority	local:person	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+    
+        Rapport sur la mission de Notre-Dame du Sacré-Coeur, de 1882 à 1886 inclusivement
+        lettre du R.P. Ducot: mission de Sainte-Thérèse, le 12 février 1887
+    
+    
+        Oblates of Mary Immaculate
+        
+            author
+        
+    
+    
+        Ducot, Georges-François-Xavier
+        1848-1916
+        
+            author
+        
+    
+    
+        French
+    
+    
+        23 cm.
+    
+    
+        
+            Ducot, Georges-Franois-Xavier, 1848-1916
+        
+    
+    
+        Northwest Territories
+    
+    
+        Northwest Territories
+    
+    
+        1882
+    
+    
+        periodical
+        
+            Missions de la Congrégation des missionnaires oblats de Marie Immaculée
+        
+        
+            continuing
+            A. Hennuyer
+            
+                Paris
+            
+        
+        
+            
+                100
+                no
+            
+            
+                362
+                381
+            
+            1887-12
+        
+    
+    
+        missions
+    
+    904
+    7760
+    
+        Peel's Prairie Portal
+        P007760
+        2004-12-22T09:47:43-0700
+        CR
+    
+	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

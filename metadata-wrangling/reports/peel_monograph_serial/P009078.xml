@@ -1,0 +1,125 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.2
+	/mods/@version	3.2		1	3.2
+	/mods/titleInfo			1	3.2
+	/mods/titleInfo/title	Strictly for posterity		1	3.2
+	/mods/name			1	3.2
+	/mods/name/@type	personal		1	3.2
+	/mods/name/namePart	Johnson, LeRoy Peter Vernon		2	3.2
+	/mods/name/namePart	1905-		2	3.2
+	/mods/name/namePart/@type	date		1	3.2
+	/mods/typeOfResource	text		1	3.2
+	/mods/originInfo			1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	cn		1	3.2
+	/mods/originInfo/place/placeTerm/@authority	marccountry		1	3.2
+	/mods/originInfo/place/placeTerm/@type	code		1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	[S.l.]		1	3.2
+	/mods/originInfo/place/placeTerm/@type	text		1	3.2
+	/mods/originInfo/publisher	[s.n.]		1	3.2
+	/mods/originInfo/dateIssued	c1974		2	3.2
+	/mods/originInfo/dateIssued	1974		2	3.2
+	/mods/originInfo/dateIssued/@encoding	marc		1	3.2
+	/mods/originInfo/issuance	monographic		1	3.2
+	/mods/language			1	3.2
+	/mods/language/languageTerm	eng		1	3.2
+	/mods/language/languageTerm/@authority	iso639-2b		1	3.2
+	/mods/language/languageTerm/@type	code		1	3.2
+	/mods/physicalDescription			1	3.2
+	/mods/physicalDescription/form	print		1	3.2
+	/mods/physicalDescription/form/@authority	marcform		1	3.2
+	/mods/physicalDescription/extent	viii, 229 p. : ill., ports. ; 20 cm.		1	3.2
+	/mods/note	"First edition. Printed in Canada." Privately printed?		2	3.2
+	/mods/note	uahistory		2	3.2
+	/mods/note/@type	local:oaiset		1	3.2
+	/mods/subject			4	3.2
+	/mods/subject/geographicCode	n-cn-ab		1	3.2
+	/mods/subject/geographicCode/@authority	marcgac		1	3.2
+	/mods/subject			4	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/name			1	3.2
+	/mods/subject/name/@type	personal		1	3.2
+	/mods/subject/name/namePart	Johnson, LeRoy Peter Vernon		2	3.2
+	/mods/subject/name/namePart	1905-		2	3.2
+	/mods/subject/name/namePart/@type	date		1	3.2
+	/mods/subject			4	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/topic	Frontier and pioneer life		2	3.2
+	/mods/subject/topic	The West		2	3.2
+	/mods/subject			4	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/geographic	Alberta		1	3.2
+	/mods/subject/topic	Description and travel		1	3.2
+	/mods/classification	FC 3674.1 J6 J62 1974		1	3.2
+	/mods/classification/@authority	lcc		1	3.2
+	/mods/identifier	332750		2	3.2
+	/mods/identifier/@type	local:neos		1	3.2
+	/mods/identifier	9078		2	3.2
+	/mods/identifier/@type	local:peel3		1	3.2
+	/mods/recordInfo			1	3.2
+	/mods/recordInfo/recordContentSource	RC		1	3.2
+	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.2
+	/mods/recordInfo/recordCreationDate	2008-09-10T15:38:59-0600		1	3.2
+	/mods/recordInfo/recordIdentifier	P009078		1	3.2
+	/mods/recordInfo/recordChangeDate	2010-03-21T11:44:01-0600		1	3.2
+	/@mods	
+
+Strictly for posterity
+
+
+Johnson, LeRoy Peter Vernon
+1905-
+
+text
+
+
+cn
+
+
+[S.l.]
+
+[s.n.]
+c1974
+1974
+monographic
+
+
+eng
+
+
+print
+viii, 229 p. : ill., ports. ; 20 cm.
+
+"First edition. Printed in Canada." Privately printed?
+uahistory
+
+				n-cn-ab
+			
+
+				
+Johnson, LeRoy Peter Vernon
+1905-
+
+			
+
+				Frontier and pioneer life
+			
+				The West
+			
+
+				Alberta
+			
+				Description and travel
+			
+FC 3674.1 J6 J62 1974
+332750
+9078
+
+RC
+2008-09-10T15:38:59-0600
+P009078
+2010-03-21T11:44:01-0600
+
+		1	3.2
+	

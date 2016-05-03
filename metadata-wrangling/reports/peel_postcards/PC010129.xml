@@ -1,0 +1,154 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		fsalehi	PC010129	postcards	1	3.2
+	/mods/@version	3.2	fsalehi	PC010129	postcards	1	3.2
+	/mods/titleInfo		fsalehi	PC010129	postcards	1	3.2
+	/mods/titleInfo/@lang	english	fsalehi	PC010129	postcards	1	3.2
+	/mods/titleInfo/title	Bow River, Calgary, Alberta, Canada.	fsalehi	PC010129	postcards	1	3.2
+	/mods/name		fsalehi	PC010129	postcards	1	3.2
+	/mods/name/@type	corporate	fsalehi	PC010129	postcards	1	3.2
+	/mods/name/namePart	Photogelatine Engraving Co.	fsalehi	PC010129	postcards	1	3.2
+	/mods/name/role		fsalehi	PC010129	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	fsalehi	PC010129	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC010129	postcards	1	3.2
+	/mods/typeOfResource	still image	fsalehi	PC010129	postcards	1	3.2
+	/mods/genre	postcards	fsalehi	PC010129	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	fsalehi	PC010129	postcards	1	3.2
+	/mods/originInfo		fsalehi	PC010129	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	fsalehi	PC010129	postcards	1	3.2
+	/mods/originInfo/publisher	Photogelatine Engraving Co., Limited Toronto	fsalehi	PC010129	postcards	1	3.2
+	/mods/originInfo/dateIssued	after 1920	fsalehi	PC010129	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	inferred	fsalehi	PC010129	postcards	1	3.2
+	/mods/originInfo/place		fsalehi	PC010129	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	Ottawa	fsalehi	PC010129	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC010129	postcards	1	3.2
+	/mods/language		fsalehi	PC010129	postcards	1	3.2
+	/mods/language/languageTerm	English	fsalehi	PC010129	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	fsalehi	PC010129	postcards	1	3.2
+	/mods/physicalDescription		fsalehi	PC010129	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : col. ; 9 x 14 cm.	fsalehi	PC010129	postcards	1	3.2
+	/mods/note	4	fsalehi	PC010129	postcards	7	3.2
+	/mods/note/@type	price	fsalehi	PC010129	postcards	1	3.2
+	/mods/note	false	fsalehi	PC010129	postcards	7	3.2
+	/mods/note/@type	notable	fsalehi	PC010129	postcards	1	3.2
+	/mods/note	true	fsalehi	PC010129	postcards	7	3.2
+	/mods/note/@type	imgprobs	fsalehi	PC010129	postcards	1	3.2
+	/mods/note	[printer's no.] 27	fsalehi	PC010129	postcards	7	3.2
+	/mods/note/@type	public_on_front	fsalehi	PC010129	postcards	1	3.2
+	/mods/note	Made in Canada	fsalehi	PC010129	postcards	7	3.2
+	/mods/note/@type	public_on_back	fsalehi	PC010129	postcards	1	3.2
+	/mods/note	Hand-tinted photograph of the Bow River at Calgary. There is a cluster of houses and buildings on the shore and a bridge in the distance. There is a bend in the river where the photograph was taken.	fsalehi	PC010129	postcards	7	3.2
+	/mods/note/@type	public_description	fsalehi	PC010129	postcards	1	3.2
+	/mods/note	Duplicted image of PC005909	fsalehi	PC010129	postcards	7	3.2
+	/mods/note/@type	private	fsalehi	PC010129	postcards	1	3.2
+	/mods/subject		fsalehi	PC010129	postcards	7	3.2
+	/mods/subject/geographic	Calgary, AB	fsalehi	PC010129	postcards	1	3.2
+	/mods/subject		fsalehi	PC010129	postcards	7	3.2
+	/mods/subject/hierarchicalGeographic		fsalehi	PC010129	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	fsalehi	PC010129	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	fsalehi	PC010129	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Calgary	fsalehi	PC010129	postcards	1	3.2
+	/mods/subject		fsalehi	PC010129	postcards	7	3.2
+	/mods/subject/genre	Postcards	fsalehi	PC010129	postcards	1	3.2
+	/mods/subject		fsalehi	PC010129	postcards	7	3.2
+	/mods/subject/topic	Rivers	fsalehi	PC010129	postcards	1	3.2
+	/mods/subject		fsalehi	PC010129	postcards	7	3.2
+	/mods/subject/topic	Panoramic views	fsalehi	PC010129	postcards	1	3.2
+	/mods/subject		fsalehi	PC010129	postcards	7	3.2
+	/mods/subject/topic	Houses	fsalehi	PC010129	postcards	1	3.2
+	/mods/subject		fsalehi	PC010129	postcards	7	3.2
+	/mods/subject/name		fsalehi	PC010129	postcards	1	3.2
+	/mods/subject/name/namePart	Bow River (Alta.)	fsalehi	PC010129	postcards	1	3.2
+	/mods/identifier	PC010129	fsalehi	PC010129	postcards	1	3.2
+	/mods/identifier/@type	local	fsalehi	PC010129	postcards	1	3.2
+	/mods/location		fsalehi	PC010129	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 1	fsalehi	PC010129	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC010129.html	fsalehi	PC010129	postcards	3	3.2
+	/mods/location/url/@access	object in context	fsalehi	PC010129	postcards	1	3.2
+	/mods/location/url/@usage	primary display	fsalehi	PC010129	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/010/web/PC010129.jpg	fsalehi	PC010129	postcards	3	3.2
+	/mods/location/url/@access	raw object	fsalehi	PC010129	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='521' 	fsalehi	PC010129	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/010/thumbs/PC010129.jpg	fsalehi	PC010129	postcards	3	3.2
+	/mods/location/url/@access	preview	fsalehi	PC010129	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='130'	fsalehi	PC010129	postcards	1	3.2
+	/mods/recordInfo		fsalehi	PC010129	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2009-01-19T16:18:42-0700	fsalehi	PC010129	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC010129	fsalehi	PC010129	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	fsalehi	fsalehi	PC010129	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2009-08-25T15:25:30-0600	fsalehi	PC010129	postcards	1	3.2
+	/@mods	
+
+Bow River, Calgary, Alberta, Canada.
+
+
+Photogelatine Engraving Co.
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+Photogelatine Engraving Co., Limited Toronto
+after 1920
+
+
+Ottawa
+
+
+
+English
+
+
+1 postcard : col. ; 9 x 14 cm.
+
+4
+false
+true
+[printer's no.] 27
+Made in Canada
+Hand-tinted photograph of the Bow River at Calgary. There is a cluster of houses and buildings on the shore and a bridge in the distance. There is a bend in the river where the photograph was taken.
+Duplicted image of PC005909
+
+Calgary, AB
+
+
+
+Canada
+Alberta
+Calgary
+
+
+
+Postcards
+
+
+Rivers
+
+
+Panoramic views
+
+
+Houses
+
+
+
+Bow River (Alta.)
+
+
+PC010129
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 1
+http://peel.library.ualberta.ca/postcards/PC010129.html
+http://peel.library.ualberta.ca/pcimages/PC/010/web/PC010129.jpg
+http://peel.library.ualberta.ca/pcimages/PC/010/thumbs/PC010129.jpg
+
+
+2009-01-19T16:18:42-0700
+PC010129
+fsalehi
+2009-08-25T15:25:30-0600
+
+	fsalehi	PC010129	postcards	1	3.2
+	

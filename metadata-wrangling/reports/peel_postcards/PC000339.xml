@@ -1,0 +1,120 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		rcole	PC000339	postcards	1	3.2
+	/mods/@version	3.2	rcole	PC000339	postcards	1	3.2
+	/mods/titleInfo		rcole	PC000339	postcards	1	3.2
+	/mods/titleInfo/@lang	english	rcole	PC000339	postcards	1	3.2
+	/mods/titleInfo/title	St James' Church, Flin Flon.	rcole	PC000339	postcards	1	3.2
+	/mods/typeOfResource	still image	rcole	PC000339	postcards	1	3.2
+	/mods/genre	postcards	rcole	PC000339	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	rcole	PC000339	postcards	1	3.2
+	/mods/originInfo		rcole	PC000339	postcards	1	3.2
+	/mods/originInfo/place		rcole	PC000339	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	[Flin Flon]	rcole	PC000339	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	rcole	PC000339	postcards	1	3.2
+	/mods/originInfo/dateIssued	[not before 1930]	rcole	PC000339	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	inferred	rcole	PC000339	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	rcole	PC000339	postcards	1	3.2
+	/mods/language		rcole	PC000339	postcards	1	3.2
+	/mods/language/languageTerm	English	rcole	PC000339	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	rcole	PC000339	postcards	1	3.2
+	/mods/physicalDescription		rcole	PC000339	postcards	1	3.2
+	/mods/physicalDescription/form		rcole	PC000339	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : b&w ; 9 x 14 cm.	rcole	PC000339	postcards	1	3.2
+	/mods/note	30	rcole	PC000339	postcards	5	3.2
+	/mods/note/@type	price	rcole	PC000339	postcards	1	3.2
+	/mods/note	false	rcole	PC000339	postcards	5	3.2
+	/mods/note/@type	notable	rcole	PC000339	postcards	1	3.2
+	/mods/note	false	rcole	PC000339	postcards	5	3.2
+	/mods/note/@type	imgprobs	rcole	PC000339	postcards	1	3.2
+	/mods/note	Another view of the church.	rcole	PC000339	postcards	5	3.2
+	/mods/note/@type	public_message	rcole	PC000339	postcards	1	3.2
+	/mods/note	Interior view of an Anglican church with a cleric standing by the altar.	rcole	PC000339	postcards	5	3.2
+	/mods/note/@type	public_description	rcole	PC000339	postcards	1	3.2
+	/mods/subject		rcole	PC000339	postcards	4	3.2
+	/mods/subject/geographic	Flin Flon, MB	rcole	PC000339	postcards	1	3.2
+	/mods/subject		rcole	PC000339	postcards	4	3.2
+	/mods/subject/hierarchicalGeographic		rcole	PC000339	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	rcole	PC000339	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Manitoba	rcole	PC000339	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Flin Flon	rcole	PC000339	postcards	1	3.2
+	/mods/subject		rcole	PC000339	postcards	4	3.2
+	/mods/subject/topic	Anglican churches	rcole	PC000339	postcards	1	3.2
+	/mods/subject		rcole	PC000339	postcards	4	3.2
+	/mods/subject/topic	Priests	rcole	PC000339	postcards	1	3.2
+	/mods/identifier	PC000339	rcole	PC000339	postcards	1	3.2
+	/mods/identifier/@type	local	rcole	PC000339	postcards	1	3.2
+	/mods/location		rcole	PC000339	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 1	rcole	PC000339	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC000339.html	rcole	PC000339	postcards	3	3.2
+	/mods/location/url/@access	object in context	rcole	PC000339	postcards	1	3.2
+	/mods/location/url/@usage	primary display	rcole	PC000339	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/000/web/PC000339.jpg	rcole	PC000339	postcards	3	3.2
+	/mods/location/url/@access	raw object	rcole	PC000339	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='478'	rcole	PC000339	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/000/thumbs/PC000339.jpg	rcole	PC000339	postcards	3	3.2
+	/mods/location/url/@access	preview	rcole	PC000339	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='120'	rcole	PC000339	postcards	1	3.2
+	/mods/recordInfo		rcole	PC000339	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	rcole	rcole	PC000339	postcards	2	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-20T16:05:12-0600	rcole	PC000339	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC000339	rcole	PC000339	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2010-05-21T14:08:21-0600	rcole	PC000339	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	aharrigan	rcole	PC000339	postcards	2	3.2
+	/mods/recordInfo/recordContentSource/@authority	local:person	rcole	PC000339	postcards	1	3.2
+	/@mods	
+
+St James' Church, Flin Flon.
+
+still image
+postcards
+
+
+[Flin Flon]
+
+[not before 1930]
+monographic
+
+
+English
+
+
+
+1 postcard : b&w ; 9 x 14 cm.
+
+30
+false
+false
+Another view of the church.
+Interior view of an Anglican church with a cleric standing by the altar.
+
+				Flin Flon, MB
+			
+
+				
+Canada
+Manitoba
+Flin Flon
+
+			
+
+				Anglican churches
+			
+
+				Priests
+			
+PC000339
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 1
+http://peel.library.ualberta.ca/postcards/PC000339.html
+http://peel.library.ualberta.ca/pcimages/PC/000/web/PC000339.jpg
+http://peel.library.ualberta.ca/pcimages/PC/000/thumbs/PC000339.jpg
+
+
+rcole
+2007-06-20T16:05:12-0600
+PC000339
+2010-05-21T14:08:21-0600
+aharrigan
+
+	rcole	PC000339	postcards	1	3.2
+	

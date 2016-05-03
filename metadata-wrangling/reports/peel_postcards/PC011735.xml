@@ -1,0 +1,173 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		fsalehi	PC011735	postcards	1	3.3
+	/mods/@version	3.3	fsalehi	PC011735	postcards	1	3.3
+	/mods/titleInfo		fsalehi	PC011735	postcards	1	3.3
+	/mods/titleInfo/@lang	english	fsalehi	PC011735	postcards	1	3.3
+	/mods/titleInfo/title	Entering Lower Spiral Tunnel and Mt. Stephen, Field, B.C.	fsalehi	PC011735	postcards	1	3.3
+	/mods/name		fsalehi	PC011735	postcards	1	3.3
+	/mods/name/@type	personal	fsalehi	PC011735	postcards	1	3.3
+	/mods/name/namePart	Harmon	fsalehi	PC011735	postcards	2	3.3
+	/mods/name/namePart/@type	family	fsalehi	PC011735	postcards	1	3.3
+	/mods/name/namePart	Byron	fsalehi	PC011735	postcards	2	3.3
+	/mods/name/namePart/@type	given	fsalehi	PC011735	postcards	1	3.3
+	/mods/name/role		fsalehi	PC011735	postcards	1	3.3
+	/mods/name/role/roleTerm	Photographer	fsalehi	PC011735	postcards	1	3.3
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC011735	postcards	1	3.3
+	/mods/typeOfResource	still image	fsalehi	PC011735	postcards	1	3.3
+	/mods/genre	postcards	fsalehi	PC011735	postcards	1	3.3
+	/mods/genre/@authority	gmgpc	fsalehi	PC011735	postcards	1	3.3
+	/mods/originInfo		fsalehi	PC011735	postcards	1	3.3
+	/mods/originInfo/issuance	monographic	fsalehi	PC011735	postcards	1	3.3
+	/mods/originInfo/publisher	Photographed and Copyrighted by Byron Harmon, Banff, Canada.	fsalehi	PC011735	postcards	1	3.3
+	/mods/originInfo/dateIssued	before 1942	fsalehi	PC011735	postcards	1	3.3
+	/mods/originInfo/dateIssued/@qualifier	inferred	fsalehi	PC011735	postcards	1	3.3
+	/mods/originInfo/place		fsalehi	PC011735	postcards	1	3.3
+	/mods/originInfo/place/placeTerm	Banff	fsalehi	PC011735	postcards	1	3.3
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC011735	postcards	1	3.3
+	/mods/language		fsalehi	PC011735	postcards	1	3.3
+	/mods/language/languageTerm	English	fsalehi	PC011735	postcards	1	3.3
+	/mods/language/languageTerm/@type	text	fsalehi	PC011735	postcards	1	3.3
+	/mods/physicalDescription		fsalehi	PC011735	postcards	1	3.3
+	/mods/physicalDescription/extent	1 postcard : b&w ; 14 x 9 cm.	fsalehi	PC011735	postcards	1	3.3
+	/mods/note	5	fsalehi	PC011735	postcards	7	3.3
+	/mods/note/@type	price	fsalehi	PC011735	postcards	1	3.3
+	/mods/note	false	fsalehi	PC011735	postcards	7	3.3
+	/mods/note/@type	notable	fsalehi	PC011735	postcards	1	3.3
+	/mods/note	false	fsalehi	PC011735	postcards	7	3.3
+	/mods/note/@type	imgprobs	fsalehi	PC011735	postcards	1	3.3
+	/mods/note	Along the Line of the Canadian Pacific Railway.	fsalehi	PC011735	postcards	7	3.3
+	/mods/note/@type	public_on_back	fsalehi	PC011735	postcards	1	3.3
+	/mods/note	Made in Canada	fsalehi	PC011735	postcards	7	3.3
+	/mods/note/@type	public_on_back	fsalehi	PC011735	postcards	1	3.3
+	/mods/note	[printer's no.] 779	fsalehi	PC011735	postcards	7	3.3
+	/mods/note/@type	public_on_front	fsalehi	PC011735	postcards	1	3.3
+	/mods/note	Image shows a steam engine billowing down the tracks with mountains in the background.	fsalehi	PC011735	postcards	7	3.3
+	/mods/note/@type	public_description	fsalehi	PC011735	postcards	1	3.3
+	/mods/subject		fsalehi	PC011735	postcards	10	3.3
+	/mods/subject/geographic	Banff, MB	fsalehi	PC011735	postcards	1	3.3
+	/mods/subject		fsalehi	PC011735	postcards	10	3.3
+	/mods/subject/hierarchicalGeographic		fsalehi	PC011735	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/country	Canada	fsalehi	PC011735	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/province	British Columbia	fsalehi	PC011735	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/city		fsalehi	PC011735	postcards	1	3.3
+	/mods/subject		fsalehi	PC011735	postcards	10	3.3
+	/mods/subject/genre	Postcards	fsalehi	PC011735	postcards	1	3.3
+	/mods/subject		fsalehi	PC011735	postcards	10	3.3
+	/mods/subject/topic	Railroad tunnels	fsalehi	PC011735	postcards	1	3.3
+	/mods/subject		fsalehi	PC011735	postcards	10	3.3
+	/mods/subject/topic	Railroad locomotives	fsalehi	PC011735	postcards	1	3.3
+	/mods/subject		fsalehi	PC011735	postcards	10	3.3
+	/mods/subject/topic	Railroads	fsalehi	PC011735	postcards	1	3.3
+	/mods/subject		fsalehi	PC011735	postcards	10	3.3
+	/mods/subject/topic	Mountains	fsalehi	PC011735	postcards	1	3.3
+	/mods/subject		fsalehi	PC011735	postcards	10	3.3
+	/mods/subject/topic	Valleys	fsalehi	PC011735	postcards	1	3.3
+	/mods/subject		fsalehi	PC011735	postcards	10	3.3
+	/mods/subject/topic	Steam engines	fsalehi	PC011735	postcards	1	3.3
+	/mods/subject		fsalehi	PC011735	postcards	10	3.3
+	/mods/subject/name		fsalehi	PC011735	postcards	1	3.3
+	/mods/subject/name/namePart	Spiral Tunnels (B.C.)	fsalehi	PC011735	postcards	1	3.3
+	/mods/identifier	PC011735	fsalehi	PC011735	postcards	1	3.3
+	/mods/identifier/@type	local	fsalehi	PC011735	postcards	1	3.3
+	/mods/location		fsalehi	PC011735	postcards	1	3.3
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 4 (set 2)	fsalehi	PC011735	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC011735.html	fsalehi	PC011735	postcards	3	3.3
+	/mods/location/url/@access	object in context	fsalehi	PC011735	postcards	1	3.3
+	/mods/location/url/@usage	primary display	fsalehi	PC011735	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/011/web/PC011735.jpg	fsalehi	PC011735	postcards	3	3.3
+	/mods/location/url/@access	raw object	fsalehi	PC011735	postcards	1	3.3
+	/mods/location/url/@note	width='500' height='800' 	fsalehi	PC011735	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/011/thumbs/PC011735.jpg	fsalehi	PC011735	postcards	3	3.3
+	/mods/location/url/@access	preview	fsalehi	PC011735	postcards	1	3.3
+	/mods/location/url/@note	width='125' height='200'	fsalehi	PC011735	postcards	1	3.3
+	/mods/recordInfo		fsalehi	PC011735	postcards	1	3.3
+	/mods/recordInfo/recordCreationDate	2009-01-23T14:03:00-0700	fsalehi	PC011735	postcards	1	3.3
+	/mods/recordInfo/recordIdentifier	PC011735	fsalehi	PC011735	postcards	1	3.3
+	/mods/recordInfo/recordContentSource	fsalehi	fsalehi	PC011735	postcards	1	3.3
+	/mods/recordInfo/recordChangeDate	2009-11-17T12:48:03-0700	fsalehi	PC011735	postcards	1	3.3
+	/@mods	
+
+Entering Lower Spiral Tunnel and Mt. Stephen, Field, B.C.
+
+
+Harmon
+Byron
+
+Photographer
+
+
+still image
+postcards
+
+monographic
+Photographed and Copyrighted by Byron Harmon, Banff, Canada.
+before 1942
+
+
+Banff
+
+
+
+English
+
+
+1 postcard : b&w ; 14 x 9 cm.
+
+5
+false
+false
+Along the Line of the Canadian Pacific Railway.
+Made in Canada
+[printer's no.] 779
+Image shows a steam engine billowing down the tracks with mountains in the background.
+
+Banff, MB
+
+
+
+Canada
+British Columbia
+
+
+
+
+Postcards
+
+
+Railroad tunnels
+
+
+Railroad locomotives
+
+
+Railroads
+
+
+Mountains
+
+
+Valleys
+
+
+Steam engines
+
+
+
+Spiral Tunnels (B.C.)
+
+
+PC011735
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 4 (set 2)
+http://peel.library.ualberta.ca/postcards/PC011735.html
+http://peel.library.ualberta.ca/pcimages/PC/011/web/PC011735.jpg
+http://peel.library.ualberta.ca/pcimages/PC/011/thumbs/PC011735.jpg
+
+
+2009-01-23T14:03:00-0700
+PC011735
+fsalehi
+2009-11-17T12:48:03-0700
+
+	fsalehi	PC011735	postcards	1	3.3
+	

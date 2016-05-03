@@ -1,0 +1,144 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		rschramm	PC001111	postcards	1	3.2
+	/mods/@version	3.2	rschramm	PC001111	postcards	1	3.2
+	/mods/titleInfo		rschramm	PC001111	postcards	1	3.2
+	/mods/titleInfo/@lang	english	rschramm	PC001111	postcards	1	3.2
+	/mods/titleInfo/title	Police Court, Winnipeg.	rschramm	PC001111	postcards	1	3.2
+	/mods/name		rschramm	PC001111	postcards	1	3.2
+	/mods/name/@type	corporate	rschramm	PC001111	postcards	1	3.2
+	/mods/name/namePart	Winnipeg Photo. Co.	rschramm	PC001111	postcards	1	3.2
+	/mods/name/role		rschramm	PC001111	postcards	1	3.2
+	/mods/name/role/roleTerm	Photographer	rschramm	PC001111	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	rschramm	PC001111	postcards	1	3.2
+	/mods/typeOfResource	still image	rschramm	PC001111	postcards	1	3.2
+	/mods/genre	postcards	rschramm	PC001111	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	rschramm	PC001111	postcards	1	3.2
+	/mods/originInfo		rschramm	PC001111	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	rschramm	PC001111	postcards	1	3.2
+	/mods/originInfo/publisher	Photo. Post card by  Winnipeg Photo Co., Napinka, Man.	rschramm	PC001111	postcards	1	3.2
+	/mods/originInfo/dateIssued	1909	rschramm	PC001111	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	approximate	rschramm	PC001111	postcards	1	3.2
+	/mods/originInfo/place		rschramm	PC001111	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	Napinka	rschramm	PC001111	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	rschramm	PC001111	postcards	1	3.2
+	/mods/language		rschramm	PC001111	postcards	1	3.2
+	/mods/language/languageTerm	English	rschramm	PC001111	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	rschramm	PC001111	postcards	1	3.2
+	/mods/physicalDescription		rschramm	PC001111	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : b&w ; 14 x 9 cm.	rschramm	PC001111	postcards	1	3.2
+	/mods/note	30	rschramm	PC001111	postcards	9	3.2
+	/mods/note/@type	price	rschramm	PC001111	postcards	1	3.2
+	/mods/note	false	rschramm	PC001111	postcards	9	3.2
+	/mods/note/@type	notable	rschramm	PC001111	postcards	1	3.2
+	/mods/note	false	rschramm	PC001111	postcards	9	3.2
+	/mods/note/@type	imgprobs	rschramm	PC001111	postcards	1	3.2
+	/mods/note	Exterior of the Police Court building in Winnipeg.	rschramm	PC001111	postcards	9	3.2
+	/mods/note/@type	public_description	rschramm	PC001111	postcards	1	3.2
+	/mods/note	Wm. Smith Esq.	rschramm	PC001111	postcards	9	3.2
+	/mods/note/@type	public_to	rschramm	PC001111	postcards	1	3.2
+	/mods/note	C. Hardy	rschramm	PC001111	postcards	9	3.2
+	/mods/note/@type	public_from	rschramm	PC001111	postcards	1	3.2
+	/mods/note	Lauder, Man.	rschramm	PC001111	postcards	9	3.2
+	/mods/note/@type	public_address	rschramm	PC001111	postcards	1	3.2
+	/mods/note	[Deleau], Dec 29.09, Wishing you a Happy New Year, C. Hardy	rschramm	PC001111	postcards	9	3.2
+	/mods/note/@type	public_message	rschramm	PC001111	postcards	1	3.2
+	/mods/note	[printer's no.] No 855	rschramm	PC001111	postcards	9	3.2
+	/mods/note/@type	public_on_front	rschramm	PC001111	postcards	1	3.2
+	/mods/subject		rschramm	PC001111	postcards	4	3.2
+	/mods/subject/geographic	Winnipeg, MB	rschramm	PC001111	postcards	1	3.2
+	/mods/subject		rschramm	PC001111	postcards	4	3.2
+	/mods/subject/hierarchicalGeographic		rschramm	PC001111	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	rschramm	PC001111	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Manitoba	rschramm	PC001111	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Winnipeg	rschramm	PC001111	postcards	1	3.2
+	/mods/subject		rschramm	PC001111	postcards	4	3.2
+	/mods/subject/genre	Postcards	rschramm	PC001111	postcards	1	3.2
+	/mods/subject		rschramm	PC001111	postcards	4	3.2
+	/mods/subject/topic	Courthouses	rschramm	PC001111	postcards	1	3.2
+	/mods/identifier	PC001111	rschramm	PC001111	postcards	1	3.2
+	/mods/identifier/@type	local	rschramm	PC001111	postcards	1	3.2
+	/mods/location		rschramm	PC001111	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 3	rschramm	PC001111	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC001111.html	rschramm	PC001111	postcards	3	3.2
+	/mods/location/url/@access	object in context	rschramm	PC001111	postcards	1	3.2
+	/mods/location/url/@usage	primary display	rschramm	PC001111	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/001/web/PC001111.jpg	rschramm	PC001111	postcards	3	3.2
+	/mods/location/url/@access	raw object	rschramm	PC001111	postcards	1	3.2
+	/mods/location/url/@note	width='488' height='800' 	rschramm	PC001111	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/001/thumbs/PC001111.jpg	rschramm	PC001111	postcards	3	3.2
+	/mods/location/url/@access	preview	rschramm	PC001111	postcards	1	3.2
+	/mods/location/url/@note	width='122' height='200'	rschramm	PC001111	postcards	1	3.2
+	/mods/recordInfo		rschramm	PC001111	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-20T16:05:12-0600	rschramm	PC001111	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC001111	rschramm	PC001111	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	rschramm	rschramm	PC001111	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2008-05-14T09:38:31-0600	rschramm	PC001111	postcards	1	3.2
+	/@mods	
+
+Police Court, Winnipeg.
+
+
+Winnipeg Photo. Co.
+
+Photographer
+
+
+still image
+postcards
+
+monographic
+Photo. Post card by  Winnipeg Photo Co., Napinka, Man.
+1909
+
+
+Napinka
+
+
+
+English
+
+
+1 postcard : b&w ; 14 x 9 cm.
+
+30
+false
+false
+Exterior of the Police Court building in Winnipeg.
+Wm. Smith Esq.
+C. Hardy
+Lauder, Man.
+[Deleau], Dec 29.09, Wishing you a Happy New Year, C. Hardy
+[printer's no.] No 855
+
+Winnipeg, MB
+
+
+
+Canada
+Manitoba
+Winnipeg
+
+
+
+Postcards
+
+
+Courthouses
+
+PC001111
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 3
+http://peel.library.ualberta.ca/postcards/PC001111.html
+http://peel.library.ualberta.ca/pcimages/PC/001/web/PC001111.jpg
+http://peel.library.ualberta.ca/pcimages/PC/001/thumbs/PC001111.jpg
+
+
+
+
+2007-06-20T16:05:12-0600
+PC001111
+rschramm
+2008-05-14T09:38:31-0600
+
+	rschramm	PC001111	postcards	1	3.2
+	

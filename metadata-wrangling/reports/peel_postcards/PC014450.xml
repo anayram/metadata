@@ -1,0 +1,186 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		fsalehi	PC014450	postcards	1	3.3
+	/mods/@version	3.3	fsalehi	PC014450	postcards	1	3.3
+	/mods/titleInfo		fsalehi	PC014450	postcards	1	3.3
+	/mods/titleInfo/@lang	english	fsalehi	PC014450	postcards	1	3.3
+	/mods/titleInfo/title	Cascade Mountain, 9,826 Feet, Banff, Alberta, with Bow River	fsalehi	PC014450	postcards	1	3.3
+	/mods/name		fsalehi	PC014450	postcards	2	3.3
+	/mods/name/@type	corporate	fsalehi	PC014450	postcards	1	3.3
+	/mods/name/namePart	The Camera Products Co.	fsalehi	PC014450	postcards	1	3.3
+	/mods/name/role		fsalehi	PC014450	postcards	1	3.3
+	/mods/name/role/roleTerm	Publisher	fsalehi	PC014450	postcards	1	3.3
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC014450	postcards	1	3.3
+	/mods/name		fsalehi	PC014450	postcards	2	3.3
+	/mods/name/@type	corporate	fsalehi	PC014450	postcards	1	3.3
+	/mods/name/namePart	Spalding	fsalehi	PC014450	postcards	2	3.3
+	/mods/name/namePart/@type	family	fsalehi	PC014450	postcards	1	3.3
+	/mods/name/namePart	J. Fred	fsalehi	PC014450	postcards	2	3.3
+	/mods/name/namePart/@type	given	fsalehi	PC014450	postcards	1	3.3
+	/mods/name/role		fsalehi	PC014450	postcards	1	3.3
+	/mods/name/role/roleTerm	Copyright holder	fsalehi	PC014450	postcards	1	3.3
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC014450	postcards	1	3.3
+	/mods/typeOfResource	still image	fsalehi	PC014450	postcards	1	3.3
+	/mods/genre	postcards	fsalehi	PC014450	postcards	1	3.3
+	/mods/genre/@authority	gmgpc	fsalehi	PC014450	postcards	1	3.3
+	/mods/originInfo		fsalehi	PC014450	postcards	1	3.3
+	/mods/originInfo/issuance	monographic	fsalehi	PC014450	postcards	1	3.3
+	/mods/originInfo/publisher	Published by The Camera Products Co., 1731 Dunbar Street, Vancouver, B.C.	fsalehi	PC014450	postcards	1	3.3
+	/mods/originInfo/dateIssued	after 1930	fsalehi	PC014450	postcards	1	3.3
+	/mods/originInfo/dateIssued/@qualifier	inferred	fsalehi	PC014450	postcards	1	3.3
+	/mods/originInfo/place		fsalehi	PC014450	postcards	1	3.3
+	/mods/originInfo/place/placeTerm	Vancouver	fsalehi	PC014450	postcards	1	3.3
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC014450	postcards	1	3.3
+	/mods/language		fsalehi	PC014450	postcards	1	3.3
+	/mods/language/languageTerm	English	fsalehi	PC014450	postcards	1	3.3
+	/mods/language/languageTerm/@type	text	fsalehi	PC014450	postcards	1	3.3
+	/mods/physicalDescription		fsalehi	PC014450	postcards	1	3.3
+	/mods/physicalDescription/extent	1 postcard : col. ; 9 x 14 cm.	fsalehi	PC014450	postcards	1	3.3
+	/mods/note	10	fsalehi	PC014450	postcards	7	3.3
+	/mods/note/@type	price	fsalehi	PC014450	postcards	1	3.3
+	/mods/note	false	fsalehi	PC014450	postcards	7	3.3
+	/mods/note/@type	notable	fsalehi	PC014450	postcards	1	3.3
+	/mods/note	false	fsalehi	PC014450	postcards	7	3.3
+	/mods/note/@type	imgprobs	fsalehi	PC014450	postcards	1	3.3
+	/mods/note	This is a Real Photograph. Hand coloured	fsalehi	PC014450	postcards	7	3.3
+	/mods/note/@type	public_on_back	fsalehi	PC014450	postcards	1	3.3
+	/mods/note	Made in England	fsalehi	PC014450	postcards	7	3.3
+	/mods/note/@type	public_on_back	fsalehi	PC014450	postcards	1	3.3
+	/mods/note	Rockies Series No. 68	fsalehi	PC014450	postcards	7	3.3
+	/mods/note/@type	public_on_front	fsalehi	PC014450	postcards	1	3.3
+	/mods/note	Cascade Mountain and Bow River in Banff National Park. Passenger train runs along the river on the left side.	fsalehi	PC014450	postcards	7	3.3
+	/mods/note/@type	public_description	fsalehi	PC014450	postcards	1	3.3
+	/mods/subject		fsalehi	PC014450	postcards	9	3.3
+	/mods/subject/geographic	Banff, MB	fsalehi	PC014450	postcards	1	3.3
+	/mods/subject		fsalehi	PC014450	postcards	9	3.3
+	/mods/subject/hierarchicalGeographic		fsalehi	PC014450	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/country	Canada	fsalehi	PC014450	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/province	Alberta	fsalehi	PC014450	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/city		fsalehi	PC014450	postcards	1	3.3
+	/mods/subject		fsalehi	PC014450	postcards	9	3.3
+	/mods/subject/genre	Postcards	fsalehi	PC014450	postcards	1	3.3
+	/mods/subject		fsalehi	PC014450	postcards	9	3.3
+	/mods/subject/topic	Mountains	fsalehi	PC014450	postcards	1	3.3
+	/mods/subject		fsalehi	PC014450	postcards	9	3.3
+	/mods/subject/topic	Rivers	fsalehi	PC014450	postcards	1	3.3
+	/mods/subject		fsalehi	PC014450	postcards	9	3.3
+	/mods/subject/topic	Railroad locomotives	fsalehi	PC014450	postcards	1	3.3
+	/mods/subject		fsalehi	PC014450	postcards	9	3.3
+	/mods/subject/name		fsalehi	PC014450	postcards	1	3.3
+	/mods/subject/name/namePart	Banff National Park (Alta.)	fsalehi	PC014450	postcards	1	3.3
+	/mods/subject		fsalehi	PC014450	postcards	9	3.3
+	/mods/subject/name		fsalehi	PC014450	postcards	1	3.3
+	/mods/subject/name/namePart	Cascade Mountain (Alta.)	fsalehi	PC014450	postcards	1	3.3
+	/mods/subject		fsalehi	PC014450	postcards	9	3.3
+	/mods/subject/name		fsalehi	PC014450	postcards	1	3.3
+	/mods/subject/name/namePart	Bow River (Alta.)	fsalehi	PC014450	postcards	1	3.3
+	/mods/identifier	PC014450	fsalehi	PC014450	postcards	1	3.3
+	/mods/identifier/@type	local	fsalehi	PC014450	postcards	1	3.3
+	/mods/location		fsalehi	PC014450	postcards	1	3.3
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 4 (set 2)	fsalehi	PC014450	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC014450.html	fsalehi	PC014450	postcards	3	3.3
+	/mods/location/url/@access	object in context	fsalehi	PC014450	postcards	1	3.3
+	/mods/location/url/@usage	primary display	fsalehi	PC014450	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/014/web/PC014450.jpg	fsalehi	PC014450	postcards	3	3.3
+	/mods/location/url/@access	raw object	fsalehi	PC014450	postcards	1	3.3
+	/mods/location/url/@note	width='1112' height='713' 	fsalehi	PC014450	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/014/thumbs/PC014450.jpg	fsalehi	PC014450	postcards	3	3.3
+	/mods/location/url/@access	preview	fsalehi	PC014450	postcards	1	3.3
+	/mods/location/url/@note	width='200' height='128'	fsalehi	PC014450	postcards	1	3.3
+	/mods/recordInfo		fsalehi	PC014450	postcards	1	3.3
+	/mods/recordInfo/recordCreationDate	2009-01-23T14:03:01-0700	fsalehi	PC014450	postcards	1	3.3
+	/mods/recordInfo/recordIdentifier	PC014450	fsalehi	PC014450	postcards	1	3.3
+	/mods/recordInfo/recordContentSource	fsalehi	fsalehi	PC014450	postcards	1	3.3
+	/mods/recordInfo/recordChangeDate	2009-09-08T11:27:38-0600	fsalehi	PC014450	postcards	1	3.3
+	/@mods	
+
+Cascade Mountain, 9,826 Feet, Banff, Alberta, with Bow River
+
+
+The Camera Products Co.
+
+Publisher
+
+
+
+Spalding
+J. Fred
+
+Copyright holder
+
+
+still image
+postcards
+
+monographic
+Published by The Camera Products Co., 1731 Dunbar Street, Vancouver, B.C.
+after 1930
+
+
+Vancouver
+
+
+
+English
+
+
+1 postcard : col. ; 9 x 14 cm.
+
+10
+false
+false
+This is a Real Photograph. Hand coloured
+Made in England
+Rockies Series No. 68
+Cascade Mountain and Bow River in Banff National Park. Passenger train runs along the river on the left side.
+
+Banff, MB
+
+
+
+Canada
+Alberta
+
+
+
+
+Postcards
+
+
+Mountains
+
+
+Rivers
+
+
+Railroad locomotives
+
+
+
+Banff National Park (Alta.)
+
+
+
+
+Cascade Mountain (Alta.)
+
+
+
+
+Bow River (Alta.)
+
+
+PC014450
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 4 (set 2)
+http://peel.library.ualberta.ca/postcards/PC014450.html
+http://peel.library.ualberta.ca/pcimages/PC/014/web/PC014450.jpg
+http://peel.library.ualberta.ca/pcimages/PC/014/thumbs/PC014450.jpg
+
+
+2009-01-23T14:03:01-0700
+PC014450
+fsalehi
+2009-09-08T11:27:38-0600
+
+	fsalehi	PC014450	postcards	1	3.3
+	

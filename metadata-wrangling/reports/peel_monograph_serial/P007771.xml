@@ -1,0 +1,237 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@schemaLocation	http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	Lettre du R. P. Pascal à S. G. Mgr. Clut, à Montréal (Canada)	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/subTitle	Mission de la Nativité, le 13 juillet 1888	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name		periodical	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MANaN	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Pascal, Albert	periodical	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	1848-1920	periodical	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart/@type	date	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name		periodical	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.2	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MANaN	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	corporate	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Oblates of Mary Immaculate	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	French	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	22 cm.	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject		periodical	14	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS001380	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Famines--Northwest Territories	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject		periodical	14	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS001380	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Famines--Territoires du Nord-Ouest	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject		periodical	14	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS001448	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Floods--Northwest Territories	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject		periodical	14	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS001448	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Inondations--Territoires du Nord-Ouest	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject		periodical	14	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002093	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Indians of North America--Diseases	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject		periodical	14	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS002093	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Indiens d'Amérique--Amérique du Nord--Maladies	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject		periodical	14	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003002	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Missions--Northwest Territories	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject		periodical	14	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003002	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Missions--Territoires du Nord-Ouest	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject		periodical	14	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	CanThes	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003194	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Northwest Territories	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject		periodical	14	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003393	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name/namePart	Pascal, Albert, 1848-1920	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject		periodical	14	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS004684	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Vicariate of Mackenzie	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject		periodical	14	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:geographic	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Northwest Territories	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject		periodical	14	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:geographic	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Vicariate of Mackenzie	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject		periodical	14	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1888	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem		periodical	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@type	host	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/genre	periodical	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/genre/@authority	marcgt	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/titleInfo		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/titleInfo/title	Missions de la Congrégation des missionnaires oblats de Marie Immaculée	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/originInfo		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/originInfo/issuance	continuing	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/originInfo/publisher	A. Hennuyer	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/originInfo/place		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/originInfo/place/placeTerm	Paris	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/detail		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/detail/@type	volume	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/detail/number	104	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/detail/caption	no	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/extent		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/extent/@unit	page	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/extent/start	513	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/extent/end	521	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/date	1888-12	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/date/@point	start	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/part/date/@encoding	iso8601	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem		periodical	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/@type	series	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/identifier	missions	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/relatedItem/identifier/@type	local:oai-set	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	733	periodical	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel_new	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	7771	periodical	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo		periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal	periodical	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P007771	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2004-12-22T09:47:43-0700	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	LEM	periodical	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource/@authority	local:person	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+    
+        Lettre du R. P. Pascal à S. G. Mgr. Clut, à Montréal (Canada)
+        Mission de la Nativité, le 13 juillet 1888
+    
+    
+        Pascal, Albert
+        1848-1920
+        
+            author
+        
+    
+    
+        Oblates of Mary Immaculate
+        
+            author
+        
+    
+    
+        French
+    
+    
+        22 cm.
+    
+    
+        Famines--Northwest Territories
+    
+    
+        Famines--Territoires du Nord-Ouest
+    
+    
+        Floods--Northwest Territories
+    
+    
+        Inondations--Territoires du Nord-Ouest
+    
+    
+        Indians of North America--Diseases
+    
+    
+        Indiens d'Amérique--Amérique du Nord--Maladies
+    
+    
+        Missions--Northwest Territories
+    
+    
+        Missions--Territoires du Nord-Ouest
+    
+    
+        Northwest Territories
+    
+    
+        
+            Pascal, Albert, 1848-1920
+        
+    
+    
+        Vicariate of Mackenzie
+    
+    
+        Northwest Territories
+    
+    
+        Vicariate of Mackenzie
+    
+    
+        1888
+    
+    
+        periodical
+        
+            Missions de la Congrégation des missionnaires oblats de Marie Immaculée
+        
+        
+            continuing
+            A. Hennuyer
+            
+                Paris
+            
+        
+        
+            
+                104
+                no
+            
+            
+                513
+                521
+            
+            1888-12
+        
+    
+    
+        missions
+    
+    733
+    7771
+    
+        Peel's Prairie Portal
+        P007771
+        2004-12-22T09:47:43-0700
+        LEM
+    
+	periodical	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

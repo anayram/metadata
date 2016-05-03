@@ -1,0 +1,81 @@
+Path	Content	URL	Form or Genre	Occurrence	MODS version
+
+/mods/titleInfo		http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	2	3.2
+/mods/titleInfo/title	bulletin	http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	1	3.2
+/mods/titleInfo/nonSort	The 	http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	1	3.2
+
+/mods/titleInfo		http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	2	3.2
+/mods/titleInfo/@type	uniform	http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	1	3.2
+/mods/titleInfo/title	Bulletin (Edmonton, Alta.)	http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	1	3.2
+
+/mods/name		http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	1	3.2
+/mods/name/@type	personal	http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	1	3.2
+/mods/name/namePart	Oliver, Frank	http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	2	3.2
+/mods/name/namePart	1853-1933	http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	2	3.2
+/mods/name/namePart/@type	date	http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	1	3.2
+
+/mods/typeOfResource	text	http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	1	3.2
+
+/mods/genre	newspaper	http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	1	3.2
+/mods/genre/@authority	marcgt	http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	1	3.2
+
+/mods/originInfo		http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	1	3.2
+/mods/originInfo/place		http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	2	3.2
+/mods/originInfo/place/placeTerm	abc	http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@authority	marccountry	http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@type	code	http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	1	3.2
+/mods/originInfo/place		http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	2	3.2
+/mods/originInfo/place/placeTerm	Edmonton, N.W.T	http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	1	3.2
+/mods/originInfo/place/placeTerm/@type	text	http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	1	3.2
+/mods/originInfo/publisher	[Taylor & Oliver, proprietors]	http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	1	3.2
+/mods/originInfo/dateIssued	1880-1881	http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	3	3.2
+/mods/originInfo/dateIssued	1880	http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	3	3.2
+/mods/originInfo/dateIssued/@encoding	marc	http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	1	3.2
+/mods/originInfo/dateIssued/@point	start	http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	1	3.2
+/mods/originInfo/dateIssued	1881	http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	3	3.2
+/mods/originInfo/dateIssued/@encoding	marc	http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	1	3.2
+/mods/originInfo/dateIssued/@point	end	http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	1	3.2
+/mods/originInfo/issuance	continuing	http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	1	3.2
+/mods/originInfo/frequency	Weekly.	http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	1	3.2
+
+/mods/language		http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	1	3.2
+/mods/language/languageTerm	eng	http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	1	3.2
+/mods/language/languageTerm/@authority	iso639-2b	http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	1	3.2
+/mods/language/languageTerm/@type	code	http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	1	3.2
+
+/mods/physicalDescription		http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	1	3.2
+/mods/physicalDescription/form	print	http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	1	3.2
+/mods/physicalDescription/form/@authority	marcform	http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	1	3.2
+/mods/physicalDescription/extent	v. : ill. ; 17-20 cm.	http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	1	3.2
+
+/mods/note	Title from caption.	http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	2	3.2
+
+/mods/note	newspapers	http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	2	3.2
+/mods/note/@type	local:oaiset	http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	1	3.2
+
+/mods/subject		http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic		http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/country	Canada	http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/province	Alberta	http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	1	3.2
+/mods/subject/hierarchicalGeographic/city	Edmonton	http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	1	3.2
+
+/mods/relatedItem		http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	1	3.2
+/mods/relatedItem/@type	succeeding	http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	1	3.2
+/mods/relatedItem/titleInfo		http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	1	3.2
+/mods/relatedItem/titleInfo/title	Edmonton bulletin (1881)	http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	1	3.2
+
+/mods/identifier	925363	http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	2	3.2
+/mods/identifier/@type	local:neos	http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	1	3.2
+
+/mods/identifier	EDB	http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	2	3.2
+/mods/identifier/@type	local:newspaper	http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	1	3.2
+
+/mods/recordInfo		http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	1	3.2
+/mods/recordInfo/recordContentSource	neos	http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	2	3.2
+/mods/recordInfo/recordContentSource/@authority	marcorg	http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	1	3.2
+/mods/recordInfo/recordContentSource	sfarnel	http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	2	3.2
+/mods/recordInfo/recordContentSource/@authority	local:person	http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	1	3.2
+/mods/recordInfo/recordCreationDate	2010-02-11T10:29:01-0700	http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	1	3.2
+/mods/recordInfo/recordIdentifier	QEDB	http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	1	3.2
+/mods/recordInfo/recordChangeDate	2010-02-11T10:29:10-0700	http://peel.library.ualberta.ca/newspapers/EDB.html	newspaper	1	3.2
+

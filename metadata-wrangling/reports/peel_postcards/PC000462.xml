@@ -1,0 +1,161 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		bstearns	PC000462	postcards	1	3.2
+	/mods/@version	3.2	bstearns	PC000462	postcards	1	3.2
+	/mods/titleInfo		bstearns	PC000462	postcards	1	3.2
+	/mods/titleInfo/@lang	english	bstearns	PC000462	postcards	1	3.2
+	/mods/titleInfo/title	Grand View, Man.	bstearns	PC000462	postcards	1	3.2
+	/mods/name		bstearns	PC000462	postcards	1	3.2
+	/mods/name/@type	personal	bstearns	PC000462	postcards	1	3.2
+	/mods/name/namePart	Prust	bstearns	PC000462	postcards	2	3.2
+	/mods/name/namePart/@type	family	bstearns	PC000462	postcards	1	3.2
+	/mods/name/namePart	M.C.	bstearns	PC000462	postcards	2	3.2
+	/mods/name/namePart/@type	given	bstearns	PC000462	postcards	1	3.2
+	/mods/name/role		bstearns	PC000462	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	bstearns	PC000462	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	bstearns	PC000462	postcards	1	3.2
+	/mods/typeOfResource	still image	bstearns	PC000462	postcards	1	3.2
+	/mods/genre	postcards	bstearns	PC000462	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	bstearns	PC000462	postcards	1	3.2
+	/mods/originInfo		bstearns	PC000462	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	bstearns	PC000462	postcards	1	3.2
+	/mods/originInfo/publisher	M.C. Prust, Druggist, Grand View, Man.	bstearns	PC000462	postcards	1	3.2
+	/mods/originInfo/dateIssued	1907	bstearns	PC000462	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	approximate	bstearns	PC000462	postcards	1	3.2
+	/mods/originInfo/place		bstearns	PC000462	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	Grand View, Manitoba	bstearns	PC000462	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	bstearns	PC000462	postcards	1	3.2
+	/mods/language		bstearns	PC000462	postcards	1	3.2
+	/mods/language/languageTerm	English	bstearns	PC000462	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	bstearns	PC000462	postcards	1	3.2
+	/mods/physicalDescription		bstearns	PC000462	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : col. ; 9 x 14 cm.	bstearns	PC000462	postcards	1	3.2
+	/mods/note	10	bstearns	PC000462	postcards	9	3.2
+	/mods/note/@type	price	bstearns	PC000462	postcards	1	3.2
+	/mods/note	false	bstearns	PC000462	postcards	9	3.2
+	/mods/note/@type	notable	bstearns	PC000462	postcards	1	3.2
+	/mods/note	false	bstearns	PC000462	postcards	9	3.2
+	/mods/note/@type	imgprobs	bstearns	PC000462	postcards	1	3.2
+	/mods/note	Master G.H. Jessop	bstearns	PC000462	postcards	9	3.2
+	/mods/note/@type	public_to	bstearns	PC000462	postcards	1	3.2
+	/mods/note	Uncle Jack	bstearns	PC000462	postcards	9	3.2
+	/mods/note/@type	public_from	bstearns	PC000462	postcards	1	3.2
+	/mods/note	Ell-wood Villas, Bradford Road, Brighouse, Yks., England	bstearns	PC000462	postcards	9	3.2
+	/mods/note/@type	public_address	bstearns	PC000462	postcards	1	3.2
+	/mods/note	April 9/07, With love to Babs. From Uncle Jack.	bstearns	PC000462	postcards	9	3.2
+	/mods/note/@type	public_message	bstearns	PC000462	postcards	1	3.2
+	/mods/note	Grand View, Man., 1907-04-10.	bstearns	PC000462	postcards	9	3.2
+	/mods/note/@type	public_postmark_date	bstearns	PC000462	postcards	1	3.2
+	/mods/note	Bird's eye view of town from across the railroad line, includes "Kings Hotel" and "Boarding House" as well as grain elevators.	bstearns	PC000462	postcards	9	3.2
+	/mods/note/@type	public_description	bstearns	PC000462	postcards	1	3.2
+	/mods/subject		bstearns	PC000462	postcards	7	3.2
+	/mods/subject/geographic	Grand View, MB	bstearns	PC000462	postcards	1	3.2
+	/mods/subject		bstearns	PC000462	postcards	7	3.2
+	/mods/subject/hierarchicalGeographic		bstearns	PC000462	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	bstearns	PC000462	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Manitoba	bstearns	PC000462	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Grand View	bstearns	PC000462	postcards	1	3.2
+	/mods/subject		bstearns	PC000462	postcards	7	3.2
+	/mods/subject/genre	Postcards	bstearns	PC000462	postcards	1	3.2
+	/mods/subject		bstearns	PC000462	postcards	7	3.2
+	/mods/subject/topic	Aerial views	bstearns	PC000462	postcards	1	3.2
+	/mods/subject		bstearns	PC000462	postcards	7	3.2
+	/mods/subject/topic	Cityscapes	bstearns	PC000462	postcards	1	3.2
+	/mods/subject		bstearns	PC000462	postcards	7	3.2
+	/mods/subject/topic	Commercial streets	bstearns	PC000462	postcards	1	3.2
+	/mods/subject		bstearns	PC000462	postcards	7	3.2
+	/mods/subject/topic	Storefronts	bstearns	PC000462	postcards	1	3.2
+	/mods/identifier	PC000462	bstearns	PC000462	postcards	1	3.2
+	/mods/identifier/@type	local	bstearns	PC000462	postcards	1	3.2
+	/mods/location		bstearns	PC000462	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 2	bstearns	PC000462	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC000462.html	bstearns	PC000462	postcards	3	3.2
+	/mods/location/url/@access	object in context	bstearns	PC000462	postcards	1	3.2
+	/mods/location/url/@usage	primary display	bstearns	PC000462	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/000/web/PC000462.jpg	bstearns	PC000462	postcards	3	3.2
+	/mods/location/url/@access	raw object	bstearns	PC000462	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='513' 	bstearns	PC000462	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/000/thumbs/PC000462.jpg	bstearns	PC000462	postcards	3	3.2
+	/mods/location/url/@access	preview	bstearns	PC000462	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='128'	bstearns	PC000462	postcards	1	3.2
+	/mods/recordInfo		bstearns	PC000462	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-20T16:05:12-0600	bstearns	PC000462	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC000462	bstearns	PC000462	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	bstearns	bstearns	PC000462	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2009-11-04T11:23:23-0700	bstearns	PC000462	postcards	1	3.2
+	/@mods	
+
+Grand View, Man.
+
+
+Prust
+M.C.
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+M.C. Prust, Druggist, Grand View, Man.
+1907
+
+
+Grand View, Manitoba
+
+
+
+English
+
+
+1 postcard : col. ; 9 x 14 cm.
+
+10
+false
+false
+Master G.H. Jessop
+Uncle Jack
+Ell-wood Villas, Bradford Road, Brighouse, Yks., England
+April 9/07, With love to Babs. From Uncle Jack.
+Grand View, Man., 1907-04-10.
+Bird's eye view of town from across the railroad line, includes "Kings Hotel" and "Boarding House" as well as grain elevators.
+
+Grand View, MB
+
+
+
+Canada
+Manitoba
+Grand View
+
+
+
+Postcards
+
+
+Aerial views
+
+
+Cityscapes
+
+
+Commercial streets
+
+
+Storefronts
+
+PC000462
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 2
+http://peel.library.ualberta.ca/postcards/PC000462.html
+http://peel.library.ualberta.ca/pcimages/PC/000/web/PC000462.jpg
+http://peel.library.ualberta.ca/pcimages/PC/000/thumbs/PC000462.jpg
+
+
+2007-06-20T16:05:12-0600
+PC000462
+bstearns
+2009-11-04T11:23:23-0700
+
+	bstearns	PC000462	postcards	1	3.2
+	

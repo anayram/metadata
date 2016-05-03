@@ -1,0 +1,134 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		fsalehi	PC011342	postcards	1	3.3
+	/mods/@version	3.3	fsalehi	PC011342	postcards	1	3.3
+	/mods/titleInfo		fsalehi	PC011342	postcards	1	3.3
+	/mods/titleInfo/@lang	english	fsalehi	PC011342	postcards	1	3.3
+	/mods/titleInfo/title	High School, Prince Albert, Sask.	fsalehi	PC011342	postcards	1	3.3
+	/mods/name		fsalehi	PC011342	postcards	1	3.3
+	/mods/name/@type	corporate	fsalehi	PC011342	postcards	1	3.3
+	/mods/name/namePart	The Book Arcade	fsalehi	PC011342	postcards	1	3.3
+	/mods/name/role		fsalehi	PC011342	postcards	1	3.3
+	/mods/name/role/roleTerm	Publisher	fsalehi	PC011342	postcards	1	3.3
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC011342	postcards	1	3.3
+	/mods/typeOfResource	still image	fsalehi	PC011342	postcards	1	3.3
+	/mods/genre	postcards	fsalehi	PC011342	postcards	1	3.3
+	/mods/genre/@authority	gmgpc	fsalehi	PC011342	postcards	1	3.3
+	/mods/originInfo		fsalehi	PC011342	postcards	1	3.3
+	/mods/originInfo/issuance	monographic	fsalehi	PC011342	postcards	1	3.3
+	/mods/originInfo/publisher	The Book Arcade, Prince Albert, Sask.	fsalehi	PC011342	postcards	1	3.3
+	/mods/originInfo/dateIssued	after 1910	fsalehi	PC011342	postcards	1	3.3
+	/mods/originInfo/dateIssued/@qualifier	inferred	fsalehi	PC011342	postcards	1	3.3
+	/mods/originInfo/place		fsalehi	PC011342	postcards	1	3.3
+	/mods/originInfo/place/placeTerm	Prince Albert	fsalehi	PC011342	postcards	1	3.3
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC011342	postcards	1	3.3
+	/mods/language		fsalehi	PC011342	postcards	1	3.3
+	/mods/language/languageTerm	English	fsalehi	PC011342	postcards	1	3.3
+	/mods/language/languageTerm/@type	text	fsalehi	PC011342	postcards	1	3.3
+	/mods/physicalDescription		fsalehi	PC011342	postcards	1	3.3
+	/mods/physicalDescription/extent	1 postcard : sepia ; 9 x 14 cm.	fsalehi	PC011342	postcards	1	3.3
+	/mods/note	12	fsalehi	PC011342	postcards	5	3.3
+	/mods/note/@type	price	fsalehi	PC011342	postcards	1	3.3
+	/mods/note	false	fsalehi	PC011342	postcards	5	3.3
+	/mods/note/@type	notable	fsalehi	PC011342	postcards	1	3.3
+	/mods/note	false	fsalehi	PC011342	postcards	5	3.3
+	/mods/note/@type	imgprobs	fsalehi	PC011342	postcards	1	3.3
+	/mods/note	[printer's no.] 304039	fsalehi	PC011342	postcards	5	3.3
+	/mods/note/@type	public_on_back	fsalehi	PC011342	postcards	1	3.3
+	/mods/note	Collegiate Institute in Prince Albert, SK. Institute was built in 1910 & is located on 1st Ave West at 22nd Street, not far from the court house.	fsalehi	PC011342	postcards	5	3.3
+	/mods/note/@type	public_description	fsalehi	PC011342	postcards	1	3.3
+	/mods/subject		fsalehi	PC011342	postcards	5	3.3
+	/mods/subject/geographic	Prince Albert, SK	fsalehi	PC011342	postcards	1	3.3
+	/mods/subject		fsalehi	PC011342	postcards	5	3.3
+	/mods/subject/hierarchicalGeographic		fsalehi	PC011342	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/country	Canada	fsalehi	PC011342	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/province	Saskatchewan	fsalehi	PC011342	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/city	Prince Albert	fsalehi	PC011342	postcards	1	3.3
+	/mods/subject		fsalehi	PC011342	postcards	5	3.3
+	/mods/subject/genre	Postcards	fsalehi	PC011342	postcards	1	3.3
+	/mods/subject		fsalehi	PC011342	postcards	5	3.3
+	/mods/subject/topic	Schools	fsalehi	PC011342	postcards	1	3.3
+	/mods/subject		fsalehi	PC011342	postcards	5	3.3
+	/mods/subject/topic	Flags	fsalehi	PC011342	postcards	1	3.3
+	/mods/identifier	PC011342	fsalehi	PC011342	postcards	1	3.3
+	/mods/identifier/@type	local	fsalehi	PC011342	postcards	1	3.3
+	/mods/location		fsalehi	PC011342	postcards	1	3.3
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Sask. Box 1 (set 2)	fsalehi	PC011342	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC011342.html	fsalehi	PC011342	postcards	3	3.3
+	/mods/location/url/@access	object in context	fsalehi	PC011342	postcards	1	3.3
+	/mods/location/url/@usage	primary display	fsalehi	PC011342	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/011/web/PC011342.jpg	fsalehi	PC011342	postcards	3	3.3
+	/mods/location/url/@access	raw object	fsalehi	PC011342	postcards	1	3.3
+	/mods/location/url/@note	width='800' height='504' 	fsalehi	PC011342	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/011/thumbs/PC011342.jpg	fsalehi	PC011342	postcards	3	3.3
+	/mods/location/url/@access	preview	fsalehi	PC011342	postcards	1	3.3
+	/mods/location/url/@note	width='200' height='126'	fsalehi	PC011342	postcards	1	3.3
+	/mods/recordInfo		fsalehi	PC011342	postcards	1	3.3
+	/mods/recordInfo/recordCreationDate	2009-01-23T14:02:59-0700	fsalehi	PC011342	postcards	1	3.3
+	/mods/recordInfo/recordIdentifier	PC011342	fsalehi	PC011342	postcards	1	3.3
+	/mods/recordInfo/recordContentSource	fsalehi	fsalehi	PC011342	postcards	1	3.3
+	/mods/recordInfo/recordChangeDate	2009-06-25T09:06:39-0600	fsalehi	PC011342	postcards	1	3.3
+	/@mods	
+
+High School, Prince Albert, Sask.
+
+
+The Book Arcade
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+The Book Arcade, Prince Albert, Sask.
+after 1910
+
+Prince Albert
+
+
+
+English
+
+
+1 postcard : sepia ; 9 x 14 cm.
+
+12
+false
+false
+[printer's no.] 304039
+Collegiate Institute in Prince Albert, SK. Institute was built in 1910 & is located on 1st Ave West at 22nd Street, not far from the court house.
+
+Prince Albert, SK
+
+
+
+Canada
+Saskatchewan
+Prince Albert
+
+
+
+Postcards
+
+
+Schools
+
+
+Flags
+
+PC011342
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Sask. Box 1 (set 2)
+http://peel.library.ualberta.ca/postcards/PC011342.html
+http://peel.library.ualberta.ca/pcimages/PC/011/web/PC011342.jpg
+http://peel.library.ualberta.ca/pcimages/PC/011/thumbs/PC011342.jpg
+
+
+2009-01-23T14:02:59-0700
+PC011342
+fsalehi
+2009-06-25T09:06:39-0600
+
+	fsalehi	PC011342	postcards	1	3.3
+	

@@ -1,0 +1,220 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		rw	PC000741	postcards	1	3.2
+	/mods/@version	3.2	rw	PC000741	postcards	1	3.2
+	/mods/titleInfo		rw	PC000741	postcards	1	3.2
+	/mods/titleInfo/@lang	english	rw	PC000741	postcards	1	3.2
+	/mods/titleInfo/title	[Views of Ninette, Manitoba]	rw	PC000741	postcards	1	3.2
+	/mods/typeOfResource	still image	rw	PC000741	postcards	1	3.2
+	/mods/genre	postcards	rw	PC000741	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	rw	PC000741	postcards	1	3.2
+	/mods/originInfo		rw	PC000741	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	rw	PC000741	postcards	1	3.2
+	/mods/originInfo/originInfo		rw	PC000741	postcards	1	3.2
+	/mods/originInfo/originInfo/dateIssued	after 1915	rw	PC000741	postcards	1	3.2
+	/mods/originInfo/originInfo/dateIssued/@qualifier	inferred	rw	PC000741	postcards	1	3.2
+	/mods/originInfo/place		rw	PC000741	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	[Ninette, Manitoba]	rw	PC000741	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	rw	PC000741	postcards	1	3.2
+	/mods/language		rw	PC000741	postcards	1	3.2
+	/mods/language/languageTerm	English	rw	PC000741	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	rw	PC000741	postcards	1	3.2
+	/mods/physicalDescription		rw	PC000741	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard booklet	rw	PC000741	postcards	1	3.2
+	/mods/note	35	rw	PC000741	postcards	1	3.2
+	/mods/note/@type	price	rw	PC000741	postcards	1	3.2
+	/mods/note/note	To:	rw	PC000741	postcards	5	3.2
+	/mods/note/note/@imgprobs	false	rw	PC000741	postcards	1	3.2
+	/mods/note/note/@noteable	false	rw	PC000741	postcards	1	3.2
+	/mods/note/note/@type	public	rw	PC000741	postcards	1	3.2
+	/mods/note/note	From:	rw	PC000741	postcards	5	3.2
+	/mods/note/note/@imgprobs	false	rw	PC000741	postcards	1	3.2
+	/mods/note/note/@noteable	false	rw	PC000741	postcards	1	3.2
+	/mods/note/note/@type	public	rw	PC000741	postcards	1	3.2
+	/mods/note/note	Address:	rw	PC000741	postcards	5	3.2
+	/mods/note/note/@imgprobs	false	rw	PC000741	postcards	1	3.2
+	/mods/note/note/@noteable	false	rw	PC000741	postcards	1	3.2
+	/mods/note/note/@type	public	rw	PC000741	postcards	1	3.2
+	/mods/note/note	Message:	rw	PC000741	postcards	5	3.2
+	/mods/note/note/@imgprobs	false	rw	PC000741	postcards	1	3.2
+	/mods/note/note/@noteable	false	rw	PC000741	postcards	1	3.2
+	/mods/note/note/@type	public	rw	PC000741	postcards	1	3.2
+	/mods/note/note	Description:	rw	PC000741	postcards	5	3.2
+	/mods/note/note/@imgprobs	false	rw	PC000741	postcards	1	3.2
+	/mods/note/note/@noteable	false	rw	PC000741	postcards	1	3.2
+	/mods/note/note/@type	public	rw	PC000741	postcards	1	3.2
+	/mods/subject		rw	PC000741	postcards	3	3.2
+	/mods/subject/geographic	Ninette, MB	rw	PC000741	postcards	1	3.2
+	/mods/subject		rw	PC000741	postcards	3	3.2
+	/mods/subject/hierarchicalGeographic		rw	PC000741	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	rw	PC000741	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Manitoba	rw	PC000741	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Ninette	rw	PC000741	postcards	1	3.2
+	/mods/subject		rw	PC000741	postcards	3	3.2
+	/mods/subject/genre	Postcards	rw	PC000741	postcards	1	3.2
+	/mods/identifier	PC000741	rw	PC000741	postcards	1	3.2
+	/mods/identifier/@type	local	rw	PC000741	postcards	1	3.2
+	/mods/location		rw	PC000741	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 2	rw	PC000741	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC000741.html	rw	PC000741	postcards	1	3.2
+	/mods/location/url/@access	object in context	rw	PC000741	postcards	1	3.2
+	/mods/location/url/@usage	primary display	rw	PC000741	postcards	1	3.2
+	/mods/relatedItem		rw	PC000741	postcards	6	3.2
+	/mods/relatedItem/@type	constituent	rw	PC000741	postcards	1	3.2
+	/mods/relatedItem/@ID	1	rw	PC000741	postcards	1	3.2
+	/mods/relatedItem/location		rw	PC000741	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/000/web/PC000741.1.jpg	rw	PC000741	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	raw object	rw	PC000741	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='800' height='518' 	rw	PC000741	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/000/thumbs/PC000741.1.jpg	rw	PC000741	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	preview	rw	PC000741	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='200' height='130'	rw	PC000741	postcards	1	3.2
+	/mods/relatedItem		rw	PC000741	postcards	6	3.2
+	/mods/relatedItem/@type	constituent	rw	PC000741	postcards	1	3.2
+	/mods/relatedItem/@ID	2	rw	PC000741	postcards	1	3.2
+	/mods/relatedItem/location		rw	PC000741	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/000/web/PC000741.2.jpg	rw	PC000741	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	raw object	rw	PC000741	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='800' height='542' 	rw	PC000741	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/000/thumbs/PC000741.2.jpg	rw	PC000741	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	preview	rw	PC000741	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='200' height='136'	rw	PC000741	postcards	1	3.2
+	/mods/relatedItem		rw	PC000741	postcards	6	3.2
+	/mods/relatedItem/@type	constituent	rw	PC000741	postcards	1	3.2
+	/mods/relatedItem/@ID	3	rw	PC000741	postcards	1	3.2
+	/mods/relatedItem/location		rw	PC000741	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/000/web/PC000741.3.jpg	rw	PC000741	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	raw object	rw	PC000741	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='800' height='523' 	rw	PC000741	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/000/thumbs/PC000741.3.jpg	rw	PC000741	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	preview	rw	PC000741	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='200' height='131'	rw	PC000741	postcards	1	3.2
+	/mods/relatedItem		rw	PC000741	postcards	6	3.2
+	/mods/relatedItem/@type	constituent	rw	PC000741	postcards	1	3.2
+	/mods/relatedItem/@ID	4	rw	PC000741	postcards	1	3.2
+	/mods/relatedItem/location		rw	PC000741	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/000/web/PC000741.4.jpg	rw	PC000741	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	raw object	rw	PC000741	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='800' height='528' 	rw	PC000741	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/000/thumbs/PC000741.4.jpg	rw	PC000741	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	preview	rw	PC000741	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='200' height='132'	rw	PC000741	postcards	1	3.2
+	/mods/relatedItem		rw	PC000741	postcards	6	3.2
+	/mods/relatedItem/@type	constituent	rw	PC000741	postcards	1	3.2
+	/mods/relatedItem/@ID	5	rw	PC000741	postcards	1	3.2
+	/mods/relatedItem/location		rw	PC000741	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/000/web/PC000741.5.jpg	rw	PC000741	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	raw object	rw	PC000741	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='800' height='502' 	rw	PC000741	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/000/thumbs/PC000741.5.jpg	rw	PC000741	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	preview	rw	PC000741	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='200' height='126'	rw	PC000741	postcards	1	3.2
+	/mods/relatedItem		rw	PC000741	postcards	6	3.2
+	/mods/relatedItem/@type	constituent	rw	PC000741	postcards	1	3.2
+	/mods/relatedItem/@ID	6	rw	PC000741	postcards	1	3.2
+	/mods/relatedItem/location		rw	PC000741	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/000/web/PC000741.6.jpg	rw	PC000741	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	raw object	rw	PC000741	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='800' height='347' 	rw	PC000741	postcards	1	3.2
+	/mods/relatedItem/location/url	http://peel.library.ualberta.ca/pcimages/PC/000/thumbs/PC000741.6.jpg	rw	PC000741	postcards	2	3.2
+	/mods/relatedItem/location/url/@access	preview	rw	PC000741	postcards	1	3.2
+	/mods/relatedItem/location/url/@note	width='200' height='87'	rw	PC000741	postcards	1	3.2
+	/mods/recordInfo		rw	PC000741	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-20T16:05:12-0600	rw	PC000741	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC000741	rw	PC000741	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	rw	rw	PC000741	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2007-08-22T09:00:00-0600	rw	PC000741	postcards	1	3.2
+	/@mods	
+
+[Views of Ninette, Manitoba]
+
+still image
+postcards
+
+monographic
+
+after 1915
+
+
+[Ninette, Manitoba]
+
+
+
+English
+
+
+1 postcard booklet
+
+35To:
+From:
+Address:
+Message:
+Description:
+
+
+Ninette, MB
+
+
+
+Canada
+Manitoba
+Ninette
+
+
+
+Postcards
+
+
+
+
+
+
+
+PC000741
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 2
+http://peel.library.ualberta.ca/postcards/PC000741.html
+
+
+
+http://peel.library.ualberta.ca/pcimages/PC/000/web/PC000741.1.jpg
+http://peel.library.ualberta.ca/pcimages/PC/000/thumbs/PC000741.1.jpg
+
+
+
+
+http://peel.library.ualberta.ca/pcimages/PC/000/web/PC000741.2.jpg
+http://peel.library.ualberta.ca/pcimages/PC/000/thumbs/PC000741.2.jpg
+
+
+
+
+http://peel.library.ualberta.ca/pcimages/PC/000/web/PC000741.3.jpg
+http://peel.library.ualberta.ca/pcimages/PC/000/thumbs/PC000741.3.jpg
+
+
+
+
+http://peel.library.ualberta.ca/pcimages/PC/000/web/PC000741.4.jpg
+http://peel.library.ualberta.ca/pcimages/PC/000/thumbs/PC000741.4.jpg
+
+
+
+
+http://peel.library.ualberta.ca/pcimages/PC/000/web/PC000741.5.jpg
+http://peel.library.ualberta.ca/pcimages/PC/000/thumbs/PC000741.5.jpg
+
+
+
+
+http://peel.library.ualberta.ca/pcimages/PC/000/web/PC000741.6.jpg
+http://peel.library.ualberta.ca/pcimages/PC/000/thumbs/PC000741.6.jpg
+
+
+
+2007-06-20T16:05:12-0600
+PC000741
+rw
+2007-08-22T09:00:00-0600
+
+	rw	PC000741	postcards	1	3.2
+	

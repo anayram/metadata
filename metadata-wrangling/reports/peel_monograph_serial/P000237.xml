@@ -1,0 +1,149 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@schemaLocation	http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	Missions de l'Orégon et voyages dans les montagnes Rocheuses en 1845 et 1846		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA000944		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Smet, Pierre-Jean de		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	1801-1873.		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart/@type	date		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	author		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/description	1801-1873. Jesuit missionary in Oregon; spent part of the winter of 1845-1846 in Edmonton.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name			2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.2		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@href	MA000945		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Bourlez, M.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm	translator		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/role/roleTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	Paris		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	Poussielgue-Rusand		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1848		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	French		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	ii, [7]-408 p., illus., port.; 18 cm.		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	Also published, Lyon: J.B. Pelagaud, 1848 (ii, [7]-408p.); as  <i>Missions de l'Orégon et voyages au montagnes Rocheuses, aux sources de la Colombie, de l'Athabasca, et du Sascatshawin, en 1845-46 </i>, Gand, Belgium: V. Vander Schelden, [1848] ([6], ix, [4], 389p.); 3e édition soigneusement corr., et augm. de notes, d'un portr., et d'une carte,  <i>Voyages dans l'Amérique septentrionale, Orégon </i>, Brussels: M. Closson, 1864 and 1874 (vii, 406p.). Translated from Paris, 1848, edition by "een kloosterling van Latrappe" as  <i>Missiën van den Orégon en reizen naer de Rotsbergen en de bronnen der Colombia, der Athabasca en Sascatshawin, in 1845-46 </i>, Ghent: Wwe. Boek-en Steendrukkery van W. vander Schelen, 1849 (xv, 423p.). For English version  <i>see </i>Peel <xref>238</xref>. 		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	public		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			7	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS000093		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Alberta--Description and travel		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			7	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	Other		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003885		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Religious orders		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			7	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003885		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Monasticism and religious orders		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			7	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	rvm		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	fre		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003885		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Monachisme et ordres religieux		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			7	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	Other		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003963		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Rocky Mountains--Canadian Rockies		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			7	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	Other		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@href	MS003984		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name/namePart	Roman Catholic Church--Missions		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject			7	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1846		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	237		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	237		2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel-procite-id		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo			1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P000237		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+    
+        Missions de l'Orégon et voyages dans les montagnes Rocheuses en 1845 et 1846
+    
+    
+        Smet, Pierre-Jean de
+        1801-1873.
+        
+            author
+        
+        1801-1873. Jesuit missionary in Oregon; spent part of the winter of 1845-1846 in Edmonton.
+    
+    
+        Bourlez, M.
+        
+            translator
+        
+    
+    text
+    
+        
+            Paris
+        
+        Poussielgue-Rusand
+        1848
+    
+    
+        French
+    
+    
+        print
+        ii, [7]-408 p., illus., port.; 18 cm.
+    
+    Also published, Lyon: J.B. Pelagaud, 1848 (ii, [7]-408p.); as  <i>Missions de l'Orégon et voyages au montagnes Rocheuses, aux sources de la Colombie, de l'Athabasca, et du Sascatshawin, en 1845-46 </i>, Gand, Belgium: V. Vander Schelden, [1848] ([6], ix, [4], 389p.); 3e édition soigneusement corr., et augm. de notes, d'un portr., et d'une carte,  <i>Voyages dans l'Amérique septentrionale, Orégon </i>, Brussels: M. Closson, 1864 and 1874 (vii, 406p.). Translated from Paris, 1848, edition by "een kloosterling van Latrappe" as  <i>Missiën van den Orégon en reizen naer de Rotsbergen en de bronnen der Colombia, der Athabasca en Sascatshawin, in 1845-46 </i>, Ghent: Wwe. Boek-en Steendrukkery van W. vander Schelen, 1849 (xv, 423p.). For English version  <i>see </i>Peel <xref>238</xref>. 
+    
+        Alberta--Description and travel
+    
+    
+        Religious orders
+    
+    
+        Monasticism and religious orders
+    
+    
+        Monachisme et ordres religieux
+    
+    
+        Rocky Mountains--Canadian Rockies
+    
+    
+        
+            Roman Catholic Church--Missions
+        
+    
+    
+        1846
+    
+    237
+    237
+    
+        Peel's Prairie Portal
+        P000237
+        2003-01-01T12:00:00-0700
+    
+		1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

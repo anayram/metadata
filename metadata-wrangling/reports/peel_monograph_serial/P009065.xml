@@ -1,0 +1,139 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.2
+	/mods/@version	3.2		1	3.2
+	/mods/titleInfo			1	3.2
+	/mods/titleInfo/title	University of Alberta		1	3.2
+	/mods/titleInfo/subTitle	A time to remember		1	3.2
+	/mods/name			1	3.2
+	/mods/name/@type	personal		1	3.2
+	/mods/name/namePart	Schofield, Phil.		1	3.2
+	/mods/name/role			1	3.2
+	/mods/name/role/roleTerm	photographer		1	3.2
+	/mods/typeOfResource	text		1	3.2
+	/mods/originInfo			1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	kyu		1	3.2
+	/mods/originInfo/place/placeTerm/@authority	marccountry		1	3.2
+	/mods/originInfo/place/placeTerm/@type	code		1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	Louisville		1	3.2
+	/mods/originInfo/place/placeTerm/@type	text		1	3.2
+	/mods/originInfo/publisher	Harmony House		1	3.2
+	/mods/originInfo/dateIssued	1989		2	3.2
+	/mods/originInfo/dateIssued	1990		2	3.2
+	/mods/originInfo/dateIssued/@encoding	marc		1	3.2
+	/mods/originInfo/edition	1st ed.		1	3.2
+	/mods/originInfo/issuance	monographic		1	3.2
+	/mods/language			1	3.2
+	/mods/language/languageTerm	eng		1	3.2
+	/mods/language/languageTerm/@authority	iso639-2b		1	3.2
+	/mods/language/languageTerm/@type	code		1	3.2
+	/mods/physicalDescription			1	3.2
+	/mods/physicalDescription/form	print		1	3.2
+	/mods/physicalDescription/form/@authority	marcform		1	3.2
+	/mods/physicalDescription/extent	112 p. : chiefly ill. (some col.), ports. ; 30 cm.		1	3.2
+	/mods/note	uahistory		3	3.2
+	/mods/note/@type	local:oaiset		1	3.2
+	/mods/note	DOA: 1908 Spatial: Edmonton (Alta.)		3	3.2
+	/mods/note/@type	local		1	3.2
+	/mods/note	Collection of photographs of the University of Alberta.		3	3.2
+	/mods/note/@type	public		1	3.2
+	/mods/subject			3	3.2
+	/mods/subject/geographicCode	n-cn-ab		1	3.2
+	/mods/subject/geographicCode/@authority	marcgac		1	3.2
+	/mods/subject			3	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/name			1	3.2
+	/mods/subject/name/@type	personal		1	3.2
+	/mods/subject/name/namePart	University of Alberta		1	3.2
+	/mods/subject/topic	Pictorial works		1	3.2
+	/mods/subject			3	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/name			1	3.2
+	/mods/subject/name/@type	personal		1	3.2
+	/mods/subject/name/namePart	University of Alberta		1	3.2
+	/mods/subject/topic	History		1	3.2
+	/mods/classification	LE3.A633 S36 1989		1	3.2
+	/mods/classification/@authority	lcc		1	3.2
+	/mods/identifier	0916509524		4	3.2
+	/mods/identifier/@type	isbn		1	3.2
+	/mods/identifier	89080330 //r922		4	3.2
+	/mods/identifier/@type	lccn		1	3.2
+	/mods/identifier	1692137		4	3.2
+	/mods/identifier/@type	local:neos		1	3.2
+	/mods/identifier	9065		4	3.2
+	/mods/identifier/@type	local:peel3		1	3.2
+	/mods/recordInfo			1	3.2
+	/mods/recordInfo/recordContentSource	DLC		2	3.2
+	/mods/recordInfo/recordContentSource/@authority	marcorg		1	3.2
+	/mods/recordInfo/recordContentSource	RC		2	3.2
+	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.2
+	/mods/recordInfo/recordCreationDate	2008-09-10T15:14:08-0600		1	3.2
+	/mods/recordInfo/recordIdentifier	P009065		1	3.2
+	/mods/recordInfo/recordChangeDate	2010-03-18T19:41:34-0600		1	3.2
+	/@mods	
+
+University of Alberta
+A time to remember
+
+
+Schofield, Phil.
+
+photographer
+
+
+text
+
+
+kyu
+
+
+Louisville
+
+Harmony House
+1989
+1990
+1st ed.
+monographic
+
+
+eng
+
+
+print
+112 p. : chiefly ill. (some col.), ports. ; 30 cm.
+
+uahistory
+DOA: 1908 Spatial: Edmonton (Alta.)
+Collection of photographs of the University of Alberta.
+
+				n-cn-ab
+			
+
+				
+University of Alberta
+
+			
+				Pictorial works
+			
+
+				
+University of Alberta
+
+			
+				History
+			
+LE3.A633 S36 1989
+0916509524
+89080330 //r922
+1692137
+9065
+
+DLC
+RC
+2008-09-10T15:14:08-0600
+P009065
+2010-03-18T19:41:34-0600
+
+		1	3.2
+	

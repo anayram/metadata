@@ -1,0 +1,153 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		sfarnel	PC009950	postcards	1	3.3
+	/mods/@version	3.3	sfarnel	PC009950	postcards	1	3.3
+	/mods/titleInfo		sfarnel	PC009950	postcards	1	3.3
+	/mods/titleInfo/@lang	english	sfarnel	PC009950	postcards	1	3.3
+	/mods/titleInfo/title	Hotel Bretton Hall, Banff, Alta.	sfarnel	PC009950	postcards	1	3.3
+	/mods/name		sfarnel	PC009950	postcards	1	3.3
+	/mods/name/@type	corporate	sfarnel	PC009950	postcards	1	3.3
+	/mods/name/namePart	Novelty Mfg. & Art Co.	sfarnel	PC009950	postcards	1	3.3
+	/mods/name/role		sfarnel	PC009950	postcards	1	3.3
+	/mods/name/role/roleTerm	Publisher	sfarnel	PC009950	postcards	1	3.3
+	/mods/name/role/roleTerm/@type	text	sfarnel	PC009950	postcards	1	3.3
+	/mods/typeOfResource	still image	sfarnel	PC009950	postcards	1	3.3
+	/mods/genre	postcards	sfarnel	PC009950	postcards	1	3.3
+	/mods/genre/@authority	gmgpc	sfarnel	PC009950	postcards	1	3.3
+	/mods/originInfo		sfarnel	PC009950	postcards	1	3.3
+	/mods/originInfo/issuance	monographic	sfarnel	PC009950	postcards	1	3.3
+	/mods/originInfo/publisher	Pub. By Novelty Mfg. & Art Co. Ltd., Montreal	sfarnel	PC009950	postcards	1	3.3
+	/mods/originInfo/dateIssued	between 1910 - 1930	sfarnel	PC009950	postcards	1	3.3
+	/mods/originInfo/dateIssued/@qualifier	inferred	sfarnel	PC009950	postcards	1	3.3
+	/mods/originInfo/place		sfarnel	PC009950	postcards	1	3.3
+	/mods/originInfo/place/placeTerm	Montreal	sfarnel	PC009950	postcards	1	3.3
+	/mods/originInfo/place/placeTerm/@type	text	sfarnel	PC009950	postcards	1	3.3
+	/mods/language		sfarnel	PC009950	postcards	1	3.3
+	/mods/language/languageTerm	English	sfarnel	PC009950	postcards	1	3.3
+	/mods/language/languageTerm/@type	text	sfarnel	PC009950	postcards	1	3.3
+	/mods/physicalDescription		sfarnel	PC009950	postcards	1	3.3
+	/mods/physicalDescription/extent	1 postcard : sepia ; 9 x 14 cm.	sfarnel	PC009950	postcards	1	3.3
+	/mods/note	15	sfarnel	PC009950	postcards	5	3.3
+	/mods/note/@type	price	sfarnel	PC009950	postcards	1	3.3
+	/mods/note	false	sfarnel	PC009950	postcards	5	3.3
+	/mods/note/@type	notable	sfarnel	PC009950	postcards	1	3.3
+	/mods/note	true	sfarnel	PC009950	postcards	5	3.3
+	/mods/note/@type	imgprobs	sfarnel	PC009950	postcards	1	3.3
+	/mods/note	Made in Canada	sfarnel	PC009950	postcards	5	3.3
+	/mods/note/@type	public_on_back	sfarnel	PC009950	postcards	1	3.3
+	/mods/note	In 1886 Robert George Brett settled in Banff and built the Banff Sanitarium on the south side of the Bow River. Developed as a combined hotel and hospital specializing in the treatment of ailments such as arthritis and certain skin problems which benefited from the hot mineral waters.  In 1909 Brett built nearby the Brett Hospital, at which he was chief surgeon. The sanatorium continued mainly as a hotel and was renamed Bretton Hall in 1915.	sfarnel	PC009950	postcards	5	3.3
+	/mods/note/@type	public_description	sfarnel	PC009950	postcards	1	3.3
+	/mods/subject		sfarnel	PC009950	postcards	8	3.3
+	/mods/subject/geographic	Banff, AB	sfarnel	PC009950	postcards	1	3.3
+	/mods/subject		sfarnel	PC009950	postcards	8	3.3
+	/mods/subject/hierarchicalGeographic		sfarnel	PC009950	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/country	Canada	sfarnel	PC009950	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/province	Alberta	sfarnel	PC009950	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/city	Banff	sfarnel	PC009950	postcards	1	3.3
+	/mods/subject		sfarnel	PC009950	postcards	8	3.3
+	/mods/subject/genre	Postcards	sfarnel	PC009950	postcards	1	3.3
+	/mods/subject		sfarnel	PC009950	postcards	8	3.3
+	/mods/subject/topic	Hotels	sfarnel	PC009950	postcards	1	3.3
+	/mods/subject		sfarnel	PC009950	postcards	8	3.3
+	/mods/subject/topic	Mountains	sfarnel	PC009950	postcards	1	3.3
+	/mods/subject		sfarnel	PC009950	postcards	8	3.3
+	/mods/subject/topic	Street lights	sfarnel	PC009950	postcards	1	3.3
+	/mods/subject		sfarnel	PC009950	postcards	8	3.3
+	/mods/subject/topic	Trees	sfarnel	PC009950	postcards	1	3.3
+	/mods/subject		sfarnel	PC009950	postcards	8	3.3
+	/mods/subject/name		sfarnel	PC009950	postcards	1	3.3
+	/mods/subject/name/namePart	Bretton Hall Hotel (Banff, Alta.)	sfarnel	PC009950	postcards	1	3.3
+	/mods/identifier	PC009950	sfarnel	PC009950	postcards	1	3.3
+	/mods/identifier/@type	local	sfarnel	PC009950	postcards	1	3.3
+	/mods/location		sfarnel	PC009950	postcards	1	3.3
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 1 (set 2)	sfarnel	PC009950	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC009950.html	sfarnel	PC009950	postcards	3	3.3
+	/mods/location/url/@access	object in context	sfarnel	PC009950	postcards	1	3.3
+	/mods/location/url/@usage	primary display	sfarnel	PC009950	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/009/web/PC009950.jpg	sfarnel	PC009950	postcards	3	3.3
+	/mods/location/url/@access	raw object	sfarnel	PC009950	postcards	1	3.3
+	/mods/location/url/@note	width='800' height='540' 	sfarnel	PC009950	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/009/thumbs/PC009950.jpg	sfarnel	PC009950	postcards	3	3.3
+	/mods/location/url/@access	preview	sfarnel	PC009950	postcards	1	3.3
+	/mods/location/url/@note	width='200' height='135'	sfarnel	PC009950	postcards	1	3.3
+	/mods/recordInfo		sfarnel	PC009950	postcards	1	3.3
+	/mods/recordInfo/recordCreationDate	2009-01-23T14:02:58-0700	sfarnel	PC009950	postcards	1	3.3
+	/mods/recordInfo/recordIdentifier	PC009950	sfarnel	PC009950	postcards	1	3.3
+	/mods/recordInfo/recordContentSource	sfarnel	sfarnel	PC009950	postcards	1	3.3
+	/mods/recordInfo/recordChangeDate	2009-10-15T14:41:38-0600	sfarnel	PC009950	postcards	1	3.3
+	/@mods	
+
+Hotel Bretton Hall, Banff, Alta.
+
+
+Novelty Mfg. & Art Co.
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+Pub. By Novelty Mfg. & Art Co. Ltd., Montreal
+between 1910 - 1930
+
+
+Montreal
+
+
+
+English
+
+
+1 postcard : sepia ; 9 x 14 cm.
+
+15
+false
+true
+Made in Canada
+In 1886 Robert George Brett settled in Banff and built the Banff Sanitarium on the south side of the Bow River. Developed as a combined hotel and hospital specializing in the treatment of ailments such as arthritis and certain skin problems which benefited from the hot mineral waters.  In 1909 Brett built nearby the Brett Hospital, at which he was chief surgeon. The sanatorium continued mainly as a hotel and was renamed Bretton Hall in 1915.
+
+Banff, AB
+
+
+
+Canada
+Alberta
+Banff
+
+
+
+Postcards
+
+
+Hotels
+
+
+Mountains
+
+
+Street lights
+
+
+Trees
+
+
+
+Bretton Hall Hotel (Banff, Alta.)
+
+
+PC009950
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 1 (set 2)
+http://peel.library.ualberta.ca/postcards/PC009950.html
+http://peel.library.ualberta.ca/pcimages/PC/009/web/PC009950.jpg
+http://peel.library.ualberta.ca/pcimages/PC/009/thumbs/PC009950.jpg
+
+
+2009-01-23T14:02:58-0700
+PC009950
+sfarnel
+2009-10-15T14:41:38-0600
+
+	sfarnel	PC009950	postcards	1	3.3
+	

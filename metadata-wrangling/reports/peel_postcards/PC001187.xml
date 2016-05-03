@@ -1,0 +1,140 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		sfarnel	PC001187	postcards	1	3.2
+	/mods/@version	3.2	sfarnel	PC001187	postcards	1	3.2
+	/mods/titleInfo		sfarnel	PC001187	postcards	1	3.2
+	/mods/titleInfo/@lang	english	sfarnel	PC001187	postcards	1	3.2
+	/mods/titleInfo/title	Manitoba Parliament building, Winnipeg	sfarnel	PC001187	postcards	1	3.2
+	/mods/name		sfarnel	PC001187	postcards	1	3.2
+	/mods/name/@type	corporate	sfarnel	PC001187	postcards	1	3.2
+	/mods/name/namePart	Warwick Bro's & Rutter	sfarnel	PC001187	postcards	1	3.2
+	/mods/name/role		sfarnel	PC001187	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	sfarnel	PC001187	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	sfarnel	PC001187	postcards	1	3.2
+	/mods/typeOfResource	still image	sfarnel	PC001187	postcards	1	3.2
+	/mods/genre	postcards	sfarnel	PC001187	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	sfarnel	PC001187	postcards	1	3.2
+	/mods/originInfo		sfarnel	PC001187	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	sfarnel	PC001187	postcards	1	3.2
+	/mods/originInfo/publisher	Warwick Bro's & Rutter, Limited, Publishers, Toronto.	sfarnel	PC001187	postcards	1	3.2
+	/mods/originInfo/dateIssued	1905	sfarnel	PC001187	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	inferred	sfarnel	PC001187	postcards	1	3.2
+	/mods/originInfo/place		sfarnel	PC001187	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	Toronto	sfarnel	PC001187	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	sfarnel	PC001187	postcards	1	3.2
+	/mods/language		sfarnel	PC001187	postcards	1	3.2
+	/mods/language/languageTerm	English	sfarnel	PC001187	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	sfarnel	PC001187	postcards	1	3.2
+	/mods/physicalDescription		sfarnel	PC001187	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : col.; 9 x 14 cm.	sfarnel	PC001187	postcards	1	3.2
+	/mods/note	8	sfarnel	PC001187	postcards	4	3.2
+	/mods/note/@type	price	sfarnel	PC001187	postcards	1	3.2
+	/mods/note	false	sfarnel	PC001187	postcards	4	3.2
+	/mods/note/@type	notable	sfarnel	PC001187	postcards	1	3.2
+	/mods/note	false	sfarnel	PC001187	postcards	4	3.2
+	/mods/note/@type	imgprobs	sfarnel	PC001187	postcards	1	3.2
+	/mods/note	Exterior view of the Court House in Winnipeg.	sfarnel	PC001187	postcards	4	3.2
+	/mods/note/@type	public_description	sfarnel	PC001187	postcards	1	3.2
+	/mods/subject		sfarnel	PC001187	postcards	6	3.2
+	/mods/subject/geographic	Winnipeg, MB	sfarnel	PC001187	postcards	1	3.2
+	/mods/subject		sfarnel	PC001187	postcards	6	3.2
+	/mods/subject/hierarchicalGeographic		sfarnel	PC001187	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	sfarnel	PC001187	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Manitoba	sfarnel	PC001187	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Winnipeg	sfarnel	PC001187	postcards	1	3.2
+	/mods/subject		sfarnel	PC001187	postcards	6	3.2
+	/mods/subject/genre	Postcards	sfarnel	PC001187	postcards	1	3.2
+	/mods/subject		sfarnel	PC001187	postcards	6	3.2
+	/mods/subject/topic	Courthouses	sfarnel	PC001187	postcards	1	3.2
+	/mods/subject		sfarnel	PC001187	postcards	6	3.2
+	/mods/subject/topic	Government facilities	sfarnel	PC001187	postcards	1	3.2
+	/mods/subject		sfarnel	PC001187	postcards	6	3.2
+	/mods/subject/name		sfarnel	PC001187	postcards	1	3.2
+	/mods/subject/name/namePart	Manitoba Legislative Building (Winnipeg, Man.)	sfarnel	PC001187	postcards	1	3.2
+	/mods/identifier	PC001187	sfarnel	PC001187	postcards	1	3.2
+	/mods/identifier/@type	local	sfarnel	PC001187	postcards	1	3.2
+	/mods/location		sfarnel	PC001187	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 3	sfarnel	PC001187	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC001187.html	sfarnel	PC001187	postcards	3	3.2
+	/mods/location/url/@access	object in context	sfarnel	PC001187	postcards	1	3.2
+	/mods/location/url/@usage	primary display	sfarnel	PC001187	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/001/web/PC001187.jpg	sfarnel	PC001187	postcards	3	3.2
+	/mods/location/url/@access	raw object	sfarnel	PC001187	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='506' 	sfarnel	PC001187	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/001/thumbs/PC001187.jpg	sfarnel	PC001187	postcards	3	3.2
+	/mods/location/url/@access	preview	sfarnel	PC001187	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='127'	sfarnel	PC001187	postcards	1	3.2
+	/mods/recordInfo		sfarnel	PC001187	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-20T16:05:12-0600	sfarnel	PC001187	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC001187	sfarnel	PC001187	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	sfarnel	sfarnel	PC001187	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2009-09-29T14:24:53-0600	sfarnel	PC001187	postcards	1	3.2
+	/@mods	
+
+Manitoba Parliament building, Winnipeg
+
+
+Warwick Bro's & Rutter
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+Warwick Bro's & Rutter, Limited, Publishers, Toronto.
+1905
+
+
+Toronto
+
+
+
+English
+
+
+1 postcard : col.; 9 x 14 cm.
+
+8
+false
+false
+Exterior view of the Court House in Winnipeg.
+
+Winnipeg, MB
+
+
+
+Canada
+Manitoba
+Winnipeg
+
+
+
+Postcards
+
+
+Courthouses
+
+
+Government facilities
+
+
+
+Manitoba Legislative Building (Winnipeg, Man.)
+
+
+PC001187
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 3
+http://peel.library.ualberta.ca/postcards/PC001187.html
+http://peel.library.ualberta.ca/pcimages/PC/001/web/PC001187.jpg
+http://peel.library.ualberta.ca/pcimages/PC/001/thumbs/PC001187.jpg
+
+
+2007-06-20T16:05:12-0600
+PC001187
+sfarnel
+2009-09-29T14:24:53-0600
+
+	sfarnel	PC001187	postcards	1	3.2
+	

@@ -1,0 +1,154 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		bstearns	PC006309	postcards	1	3.2
+	/mods/@version	3.2	bstearns	PC006309	postcards	1	3.2
+	/mods/titleInfo		bstearns	PC006309	postcards	1	3.2
+	/mods/titleInfo/@lang	english	bstearns	PC006309	postcards	1	3.2
+	/mods/titleInfo/title	Calgary Stampede, Bill Linderman - calf roping	bstearns	PC006309	postcards	1	3.2
+	/mods/name		bstearns	PC006309	postcards	1	3.2
+	/mods/name/@type	corporate	bstearns	PC006309	postcards	1	3.2
+	/mods/name/namePart	Calgary Photo Supply Co.	bstearns	PC006309	postcards	1	3.2
+	/mods/name/role		bstearns	PC006309	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	bstearns	PC006309	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	bstearns	PC006309	postcards	1	3.2
+	/mods/typeOfResource	still image	bstearns	PC006309	postcards	1	3.2
+	/mods/genre	postcards	bstearns	PC006309	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	bstearns	PC006309	postcards	1	3.2
+	/mods/originInfo		bstearns	PC006309	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	bstearns	PC006309	postcards	1	3.2
+	/mods/originInfo/publisher	Calgary Photo Supply Co., Calgary, Alberta	bstearns	PC006309	postcards	1	3.2
+	/mods/originInfo/dateIssued	between 1920 - 1930	bstearns	PC006309	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	inferred	bstearns	PC006309	postcards	1	3.2
+	/mods/originInfo/place		bstearns	PC006309	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	Calgary	bstearns	PC006309	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	bstearns	PC006309	postcards	1	3.2
+	/mods/language		bstearns	PC006309	postcards	1	3.2
+	/mods/language/languageTerm	English	bstearns	PC006309	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	bstearns	PC006309	postcards	1	3.2
+	/mods/physicalDescription		bstearns	PC006309	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : b&w ; 9 x 14 cm.	bstearns	PC006309	postcards	1	3.2
+	/mods/note	35	bstearns	PC006309	postcards	5	3.2
+	/mods/note/@type	price	bstearns	PC006309	postcards	1	3.2
+	/mods/note	false	bstearns	PC006309	postcards	5	3.2
+	/mods/note/@type	notable	bstearns	PC006309	postcards	1	3.2
+	/mods/note	false	bstearns	PC006309	postcards	5	3.2
+	/mods/note/@type	imgprobs	bstearns	PC006309	postcards	1	3.2
+	/mods/note	Scene of a cowboy on horseback roping a calf at the Calgary Stampede. Other cowboys are visible in the background.	bstearns	PC006309	postcards	5	3.2
+	/mods/note/@type	public_description	bstearns	PC006309	postcards	1	3.2
+	/mods/note	[Printer's no.] R145	bstearns	PC006309	postcards	5	3.2
+	/mods/note/@type	public_on_front	bstearns	PC006309	postcards	1	3.2
+	/mods/subject		bstearns	PC006309	postcards	8	3.2
+	/mods/subject/geographic	Calgary, AB	bstearns	PC006309	postcards	1	3.2
+	/mods/subject		bstearns	PC006309	postcards	8	3.2
+	/mods/subject/hierarchicalGeographic		bstearns	PC006309	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	bstearns	PC006309	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	bstearns	PC006309	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Calgary	bstearns	PC006309	postcards	1	3.2
+	/mods/subject		bstearns	PC006309	postcards	8	3.2
+	/mods/subject/genre	Postcards	bstearns	PC006309	postcards	1	3.2
+	/mods/subject		bstearns	PC006309	postcards	8	3.2
+	/mods/subject/topic	Rodeos	bstearns	PC006309	postcards	1	3.2
+	/mods/subject		bstearns	PC006309	postcards	8	3.2
+	/mods/subject/topic	Cowboys	bstearns	PC006309	postcards	1	3.2
+	/mods/subject		bstearns	PC006309	postcards	8	3.2
+	/mods/subject/topic	Horses	bstearns	PC006309	postcards	1	3.2
+	/mods/subject		bstearns	PC006309	postcards	8	3.2
+	/mods/subject/topic	Calf roping	bstearns	PC006309	postcards	1	3.2
+	/mods/subject		bstearns	PC006309	postcards	8	3.2
+	/mods/subject/name		bstearns	PC006309	postcards	1	3.2
+	/mods/subject/name/@type	corporate	bstearns	PC006309	postcards	1	3.2
+	/mods/subject/name/namePart	Calgary Stampede	bstearns	PC006309	postcards	1	3.2
+	/mods/identifier	PC006309	bstearns	PC006309	postcards	1	3.2
+	/mods/identifier/@type	local	bstearns	PC006309	postcards	1	3.2
+	/mods/location		bstearns	PC006309	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 7	bstearns	PC006309	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC006309.html	bstearns	PC006309	postcards	3	3.2
+	/mods/location/url/@access	object in context	bstearns	PC006309	postcards	1	3.2
+	/mods/location/url/@usage	primary display	bstearns	PC006309	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/006/web/PC006309.jpg	bstearns	PC006309	postcards	3	3.2
+	/mods/location/url/@access	raw object	bstearns	PC006309	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='503' 	bstearns	PC006309	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/006/thumbs/PC006309.jpg	bstearns	PC006309	postcards	3	3.2
+	/mods/location/url/@access	preview	bstearns	PC006309	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='126'	bstearns	PC006309	postcards	1	3.2
+	/mods/recordInfo		bstearns	PC006309	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	bstearns	PC006309	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC006309	bstearns	PC006309	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	bstearns	bstearns	PC006309	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2009-12-03T21:05:07-0700	bstearns	PC006309	postcards	1	3.2
+	/@mods	
+
+Calgary Stampede, Bill Linderman - calf roping
+
+
+Calgary Photo Supply Co.
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+Calgary Photo Supply Co., Calgary, Alberta
+between 1920 - 1930
+
+
+Calgary
+
+
+
+English
+
+
+1 postcard : b&w ; 9 x 14 cm.
+
+35
+false
+false
+Scene of a cowboy on horseback roping a calf at the Calgary Stampede. Other cowboys are visible in the background.
+[Printer's no.] R145
+
+Calgary, AB
+
+
+
+Canada
+Alberta
+Calgary
+
+
+
+Postcards
+
+
+Rodeos
+
+
+Cowboys
+
+
+Horses
+
+
+Calf roping
+
+
+
+Calgary Stampede
+
+
+PC006309
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 7
+http://peel.library.ualberta.ca/postcards/PC006309.html
+http://peel.library.ualberta.ca/pcimages/PC/006/web/PC006309.jpg
+http://peel.library.ualberta.ca/pcimages/PC/006/thumbs/PC006309.jpg
+
+
+2007-06-25T16:49:56-0600
+PC006309
+bstearns
+2009-12-03T21:05:07-0700
+
+	bstearns	PC006309	postcards	1	3.2
+	

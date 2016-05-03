@@ -1,0 +1,179 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		fsalehi	PC003588	postcards	1	3.2
+	/mods/@version	3.2	fsalehi	PC003588	postcards	1	3.2
+	/mods/titleInfo		fsalehi	PC003588	postcards	1	3.2
+	/mods/titleInfo/@lang	english	fsalehi	PC003588	postcards	1	3.2
+	/mods/titleInfo/title	Main Street, Macleod Alta.	fsalehi	PC003588	postcards	1	3.2
+	/mods/name		fsalehi	PC003588	postcards	2	3.2
+	/mods/name/@type	corporate	fsalehi	PC003588	postcards	1	3.2
+	/mods/name/namePart	C. S. Co. Ltd.	fsalehi	PC003588	postcards	1	3.2
+	/mods/name/role		fsalehi	PC003588	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	fsalehi	PC003588	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC003588	postcards	1	3.2
+	/mods/name		fsalehi	PC003588	postcards	2	3.2
+	/mods/name/@type	personal	fsalehi	PC003588	postcards	1	3.2
+	/mods/name/namePart	Barnes	fsalehi	PC003588	postcards	2	3.2
+	/mods/name/namePart/@type	family	fsalehi	PC003588	postcards	1	3.2
+	/mods/name/namePart	R. B.	fsalehi	PC003588	postcards	2	3.2
+	/mods/name/namePart/@type	given	fsalehi	PC003588	postcards	1	3.2
+	/mods/name/role		fsalehi	PC003588	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	fsalehi	PC003588	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC003588	postcards	1	3.2
+	/mods/typeOfResource	still image	fsalehi	PC003588	postcards	1	3.2
+	/mods/genre	postcards	fsalehi	PC003588	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	fsalehi	PC003588	postcards	1	3.2
+	/mods/originInfo		fsalehi	PC003588	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	fsalehi	PC003588	postcards	1	3.2
+	/mods/originInfo/publisher	C. S. Co.  Ltd., Winnipeg; R. B. Barnes, Macleod, Alta	fsalehi	PC003588	postcards	1	3.2
+	/mods/originInfo/dateIssued	1910	fsalehi	PC003588	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	inferred	fsalehi	PC003588	postcards	1	3.2
+	/mods/originInfo/place		fsalehi	PC003588	postcards	2	3.2
+	/mods/originInfo/place/placeTerm	Winnipeg	fsalehi	PC003588	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC003588	postcards	1	3.2
+	/mods/originInfo/place		fsalehi	PC003588	postcards	2	3.2
+	/mods/originInfo/place/placeTerm	Macleod	fsalehi	PC003588	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC003588	postcards	1	3.2
+	/mods/language		fsalehi	PC003588	postcards	1	3.2
+	/mods/language/languageTerm	English	fsalehi	PC003588	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	fsalehi	PC003588	postcards	1	3.2
+	/mods/physicalDescription		fsalehi	PC003588	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : b&w ; 9 x 14 cm.	fsalehi	PC003588	postcards	1	3.2
+	/mods/note	35	fsalehi	PC003588	postcards	8	3.2
+	/mods/note/@type	price	fsalehi	PC003588	postcards	1	3.2
+	/mods/note	false	fsalehi	PC003588	postcards	8	3.2
+	/mods/note/@type	notable	fsalehi	PC003588	postcards	1	3.2
+	/mods/note	false	fsalehi	PC003588	postcards	8	3.2
+	/mods/note/@type	imgprobs	fsalehi	PC003588	postcards	1	3.2
+	/mods/note	View of a commercial street in Fort Macleod, Alberta with stores and shops on the either side. Carts are also visible in the street.	fsalehi	PC003588	postcards	8	3.2
+	/mods/note/@type	public_description	fsalehi	PC003588	postcards	1	3.2
+	/mods/note	Jim	fsalehi	PC003588	postcards	8	3.2
+	/mods/note/@type	public_to	fsalehi	PC003588	postcards	1	3.2
+	/mods/note	Alec	fsalehi	PC003588	postcards	8	3.2
+	/mods/note/@type	public_from	fsalehi	PC003588	postcards	1	3.2
+	/mods/note	Saturday Night July 23rd, Dear Jim, I was pleased to receive your letter some weeks ago. I am now quite settled to work again & trying to make a stake. Macleod is not quite as depicted herewith as this is an old edition. However this gives you some idea of the Main Street. Please excuse [---], Yours Alec	fsalehi	PC003588	postcards	8	3.2
+	/mods/note/@type	public_message	fsalehi	PC003588	postcards	1	3.2
+	/mods/note	[Printer's no.] No 169	fsalehi	PC003588	postcards	8	3.2
+	/mods/note/@type	public_on_back	fsalehi	PC003588	postcards	1	3.2
+	/mods/subject		fsalehi	PC003588	postcards	7	3.2
+	/mods/subject/geographic	Fort MacLeod, AB	fsalehi	PC003588	postcards	1	3.2
+	/mods/subject		fsalehi	PC003588	postcards	7	3.2
+	/mods/subject/hierarchicalGeographic		fsalehi	PC003588	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	fsalehi	PC003588	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	fsalehi	PC003588	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Fort Macleod	fsalehi	PC003588	postcards	1	3.2
+	/mods/subject		fsalehi	PC003588	postcards	7	3.2
+	/mods/subject/genre	Postcards	fsalehi	PC003588	postcards	1	3.2
+	/mods/subject		fsalehi	PC003588	postcards	7	3.2
+	/mods/subject/topic	Commercial streets	fsalehi	PC003588	postcards	1	3.2
+	/mods/subject		fsalehi	PC003588	postcards	7	3.2
+	/mods/subject/topic	Stores & shops	fsalehi	PC003588	postcards	1	3.2
+	/mods/subject		fsalehi	PC003588	postcards	7	3.2
+	/mods/subject/topic	City & town life	fsalehi	PC003588	postcards	1	3.2
+	/mods/subject		fsalehi	PC003588	postcards	7	3.2
+	/mods/subject/topic	Carts & wagons	fsalehi	PC003588	postcards	1	3.2
+	/mods/identifier	PC003588	fsalehi	PC003588	postcards	1	3.2
+	/mods/identifier/@type	local	fsalehi	PC003588	postcards	1	3.2
+	/mods/location		fsalehi	PC003588	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 1	fsalehi	PC003588	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC003588.html	fsalehi	PC003588	postcards	3	3.2
+	/mods/location/url/@access	object in context	fsalehi	PC003588	postcards	1	3.2
+	/mods/location/url/@usage	primary display	fsalehi	PC003588	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/003/web/PC003588.jpg	fsalehi	PC003588	postcards	3	3.2
+	/mods/location/url/@access	raw object	fsalehi	PC003588	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='510' 	fsalehi	PC003588	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/003/thumbs/PC003588.jpg	fsalehi	PC003588	postcards	3	3.2
+	/mods/location/url/@access	preview	fsalehi	PC003588	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='128'	fsalehi	PC003588	postcards	1	3.2
+	/mods/recordInfo		fsalehi	PC003588	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	fsalehi	PC003588	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC003588	fsalehi	PC003588	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	fsalehi	fsalehi	PC003588	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2009-02-03T10:02:42-0700	fsalehi	PC003588	postcards	1	3.2
+	/@mods	
+
+Main Street, Macleod Alta.
+
+
+C. S. Co. Ltd.
+
+Publisher
+
+
+
+Barnes
+R. B.
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+C. S. Co.  Ltd., Winnipeg; R. B. Barnes, Macleod, Alta
+1910
+
+
+
+Winnipeg
+
+
+Macleod
+
+
+
+English
+
+
+1 postcard : b&w ; 9 x 14 cm.
+
+35
+false
+false
+View of a commercial street in Fort Macleod, Alberta with stores and shops on the either side. Carts are also visible in the street.
+Jim
+Alec
+Saturday Night July 23rd, Dear Jim, I was pleased to receive your letter some weeks ago. I am now quite settled to work again & trying to make a stake. Macleod is not quite as depicted herewith as this is an old edition. However this gives you some idea of the Main Street. Please excuse [---], Yours Alec
+[Printer's no.] No 169
+
+Fort MacLeod, AB
+
+
+
+Canada
+Alberta
+Fort Macleod
+
+
+
+Postcards
+
+
+Commercial streets
+
+
+Stores & shops
+
+
+City & town life
+
+
+Carts & wagons
+
+PC003588
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 1
+http://peel.library.ualberta.ca/postcards/PC003588.html
+http://peel.library.ualberta.ca/pcimages/PC/003/web/PC003588.jpg
+http://peel.library.ualberta.ca/pcimages/PC/003/thumbs/PC003588.jpg
+
+
+
+
+2007-06-25T16:49:56-0600
+PC003588
+fsalehi
+2009-02-03T10:02:42-0700
+
+	fsalehi	PC003588	postcards	1	3.2
+	

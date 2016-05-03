@@ -1,0 +1,170 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.3
+	/mods/@version	3.3		1	3.3
+	/mods/titleInfo			2	3.3
+	/mods/titleInfo/title	On Lake Louise = Au lac Louise		1	3.3
+	/mods/titleInfo			2	3.3
+	/mods/titleInfo/@type	alternative		1	3.3
+	/mods/titleInfo/title	Au lac Louise		1	3.3
+	/mods/name			2	3.3
+	/mods/name/@type	personal		1	3.3
+	/mods/name/namePart	Bryant, John.		1	3.3
+	/mods/name/role			1	3.3
+	/mods/name/role/roleTerm	composer		1	3.3
+	/mods/name			2	3.3
+	/mods/name/@type	personal		1	3.3
+	/mods/name/namePart	Rovert, Paul.		1	3.3
+	/mods/name/role			1	3.3
+	/mods/name/role/roleTerm	composer		1	3.3
+	/mods/typeOfResource	notated music		1	3.3
+	/mods/originInfo			1	3.3
+	/mods/originInfo/place			2	3.3
+	/mods/originInfo/place/placeTerm	mbc		1	3.3
+	/mods/originInfo/place/placeTerm/@authority	marccountry		1	3.3
+	/mods/originInfo/place/placeTerm/@type	code		1	3.3
+	/mods/originInfo/place			2	3.3
+	/mods/originInfo/place/placeTerm	Winnipeg		1	3.3
+	/mods/originInfo/place/placeTerm/@type	text		1	3.3
+	/mods/originInfo/publisher	Mello-Music		1	3.3
+	/mods/originInfo/dateIssued	c1950		2	3.3
+	/mods/originInfo/dateIssued	1950		2	3.3
+	/mods/originInfo/dateIssued/@encoding	marc		1	3.3
+	/mods/originInfo/issuance	monographic		1	3.3
+	/mods/language			2	3.3
+	/mods/language/languageTerm	eng		1	3.3
+	/mods/language/languageTerm/@authority	iso639-2b		1	3.3
+	/mods/language/languageTerm/@type	code		1	3.3
+	/mods/language			2	3.3
+	/mods/language/languageTerm	fre		1	3.3
+	/mods/language/languageTerm/@authority	iso639-2b		1	3.3
+	/mods/language/languageTerm/@type	code		1	3.3
+	/mods/physicalDescription			1	3.3
+	/mods/physicalDescription/form	print		1	3.3
+	/mods/physicalDescription/form/@authority	marcform		1	3.3
+	/mods/physicalDescription/extent	1 fold. sheet, (3, [1] p.) : music ; 31 cm.		1	3.3
+	/mods/note	words and music by John Bryant ; [version française de Paul Rovert].		5	3.3
+	/mods/note/@type	statement of responsibility		1	3.3
+	/mods/note	Popular song for medium voice and piano, with chord symbols.		5	3.3
+	/mods/note	English words with French translation.		5	3.3
+	/mods/note	http://chelsea.library.ualberta.ca:8081/peel_master/select/?q=%28authorAuthority%3A%22Bryant%2C+John%22%29+OR+%28authorAuthority%3A%22Robert%2C+Paul%22%29+OR+%28subjectAuthority%3A%22Bryant%2C+John%22%29+OR+%28subjectAuthority%3A%22Popular+music--Canada--1941-1950%22%29+OR+%28subjectAuthority%3A%22Love+songs--Canada%22%29+OR+%28subjectAuthority%3A%22Lake+Louise+%28Alta.%29%22%29+OR+%28subjectAuthority%3A%22Songs+%28Medium+voice%29+with+piano%22%29&fl=id+authorAuthority+authorDates+subjectAuthority+authorityAuthority&rows=100		5	3.3
+	/mods/note/@type	solr		1	3.3
+	/mods/note	Cover title. Score for voice and piano. French lyrics by Paul Rovert.		5	3.3
+	/mods/note/@type	public		1	3.3
+	/mods/subject			5	3.3
+	/mods/subject/@authority	lcsh		1	3.3
+	/mods/subject/name			1	3.3
+	/mods/subject/name/@type	personal		1	3.3
+	/mods/subject/name/namePart	Bryant, John		1	3.3
+	/mods/subject			5	3.3
+	/mods/subject/@authority	lcsh		1	3.3
+	/mods/subject/topic	Popular music		1	3.3
+	/mods/subject/geographic	Canada		1	3.3
+	/mods/subject/temporal	1941-1950		1	3.3
+	/mods/subject			5	3.3
+	/mods/subject/@authority	lcsh		1	3.3
+	/mods/subject/topic	Love songs		1	3.3
+	/mods/subject/geographic	Canada		1	3.3
+	/mods/subject			5	3.3
+	/mods/subject/@authority	lcsh		1	3.3
+	/mods/subject/geographic	Lake Louise (Alta.)		1	3.3
+	/mods/subject			5	3.3
+	/mods/subject/@authority	lcsh		1	3.3
+	/mods/subject/topic	Songs (Medium voice) with piano		1	3.3
+	/mods/classification	M1679.2.B915 O5 1950		1	3.3
+	/mods/classification/@authority	lcc		1	3.3
+	/mods/identifier	3838526		3	3.3
+	/mods/identifier/@type	local:neos		1	3.3
+	/mods/identifier	N008449		3	3.3
+	/mods/identifier/@type	local:peel_new		1	3.3
+	/mods/identifier	9405		3	3.3
+	/mods/identifier/@type	local:peel3		1	3.3
+	/mods/recordInfo			1	3.3
+	/mods/recordInfo/recordContentSource	RC		2	3.3
+	/mods/recordInfo/recordContentSource	RC		2	3.3
+	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.3
+	/mods/recordInfo/recordCreationDate	2007-01-31T12:00:00-0700		1	3.3
+	/mods/recordInfo/recordIdentifier	P009405		1	3.3
+	/mods/recordInfo/recordChangeDate	2010-01-11T07:31:45-0700		1	3.3
+	/@mods	
+
+On Lake Louise = Au lac Louise
+
+
+Au lac Louise
+
+
+Bryant, John.
+
+composer
+
+
+
+Rovert, Paul.
+
+composer
+
+
+notated music
+
+
+mbc
+
+
+Winnipeg
+
+Mello-Music
+c1950
+1950
+monographic
+
+
+eng
+
+
+fre
+
+
+print
+1 fold. sheet, (3, [1] p.) : music ; 31 cm.
+
+words and music by John Bryant ; [version française de Paul Rovert].
+Popular song for medium voice and piano, with chord symbols.
+English words with French translation.
+http://chelsea.library.ualberta.ca:8081/peel_master/select/?q=%28authorAuthority%3A%22Bryant%2C+John%22%29+OR+%28authorAuthority%3A%22Robert%2C+Paul%22%29+OR+%28subjectAuthority%3A%22Bryant%2C+John%22%29+OR+%28subjectAuthority%3A%22Popular+music--Canada--1941-1950%22%29+OR+%28subjectAuthority%3A%22Love+songs--Canada%22%29+OR+%28subjectAuthority%3A%22Lake+Louise+%28Alta.%29%22%29+OR+%28subjectAuthority%3A%22Songs+%28Medium+voice%29+with+piano%22%29&fl=id+authorAuthority+authorDates+subjectAuthority+authorityAuthority&rows=100
+Cover title. Score for voice and piano. French lyrics by Paul Rovert.
+
+				
+Bryant, John
+
+			
+
+				Popular music
+			
+				Canada
+			
+				1941-1950
+			
+
+				Love songs
+			
+				Canada
+			
+
+				Lake Louise (Alta.)
+			
+
+				Songs (Medium voice) with piano
+			
+M1679.2.B915 O5 1950
+3838526
+N008449
+9405
+
+RC
+RC
+2007-01-31T12:00:00-0700
+P009405
+2010-01-11T07:31:45-0700
+
+		1	3.3
+	

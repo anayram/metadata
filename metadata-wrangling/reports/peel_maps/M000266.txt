@@ -1,0 +1,103 @@
+Path	Content	URL	Form or Genre	Occurrence	MODS version
+
+/mods/titleInfo		http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	1	3.3
+/mods/titleInfo/title	Carte des nouvelles decouvertes dans l'ouest du Canada	http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	1	3.3
+/mods/titleInfo/subTitle	dressée dit'on sur les memoires de Mr de la Véranderie mais fort imparfaite à ce quil m'a dit [hand written note illegible] donnée au depost par Mr de la Galissonieres en 1750	http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	1	3.3
+
+/mods/name		http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	1	3.3
+/mods/name/@type	personal	http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	1	3.3
+/mods/name/namePart	de la Vérendrye, Pierre	http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	1	3.3
+
+/mods/typeOfResource	cartographic	http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	1	3.3
+
+/mods/genre	map	http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	4	3.3
+/mods/genre/@authority	marcgt	http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	1	3.3
+
+/mods/genre	Digital maps	http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	4	3.3
+/mods/genre/@authority	lcgft	http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	1	3.3
+
+/mods/genre	Early maps	http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	4	3.3
+/mods/genre/@authority	lcgft	http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	1	3.3
+
+/mods/genre	Manuscript maps	http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	4	3.3
+/mods/genre/@authority	lcgft	http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	1	3.3
+
+/mods/originInfo		http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	1	3.3
+/mods/originInfo/place		http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	1	3.3
+/mods/originInfo/place/placeTerm	S.l.	http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	1	3.3
+/mods/originInfo/place/placeTerm/@type	text	http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	1	3.3
+/mods/originInfo/publisher	s.n.	http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	1	3.3
+/mods/originInfo/dateIssued	17uu	http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	1	3.3
+/mods/originInfo/dateIssued/@qualifier	approximate	http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	1	3.3
+
+/mods/language		http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	1	3.3
+/mods/language/languageTerm	French	http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	1	3.3
+/mods/language/languageTerm/@type	text	http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	1	3.3
+
+/mods/physicalDescription		http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	1	3.3
+/mods/physicalDescription/form		http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	1	3.3
+/mods/physicalDescription/extent	1 map : photocopy ; 19.3 x 37.9 cm. on sheet 26.9 x 40.2 cm.	http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	1	3.3
+
+/mods/note	"This map is preserved at the Library of the Service Hydrographique in Paris, No.4044 B 20."	http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	6	3.3
+/mods/note/@type	public	http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	1	3.3
+
+/mods/note	peelmaps	http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	6	3.3
+/mods/note/@type	local:oaiset	http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	1	3.3
+
+/mods/note	1	http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	6	3.3
+/mods/note/@type	local:sheetcount	http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	1	3.3
+
+/mods/note	26.9 x 40.2 cm.	http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	6	3.3
+/mods/note/@type	local:sheetsize	http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	1	3.3
+
+/mods/note	26.9	http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	6	3.3
+/mods/note/@type	local:sheetlength	http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	1	3.3
+
+/mods/note	40.2	http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	6	3.3
+/mods/note/@type	local:sheetwidth	http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	3	3.3
+/mods/subject/@authority	lcsh	http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	1	3.3
+/mods/subject/@lang	eng	http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	1	3.3
+/mods/subject/geographic	Manitoba	http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	1	3.3
+/mods/subject/topic	Discovery and exploration	http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	3	3.3
+/mods/subject/temporal	1750	http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	1	3.3
+
+/mods/subject		http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	3	3.3
+/mods/subject/cartographics		http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	1	3.3
+/mods/subject/cartographics/coordinates	w09930xx/n051xxxx w07630xx/n051xxxx w07630xx/n04750xx w09930xx/n04750xx	http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	1	3.3
+/mods/subject/cartographics/scale	There is a scale bar on the map.	http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	1	3.3
+
+/mods/classification	Western Canada C-43	http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	1	3.3
+
+/mods/identifier	2816	http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	5	3.3
+/mods/identifier/@type	local:mapsproject	http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	1	3.3
+
+/mods/identifier	AAA-2904	http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	5	3.3
+/mods/identifier/@type	local:mapsdb	http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	1	3.3
+
+/mods/identifier	2816.xml	http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	5	3.3
+/mods/identifier/@type	local:mapsproject_filename	http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	1	3.3
+
+/mods/identifier	M000266	http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	5	3.3
+/mods/identifier/@type	local:peel3	http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	1	3.3
+
+/mods/identifier	N018893	http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	5	3.3
+/mods/identifier/@type	local:old_peel_new	http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	1	3.3
+
+/mods/location		http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	1	3.3
+/mods/location/physicalLocation	UA Cameron Staff Access-Maps	http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	1	3.3
+/mods/location/url	http://peel.library.ualberta.ca/maps/M/00/02/M000266/M000266.tif	http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	1	3.3
+/mods/location/url/@access	raw object	http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	1	3.3
+/mods/location/url/@note	width='4855' height='3167'	http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	1	3.3
+
+/mods/recordInfo		http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	1	3.3
+/mods/recordInfo/recordContentSource	mapsproject	http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	2	3.3
+/mods/recordInfo/recordContentSource/@authority	local:project	http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	1	3.3
+/mods/recordInfo/recordContentSource	jhuck	http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	2	3.3
+/mods/recordInfo/recordContentSource/@authority	local:person	http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	1	3.3
+/mods/recordInfo/recordIdentifier	M000266	http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	1	3.3
+/mods/recordInfo/recordChangeDate	2014-01-22T11:14:12-0700	http://peel.library.ualberta.ca/maps/M000266.html	map Digital maps Early maps Manuscript maps 	1	3.3
+

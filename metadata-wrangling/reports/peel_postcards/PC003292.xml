@@ -1,0 +1,172 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		fsalehi	PC003292	postcards	1	3.2
+	/mods/@version	3.2	fsalehi	PC003292	postcards	1	3.2
+	/mods/titleInfo		fsalehi	PC003292	postcards	1	3.2
+	/mods/titleInfo/@lang	english	fsalehi	PC003292	postcards	1	3.2
+	/mods/titleInfo/title	Careholm, Alta	fsalehi	PC003292	postcards	1	3.2
+	/mods/name		fsalehi	PC003292	postcards	2	3.2
+	/mods/name/@type	corporate	fsalehi	PC003292	postcards	1	3.2
+	/mods/name/namePart	C. S. Co. Ltd.	fsalehi	PC003292	postcards	1	3.2
+	/mods/name/role		fsalehi	PC003292	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	fsalehi	PC003292	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC003292	postcards	1	3.2
+	/mods/name		fsalehi	PC003292	postcards	2	3.2
+	/mods/name/@type	personal	fsalehi	PC003292	postcards	1	3.2
+	/mods/name/namePart	Reinecke	fsalehi	PC003292	postcards	2	3.2
+	/mods/name/namePart/@type	family	fsalehi	PC003292	postcards	1	3.2
+	/mods/name/namePart	O. L.	fsalehi	PC003292	postcards	2	3.2
+	/mods/name/namePart/@type	given	fsalehi	PC003292	postcards	1	3.2
+	/mods/name/role		fsalehi	PC003292	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	fsalehi	PC003292	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC003292	postcards	1	3.2
+	/mods/typeOfResource	still image	fsalehi	PC003292	postcards	1	3.2
+	/mods/genre	postcards	fsalehi	PC003292	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	fsalehi	PC003292	postcards	1	3.2
+	/mods/originInfo		fsalehi	PC003292	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	fsalehi	PC003292	postcards	1	3.2
+	/mods/originInfo/publisher	C. S. Co., Ltd., Winnipeg; Published by O. L. Reinecke, Claresholm	fsalehi	PC003292	postcards	1	3.2
+	/mods/originInfo/dateIssued	1909	fsalehi	PC003292	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	inferred	fsalehi	PC003292	postcards	1	3.2
+	/mods/originInfo/place		fsalehi	PC003292	postcards	2	3.2
+	/mods/originInfo/place/placeTerm	Winnipeg	fsalehi	PC003292	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC003292	postcards	1	3.2
+	/mods/originInfo/place		fsalehi	PC003292	postcards	2	3.2
+	/mods/originInfo/place/placeTerm	Claresholm	fsalehi	PC003292	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	fsalehi	PC003292	postcards	1	3.2
+	/mods/language		fsalehi	PC003292	postcards	1	3.2
+	/mods/language/languageTerm	English	fsalehi	PC003292	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	fsalehi	PC003292	postcards	1	3.2
+	/mods/physicalDescription		fsalehi	PC003292	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : sepia ; 9 x 14 cm.	fsalehi	PC003292	postcards	1	3.2
+	/mods/note	30	fsalehi	PC003292	postcards	6	3.2
+	/mods/note/@type	price	fsalehi	PC003292	postcards	1	3.2
+	/mods/note	false	fsalehi	PC003292	postcards	6	3.2
+	/mods/note/@type	notable	fsalehi	PC003292	postcards	1	3.2
+	/mods/note	true	fsalehi	PC003292	postcards	6	3.2
+	/mods/note/@type	imgprobs	fsalehi	PC003292	postcards	1	3.2
+	/mods/note	[printer's] No. 482	fsalehi	PC003292	postcards	6	3.2
+	/mods/note/@type	public_on_back	fsalehi	PC003292	postcards	1	3.2
+	/mods/note	Printed in Saxony.	fsalehi	PC003292	postcards	6	3.2
+	/mods/note/@type	public_on_back	fsalehi	PC003292	postcards	1	3.2
+	/mods/note	A view of Claresholm with railroad tracks in the foreground.	fsalehi	PC003292	postcards	6	3.2
+	/mods/note/@type	public_description	fsalehi	PC003292	postcards	1	3.2
+	/mods/subject		fsalehi	PC003292	postcards	7	3.2
+	/mods/subject/geographic	Claresholm, AB	fsalehi	PC003292	postcards	1	3.2
+	/mods/subject		fsalehi	PC003292	postcards	7	3.2
+	/mods/subject/hierarchicalGeographic		fsalehi	PC003292	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	fsalehi	PC003292	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Alberta	fsalehi	PC003292	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Claresholm	fsalehi	PC003292	postcards	1	3.2
+	/mods/subject		fsalehi	PC003292	postcards	7	3.2
+	/mods/subject/genre	Postcards	fsalehi	PC003292	postcards	1	3.2
+	/mods/subject		fsalehi	PC003292	postcards	7	3.2
+	/mods/subject/topic	Commercial streets	fsalehi	PC003292	postcards	1	3.2
+	/mods/subject		fsalehi	PC003292	postcards	7	3.2
+	/mods/subject/topic	Stores & shops	fsalehi	PC003292	postcards	1	3.2
+	/mods/subject		fsalehi	PC003292	postcards	7	3.2
+	/mods/subject/topic	City & town life	fsalehi	PC003292	postcards	1	3.2
+	/mods/subject		fsalehi	PC003292	postcards	7	3.2
+	/mods/subject/topic	Railroad tracks	fsalehi	PC003292	postcards	1	3.2
+	/mods/identifier	PC003292	fsalehi	PC003292	postcards	1	3.2
+	/mods/identifier/@type	local	fsalehi	PC003292	postcards	1	3.2
+	/mods/location		fsalehi	PC003292	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 1	fsalehi	PC003292	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC003292.html	fsalehi	PC003292	postcards	3	3.2
+	/mods/location/url/@access	object in context	fsalehi	PC003292	postcards	1	3.2
+	/mods/location/url/@usage	primary display	fsalehi	PC003292	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/003/web/PC003292.jpg	fsalehi	PC003292	postcards	3	3.2
+	/mods/location/url/@access	raw object	fsalehi	PC003292	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='517' 	fsalehi	PC003292	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/003/thumbs/PC003292.jpg	fsalehi	PC003292	postcards	3	3.2
+	/mods/location/url/@access	preview	fsalehi	PC003292	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='129'	fsalehi	PC003292	postcards	1	3.2
+	/mods/recordInfo		fsalehi	PC003292	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-25T16:49:56-0600	fsalehi	PC003292	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC003292	fsalehi	PC003292	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	fsalehi	fsalehi	PC003292	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2008-02-08T10:29:12-0700	fsalehi	PC003292	postcards	1	3.2
+	/@mods	
+
+Careholm, Alta
+
+
+C. S. Co. Ltd.
+
+Publisher
+
+
+
+Reinecke
+O. L.
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+C. S. Co., Ltd., Winnipeg; Published by O. L. Reinecke, Claresholm
+1909
+
+
+Winnipeg
+
+
+Claresholm
+
+
+
+English
+
+
+1 postcard : sepia ; 9 x 14 cm.
+
+30
+false
+true
+[printer's] No. 482
+Printed in Saxony.
+A view of Claresholm with railroad tracks in the foreground.
+
+Claresholm, AB
+
+
+
+Canada
+Alberta
+Claresholm
+
+
+
+Postcards
+
+
+Commercial streets
+
+
+Stores & shops
+
+
+City & town life
+
+
+Railroad tracks
+
+PC003292
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Alberta Box 1
+http://peel.library.ualberta.ca/postcards/PC003292.html
+http://peel.library.ualberta.ca/pcimages/PC/003/web/PC003292.jpg
+http://peel.library.ualberta.ca/pcimages/PC/003/thumbs/PC003292.jpg
+
+
+
+
+2007-06-25T16:49:56-0600
+PC003292
+fsalehi
+2008-02-08T10:29:12-0700
+
+	fsalehi	PC003292	postcards	1	3.2
+	

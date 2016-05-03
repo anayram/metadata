@@ -1,0 +1,165 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods		bibliography	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/@version	3.0	bibliography	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo		bibliography	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/titleInfo/title	Doctoral research in educational administration at the University of Alberta, 1958-1991	bibliography	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name		bibliography	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.1	bibliography	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	personal	bibliography	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Miklos, Erwin	bibliography	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name		bibliography	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@ID	author.2	bibliography	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/@type	corporate	bibliography	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	University of Alberta.	bibliography	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/name/namePart	Dept. of Educational Administration	bibliography	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/typeOfResource	text	bibliography	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/genre	bibliography	bibliography	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo		bibliography	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place		bibliography	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	abc	bibliography	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@authority	marccountry	bibliography	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	code	bibliography	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place		bibliography	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm	Edmonton	bibliography	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/place/placeTerm/@type	text	bibliography	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/publisher	Department of Educational Administration, University of Alberta	bibliography	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/dateIssued	1992	bibliography	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/originInfo/issuance	monographic	bibliography	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language		bibliography	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	eng	bibliography	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@authority	iso639-2b	bibliography	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	code	bibliography	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm	English	bibliography	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/language/languageTerm/@type	text	bibliography	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription		bibliography	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form	print	bibliography	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/form/@authority	marcform	bibliography	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/physicalDescription/extent	vi, 204 p. ; 23 cm.	bibliography	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	Erwin Miklos.	bibliography	4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	statement of responsibility	bibliography	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	Includes bibliographical references.	bibliography	4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	uahistory	bibliography	4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	oaiset	bibliography	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note	DOA: 1958 Spatial: Edmonton (Alta.)	bibliography	4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/note/@type	local	bibliography	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject		bibliography	5	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng	bibliography	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographicCode	n-cn-ab	bibliography	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographicCode/@authority	marcgac	bibliography	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject		bibliography	5	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh	bibliography	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng	bibliography	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name		bibliography	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name/@type	corporate	bibliography	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/name/namePart	University of Alberta	bibliography	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Dissertations	bibliography	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject		bibliography	5	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh	bibliography	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng	bibliography	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	School management and organization	bibliography	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Research	bibliography	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Alberta	bibliography	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Edmonton.	bibliography	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject		bibliography	5	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	lcsh	bibliography	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@lang	eng	bibliography	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/topic	Dissertations, Academic	bibliography	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/geographic	Canada.	bibliography	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject		bibliography	5	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/@authority	peel:activity	bibliography	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/subject/temporal	1992	bibliography	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/classification	371.2/00720712334	bibliography	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/classification/@authority	ddc	bibliography	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/classification/@edition	20	bibliography	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	0888647735	bibliography	4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	isbn	bibliography	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	9051	bibliography	4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel3	bibliography	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	8246	bibliography	4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:peel_new	bibliography	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier	835899	bibliography	4	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/identifier/@type	local:neos	bibliography	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo		bibliography	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	Peel's Prairie Portal	bibliography	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource	RC	bibliography	2	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordContentSource/@authority	local:person	bibliography	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordCreationDate	2003-01-01T12:00:00-0700	bibliography	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordIdentifier	P009051	bibliography	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/mods/recordInfo/recordChangeDate	2010-04-02T21:14:30-0600	bibliography	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	/@mods	
+
+Doctoral research in educational administration at the University of Alberta, 1958-1991
+
+
+Miklos, Erwin
+
+
+University of Alberta.
+Dept. of Educational Administration
+
+text
+bibliography
+
+
+abc
+
+
+Edmonton
+
+Department of Educational Administration, University of Alberta
+1992
+monographic
+
+
+eng
+English
+
+
+print
+vi, 204 p. ; 23 cm.
+
+Erwin Miklos.
+Includes bibliographical references.
+uahistory
+DOA: 1958 Spatial: Edmonton (Alta.)
+
+				n-cn-ab
+			
+
+				
+University of Alberta
+
+			
+				Dissertations
+			
+
+				School management and organization
+			
+				Research
+			
+				Alberta
+			
+				Edmonton.
+			
+
+				Dissertations, Academic
+			
+				Canada.
+			
+
+				1992
+			
+371.2/00720712334
+0888647735
+9051
+8246
+835899
+
+Peel's Prairie Portal
+RC
+2003-01-01T12:00:00-0700
+P009051
+2010-04-02T21:14:30-0600
+
+	bibliography	1	3.0
+http://peel.library.ualberta.ca/bibliography/.html	

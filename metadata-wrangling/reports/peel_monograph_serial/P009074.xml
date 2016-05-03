@@ -1,0 +1,135 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.2
+	/mods/@version	3.2		1	3.2
+	/mods/titleInfo			1	3.2
+	/mods/titleInfo/title	Report of the Committee of Inquiry into Non-Canadian Influence in Alberta Post-secondary Education		1	3.2
+	/mods/name			1	3.2
+	/mods/name/@type	corporate		1	3.2
+	/mods/name/namePart	Alberta.		2	3.2
+	/mods/name/namePart	Committee of Inquiry into Non-Canadian Influence in Alberta Post-Secondary Education.		2	3.2
+	/mods/typeOfResource	text		1	3.2
+	/mods/originInfo			1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	abc		1	3.2
+	/mods/originInfo/place/placeTerm/@authority	marccountry		1	3.2
+	/mods/originInfo/place/placeTerm/@type	code		1	3.2
+	/mods/originInfo/place			2	3.2
+	/mods/originInfo/place/placeTerm	Edmonton		1	3.2
+	/mods/originInfo/place/placeTerm/@type	text		1	3.2
+	/mods/originInfo/publisher	Committee of Inquiry Into Non-Canadian Influence in Alberta Post-Secondary Education		1	3.2
+	/mods/originInfo/dateIssued	[1972?]		2	3.2
+	/mods/originInfo/dateIssued	1972		2	3.2
+	/mods/originInfo/dateIssued/@encoding	marc		1	3.2
+	/mods/originInfo/issuance	monographic		1	3.2
+	/mods/language			1	3.2
+	/mods/language/languageTerm	eng		1	3.2
+	/mods/language/languageTerm/@authority	iso639-2b		1	3.2
+	/mods/language/languageTerm/@type	code		1	3.2
+	/mods/physicalDescription			1	3.2
+	/mods/physicalDescription/form	print		1	3.2
+	/mods/physicalDescription/form/@authority	marcform		1	3.2
+	/mods/physicalDescription/extent	139 leaves : tables ; 28 cm.		1	3.2
+	/mods/note	Chairmen: Arnold F. Moir and Richard E. Baird.		4	3.2
+	/mods/note	uahistory		4	3.2
+	/mods/note/@type	local:oaiset		1	3.2
+	/mods/note	DOA: 1972 Spatial: Alberta		4	3.2
+	/mods/note/@type	local		1	3.2
+	/mods/note	Cover title.		4	3.2
+	/mods/note/@type	public		1	3.2
+	/mods/subject			4	3.2
+	/mods/subject/geographicCode	n-cn-ab		1	3.2
+	/mods/subject/geographicCode/@authority	marcgac		1	3.2
+	/mods/subject			4	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/topic	Universities and colleges		2	3.2
+	/mods/subject/geographic	Alberta		1	3.2
+	/mods/subject/topic	Faculty		2	3.2
+	/mods/subject			4	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/topic	College teachers		2	3.2
+	/mods/subject/geographic	Alberta		1	3.2
+	/mods/subject/topic	Selection and appointment		2	3.2
+	/mods/subject			4	3.2
+	/mods/subject/@authority	lcsh		1	3.2
+	/mods/subject/geographic	Canada		1	3.2
+	/mods/subject/topic	Civilization		2	3.2
+	/mods/subject/topic	Study and teaching		2	3.2
+	/mods/classification	LA418.A4 A4		1	3.2
+	/mods/classification/@authority	lcc		1	3.2
+	/mods/identifier	775031		2	3.2
+	/mods/identifier/@type	local:neos		1	3.2
+	/mods/identifier	9074		2	3.2
+	/mods/identifier/@type	local:peel3		1	3.2
+	/mods/recordInfo			1	3.2
+	/mods/recordInfo/recordContentSource	RC		1	3.2
+	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.2
+	/mods/recordInfo/recordCreationDate	2008-09-10T15:29:18-0600		1	3.2
+	/mods/recordInfo/recordIdentifier	P009074		1	3.2
+	/mods/recordInfo/recordChangeDate	2010-03-20T09:37:33-0600		1	3.2
+	/@mods	
+
+Report of the Committee of Inquiry into Non-Canadian Influence in Alberta Post-secondary Education
+
+
+Alberta.
+Committee of Inquiry into Non-Canadian Influence in Alberta Post-Secondary Education.
+
+text
+
+
+abc
+
+
+Edmonton
+
+Committee of Inquiry Into Non-Canadian Influence in Alberta Post-Secondary Education
+[1972?]
+1972
+monographic
+
+
+eng
+
+
+print
+139 leaves : tables ; 28 cm.
+
+Chairmen: Arnold F. Moir and Richard E. Baird.
+uahistory
+DOA: 1972 Spatial: Alberta
+Cover title.
+
+				n-cn-ab
+			
+
+				Universities and colleges
+			
+				Alberta
+			
+				Faculty
+			
+
+				College teachers
+			
+				Alberta
+			
+				Selection and appointment
+			
+
+				Canada
+			
+				Civilization
+			
+				Study and teaching
+			
+LA418.A4 A4
+775031
+9074
+
+RC
+2008-09-10T15:29:18-0600
+P009074
+2010-03-20T09:37:33-0600
+
+		1	3.2
+	

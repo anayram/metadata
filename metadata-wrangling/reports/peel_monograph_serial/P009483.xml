@@ -1,0 +1,85 @@
+Path	Content	Form or Genre	Occurrence	MODS version
+/mods			1	3.0
+	/mods/@version	3.0		1	3.0
+	/mods/titleInfo			1	3.0
+	/mods/titleInfo/title	country homemaker		1	3.0
+	/mods/titleInfo/nonSort	The 		1	3.0
+	/mods/name			1	3.0
+	/mods/name/@ID	author.1		1	3.0
+	/mods/name/@type	personal		1	3.0
+	/mods/name/namePart	Speechly, Margaret M.		1	3.0
+	/mods/name/role			1	3.0
+	/mods/name/role/roleTerm	compiler		1	3.0
+	/mods/typeOfResource	text		1	3.0
+	/mods/originInfo			1	3.0
+	/mods/originInfo/place			1	3.0
+	/mods/originInfo/place/placeTerm	Winnipeg		1	3.0
+	/mods/originInfo/place/placeTerm/@type	text		1	3.0
+	/mods/originInfo/publisher	Grain Growers' Guide Limited		1	3.0
+	/mods/originInfo/dateIssued	1922		1	3.0
+	/mods/language			1	3.0
+	/mods/language/languageTerm	English		1	3.0
+	/mods/language/languageTerm/@type	text		1	3.0
+	/mods/physicalDescription			1	3.0
+	/mods/physicalDescription/form	print		1	3.0
+	/mods/physicalDescription/form/@authority	marcform		1	3.0
+	/mods/physicalDescription/extent	132 p. : ill. ; 20 cm.		1	3.0
+	/mods/note	brief		3	3.0
+	/mods/note/@type	local:catlevel		1	3.0
+	/mods/note	DOA: 1922 Spatial: Prairie Provinces		3	3.0
+	/mods/note/@type	local		1	3.0
+	/mods/note	Compilation of articles from the <i>Grain growers’ guide</i> dealing with domestic life in rural Canada.		3	3.0
+	/mods/note/@type	public		1	3.0
+	/mods/subject			1	3.0
+	/mods/identifier	N008857		2	3.0
+	/mods/identifier/@type	local:peel_new		1	3.0
+	/mods/identifier	9483		2	3.0
+	/mods/identifier/@type	local:peel3		1	3.0
+	/mods/recordInfo			1	3.0
+	/mods/recordInfo/recordContentSource	Peel's Prairie Provinces		2	3.0
+	/mods/recordInfo/recordContentSource	RC		2	3.0
+	/mods/recordInfo/recordContentSource/@authority	local:person		1	3.0
+	/mods/recordInfo/recordCreationDate	2008-07-22T16:27:43-0600		1	3.0
+	/mods/recordInfo/recordIdentifier	P009483		1	3.0
+	/mods/recordInfo/recordChangeDate	2010-06-29T14:48:19-0600		1	3.0
+	/@mods	
+
+country homemaker
+The 
+
+
+Speechly, Margaret M.
+
+compiler
+
+
+text
+
+
+Winnipeg
+
+Grain Growers' Guide Limited
+1922
+
+
+English
+
+
+print
+132 p. : ill. ; 20 cm.
+
+brief
+DOA: 1922 Spatial: Prairie Provinces
+Compilation of articles from the <i>Grain growers’ guide</i> dealing with domestic life in rural Canada.
+
+N008857
+9483
+
+Peel's Prairie Provinces
+RC
+2008-07-22T16:27:43-0600
+P009483
+2010-06-29T14:48:19-0600
+
+		1	3.0
+	

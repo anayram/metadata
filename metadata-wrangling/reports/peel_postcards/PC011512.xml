@@ -1,0 +1,133 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		fsalehi	PC011512	postcards	1	3.3
+	/mods/@version	3.3	fsalehi	PC011512	postcards	1	3.3
+	/mods/titleInfo		fsalehi	PC011512	postcards	1	3.3
+	/mods/titleInfo/@lang	english	fsalehi	PC011512	postcards	1	3.3
+	/mods/titleInfo/title	[Winnipeg City Hall]	fsalehi	PC011512	postcards	1	3.3
+	/mods/name		fsalehi	PC011512	postcards	1	3.3
+	/mods/name/@type	personal	fsalehi	PC011512	postcards	1	3.3
+	/mods/name/namePart	Barrowclough?	fsalehi	PC011512	postcards	1	3.3
+	/mods/name/role		fsalehi	PC011512	postcards	1	3.3
+	/mods/name/role/roleTerm	Photographer	fsalehi	PC011512	postcards	1	3.3
+	/mods/name/role/roleTerm/@type	text	fsalehi	PC011512	postcards	1	3.3
+	/mods/typeOfResource	still image	fsalehi	PC011512	postcards	1	3.3
+	/mods/genre	postcards	fsalehi	PC011512	postcards	1	3.3
+	/mods/genre/@authority	gmgpc	fsalehi	PC011512	postcards	1	3.3
+	/mods/originInfo		fsalehi	PC011512	postcards	1	3.3
+	/mods/originInfo/dateIssued	1904	fsalehi	PC011512	postcards	1	3.3
+	/mods/originInfo/dateIssued/@qualifier	approximate	fsalehi	PC011512	postcards	1	3.3
+	/mods/originInfo/issuance	monographic	fsalehi	PC011512	postcards	1	3.3
+	/mods/language		fsalehi	PC011512	postcards	1	3.3
+	/mods/language/languageTerm	English	fsalehi	PC011512	postcards	1	3.3
+	/mods/language/languageTerm/@type	text	fsalehi	PC011512	postcards	1	3.3
+	/mods/physicalDescription		fsalehi	PC011512	postcards	1	3.3
+	/mods/physicalDescription/form		fsalehi	PC011512	postcards	1	3.3
+	/mods/physicalDescription/extent	1 postcard : sepia ; 9 x 14 cm.	fsalehi	PC011512	postcards	1	3.3
+	/mods/note	25	fsalehi	PC011512	postcards	4	3.3
+	/mods/note/@type	price	fsalehi	PC011512	postcards	1	3.3
+	/mods/note	false	fsalehi	PC011512	postcards	4	3.3
+	/mods/note/@type	notable	fsalehi	PC011512	postcards	1	3.3
+	/mods/note	false	fsalehi	PC011512	postcards	4	3.3
+	/mods/note/@type	imgprobs	fsalehi	PC011512	postcards	1	3.3
+	/mods/note	Early view of the downtown business district.	fsalehi	PC011512	postcards	4	3.3
+	/mods/note/@type	public_description	fsalehi	PC011512	postcards	1	3.3
+	/mods/subject		fsalehi	PC011512	postcards	6	3.3
+	/mods/subject/geographic	Winnipeg, MB	fsalehi	PC011512	postcards	1	3.3
+	/mods/subject		fsalehi	PC011512	postcards	6	3.3
+	/mods/subject/hierarchicalGeographic		fsalehi	PC011512	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/country	Canada	fsalehi	PC011512	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/province	Manitoba	fsalehi	PC011512	postcards	1	3.3
+	/mods/subject/hierarchicalGeographic/city	Winnipeg	fsalehi	PC011512	postcards	1	3.3
+	/mods/subject		fsalehi	PC011512	postcards	6	3.3
+	/mods/subject/topic	Commercial streets	fsalehi	PC011512	postcards	1	3.3
+	/mods/subject		fsalehi	PC011512	postcards	6	3.3
+	/mods/subject/topic	City & town halls	fsalehi	PC011512	postcards	1	3.3
+	/mods/subject		fsalehi	PC011512	postcards	6	3.3
+	/mods/subject/topic	Monuments & memorials	fsalehi	PC011512	postcards	1	3.3
+	/mods/subject		fsalehi	PC011512	postcards	6	3.3
+	/mods/subject/topic	City & town life	fsalehi	PC011512	postcards	1	3.3
+	/mods/identifier	PC011512	fsalehi	PC011512	postcards	1	3.3
+	/mods/identifier/@type	local	fsalehi	PC011512	postcards	1	3.3
+	/mods/location		fsalehi	PC011512	postcards	1	3.3
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 4 (set 2)	fsalehi	PC011512	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC011512.html	fsalehi	PC011512	postcards	3	3.3
+	/mods/location/url/@access	object in context	fsalehi	PC011512	postcards	1	3.3
+	/mods/location/url/@usage	primary display	fsalehi	PC011512	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/011/web/PC011512.jpg	fsalehi	PC011512	postcards	3	3.3
+	/mods/location/url/@access	raw object	fsalehi	PC011512	postcards	1	3.3
+	/mods/location/url/@note	width='800' height='460'	fsalehi	PC011512	postcards	1	3.3
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/011/thumbs/PC011512.jpg	fsalehi	PC011512	postcards	3	3.3
+	/mods/location/url/@access	preview	fsalehi	PC011512	postcards	1	3.3
+	/mods/location/url/@note	width='200' height='115'	fsalehi	PC011512	postcards	1	3.3
+	/mods/recordInfo		fsalehi	PC011512	postcards	1	3.3
+	/mods/recordInfo/recordContentSource	fsalehi	fsalehi	PC011512	postcards	2	3.3
+	/mods/recordInfo/recordContentSource	sfarnel	fsalehi	PC011512	postcards	2	3.3
+	/mods/recordInfo/recordContentSource/@authority	local:person	fsalehi	PC011512	postcards	1	3.3
+	/mods/recordInfo/recordCreationDate	2009-01-23T14:03:00-0700	fsalehi	PC011512	postcards	1	3.3
+	/mods/recordInfo/recordIdentifier	PC011512	fsalehi	PC011512	postcards	1	3.3
+	/mods/recordInfo/recordChangeDate	2012-09-17T15:06:03-0600	fsalehi	PC011512	postcards	1	3.3
+	/@mods	
+
+[Winnipeg City Hall]
+
+
+Barrowclough?
+
+Photographer
+
+
+still image
+postcards
+
+1904
+monographic
+
+
+English
+
+
+
+1 postcard : sepia ; 9 x 14 cm.
+
+25
+false
+false
+Early view of the downtown business district.
+
+				Winnipeg, MB
+			
+
+				
+Canada
+Manitoba
+Winnipeg
+
+			
+
+				Commercial streets
+			
+
+				City & town halls
+			
+
+				Monuments & memorials
+			
+
+				City & town life
+			
+PC011512
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 4 (set 2)
+http://peel.library.ualberta.ca/postcards/PC011512.html
+http://peel.library.ualberta.ca/pcimages/PC/011/web/PC011512.jpg
+http://peel.library.ualberta.ca/pcimages/PC/011/thumbs/PC011512.jpg
+
+
+fsalehi
+sfarnel
+2009-01-23T14:03:00-0700
+PC011512
+2012-09-17T15:06:03-0600
+
+	fsalehi	PC011512	postcards	1	3.3
+	

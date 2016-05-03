@@ -1,0 +1,151 @@
+Path	Content	Source	Id	Form or Genre	Occurrence	MODS version
+/mods		bstearns	PC000726	postcards	1	3.2
+	/mods/@version	3.2	bstearns	PC000726	postcards	1	3.2
+	/mods/titleInfo		bstearns	PC000726	postcards	1	3.2
+	/mods/titleInfo/@lang	english	bstearns	PC000726	postcards	1	3.2
+	/mods/titleInfo/title	Exhibition buildings, Neepawa	bstearns	PC000726	postcards	1	3.2
+	/mods/name		bstearns	PC000726	postcards	1	3.2
+	/mods/name/@type	personal	bstearns	PC000726	postcards	1	3.2
+	/mods/name/namePart	McKay	bstearns	PC000726	postcards	2	3.2
+	/mods/name/namePart/@type	family	bstearns	PC000726	postcards	1	3.2
+	/mods/name/namePart	J.L.	bstearns	PC000726	postcards	2	3.2
+	/mods/name/namePart/@type	given	bstearns	PC000726	postcards	1	3.2
+	/mods/name/role		bstearns	PC000726	postcards	1	3.2
+	/mods/name/role/roleTerm	Publisher	bstearns	PC000726	postcards	1	3.2
+	/mods/name/role/roleTerm/@type	text	bstearns	PC000726	postcards	1	3.2
+	/mods/typeOfResource	still image	bstearns	PC000726	postcards	1	3.2
+	/mods/genre	postcards	bstearns	PC000726	postcards	1	3.2
+	/mods/genre/@authority	gmgpc	bstearns	PC000726	postcards	1	3.2
+	/mods/originInfo		bstearns	PC000726	postcards	1	3.2
+	/mods/originInfo/issuance	monographic	bstearns	PC000726	postcards	1	3.2
+	/mods/originInfo/publisher	Published by J.L. McKay	bstearns	PC000726	postcards	1	3.2
+	/mods/originInfo/dateIssued	1908	bstearns	PC000726	postcards	1	3.2
+	/mods/originInfo/dateIssued/@qualifier	approximate	bstearns	PC000726	postcards	1	3.2
+	/mods/originInfo/place		bstearns	PC000726	postcards	1	3.2
+	/mods/originInfo/place/placeTerm	[Neepawa, Manitoba]	bstearns	PC000726	postcards	1	3.2
+	/mods/originInfo/place/placeTerm/@type	text	bstearns	PC000726	postcards	1	3.2
+	/mods/language		bstearns	PC000726	postcards	1	3.2
+	/mods/language/languageTerm	English	bstearns	PC000726	postcards	1	3.2
+	/mods/language/languageTerm/@type	text	bstearns	PC000726	postcards	1	3.2
+	/mods/physicalDescription		bstearns	PC000726	postcards	1	3.2
+	/mods/physicalDescription/extent	1 postcard : b&w ; 9  x 14 cm.	bstearns	PC000726	postcards	1	3.2
+	/mods/note	30	bstearns	PC000726	postcards	9	3.2
+	/mods/note/@type	price	bstearns	PC000726	postcards	1	3.2
+	/mods/note	false	bstearns	PC000726	postcards	9	3.2
+	/mods/note/@type	notable	bstearns	PC000726	postcards	1	3.2
+	/mods/note	false	bstearns	PC000726	postcards	9	3.2
+	/mods/note/@type	imgprobs	bstearns	PC000726	postcards	1	3.2
+	/mods/note	Mr. Frank McGill	bstearns	PC000726	postcards	9	3.2
+	/mods/note/@type	public_to	bstearns	PC000726	postcards	1	3.2
+	/mods/note	Edna	bstearns	PC000726	postcards	9	3.2
+	/mods/note/@type	public_from	bstearns	PC000726	postcards	1	3.2
+	/mods/note	Drinkwater, Sask.	bstearns	PC000726	postcards	9	3.2
+	/mods/note/@type	public_address	bstearns	PC000726	postcards	1	3.2
+	/mods/note	Mar/8/08 Dear Frank - I do not know whether you have one like this. Have you one of the proposed New P.6. or of the Empire Blk? or the bridge in the park? Edna	bstearns	PC000726	postcards	9	3.2
+	/mods/note/@type	public_message	bstearns	PC000726	postcards	1	3.2
+	/mods/note	Neepawa, Man., 1908-[03]-[08].	bstearns	PC000726	postcards	9	3.2
+	/mods/note/@type	public_postmark_date	bstearns	PC000726	postcards	1	3.2
+	/mods/note	Landscape view of exhibition buildings in a field.	bstearns	PC000726	postcards	9	3.2
+	/mods/note/@type	public_description	bstearns	PC000726	postcards	1	3.2
+	/mods/subject		bstearns	PC000726	postcards	5	3.2
+	/mods/subject/geographic	Neepawa, MB	bstearns	PC000726	postcards	1	3.2
+	/mods/subject		bstearns	PC000726	postcards	5	3.2
+	/mods/subject/hierarchicalGeographic		bstearns	PC000726	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/country	Canada	bstearns	PC000726	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/province	Manitoba	bstearns	PC000726	postcards	1	3.2
+	/mods/subject/hierarchicalGeographic/city	Neepawa	bstearns	PC000726	postcards	1	3.2
+	/mods/subject		bstearns	PC000726	postcards	5	3.2
+	/mods/subject/genre	Postcards	bstearns	PC000726	postcards	1	3.2
+	/mods/subject		bstearns	PC000726	postcards	5	3.2
+	/mods/subject/topic	Exhibition buildings	bstearns	PC000726	postcards	1	3.2
+	/mods/subject		bstearns	PC000726	postcards	5	3.2
+	/mods/subject/topic	Meadows	bstearns	PC000726	postcards	1	3.2
+	/mods/identifier	PC000726	bstearns	PC000726	postcards	1	3.2
+	/mods/identifier/@type	local	bstearns	PC000726	postcards	1	3.2
+	/mods/location		bstearns	PC000726	postcards	1	3.2
+	/mods/location/physicalLocation	University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 2	bstearns	PC000726	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/postcards/PC000726.html	bstearns	PC000726	postcards	3	3.2
+	/mods/location/url/@access	object in context	bstearns	PC000726	postcards	1	3.2
+	/mods/location/url/@usage	primary display	bstearns	PC000726	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/000/web/PC000726.jpg	bstearns	PC000726	postcards	3	3.2
+	/mods/location/url/@access	raw object	bstearns	PC000726	postcards	1	3.2
+	/mods/location/url/@note	width='800' height='523' 	bstearns	PC000726	postcards	1	3.2
+	/mods/location/url	http://peel.library.ualberta.ca/pcimages/PC/000/thumbs/PC000726.jpg	bstearns	PC000726	postcards	3	3.2
+	/mods/location/url/@access	preview	bstearns	PC000726	postcards	1	3.2
+	/mods/location/url/@note	width='200' height='131'	bstearns	PC000726	postcards	1	3.2
+	/mods/recordInfo		bstearns	PC000726	postcards	1	3.2
+	/mods/recordInfo/recordCreationDate	2007-06-20T16:05:12-0600	bstearns	PC000726	postcards	1	3.2
+	/mods/recordInfo/recordIdentifier	PC000726	bstearns	PC000726	postcards	1	3.2
+	/mods/recordInfo/recordContentSource	bstearns	bstearns	PC000726	postcards	1	3.2
+	/mods/recordInfo/recordChangeDate	2009-10-30T13:53:44-0700	bstearns	PC000726	postcards	1	3.2
+	/@mods	
+
+Exhibition buildings, Neepawa
+
+
+McKay
+J.L.
+
+Publisher
+
+
+still image
+postcards
+
+monographic
+Published by J.L. McKay
+1908
+
+
+[Neepawa, Manitoba]
+
+
+
+English
+
+
+1 postcard : b&w ; 9  x 14 cm.
+
+30
+false
+false
+Mr. Frank McGill
+Edna
+Drinkwater, Sask.
+Mar/8/08 Dear Frank - I do not know whether you have one like this. Have you one of the proposed New P.6. or of the Empire Blk? or the bridge in the park? Edna
+Neepawa, Man., 1908-[03]-[08].
+Landscape view of exhibition buildings in a field.
+
+Neepawa, MB
+
+
+
+Canada
+Manitoba
+Neepawa
+
+
+
+Postcards
+
+
+Exhibition buildings
+
+
+Meadows
+
+PC000726
+
+University of Alberta, Bruce Peel Special Collections Library, Prairie Postcards Collection, Manitoba Box 2
+http://peel.library.ualberta.ca/postcards/PC000726.html
+http://peel.library.ualberta.ca/pcimages/PC/000/web/PC000726.jpg
+http://peel.library.ualberta.ca/pcimages/PC/000/thumbs/PC000726.jpg
+
+
+2007-06-20T16:05:12-0600
+PC000726
+bstearns
+2009-10-30T13:53:44-0700
+
+	bstearns	PC000726	postcards	1	3.2
+	
